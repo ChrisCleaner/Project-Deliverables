@@ -1,2 +1,3 @@
 # Project-Deliverables
-Find Project Deliverables for Personal Project 
+The Deliverables are shown as outlined in the Project Proposal.
+Further Description for each Deliverable is outlined in each folder.
