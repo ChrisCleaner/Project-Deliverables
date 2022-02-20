@@ -1,0 +1,351 @@
+
+ Revision of the Convention on the collection, deposit and reception of waste generated during navigation on the Rhine and other inland waterways (CDNI) and its Implementing Regulation (provisions on the handling of gaseous residues from liquid fuel)   
+     Filename: 8918-2017-Amendment-1996-wasteshipsnavigatingrhinenltxt 
+ Source: https://www.cdni-iwt.org/wp-content/uploads/2020/04/Resolution-2017-1-4_en.pdf     
+    REVISION OF THE CONVENTION SUBJECT TO RATIFICATION -- Resolution CDNI 2017-I-4
+Source: https://www.cdni-iwt.org/wp-content/uploads/2020/04/Resolution-2017-1-4_...
+Revision of the Convention on the collection, deposit and reception of waste generated during navigation on the Rhine and other inland waterways (CDNI) and its Implementing Regulation (Provisions on the handling of gaseous residues from liquid fuel (vapours))
+The Conference of the Contracting Parties
+having regard to the Convention on the collection, deposit and reception of waste generated during navigation on the Rhine and other inland waterways (CDNI) and in particular its article 14 and 19,
+recalling Resolution CDNI 2013-II-3 and given the need to incorporate provisions for the handling of gaseous residues from liquid fuel (vapours) into the CDNI,
+welcomes the presentation by the CDNI/G working group of a comprehensive draft resolution aiming to supplement the CDNI Convention (Part B and Part D) and its Implementing Regulation,
+welcomes the contributions by non-governmental organisations, which have been closely involved in drawing up these requirements,
+notes that this is a joint proposal by the Contracting parties,
+notes the consensus between the Contracting parties on content amendments,
+notes that this is a progressive ban on the release into the atmosphere of vapours that are harmful to health and the environment,
+notes that, according to studies that have been carried out, henceforward this amendment should avoid 95% of harmful degassing from vessels into the atmosphere within the geographical scope of the Convention and thus represents a considerable improvement, both for the environment and for the sustainability of freight transport by inland waterway.
+adopts the amendments to the Convention on the collection, deposit and reception of waste generated during navigation on the Rhine and other inland waterways concerning the avoidance and handling of vapours released in the course of inland navigation.
+The present Resolution shall enter into force on the first day of the six month following the deposit with the depositary of the last instrument of ratification, acceptance or approval of the Signatory States.
+Annex
+Annex CDNI 2017-I-4
+Revision of the Convention on the collection, deposit and reception of waste generated during navigation on the Rhine and other inland waterways (CDNI) and its Implementing Regulation
+1. The Convention on the collection, deposit and reception of waste generated during navigation on the Rhine and other inland waterways is amended as follows:
+GENERAL
+Article 11
+Definitions
+In this Convention the terms below shall have the following meanings:
+[...]
+f) “cargo-related waste”: waste and wastewater produced on board the vessel deriving from the cargo; this does not include residual cargo, vapours and handling residues as defined in Part B of the Implementing Regulation;
+ff) “vapours”: gaseous compounds that evaporate from the liquid cargo (gaseous residues from liquid fuel);
+j) “reception station”: fixed or mobile facility approved by the competent authorities for receiving waste generated on board or vapours;
+[...]
+nn) “operator of a reception station”: person who operates a reception station on a professional basis;
+o) “operator of the handling facility”: person loading or unloading vessels on a professional basis;
+p) “charterer”: party issuing the transport order;
+q) “carrier”: party responsible for transporting goods on a professional basis;
+r) “consignee”: party authorised to take delivery of the cargo;
+s) “release of vapours”: any emission of vapours from a closed cargo tank, except when relieving pressure in the tank with a view to opening the hold hatches and measuring fume concentration, and when actuating the safety valves.
+1 In the content of the Resolution CDNI 2019-II-5.
+SPECIAL PROVISIONS OBLIGATIONS INCUMBENT ON THE STATES
+Article 3
+Prohibition of dumping, discharging and release
+(1) Dumping, discharging or permitting the outflow of waste generated on board, or any part of the cargo from vessels into the waterways, or releasing vapours into the atmosphere on the waterways referred to in Annex 1 shall be prohibited.
+[...]
+Article 8
+Financing the unloading of residual cargo, washing, degassing and the reception and disposal of cargo- related waste
+(1a) The charterer shall bear the cost of degassing the vessel in accordance with Part B of the Implementing Regulation.
+(2) If prior to loading, the vessel does not comply with the required unloading standard and if the charterer or the consignee concerned by the preceding transport has fulfilled his obligations, the carrier shall bear the cost incurred by unloading residual cargo and
+a) in the event of washing, the washing costs
+b) in the event of degassing, the degassing costs
+of the vessel, and the reception and disposal of cargo-related waste. [...]
+OBLIGATIONS INCUMBENT ON THE PARTIES CONCERNED, AND THEIR RIGHTS
+Article 11
+General duty of vigilance
+The boatmaster, the other members of the crew, the other people on board, the charterer, the carrier, the consignee, the operators of handling facilities and the operators of the reception stations shall be required to demonstrate the utmost vigilance required by the circumstances in order to avoid polluting the waterway and atmosphere, limit as much as possible the quantity of waste generated on board, and avoid as far as possible any mixing of the different categories of waste.
+Article 12
+Obligations incumbent on the boatmaster, and his rights
+[...]
+(2) The boatmaster shall be required to abide by the obligations provided for in the Implementing Regulation. More specifically, he must comply with the prohibition incumbent on him, save for the exceptions provided for in the Implementing Regulation, to dump, discharge or permit the outflow from the vessel into the waterway or to release into the atmosphere any waste generated on board and any part of the cargo. [...]
+Article 13
+Obligations incumbent on the carrier, the charterer and the consignee, and on the operators of cargo handling facilities and reception stations
+(1) The carrier, the charterer, the consignee, and the operators of handling facilities or reception stations shall be required to comply with their respective obligations, under the conditions laid down in the Implementing Regulation. They may use a third-party to comply with their obligations.
+(2) The consignee shall be required to accept the cargo residues, handling waste, and cargo-related waste.
+It may instruct a third party to do so on its behalf.
+2. Part B of the Implementing Regulation of the Convention on the collection, deposit and reception of waste generated during navigation on the Rhine and other inland waterways is amended as follows:
+PART B
+COLLECTION, DEPOSIT AND RECEPTION OF CARGO-RELATED WASTE
+CHAPTER V GENERAL
+Article 5.01
+Definitions
+As construed in this part, the terms below shall have the following meanings: [...]
+“aa) “compatible transport operations”: successive transport operations during which the same cargo or another cargo, the carriage of which does not require the prior washing or degassing of holds or cargo tanks, is carried in the vessel’s hold or cargo tank, provided this can be demonstrated;
+[...]
+m) “degassing”: removing vapours originating from a stripped cargo tank, at a reception station, using appropriate procedures and techniques, in accordance with Appendix IIIa;
+n) “venting”: direct release into the atmosphere of vapours originating from the cargo tank;
+o) “degassed or vented cargo tank”: cargo tank from which vapours have been removed in accordance with the degassing standards referred to in Appendix IIIa.
+Article 5.02
+Obligation incumbent on the Contracting States
+The Contracting States shall undertake to set up, or to have set up, the infrastructure and other conditions necessary for the deposit and reception of residual cargo, handling residues, cargo residues, wash water and vapours within a period of five years following the present Convention entering into force.
+Article 5.04
+Application of Part B for vapours
+(1) Part B shall apply without prejudice
+a) to the provisions of the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN) of 26 May 2000 in conjunction with Directive 2008/68/EC of the European Parliament and Council of 24 September 2008 on the inland transport of dangerous goods
+b) to Directive 94/63/EC as amended of the European Parliament and Council of 20 December 1994, on the control of volatile organic compound (VOC) emissions resulting from the storage of petrol and its distribution from terminals to service stations,
+in their respective current versions.
+(2) The provisions of Appendix IIIa apply in addition to the provisions of the directive referred to in (1) (b). The vessel for which it can be confirmed in writing that they have degassed in accordance with the requirements outside the scope of the CDNI are deemed to be vessels that have degassed as construed by these regulations once the values of Appendix IIIa have been complied with. Besides Directive 94/63/EC and the ADN, it is the Conference of the Contracting Parties that identifies the requirements that are deemed to be equivalent as concerns the provisions governing degassing.
+CHAPTER VI
+OBLIGATIONS INCUMBENT ON THE BOATMASTER
+Article 6.011
+Prohibition of dumping, discharging and release
+(1) Dumping, discharging or permitting the outflow of any part of the cargo or cargo-related waste from vessels into the waterway, or releasing vapours into the atmosphere is prohibited.
+(2) The following shall be exempted from the prohibition in (1) above
+a) wash water containing cargo residues the discharge of which into the waterway in accordance with Appendix III
+b) vapours for which release into the atmosphere by venting in accordance with Appendix IIIa are explicitly permitted, subject to compliance with the provisions in the said appendices.
+(3) If
+a) substances for which Appendix III prescribes that they be only deposited with a view to special treatment or
+b) vapours for which Appendix IIIa prescribes degassing
+have been released or risk being released, the boatmaster shall notify the nearest competent authority forthwith.
+He shall be required to notify the location of the incident as accurately as possible as well as the nature and quantity of the substance or vapours concerned.
+(4) The competent national authority shall assess the permissibility of discharging cargo-related waste from goods that are not included on the list of goods set out in Appendix III and lay down a provisional discharge standard.
+The Conference of the Contracting Parties shall examine the proposal and complement the list of goods as appropriate.
+(5) By way of derogation from the prohibition referred to in (1), vapours may be released if so required in the course of an unforeseen stay in the shipyard or an unforeseen repair in situ by a shipyard or other specialised firm where it is not possible to evacuate the vapours to a reception station. The provisions of Appendix IIIa, A4 and subsection 7.2.3.7 ADN are to be complied with in this regard.
+Article 6.02
+Transitional provisions
+(1) The following transitional provisions shall be applicable for a period of five years after the present Convention enters into force
+a) for dry cargoes:
+ - instead of a "vacuum cleaned" unloading standard required in Annex III, the "swept condition" shall be permitted;
+ - where in Appendix III wash water is to be discharged into the waste water system, discharging in the waterway is authorised if the "swept condition" unloading standard has been respected;
+1 In the content of Resolution CDNI 2018-II-5.
+b) for liquid cargoes:
+the drying of cargo tanks in compliance with Article 7.04 is not demanded, but the existing systems must be used as far as possible even if they are not yet in compliance with Appendix II.
+(2) If the preconditions to meet the "vacuumed condition" unloading standard for the deposit of wash water with reception stations or for the stripping of tank vessels are fulfilled, the competent national authority may prescribe, over all or part of its territory, that even before the end of the transitional period the provisions of Appendix III are to be observed without restriction for the types of goods concerned. The competent national authority shall first inform the Conference of Contracting Parties.
+Article 6.03
+Attestation of unloading
+[...]
+(2) When unloading the residual cargo and depositing and receiving cargo-related waste, the following shall apply
+a) in the event of washing, the unloading standards and the requirements of Appendix III concerning deposit and reception;
+b) in the event of degassing, the degassing requirements and standards in Appendix IIIa. [...]
+(6) When the holds or cargo tanks
+a) are to be washed out and the wash water may not be discharged into the waterway pursuant to the unloading standards and the requirements of Appendix III on deposit and reception, the vessel may not continue its journey until the boatmaster has confirmed in the attestation of unloading that the wash water has been deposited or that he has been assigned a reception station;
+b) are to be degassed pursuant to the degassing standards referred to in Appendix IIIa, the vessel can only continue its voyage once the boatmaster has confirmed in the attestation of unloading that the cargo tanks have been degassed or that he has been assigned a reception station for the degassing.
+CHAPTER VII
+OBLIGATIONS INCUMBENT ON THE CARRIER, THE CHARTERER, THE CONSIGNEE, AND ON THE OPERATOR OF THE HANDLING FACILITY
+Article 7.01
+Attestation of reception
+(1) In the attestation of unloading referred to in Article 6.03 above, the consignee shall attest to the vessel the unloading of the cargo, the unloading of residual cargo, and, insofar as is incumbent on him, the washing of the holds or cargo tanks or degassing of the cargo holds and reception of cargo-related waste or, as appropriate, the assignment of a reception station. He shall retain a copy of the attestation of unloading, completed and signed by him and the boatmaster, for at least six months after it has been issued.
+[...]
+(3) If a reception station for degassing has been assigned to the vessel, the station’s operator shall confirm that the vessel has been degassed in the attestation of unloading. The station’s operator shall retain a copy of the attestation of unloading, completed and signed by him and the boatmaster, for at least six months after it has been issued.
+Article 7.02
+Making the vessel available
+[...]
+(2) A more demanding unloading standard, washing or degassing may be agreed in advance, in writing. A copy of the corresponding agreement must be kept on board the vessel at least until the attestation of unloading has been drawn up after the vessel has been unloaded and cleaned.
+Article 7.03
+Loading and unloading
+(1) The loading and unloading of a vessel shall also include the measures required for unloading the residual cargo
+a) in the event of washing, for the washing and
+b) in the event of degassing, for the degassing,
+envisaged by the provisions of this Part B. The residual cargoes shall as far as possible be added to the cargo.
+7.04
+Return of the vessel
+[...]
+(2) In the case:
+a) of dry cargo, the obligation to return the hold or tank in a washed condition shall be incumbent on the consignee in the case of a dry cargo and on the charterer in the case of a cargo if the vessel has transported goods for which the cargo residues mixed with the wash water may not be discharged into the waterway pursuant to the unloading standards and deposit and reception requirements referred to in Appendix III.
+b) of liquid cargo, it shall be incumbent on the charterer to return the cargo tank in
+aa) a washed condition if the vessel has transported goods for which the cargo residues mixed with the wash water may not be discharged into the waterway pursuant to the unloading standards and deposit and reception requirements referred to in Appendix III,
+bb) a degassed condition if the vessel has transported goods for which the vapours may not be vented into the atmosphere pursuant to the degassing standards and deposit and reception requirements referred to in Appendix IIIa.
+Furthermore, the persons responsible referred to in sentence 1 above must return a washed hold or washed and/or degassed cargo tank if it was in a washed or degassed condition before loading as agreed within the meaning of Article 7.02 (2).
+(3) (1) and (2) above shall apply with the following exceptions:
+a) (1) and (2) above shall not apply to holds and cargo tanks of vessels engaged in exclusive transport operations provided that during a subsequent loading, the vapours as construed by Appendix IIIa are collected by the handling facility and are not released into the atmosphere. The carrier shall be able to provide documentary proof.
+b) (2) shall not apply to holds and cargo tanks of vessels engaged in compatible transport operations provided that during a subsequent loading, the vapours as construed by Appendix IIIa are collected by the handling facility and are not released into the atmosphere. The carrier shall be able to provide documentary proof. In this case, box 6b of the unloading certificate needs to be ticked. The document shall be retained on board until the next compatible cargo is unloaded.
+c) If the next cargo is unknown at the time of unloading, but will in all probability be a compatible cargo, application of (2) may be deferred. The charterer (in the case of a liquid cargo) or consignee (in the case of a dry cargo) shall designate a provisional reception station for the wash water or for degassing, which shall be entered in the unloading certificate. Box 6c of the unloading certificate needs to be ticked. There is no need to indicate the quantity in 9. If the compatibility of the next cargo is established and can be demonstrated before the carrier reaches the reception station indicated in the unloading certificate, this shall be noted in 13 of the unloading certificate. In this case, washing or degassing is not required. If this is not the case, the washing or degassing provisions shall apply in full.
+The documentary proof in respect of the next compatible cargo shall be retained on board until the next compatible cargo is unloaded.
+Article 7.05
+Cargo residues, wash water and degassing
+[...]
+(2a) For liquid cargoes that give rise to vapours requiring degassing in accordance with article 7.04, (2), the charterer shall be required in the transport contract to designate to the carrier a reception station where the vessel shall be required to be degassed after unloading (including the unloading of the residues and the disposal of the handling residues).
+Article 7.06 Expenses [...]
+(2) For liquid cargoes, the costs incurred in unloading the residues and, in the case of
+a) washing, the cost
+aa) of washing the tanks in accordance with article 7.04, (2) and
+bb) of receiving the wash water in accordance with article 7.05, (2), above,
+b) of degassing, the cost of degassing the cargo tanks in accordance with article 7.04, (2) in conjunction with article 7.05, (2a),
+including, as the case may be, consequential waiting or detour costs, shall be borne by the charterer.
+(3) The cost incurred in depositing wash water from the holds and tanks or by the degassing of cargo tanks that do not comply with the prescribed unloading standards shall be borne by the carrier.
+3. Part B of the Implementing Regulation of the Convention on the collection, deposit and reception of waste generated during navigation on the Rhine and other inland waterways is complemented by Part D, as follows:
+PART D
+TRANSITIONAL PROVISIONS AND DEROGATIONS CHAPTER XI
+Article 11.01
+TRANSITIONAL PROVISIONS AND DEROGATIONS
+Transitional provisions
+The application of the provisions of this annex resulting from the amendment of the Convention with the aim of incorporating the prohibition of the release of vapours into the atmosphere shall be subject to the following transitional provisions:
+a) For vapours given off by goods mentioned in table I of Appendix IIIa, the prohibition shall be applicable from the date the amendment came into force, determined in accordance with article 19, (4), of the Convention;
+b) For vapours given off by goods mentioned in table II of Appendix IIIa, the prohibition shall be applicable upon expiry of a two-year period from the date specified in a);
+c) For vapours given off by goods mentioned in table II of Appendix IIIa, the prohibition shall be applicable upon expiry of a two-year period from the date specified in a)1.
+Article 11.02
+Derogations
+The Contracting Parties may agree derogations from the provisions of this annex on a case-by-case basis provided that they are deemed to be equivalent. Derogations shall be approved by the Conference of the Contracting Parties and may be authorised by the competent authorities with immediate effect for the defined scope and subject to the defined conditions.
+1 Provided that any evaluation conducted on or after the date specified in a) concludes that it causes no problems. Failing which, the prohibition shall be applicable upon expiry of a four-year period from the date referred to in a).
+4. Annex 2 of the Convention on the collection, deposit and reception of waste generated during navigation on the Rhine and other inland waterways is complemented by Appendix IIIa, as follows:
+Appendix IIIa Degassing standards
+A. General provisions
+1. vapours given off from goods mentioned in tables I to III of this Appendix shall not be released into the atmosphere unless the conditions governing AVFL values 1 in the tables below have been complied with. Unless otherwise specified in article 7.04 or in this Appendix, vapours given off from these goods shall be degassed.
+2. Degassing must be carried out at a certified reception station in accordance with national provisions.
+3. vapours from all the goods not to be found in the following degassing standard tables can be vented.
+4. Venting is not permitted:
+a) close to locks, including their forebays, under bridges or in densely populated areas.
+b) in sectors subject to equivalent protection by national requirements.
+5. The degassing or venting procedure is to be interrupted during a storm or if, because of unfavourable wind conditions, the presence of dangerous vapours is considered possible outside the cargo area, in front of accommodation, the wheelhouse or operation rooms. “The critical state shall be reached when measurement with a portable measurement device confirms the presence in these areas of concentration of vapours greater than 20% of the lower explosive limit”.
+6. Degassing may only be performed by competent individuals2. This also applies to the work required aboard the vessel.
+B. Accepted Vent Free Level (AVFL)
+1. A cargo tank’s Accepted Vent Free Level (AVFL) is defined as the concentration of vapours in the tank below which the release of the vapours into the atmosphere is permitted3.
+2. The fume concentration is measured in accordance with the methods, measurement techniques and measurement devices provided for by the ADN at a representative point within the pipe connecting the cargo tank and the fume reception station or at one or more points within the cargo tank deemed to be appropriate by the expert4. The measurement is taken under standard conditions and repeated after 30 minutes. Point 21 of the attestation of unloading confirms that the value measured was less than the limit value.
+1 Accepted Vent Free Level
+2 For the reception station: qualified vapour reception station personnel. For the vessel: individual qualified in accordance with ADN provisions.
+3 This value is 10% of the Lower Explosive Limit or LEL.
+4 Expert as construed by the ADN’s are provisions.
+C. Transport operations for which degassing of the cargo tanks is not required after unloading
+1. Transport of goods authorised for transport aboard Type “N open” or “Type N open with flame arresters” vessels. This also applies for the goods mentioned in the following tables.
+2. Exclusive transport operations.
+3. Transport operations with a subsequent cargo that is compatible in accordance with article 7.04, (3, (b) and (c).
+4. Transport of goods the vapour pressure of which is less than 5kPa at 20° C.
+D. Meaning of the columns in tables I and II below
+1. “UN number”: the four digit identification number of the products or objects derived from the UN Model Regulations.
+2. “Product description”: description of the cargo being transported.
+3. AVFL: vapour concentration level in the cargo tank (in % of the volume) below which free venting is permitted.
+4. “Observations”: additional information on the handling of certain products.
+1 2 3 4
+UN no. 
+Product description 
+AVFL (vol.
+% 
+Observations
+UN 1114 
+Benzene 
+0.12 
+1)
+UN 1203 
+Petrol or fuel for automotive engine 
+0.14 
+2)
+UN 1268 
+Petroleum distillates, petroleum products, N.S.O.1 
+- 
+3)
+UN 3475 Ethanol and petrol, blended, or ethanol and fuel for automotive engines, blended, containing more than 10% ethanol 
+0.14 
+2)
+1) The AVFL value is that of benzene.
+2) The AVFL value is that of petrol.
+3) The AVFL value (which is 10 % of the lower explosive limit) must be notified by the charterer, given that the LEL depends on the composition of the blend.
+1 N.S.O. Not Specified Otherwise
+1 3 4 5
+UN no. 
+Product description 
+AVFL 
+Observations
+UN 1267 
+Crude oil (containing more than 10% benzene) 
+0.12 
+1)
+UN 1993 Inflammable liquid, N.S.O. containing more than 10 % benzene 
+0.12 
+1)
+UN 3295 Liquid hydrocarbons, N.S.O. containing more than 10% benzene 
+0.12 
+1)
+1) The AVFL value is that of benzene.
+- 16 -
+1 3 4 5
+UN no. 
+Product description 
+AVFL 
+Observations
+UN 1090 
+Acetone 
+0.26 
+UN 1145 
+Cyclohexane 
+0.10 
+UN 1170 Ethanol (ethyl alcohol) or ethanol in solution (ethyl alcohol in solution), aqueous solution containing more than 70% alcohol by volume 
+0.31 
+UN 1179 
+Ether ethylene butyl 
+0.16 
+UN 1216 
+Isooctanes 
+0.08 
+UN 1230 
+Methanol 
+0.60 
+UN 1267 
+Crude oil (containing less than 10% benzene) 
+0.12 
+1)
+UN 1993 Inflammable liquid, N.S.O. containing less than 10 % benzene 
+- 
+3)
+UN 2398 
+methyl tertiary butyl ether 
+0.16 
+UN 3257 Liquid transported when hot, N.S.O. (Including molten metal, molten salt, etc.) at a temperature equal to or greater than 100° C and below its flashpoint 
+- 
+3)
+UN 3295 Liquid hydrocarbons, N.S.O. containing less than 10% benzene 
+- 
+3)
+9001 Substances with a flashpoint above 60° C handed over for transport or transported at a temperature within the range of 15 K below the flashpoint or substances the flashpoint of which &gt; 60° C, heated to within less than 15 K of the flashpoint 
+- 
+3), 4)
+9003 Substances with a flashpoint greater than 60° C and less than or equal to 100° C which cannot be assigned to any other class or heading within class 9 
+- 
+3), 4)
+1) The AVFL value is that of benzene.
+3) The AVFL value (which is 10 % of the lower explosive limit) must be notified by the charterer, given that the LEL depends on the composition of the blend.
+4) Note: 9001 and 9003 are not UN numbers within the meaning of the reference requirements. These are numbers known as substance numbers, created specifically for the ADN and for tanker shipping only.
+- 17 -
+5. The model of Appendix IV Attestation of unloading for tanker shipping is amended as follows:
+a) The wording of (2) is as follows:
+“2. .......................... t / m3 ............................................................/.........................................................
+(Quantity) (Category of goods according to Appendix III and UN number according to Appendix IIIa to the Implementing Regulation)
+Variable AVFL value as per the charterer’s information”
+b) The wording of B and C is as follows:
+“B Exclusive transport operations
+6. The vessel
+a) * is engaged in exclusive transport operations – article 7.04, (3, (a).
+b) is carrying the following compatible cargo – article 7.04, (3), (b).
+c) will not be washed.
+ will not be degassed.
+until a decision has been reached on the compatibility of the following cargo – article 7.04 (3) (c).
+C Cleaning of the vessel
+7. Cargo tank nos.....................................................................................................................................................................
+a) were stripped (unloading standard A in compliance with Annex III to the Implementing Regulation).
+b) were washed.
+c) handed over degassed.”
+c) G is inserted after 10:
+“G Degassing
+11. Degassing
+a) was carried out by us.
+b) shall be carried out at the reception station (Name/ company)
+appointed by us.
+c) shall be carried out as stipulated in the transport contract.”
+d) The former G becomes H.
+e) The former 11 becomes 12
+f) 13 is inserted after 12:
+“13. Release of vapours into the atmosphere owing to an unforeseen stay in the shipyard or an unforeseen repair in situ by a shipyard or other specialised firm (6.01 (4)). This has been confirmed by the shipyard or specialised firm.”
+g) The former (12) to (18) become (14) to (20).
+h) The wording of (14) is as follows:
+“14. The information provided under (1) to (11) is confirmed.”
+i) The wording of (15) is as follows:
+“15. The following cargo being compatible, washing or degassing is dispensed with – Article 7.04 (3) c).”
+j) Part 4 is inserted after 20:
+“Part 4: Declaration by the vapour reception station (only if 11b) or 11 c) is marked with a cross)
+Name/ company............................................................ Address .......................................................
+Attestation of deposit
+21. Degassing was carried out in accordance with the unloading standards in Appendix IIIa to the Implementing Regulation. The fume concentration measured was below the limit value (AVFL).
+22. Observations:………………………………………………………………………………………………
+23. .................................. ........................ ......................................................................
+(Place) (Date) (Stamp/name in block capital letters and signature)”
+k) The following information on (11) is inserted:
+“Comment on (11): if 11 a) or 11 d) were marked with a cross, then (13) to (16) and (21) to (23) must be completed as well.”
+l) The information on 11(c) become the information on 12(c). 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

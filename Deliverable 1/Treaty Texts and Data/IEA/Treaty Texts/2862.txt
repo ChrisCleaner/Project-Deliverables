@@ -1,0 +1,134 @@
+
+ Agreement Between France, The United States of America, Denmark, Finland, Norway, Sweden And The Netherlands On Reactor Safety Experiments   
+     Filename: 1977-ReactorSafetyExperiments.EN.txt 
+ Source: Treaties and Other International Acts Series (TIAS) 9184.     
+    ﻿Agreement Between France, The United States Of America, Denmark, Finland, Norway, Sweden And The Netherlands On Reactor Safety Experiments
+Source: Treaties and Other International Acts Series (TIAS) 9184.
+Considering the generally acknowledged need for large scale experimental safety studies related to critical flow conditions pertaining to light water reactors, the possibilities offered by the Marviken facility for such large scale experiments, already demonstrated in international projects concerning full scale containment tests performed since 1972,
+the contracting parties have this day agreed as follows:
+II PURPOSE OF THE AGREEMENT
+The purpose of this Agreement is to establish cooperation between the contracting parties in a project using jointly the Marviken reactor for certain safety experiments. The project covered by this Agreement comprises a joint programme for planning, design, experiment preparation, performance and reporting of reactor safety experiments concerning large scale critical flow tests.
+III SCOPE OF THE PROJECT
+The scope of the project is to plan, design, prepare, perform and report a series of tests on critical discharge flow for light water reactor safety at Marviken within the framework of an international cooperation.
+The project will be performed according to Appendices A - F and will aim at providing the contracting parties with further information on critical flow through short tubes of large diameter.
+The framework of the project is laid down in the appendices to this Agreement:
+Appendix A Description of programmes
+Appendix B Instrumentation
+Appendix C Organization
+Appendix D Budget
+Appendix E Time schedule
+Appendix F Reports
+The project consists of four kinds of activities defined as phases below:
+Phase A Planning and design
+Phase B Experiment preparation
+Phase C Performance of the test programme. Data collection
+reduction and reporting of data and interpre
+tation of results
+Phase D Final reporting of results
+IV ORGANIZATION OF THE PROJECT
+1 The project shall be directed by a project board. The board shall decide on all matters concerning the project within the framework of this Agreement.
+Each contracting party shall appoint one member of the board. The member appointed by AES will be the chairman of the board. Each member of the board may be assisted at the board meeting by one specialist who shall not have a voting right. The board shall meet ac least 3 times a year. Additional board meetings shall be convened at the request of one member of the board.
+The decisions of the project board shall normally be made by mutual agreement. Should it be necessary to vote on any decision, each member of the board shall have a number of votes in proportion to the financial commitment of the contracting party concerned according to Article VI below. Every member
+shall be given the opportunity to cast his vote. 51 Z of the votes cast are required for a decision. An opportunity will be provided for voting in absentia and/or through designated alternate upon proper and timely notification of the matter to be voted on. Should it be necessary to revise the pro-gramme, the board should be prepared to meet at short notice.
+AES has an absolute veto right against decisions involving the safety of the pant or conflicts with Swedish laws and regulations.
+2 AES shall appoint a project manager. The appointment requires the approval of the project board. The project manager shall be responsible to the project board for the execution and management of the agreed project. His duties include [he drawing up of detailed programmes of work, including cost and time schedules.
+The project manager shall be present at the meetings of the project board and shall have the right to participate in the deliberations. He shall report at each meeting on the progress of the work of the project.
+3 A committee, called the Technical Review and Advisory Committee (TRACE), shall be established. The committee shall be composed of senior technical experts preferably those assisting the Board members as mentioned under Article IV:1. Each original signatory shall have the right to designate one member to the TRACE. The committee shall from time to time review the technical status of the project and advise the Project Board and the Project manager on technical matters.
+AES shall appoint the chairman of the TRACE. The committee shall meet at least three times a year. The project manager shall be in attendance at the meetings of the committee.
+4 In the performance of his duties, the project manager shall be assisted by a project staff as exemplified in Appendix C.
+5 AES undertakes to render the necessary technical and administrative services and to procure the material for implementation of the project. Legal acts relating to the carrying cut of the project shall be performed by AES on behalf of the contracting parties.
+6 For the financial management of the project AES shall arrange an adequate book-keeping and reporting system according to the needs of this Agreement. Additional reporting that may
+be required for specific national reasons is not the responsi-
+Skr Million
+voting Z
+a)
+USNRC
+3.5
+12.5
+the
+program
+budget
+b)
+EPRI
+3.5
+12.5
+c)
+EDF
+2.8
+10.0
+d)
+CEA
+2.8
+10.0
+e)
+KEMA
+1.4
+5.0
+f)
+THE NORDIC PARTIES
+(Including AES)
+7.0
+25.0
+g)
+AES
+7.0
+28.0
+25.0
+100.0
+h)
+AES (balance)
+2.0
+30.0
+The sum of Skr 9 Million (g and h) at the present time covered by AES, is designated for future participants as yet unidentified. The financing of those contributions (g and h) still constitutes 25 Z of the voting strength only.
+The particular future parties can be selected by AES without consultations with the contracting parties.
+The funds to be provieded are subject to annual appropriations according to the rules given in Article XI:3.
+3 The project shall be debited with the cost of the personnel of the project staff supplied by the contracting parties under the conditions specified in Article VIZ and in Appendix D, where all personnel costs are given according to nominal AES wage codes, inclusive of statutory social dues, multiplied by 1.90. when project personnel are working outside their home organizations the project shall be debited with an additional per diem cost according to AES's rules. Costs for travels to and from the permanent residence of the personnel are paid by the respective home organization
+For services rendered by the parties upon order from the project using personnel not classified as project personnel and for material provided, the party shall be reimbursed for its full costs. Thus neither profit nor gain shall be included
+except in case of commercial products already on the market.
+4 When paying their financial contributions according to this Article VI the parties shall be entitled to deduct the costs for wages and per diem of project personnel according to Article VI:3.
+5 Within four weeks after the end of each quarter of a year, the project manager shall present accounts for the project to the parties in summarized figures as to the costs incurred
+The discharge nozzle (6), i.e. the test section, as in fig 1, is located at the outlet end of a pipe system mounted to the bottom of the reactor vessel. This system consists of a rounded inlet (2), a connection piece (3), and a tube (4) with a ball type stop-valve (5) as well as measuring devices for pressures and temperatures upstream of the nozzle. Down-stream of the nozzle a double type bursting disc (7) is mounted, consisting of two diaphragms with pressurized air in between (air pressure approximately equal to half of the vessel pressure). The blowdowm is initiated by a sudden air pressure increase causing first the outer diaphragm then the inner one to burst. The steam-water mixture is discharged into the drywell area below the reactor vessel, see fig 2. The steam and the water phases will be separated in the so called fuel transport shaft. The water is captured in the
+lower part of the wetwell, while the steam. is discharged outside the building by means of a large pipe.
+The subcooling of the water in the reactor vessel is controlled by circulation of water within the vessel in combination with a simultaneous heating cf the upper part of the water mass. The temperature distribution is checked by means of thermocouples. The heating of the water is done by steam generated in a 5 MW electrical boiler.
+Technical specifications Reactor pressure vessel
+Inner diameter 5.22 m
+Height 21.5 m
+Total volume 435 m3
+Max temperature 272°C
+Max pressure 5.7 MPa
+Discharge nozzles (test sections)
+Diameter 200, 300, and 500 mm
+Length/Diameter ratio 0, 1, 2.5 and 3
+Stop valve
+Type ball valve, pneumatically operated
+Size 800 mm
+4 EXPERIMENTAL PROGRAMME
+The test matrix proposed in Table 1 should be considered .as
+a reference reflecting the ideas of the Marviken meeting. The test matrix should not be regarded as fixed but may be modified as a result of:
+theoretical studies prior to the experiments, experience gained during the experimental phase, suggestions from contracting parties
+The decision on these matters rests with the Project Board.
+The experimental programme consists of approximately 33 tests. The largest effort is concentrated on the experiments where
+the influence of nozzle diameter, nozzle length, system pressure and inlet subcooling is investigated.
+The influence of other parameters for instance water quality and double choking are studied only to a limited extent. Individual tests may have to be repeated in order to pro-vide adequate information. The experimental period is estimated to last for eighteen (18) months.
+4.1 Comments on the test matrix
+The experiments are divided into three groups. Prior to the experimental start one or two blowdowns will be run in order to check the instrumentation and the pressure build-up in the containment.
+The primary purpose of the tests in Group No I is to establish whether there is any significant influence on the discharge of steam-water mixtures from the pressure vessel by changing the nozzle diameter. These tests will be done with two different nozzle diameters and with system pressure, subcooling and nozzle L/D-ratio in combinations indicated in the test matrix. This group also includes repetition of four test runs.
+The tests in Group No 2 have not yet been fully decided upon. Before these tests are started, the results from the group No 1 tests should be carefully scrutinized with respect to diameter dependence, reproducibility, etc. Some ten tests are to be included in this group, part of which may serve as complementary tests to those in group No 1, if a significant diameter or other effects will be observed. Other tests within this group may be performed for special reasons. Additional costs will be covered by the reserve fund.
+Group No 3 contains some special experiments, which will be carried out to study parameters like very low degree of sub-cooling, L/D-ratio equal to 0 (i.e. no constant area section), high steam quality by means of double choking, and high gas content in the water. Even within this group complementary teat will be run if necessary to aid in the understanding and interpretation of the results from earlier tests.
+Reference:
+1. Minutes from the CFT-technical meeting at Marviken Sweden 1976-04-20-04-23
+TABLE 1 CET REFERENCE TEST MATRIX
+Group
+[ED: Table Omitted]
+Note: Apendices B to F are omitted. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

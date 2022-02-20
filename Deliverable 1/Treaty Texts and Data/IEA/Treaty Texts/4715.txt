@@ -1,0 +1,266 @@
+
+ Amendments To Annex I (Condition Assessment Scheme) of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2001-AmendmentsCAS-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/blast/blastDataHelper.asp?data_id=15696&filename=94%2846%29.p…     
+    ﻿Amendments To Annex I (Condition Assessment Scheme) of The International Convention For The Prevention Of Pollution From Ships
+Source:
+RESOLUTION MEPC.94(46) Adopted on 27 April 2001
+CONDITION ASSESSMENT SCHEME
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+RECALLING ALSO that, by resolution MEPC.52(32), the Committee adopted regulations 13F and 13G of Annex I to the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 as amended (MARPOL 73/78), with a view to improving the requirements for the design and construction of oil tankers to prevent oil pollution in the event of collision or stranding,
+HAVING ADOPTED, at its forty-sixth session, amendments to regulation 13G of Annex I to MARPOL 73/78 by resolution MEPC.95(46) to accelerate the phase-out of single hull tankers in an effort to further enhance the protection of the marine environment,
+NOTING that, in accordance with the revised regulation 13G of Annex I to MARPOL 73/78, an Administration may allow a Category 1 tanker to continue operating beyond the anniversary of the date of delivery of the ship in 2005 and a Category 2 tanker beyond the anniversary of the date of delivery of the ship in 2010, provided that the requirements of a Condition Assessment Scheme adopted by the Committee are complied with,
+RECOGNIZING the need to provide the required Condition Assessment Scheme for the purposes of application of the revised to regulation 13G of Annex I to MARPOL 73/78,
+HAVING CONSIDERED the draft Condition Assessment Scheme which was prepared by the MEPC Intersessional Working Group and further amended by the Committee at its forty-sixth session,
+1. ADOPTS the Condition Assessment Scheme, the text of which is set out at Annex to the present resolution, with the understanding that the Model Survey Plan will be developed at MEPC 47 and will be made mandatory;
+2. REQUESTS the Secretary-General to transmit certified copies of the present resolution and the text of the Condition Assessment Scheme contained in the annex to all Parties to MARPOL 73/78;
+3. FURTHER REQUESTS the Secretary-General to transmit copies of the present resolution and its annex to Members of the Organization, which are not Parties to MARPOL 73/78;
+4. INVITES the Maritime Safety Committee to note the Condition Assessment Scheme;
+5. URGES the Maritime Safety Committee to consider introducing and incorporating relevant elements and provisions of the Condition Assessment Scheme in the Guidelines on the Enhanced Programme of Inspections During Surveys of Bulk Carriers and Oil Tankers adopted resolution A.744(18) as amended by the resolution 2 of the 1997 SOLAS Conference, by resolution MSC.49(66) and by resolution MSC.105(73)) when reviewing the Guidelines; and
+6. FURTHER URGES Parties to MARPOL 73/78 to:
+.1 transmit when a ship flying their flag is transferred under the flag of another Party to MARPOL 73/78, if they are requested by the latter Party to MARPOL 73/78 and for the purpose of ensuring the uniform and consistent implementation of the provisions of the Condition Assessment Scheme, copies of all documents and records relating to the assessment of the ship in question for compliance with the requirements of the Condition Assessment Scheme; and
+.2 accept, in the light of the fact that certain Category 1 oil tankers have to undergo the required CAS survey prior to 1 September 2002, valid Statements of Compliance issued pursuant to the provisions of the Condition Assessment Scheme following satisfactory completion of CAS surveys commenced prior to 1 September 2002.
+ANNEX
+CONDITION ASSESSMENT SCHEME
+1 PREAMBLE
+1.1 The Condition Assessment Scheme (CAS) is intended to complement the requirements of Annex B of the Guidelines on the enhanced programme of inspections during surveys of bulk carriers and oil tankers (hereinafter called Enhanced Survey Programme), adopted by the Assembly of the International Maritime Organization by resolution A.744(18), as amended. The CAS is to verify that the structural condition of single hull oil tankers at the time of survey is acceptable and, provided subsequent periodical surveys are satisfactorily completed and effective maintenance is carried out by the ship's operator, will continue to be acceptable for a continued period of operation, as indicated in the Statement of Compliance.
+1.2 The requirements of the CAS include enhanced and transparent verification of the reported structural condition and of the ship and verification that the documentary and survey procedures have been properly carried out and completed.
+1.3 The Scheme requires that compliance with the CAS is assessed during the Enhanced Survey Programme of Inspections concurrent with intermediate or renewal surveys currently required by resolution A.744(18), as amended.
+1.4 The CAS does not specify structural standards in excess of the provisions of other International Maritime Organization conventions, codes and recommendations.
+1.5 The CAS has been developed on the basis of the requirements of resolution A.744(18), as amended, which were known* at the time of the adoption of the CAS. It is the intention to update the CAS as and when the need arises following amendments to resolution A.744(18), as amended.
+2 PURPOSE
+The purpose of the Condition Assessment Scheme is to provide an international standard to meet the requirements of regulation 13G(7) of Annex I of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, as amended by resolution MEPC.99(46).
+* Assembly resolution A.744(18) as amended by resolution 2 of the 1997 SOLAS Conference, by resolution MSC.49(66) and by resolution MSC.105(73).
+DEFINITIONS
+For the purpose of the CAS, unless expressly provided otherwise:
+3.1 "MARPOL 73/78" means the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, as amended.
+3.2 "Regulation" means the regulations contained in Annex I of MARPOL 73/78.
+3.3 "Resolution A.744(18), as amended" means the Guidelines on the Enhanced Programme of Inspections during Surveys of Bulk Carriers and Oil tankers adopted by the Assembly of the International Maritime Organization by resolution A.744(18), as amended by Resolution 2 of the 1997 SOLAS Conference and by resolutions MSC.49(66) and MSC.105(73).
+3.4 "Recognised Organization (RO)" means an organization recognized by the Administration to perform the surveys in accordance with the provisions of regulation 4(3) of Annex I of MARPOL 73/78*.
+3.5 "Administration" means the Government of the State as defined in Article 2(5) of MARPOL 73/78.
+3.6 "Category 1 oil tanker" means an oil tanker of 20,000 tons deadweight and above carrying crude oil, fuel oil, heavy diesel oil or lubricating oil as cargo, and of 30,000 tons deadweight and above carrying oil other than the above, which does not comply with the requirements for new oil tankers as defined in regulation 1(26) of Annex I of MARPOL 73/78.
+3.7 "Category 2 oil tanker" means an oil tanker of 20,000 tons deadweight and above carrying crude oil, fuel oil, heavy diesel oil or lubricating oil as cargo, and of 30,000 tons deadweight and above carrying oil other than the above, which complies with the requirements for new oil tankers as defined in regulation 1(26) of Annex I of MARPOL 73/78.
+3.8 "Company" means the owner of the ship or any other organization or person such as the manager or the bareboat charterer, who has assumed the responsibility for the operation of the ship from the owner of the ship and who, on assuming such responsibility, has agreed to take over all duties and responsibilities imposed by the International Safety Management (ISM) Code.
+3.9 "Substantial corrosion" means an extent of corrosion such that the assessment of the corrosion pattern indicates wastage in excess of 75% of the allowable margins, but within acceptable limits.
+3.10 "GOOD condition" means a coating condition with only minor spot rusting.
+* Under Regulation XI/1 of SOLAS 74, as amended, resolutions A.739(18) and A.789(19) are applicable to Recognized Organizations.
+3.11 "Thickness Measurement (TM) Firm" means a qualified company certified by a RO in accordance with the principles stipulated in annex 7 to Annex B to resolution A.744(18), as amended.
+3.12 "Critical Structural Areas" are locations which have been identified from calculations to require monitoring or from the service history of the subject ship or from similar or sister ships to be sensitive to cracking, buckling or corrosion which would impair the structural integrity of the ship.
+3.13 "Suspect Areas" are locations showing substantial corrosion and/or are considered by the attending surveyor to be prone to rapid wastage.
+3.14 Organization" means the International Maritime Organization.
+4 GENERAL PROVISIONS
+4.1 The Administration shall issue, or cause to be issued, detailed instructions to the RO which shall ensure that the CAS surveys are carried out in accordance with the provisions of sections 5 through 10 of this Scheme.
+4.2 Nothing in this Scheme shall prevent an Administration from carrying out the CAS surveys itself, provided that such surveys are at least as effective as those prescribed in sections 5 through 10 in this Scheme.
+4.3 The Administration shall require Category 1 and Category 2 oil tankers flying its flag to remain out of service during the periods referred to in paragraphs 5.1.1 and 5.1.2 respectively, until these oil tankers are issued with a valid Statement of Compliance.
+5 APPLICATION, SCOPE AND TIMING
+5.1 Application
+The requirements of the CAS apply to:
+.1 Category 1 oil tankers, as defined in section 3, where authorization is requested for continued service beyond the anniversary of the date of delivery of the ship in 2005, through to the date as specified in the schedule indicated for compliance with the double hull requirements of regulation 13F, detailed in regulation 13G.
+.2 Category 2 oil tankers, as defined in section 3, where authorization is requested for continued service beyond the anniversary of the date of delivery of the ship in 2010, through to the date as specified in schedule indicated for compliance with the double hull requirements of regulation 13F, detailed in regulation 13G.
+5.2 Scope of the CAS
+The CAS shall apply to surveys of the hull structure in way of cargo tanks, pump rooms, cofferdams, pipe tunnels, void spaces within the cargo area and all ballast tanks.
+5.3 Timing
+5.3.1 The first CAS survey shall be aligned to the Enhanced Survey Programme of Inspection and shall be carried out concurrent with the scheduled intermediate or renewal survey due prior to the anniversary of the date of delivery of the ship in 2005 for Category 1 oil tankers and prior to the anniversary of the date of delivery of the ship in 2010 for Category 2 oil tankers.
+5.3.2 Any subsequent CAS surveys, required for the renewal of the Statement of Compliance shall be carried out concurrently with the intermediate or renewal survey which has to be completed by the date of expiry of the Statement of Compliance.
+5.3.3 Notwithstanding the above, the Company may, with the agreement of the Administration, opt to carry out the first CAS survey at a different time from that of the due survey referred to above, provided that all the requirements of the CAS are complied with.
+6 SURVEY PLANNING REQUIREMENTS
+6.1 Preparations for the CAS survey
+6.1.1 General procedures
+6.1.1.1 Early and detailed planning to identify areas of potential risk is a prerequisite for the successful and timely completion of the CAS. The following sequence of events shall be observed.
+6.1.1.2 Notification from the Company to the Administration and to the RO of its intention to proceed with the CAS shall be submitted not less than 8 months prior to the planned commencement of the CAS survey.
+6.1.1.3 Upon receipt of such notification the RO shall:
+.1 issue to the Company the Survey Planning Questionnaire (see Appendix 2) not later than 7 months prior to the planned commencement of the CAS survey; and
+.2 advise the Company whether there have been any changes to the maximum acceptable structural corrosion diminution levels applicable to the ship.
+6.1.1.4 The Company shall complete and return the Survey Planning Questionnaire to the RO not less than 5 months prior to the planned commencement of the CAS survey. A copy of the completed questionnaire shall be forwarded by the Company to the Administration.
+6.1.1.5 The Survey Plan for the CAS shall be completed and submitted in signed order by the Company to the RO not less than 2 months prior to the planned commencement of the CAS survey. A copy of the Survey Plan for the CAS shall be forwarded by the Company to the Administration.
+6.1.1.6 In special circumstances, such as re-activation from lay-up or unexpected events such as an extended stoppage period for hull or machinery damage, the Administration may, on a case by case basis, relax the time frame, outlined in 6.1.1.2 to 6.1.1.5, for commencement of CAS procedures.
+6.1.1.7 Such relaxation shall, at all times, be subject to the RO having sufficient time to complete the CAS survey and for the Administration to review the CAS Final Report and issue the Statement of Compliance prior to the dates referred to in 5.1.
+6.1.2 Survey Plan for the CAS
+6.1.2.1 The Survey Plan for the CAS shall be developed by the Company in cooperation with the RO. The Administration may participate in the development of the Survey Plan, if it deems necessary. The RO shall be fully satisfied that the Survey Plan complies with the requirements of
+6.2.2 prior to the CAS survey being commenced. The CAS survey shall not commence unless and until the Survey Plan has been agreed.
+6.1.2.2 The Survey Planning Questionnaire shall be drawn up based on the format set out in Appendix 2.
+6.2 Survey Plan documentation
+6.2.1 In developing the Survey Plan, the following documentation shall be collected and reviewed with a view to identifying tanks, areas and structural elements to be examined:
+.1 basic ship information and survey status;
+.2 main structural plans of cargo and ballast tanks (scantling drawings), including information regarding use of high tensile steels (HTS);
+.3 Condition Evaluation Report, according to Annex 9 of Annex B of resolution A.744(18), as amended, and, where relevant, any previous CAS Final Reports;
+.4 thickness measurement reports;
+.5 relevant previous damage and repair history;
+.6 relevant previous survey and inspection reports from both the RO and the Company;
+.7 cargo and ballast history for the last 3 years, including carriage of cargo under heated conditions;
+.8 details of the inert gas plant and tank cleaning procedures as indicated in the Survey Planning Questionnaire;
+.9 information and other relevant data regarding conversion or modification of the ship's cargo and ballast tanks since the time of construction;
+.10 description and history of the coating and corrosion protection system (including anodes and previous class notations), if any;
+.11 inspections by the Company's personnel during the last 3 years with reference to: .1 structural deterioration in general; .2 leakages in tank boundaries and piping; .3 condition of the coating and corrosion protection system (including anodes),
+if any;
+.12 information regarding the relevant maintenance level during operation including: .1 port State control reports of inspection containing hull related deficiencies; .2 Safety Management System non-conformities relating to hull maintenance,
+including the associated corrective action(s); and
+.13 any other information that will help identify Suspect Areas and Critical Structural Areas.
+6.2.2 The Survey Plan shall include relevant information so as to enable the successful and efficient execution of the CAS survey and shall set out the requirements with respect to close-up surveys and thickness measurements. The Survey Plan shall include:
+.1 basic ship information and particulars; .2 main structural plans of cargo and ballast tanks (scantling drawings), including
+information regarding use of high tensile steels (HTS); .3 arrangement of tanks; .4 list of tanks with information on their use, extent of coatings and corrosion protection
+systems; .5 conditions for survey (e.g. information regarding tank cleaning, gas freeing,
+ventilation, lighting, etc.); .6 provisions and methods for access to structures; .7 equipment for surveys; .8 identification of tanks and areas for the close-up survey; .9 identification of tanks for tank testing, as per Annex 3 of Annex B of resolution
+A.744(18), as amended; .10 identification of areas and sections for thickness measurement; .11 identification of the Thickness Measurement (TM) firm;
+.12 damage experience related to the ship in question; and
+.13 Critical Structural Areas and Suspect Areas, where relevant.
+6.3 Documentation on board
+6.3.1 The Company shall ensure that, in addition to the agreed Survey Plan, all other documents used in the development of the Survey Plan referred to in 6.2.1 are available on board at the time of the CAS survey.
+6.3.2 Prior to the commencement of any part of the CAS survey, the attending surveyor(s) shall examine and ascertain the completeness of the on board documentation and shall review its contents with a view to ensuring that the Survey Plan remains relevant.
+7 CAS SURVEY REQUIREMENTS
+7.1 General
+7.1.1 Prior to the commencement of any part of the CAS survey a meeting shall be held between the attending surveyor(s), the Company's representative(s) in attendance, the TM Firm Operator (as applicable) and the master of the ship for the purpose of ascertaining that all the arrangements envisaged in the Survey Plan are in place, so as to ensure the safe and efficient execution of the survey work to be carried out.
+7.1.2 The CAS survey shall be carried out by not less than two qualified exclusive surveyors of the RO. A qualified surveyor of the RO shall attend on board during the taking of the thickness measurements for the purpose of controlling the process.
+7.1.3 The RO shall designate the surveyor(s) and any other personnel who will be engaged in the CAS of each vessel and shall keep records to this end. A qualified surveyor(s) shall have documented experience in carrying out intermediate or renewal surveys in accordance with the Enhanced Survey Programme of Inspection for tankers. In addition, all RO personnel to be assigned duties in connection with the CAS shall complete, prior to the assignment of such duties, an appropriate training and familiarization programme to enable the RO to ensure the consistent and uniform application of the CAS. The Administration shall require the RO to keep records of the qualifications and experience of the surveyors and of other personnel assigned to carry out work for the CAS. The Administration shall require the RO to monitor the performance of the personnel who have carried out or have been engaged in any CAS work and to keep records to this end.
+7.1.4 When the CAS survey is split between survey stations, a list of the items examined and an indication of whether the CAS survey has been completed shall be made available to the attending surveyors at the next survey station prior to continuing the CAS survey.
+7.1.5 Whenever the attending surveyors are of the opinion that repairs are required, each item to be repaired shall be identified in a numbered list. Whenever repairs are carried out, details of the repairs effected shall be reported by making specific reference to relevant items in the numbered list.
+7.1.6 Whenever the attending surveyors are of the opinion that it is acceptable to defer hull repairs beyond the due date previously assigned, such a decision shall not be left to the sole discretion of the attending surveyors. The RO Headquarters shall be consulted in such circumstances and shall give specific approval to the recommended action.
+7.1.7 The CAS survey is not complete unless all recommendations/conditions of class which relate to hull structures under review by the CAS survey have been rectified to the satisfaction of the RO.
+7.2 Extent of overall and close-up surveys
+7.2.1 Overall survey
+An overall survey of all spaces set out in 5.2 shall be carried out at the CAS survey.
+7.2.2 Close-up survey
+The requirements for close-up surveys at the CAS survey are set out in the table below.
+Table 7.2.2
+Notes:
+1 Complete transverse web frame ring including adjacent structural members.
+2 Complete transverse bulkhead, including girder and stiffener systems and adjacent members.
+7.2.3 The attending surveyors may extend the scope of the close-up survey as considered necessary, taking into account the Survey Plan, the condition of the spaces under survey, the condition of the corrosion prevention system and also the following:
+.1 any information that may be available on Critical Structural Areas;
+.2 tanks which have structures with reduced scantlings in association with a corrosion prevention system approved by the RO.
+7.2.4 For areas in tanks where coatings are found to be in GOOD condition, the extent of close-up surveys according to 7.2.2 may be specially considered by the RO. However, sufficient close-up surveys shall be carried out, in all cases, to confirm the actual average condition of the structure and to note the maximum observed diminution of the structure.
+7.3 Extent of thickness measurements
+7.3.1 The thickness measurements shall be recorded using the tables contained in Appendix 2 of Annex 10 of Annex B of resolution A.744(18), as amended. It is recommended that these records be kept in an electronic medium.
+7.3.2 The thickness measurements shall be carried out either prior to or, to the maximum extent possible, concurrently with the close-up survey.
+7.3.3 The minimum requirements for thickness measurements for the CAS surveys shall be those set out in the table below:
+Table 7.3.3
+7.3.4 Where substantial corrosion is found, the extent of the thickness measurements shall be increased in accordance with Annex 4 of Annex B of resolution A.744(18), as amended.
+7.3.5 In addition, the thickness measurements may be extended as considered necessary by the attending surveyors.
+7.3.6 For areas in tanks where coatings are found to be in GOOD condition, the extent of thickness measurements, according to paragraph 7.3.3, may be specially considered by the RO. However, sufficient thickness measurements shall be taken, in all cases, to confirm the actual average condition and the maximum observed diminution of the structure.
+7.3.7 The thickness measurement to be taken shall be sufficient to enable the reserve strength calculations in accordance with Annex 12 of Annex B of resolution A.744(18), as amended.
+7.3.8 Transverse sections shall be chosen where the maximum diminutions are expected to occur or are revealed from deck plating thickness measurements. At least one transverse section shall include a ballast tank within 0.5L amidships.
+8 ACCEPTANCE CRITERIA
+The acceptance criteria for the CAS shall be those set out in resolution A.744(18), as amended.
+9 CAS SURVEY REPORTS
+9.1 A survey report shall be completed for the CAS survey. The report shall indicate the date, location (place), and where relevant, whether or not the CAS survey was carried out in dry-dock afloat or at sea. When the CAS survey is split between different survey stations, a report shall be made for each portion of the CAS survey.
+9.2 Survey records relating to the CAS survey, including actions taken, shall form an auditable documentary trail, which shall be made available to the Administration, if requested.
+9.3 In addition, the following shall be included in each CAS survey report:
+.1 Extent of the Survey:
+.1 identification of the spaces where an overall survey has been carried out;
+.2 identification of location, in each space, where a close-up survey has been carried out, together with the means of access used; and
+.3 identification of the spaces, and locations in each space, where thickness measurements have been carried out; and
+.2 Results of the Survey: .1 extent and condition of coating in each space. Identification of spaces fitted with anodes and the overall condition of the anodes; .2 structural condition reporting for each space, which shall include information on the following, as applicable: .1 corrosion (location and type of corrosion such as grooving, pitting, etc.); .2 cracks (location, description and extent); .3 buckling (location, description and extent); .4 indents (location, description and extent); and .5 areas of substantial corrosion; and .3 Actions taken with respect to findings: .1 details of repairs completed on structural members in identified spaces, including the repair method and extent; and .2 list of items to be kept under observation for planning future inspections and surveys including any thickness measurements.
+9.4 Where no defects are found, this shall be stated in the report for each space.
+9.5 The narrative report shall be supplemented by photographs showing the general condition of each space, including representative photographs or sketches of any of the above reported items.
+9.6 The thickness measurement report shall be verified and endorsed by the attending surveyor.
+9.7 The attending surveyors shall sign the CAS survey report.
+10 CAS FINAL REPORT TO THE ADMINISTRATION
+10.1 Review of the CAS by the RO
+10.1.1 The RO Headquarters shall carry out a verification review of the CAS survey reports, the documents, photographs and other records relating to the CAS, as specified in section 9, for the purpose of ascertaining and confirming that the requirements of the CAS have been met.
+10.1.2 The RO reviewing personnel shall not be engaged in any way whatsoever with the CAS survey under review.
+10.2 CAS Final Report to the Administration
+10.2.1 The RO shall prepare a CAS Final Report to the Administration upon completion of the CAS survey and following the review of the CAS survey reports by the RO's Headquarters, as specified in paragraph 10.1.1.
+10.2.2 The CAS Final Report shall be submitted by the RO to the Administration without delay and in any case not later than 2 months prior to the date the ship is required to be issued with a Statement of Compliance.
+10.2.3 The CAS Final Report shall, at least, include:
+.11 an evaluation of the structural strength of the vessel and an assessment of compliance with the acceptance criteria set out in section 8;
+.12 a statement as to whether all the applicable requirements of the CAS have been met;
+.13 a recommendation to the Administration as to whether the ship should be allowed to continue operating until the date envisaged in regulation 13G for compliance with the requirements of regulation 13F or for the period of validity of the CAS, if earlier; and
+.14 conclusions.
+11 VERIFICATION OF THE CAS BY THE ADMINISTRATION
+11.1 In addition to any instructions the Administration may have issued to the RO authorized to carry out surveys under the Enhance Survey Programme on its behalf, the Administration shall issue instructions to the RO and to Companies operating Category 1 and Category 2 oil tankers flying its flag, so that the Administration is able to monitor the performance of and verify compliance with the CAS.
+11.2 The Administration, for the purpose of ensuring uniform and consistent implementation of the CAS, shall establish, at least, procedures through which it will: .1 give effect to the requirements of the CAS; .2 monitor the CAS work the RO is carrying out on its behalf; .3 review the CAS Final Report;
+.4 review cases of ships which have been submitted for the CAS re-assessment; and .5 issue the Statement of Compliance.
+11.3 The Administration shall review the CAS Final Report prior to the issue of the Statement of Compliance, shall record and document the findings and conclusions of the review and its decision as to the acceptance or rejection of the CAS Final Report and shall produce a Review Record.
+11.4 The Administration shall ensure that any persons assigned to monitor the execution of the CAS or to review a CAS Final Report: .1 are adequately qualified and experienced to the satisfaction of the Administration; .2 are under the direct control of the Administration; and
+.3 have no connection whatsoever with the RO which carried out the CAS survey under review.
+12 RE-ASSESSMENT OF SHIPS FOLLOWING FAILURE TO MEET THE REQUIREMENTS OF THE CAS
+12.1 A ship which, in the opinion of the Administration, has failed to meet the requirements of the CAS, may be submitted for the CAS re-assessment. In such a case the grounds on which Administration declined the issue of a Statement of Compliance to the ship shall be addressed and dealt with and the remedial actions shall, thereafter, be reviewed for the purpose of ascertaining whether the requirements of the CAS have been complied with.
+12.2 Such re-assessment, as a rule, shall be carried out by the RO and by the Administration who carried out the previous CAS.
+12.3 If a ship which has failed to obtain a Statement of Compliance changes flag, the new Administration shall, in accordance with the provisions of regulation 8(3), request the previous Administration to transmit to them copies of the CAS documentation relating to that ship for the purpose of ascertaining whether the grounds on the basis of which the previous Administration declined the issue to the ship of a Statement of Compliance are dealt with and that the CAS is implemented in a consistent and uniform manner.
+12.4 As a rule, the CAS re-assessment shall be carried out as soon as possible and in any case, subject to the provisions of paragraph 5.3, not later than 6 months following the date on which the Administration has made the decision to decline the issue of a Statement of Compliance to the ship.
+13 STATEMENT OF COMPLIANCE
+13.1 The Administration shall, in accordance with its procedures, issue to each ship which completes the CAS to the satisfaction of the Administration, a Statement of Compliance.
+13.2 The Statement of Compliance shall be drawn up in the official language of the issuing Administration in a form corresponding to the model given in Appendix 1. If the language used is neither English, French or Spanish, the text shall include a translation into one of these languages.
+13.3 The original of the Statement of Compliance shall be placed on board the ship as a supplement to the ship's International Oil Pollution Prevention Certificate.
+13.4 In addition, a copy of the CAS Final Report which was reviewed by the Administration for the issue of the Statement of Compliance and a copy of the Review Record, specified in paragraph 11.3, shall be placed on board to accompany the Statement of Compliance.
+13.5 A certified copy of the Statement of Compliance and a copy of the Review Record, specified in paragraph 11.3, shall be forwarded by the Administration to the RO and shall be kept together with the CAS Final Report.
+13.6 The Statement of Compliance shall be valid, following the completion of the CAS survey, until the earlier date of either:
+.1 the earlier date by which the ship is required to complete:
+.1 an intermediate survey, in accordance with regulation 4(1)(c); or
+.2 a renewal survey, in accordance with regulation 4(1)(b);
+or
+.2 the date by which the vessel is required, in accordance with regulation 13G, to comply with the requirements of regulation 13F.
+13.7 If the Statement of Compliance expires prior to the date by which the ship is required, in accordance with regulation 13G, to comply with the requirements of regulation 13F, that ship, in order to continue operating after the expiry of its Statement of Compliance, shall carry out a renewal CAS survey in accordance with the requirements of sections 5 to 10.
+13.8 The Administration may consider and declare that the Statement of Compliance of a ship remains valid and in full force and effect if:
+.1 the ship is transferred to a RO other than the one that submitted the CAS Final Report that was reviewed and accepted for the issue of the Statement of Compliance; or
+.2 the ship is operated by a Company other than the one that was operating the ship at the time of the completion of the CAS survey;
+provided the period of validity and the terms and conditions for the issue of the Statement of Compliance in question remain those adopted by the Administration at the time of the issue of the Statement of Compliance.
+13.9 If a ship with a valid Statement of Compliance is transferred to the flag of another Party, the new Administration may issue to that ship a new Statement of Compliance on the basis of the Statement of Compliance issued by the previous Administration, provided that the new Administration:
+.1 requests and receives from the previous Administration, in accordance with regulation 8(3), copies of all the CAS documentation relating to that ship which the previous Administration has used for the issue or renewal and the maintenance of the validity of the Statement of Compliance the ship was issued with at the time of the transfer;
+.2 establishes that the RO which submitted the CAS Final Reports to the previous Administration is an RO authorised to act on its behalf;
+.3 reviews the documentation referred to in subparagraph .1 and is satisfied that the requirements of the CAS are met; and
+.4 limits the period and the terms and conditions of validity of the Statement of Compliance to be issued to those established by the previous Administration.
+13.10 The Administration shall:
+.1 suspend and/or withdraw the Statement of Compliance of a ship if it no longer complies with the requirements of the CAS; and
+.2 withdraw the Statement of Compliance of a ship if it is no longer entitled to fly its flag.
+14 COMMUNICATION OF INFORMATION TO THE ORGANIZATION
+14.1 The Administration shall communicate to the Organization:
+.1 particulars of the Statements of Compliance issued; .2 details of the suspension or withdrawal of the Statements of Compliance issued; and .3 particulars of the ships to which it has declined the issue of a Statement of
+Compliance and reasons thereof.
+14.2 The Organization shall circulate the aforementioned information to all Parties to MARPOL 73/78 and shall maintain an electronic database containing the aforesaid information, accessible only to Parties to MARPOL 73/78.
+Appendix 1 FORM OF STATEMENT OF COMPLIANCE STATEMENT OF COMPLIANCE
+Issued under the provisions of the Condition Assessment Scheme (CAS) adopted by the Organization by resolution MEPC …(46) under the authority of the Government of:
+…………………………………………………
+(full designation of the country)
+Particulars of ship
+Name of ship ................................................................................................................................. Distinctive number or letters ......................................................................................................... Port of registry ............................................................................................................................... Gross tonnage ................................................................................................................................ Deadweight of ship (metric tons) .................................................................................................. IMO number .................................................................................................................................. Category of tanker .........................................................................................................................
+THIS IS TO CERTIFY: 1 That the ship has been surveyed in accordance with the requirements of CAS (resolution MEPC … (46); 2 That the survey showed that the structural condition of the ship is in all respects satisfactory
+and the ship complied with the requirements of the CAS. This Statement of Compliance is valid until ................................................................................ Issued at ........................................................................................................................................
+(Place of issue)
+…………………. ..................................................................................................... (Date of issue) (Signature of duly authorized official issuing the Statement)
+(Seal or stamp of the authority, as appropriate)
+Appendix 2
+SURVEY PLANNING QUESTIONNAIRE
+The following information will enable the Company in co-operation with the RO to develop a Survey Plan complying with the requirements of the CAS.
+It is essential that the Company provides, when completing the present questionnaire, up-to-date information.
+The present questionnaire, when completed, shall provide all information and material required by the CAS.
+Particulars
+Ship's name:
+IMO number:
+Flag State:
+Port of registry:
+Gross tonnage:
+Deadweight (metric tonnes):
+Summer load line draught:
+Date of delivery:
+Category of ship:
+Date for compliance with regulation 13F:
+Company:
+Report identification reference:
+Information on access provision for close-up surveys and thickness measurement:
+The Company is requested to indicate, in the table below, the means of access to the structures subject to close-up survey and thickness measurement.
+A Close-up survey is an examination where the details of structural components are within the close visual inspection range of the attending surveyor, i.e. preferably within reach of hand.
+Inspections by the Company
+Using a format similar to that of the table below (which is given as an example), the Company should provide details of the results of their inspections, for the last 3 years - in accordance with the requirements of resolution A.744(18), as amended, and of the CAS - on all CARGO and BALLAST tanks and VOID spaces within the cargo area.
+* Indicate tanks which are used for oil/ballast
+1) HC=hard coating; SC=soft coating; A=anodes; NP=no protection 2) U=upper part; M=middle part; L=lower part;
+C=complete 3) G=good; F=fair; P=poor, RC=recoated 4) N= no findings recorded
+Y= findings recorded, description of findings is to be attached to the questionnaire
+5) D R= Damage &amp; Repair L= Leakages CV= Conversion CPS= Corrosion protection system (reports to be attached)
+Company: ................................................................. Name/Signature: ....................................................... Date: .........................................................................
+Reports of port State control inspections
+Safety Management System
+Name of the Thickness Measurement (TM) firm
+*** 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

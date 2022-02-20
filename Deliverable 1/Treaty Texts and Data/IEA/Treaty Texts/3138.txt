@@ -1,0 +1,165 @@
+
+ Amendments To The BCH Code Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1992-AmendmentsBCH-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=6976/56(33).pdf     
+    ﻿AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+Source: http://www.imo.org/includes/blastData.asp/doc_id=6976/56(33).pdf
+(London, 30 October 1992)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Committee conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and Article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol"), which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+NOTING FURTHER Resolution MEPC.55(33) by which the Committee adopted amendments to the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC Code),
+RECOGNIZING the need to bring the corresponding amendments to the BCH Code into force on the date on which the amendments to the IBC Code enter into force,
+HAVING CONSIDERED, at its thirty-third session, the amendments to the BCH Code proposed by the Sub-Committee on Bulk Chemicals at its twenty-first session and circulated in accordance with Article 16(2)(a) of the 1973 Convention,
+1. ADOPTS in accordance with Article 16(2)(d) of the 1973 Convention amendments to the BCH Code, the text of which is set out in the Annex to the present Resolution;
+2. DETERMINES, in accordance with Article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on the date on which the conditions for the entry into force of the amendments to the IBC Code adopted by the Committee by Resolution MEPC.55(33) are met, unless, prior to that date, not less than one third of the Parties or the Parties, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments;
+3. INVITES the Parties to note that, in accordance with Article 16(2)(g)(ii) of the 1973 Convention, the amendments shall enter into force six months after their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with Article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1978 Protocol certified copies of the present Resolution and the text of the amendments contained in the Annex;
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the Resolution and its Annex.
+ANNEX
+AMENDMENTS TO THE BCH CODE
+The existing text of the last sentence of 1.1 is amended by addition of the following words:
+... of Chapter 17 of the IBC Code.
+The last two sentences of the existing text of 1.2.1 is amended to read as follows:
+The Code is at present limited to the liquids shown in the summary of minimum requirements in Chapter 17 of the IBC Code. Products that have been reviewed and determined not to present safety and pollution hazards to such an extent as to warrant application of the Code are found in Chapter 18 of the IBC Code.
+The existing text of 1.4.16A is replaced by the following:
+Noxious liquid substance means any substance referred to in Appendix II of Annex II of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL 73/78) or provisionally assessed under the provisions of Regulation 3(4) of that Annex as falling into category A, B, C or D.
+The following new 1.4.16C is added after the existing 1.4.16B:
+The IBC Code means the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk adopted by the Maritime Safety Committee and the Marine Environment Protection Committee of the Organization by Resolutions MSC.4(48) and MEPC.19(22) respectively, as amended.
+The existing text of 3.16.10(a) is replaced by the following:
+filter type respiratory protection is unacceptable;
+The following words are inserted after the third sentence of the existing text of 4.7.21;
+Remote manual operation should be arranged such that remote starting of pumps supplying the water spray system and remote operation of any normally closed valves in the system can be carried out from a suitable location outside the cargo area, adjacent to the accommodation spaces and readily accessible and operable in the event of fire in the areas protected.
+The existing text of 4.10 is amended as follows:
+4.10 Cargoes protected by additives
+4.10.1 Certain cargoes with a reference in column "m" in the table of Chapter VI, by the nature of their chemical make-up, tend under certain conditions of temperature, exposure to air or contact with a catalyst, to undergo polymerization, decomposition, oxidation or other chemical changes. Mitigation of this tendency is carried out by introducing small amounts of chemical additives into the liquid cargo or by controlling the cargo tank environment.
+4.10.2 No change.
+4.10.3 Care should be taken to ensure that these cargoes are sufficiently protected to prevent deleterious chemical change at all times during the voyage. Ships carrying such cargoes should be provided with a certificate of protection from the manufacturer and kept during the voyage specifying;
+.1 the name and amount of additive present;
+.2 whether the additive is oxygen-dependent;
+.3 date additive was put in the product and duration of effectiveness;
+.4 any temperature limitations qualifying the additive's effective lifetime; and
+.5 the action to be taken should the length of voyage exceed the effective lifetime of the additive.
+4.10.4 Ships using the exclusion of air as the method of preventing oxidation of the cargo should comply with 2.19.3.
+4.10.5 A product containing an oxygen-dependent additive should be carried without inertion.
+4.10.6 As existing 4.10.5.
+4.10.7 As existing 4.10.6.
+New 4.23 is added as follows:
+4.23 Temperature sensors
+Temperature sensors should be used to monitor the cargo pump temperature to detect overheating due to pump failures.
+CHAPTER VI
+The existing text of Chapter VI is replaced by the following:
+CHAPTER VI - SUMMARY OF MINIMUM REQUIREMENTS
+The summary of minimum requirements of the products covered by the Code is set out in Chapter 17 of the IBC Code.
+For the purpose of application of the minimum requirements under this Code, the cross references in the IBC Code shown in the left hand column of the following table should be taken to mean references to the BCH Code shown in the right hand column. Where a reference is made in the BCH Code to column "m" in the table of Chapter VI it should be taken to mean any of the columns "m", "n" and "o" in the table of Chapter 17 of the IBC Code.
+IBC/BCH CODES CROSS REFERENCES TO THE REQUIREMENTS
+IBC Code Chapter 17 items[TAB]IBC Code reference[TAB]BCH Code reference
+Ship type (column e)[TAB] [TAB]
+1 = ship type 1[TAB](2.1.2)[TAB](2.2.4(a))
+2 = ship type 2[TAB](2.1.2)[TAB](2.2.4(b))
+3 = ship type 3[TAB](2.1.2)[TAB](2.2.4(c))
+Tank type (column f)[TAB] [TAB]
+1 = independent tank[TAB](4.1.1)[TAB](2.3.2)
+2 = integral tank[TAB](4.1.2)[TAB](2.3.1)
+G = gravity tank[TAB](4.1.3)[TAB]-2.4
+P = pressure tank[TAB](4.1.4)[TAB]-
+Tank environmental control (column h)[TAB] [TAB]
+Inert: inerting[TAB](9.1.2.1)[TAB](2.19.2(a))
+Pad: liquid or gas[TAB](9.1.2.2)[TAB](2.19.2(b))
+Dry: drying[TAB](9.1.2.3)[TAB](2.19.2(c))
+Vent: natural or forced[TAB](9.1.2.4)[TAB](2.19.2(d))
+Electrical equipment (column i)[TAB] [TAB]
+NF: non-flammable product[TAB](10.1.6)[TAB]Standard electrical system
+Yes: Flashpoint exceeding 60ºC (closed cup)[TAB](10.1.6)[TAB]Standard electrical system
+No: Product having a flashpoint not exceeding 60ºC (closed cup)[TAB](10.1.6)[TAB]Special electrical systems
+Gauging (column j)[TAB] [TAB]
+O: open gauging[TAB](13.1.1.1)[TAB]Open device (3.9(a))
+R: restricted gauging[TAB](13.1.1.2)[TAB]Restricted device (3.9(b))
+C: closed gauging[TAB](13.1.1.3)[TAB]Closed device (3.9(c))
+I: indirect gauging[TAB](13.1.1.3)[TAB]Indirect device (3.9(d))
+Materials and construction (column m)[TAB] [TAB]
+[TAB]N1[TAB]4.12.1
+[TAB]N2[TAB]4.12.2
+[TAB]N3[TAB]4.12.3
+[TAB]N4[TAB]4.12.4
+[TAB]N5[TAB]4.12.5
+[TAB]N6[TAB]4.12.8
+[TAB]N7[TAB]4.12.9
+[TAB]N8[TAB]4.12.1, except copper and copper alloys may be used
+[TAB]Z[TAB]-
+[TAB]Y1[TAB]4.12.6
+[TAB]Y2[TAB]4.12.7(a)
+[TAB]Y3[TAB]4.12.7(b)
+[TAB]Y4[TAB]4.12.10
+[TAB]Y5[TAB]4.12.6 except aluminium is not permitted
+Respiratory and eye protection (column n)[TAB]E: see 14.2.8[TAB]3.16.10
+Special requirements (column o)[TAB]15.1[TAB]4.4
+[TAB]15.2[TAB]4.19
+[TAB]15.3[TAB]4.1
+[TAB]15.4[TAB]4.2
+[TAB]15.5.1-13[TAB]4.20.1-14
+[TAB]15.5.14-26[TAB]4.20.15-27
+[TAB]15.6[TAB]4.6
+[TAB]15.7[TAB]4.5
+[TAB]15.8[TAB]4.7
+[TAB]15.9[TAB]4.21
+[TAB]15.1[TAB]4.3
+[TAB]15.11[TAB]4.8
+[TAB]15.12[TAB]4.9
+[TAB]15.13[TAB]4.1
+[TAB]15.14[TAB]4.11
+[TAB]15.16[TAB]4.15
+[TAB]15.17[TAB]4.13.1
+[TAB]15.18[TAB]4.13.2
+[TAB]15.19[TAB]4.14
+[TAB]15.19.6[TAB]4.14.1
+[TAB]15.2[TAB]4.22
+[TAB]15.21[TAB]4.23
+[TAB]16.2.6[TAB]5.2.5
+[TAB]16.2.7[TAB]5.2.6
+[TAB]16.2.8[TAB]5.2.7
+[TAB]16.2.9[TAB]5.2.8
+[TAB]16.6[TAB]4.18
+[TAB]16A.2.2[TAB]5A.2.2
+CHAPTER VII
+The existing text of Chapter VII is replaced by the following:
+CHAPTER VII - LIST OF CHEMICALS TO WHICH THE CODE DOES NOT APPLY
+The list of chemicals which have been reviewed for their safety and pollution hazards and determined not to present hazards to such an extent as to warrant the application of the Code is set out in Chapter 18 of the IBC Code.
+New Chapter VIII is added as follows:
+CHAPTER VIII - TRANSPORT OF LIQUID CHEMICAL WASTES
+8.1 Preamble
+8.1.1 Maritime transport of liquid chemical wastes could present a threat to human health and to the environment.
+8.1.2 Liquid chemical wastes should, therefore, be transported in accordance with relevant international conventions and recommendations and, in particular, in the case of maritime transport in bulk, with the requirements of this Code.
+8.2 Definitions
+For the purpose of this Chapter:
+8.2.1 "Liquid chemical wastes" are substances, solutions or mixtures, offered for shipment, containing or contaminated with one or more constituents which are subject to the requirements of this Code and for which no direct use is envisaged but which are carried for dumping, incineration or other methods of disposal other than at sea.
+8.2.2 "Transboundary movement" means maritime transport of wastes from an area under the national jurisdiction of one country to or through an area under the national jurisdiction of another country, or to or through an area not under the national jurisdiction of any country, provided at least two countries are concerned by the movement.
+8.3 Applicability
+8.3.1 The requirements of this Chapter are applicable to the transboundary movement of liquid chemical wastes in bulk by seagoing ships and should be considered in conjunction with all other requirements of this Code.
+8.3.2 The requirements of this Chapter do not apply to:
+.1 wastes derived from shipboard operations which are covered by the requirements of MARPOL 73/78;
+.2 liquid chemical wastes carried by ships engaged in the incineration of such wastes at sea which are covered by Chapter 19 of the IBC Code; and
+.3 substances, solutions or mixtures containing or contaminated with radioactive materials which are subject to the applicable requirements for radioactive materials.
+8.4 Permitted shipments
+8.4.1 Transboundary movement of wastes is permitted to commence only when:
+.1 notification has been sent by the competent authority of the country of origin, or by the generator or exporter through the channel of the competent authority of the country of origin, to the country of final destination; and
+.2 the competent authority of the country of origin, having received the written consent of the country of final destination stating that the wastes will be safely incinerated or treated by other methods of disposal, has given authorization for the movement.
+8.5 Documentation
+8.5.1 In addition to the documentation specified in 5.2 of this Code ships engaged in transboundary movement of liquid chemical wastes should carry on board a waste movement document issued by the competent authority of the country of origin.
+8.6 Classification of liquid chemical wastes
+8.6.1 For the purpose of the protection of the marine environment all liquid chemical wastes transported in bulk should be treated as category A noxious liquid substances, irrespective of the actual evaluated category.
+8.7 Carriage and handling of liquid chemical wastes
+8.7.1 Liquid chemical wastes should be carried in ships and cargo tanks in accordance with the minimum requirements for liquid chemical wastes specified in Chapter 17 of the IBC Code, unless there are clear grounds indicating that the hazards of the wastes would warrant:
+.1 carriage in accordance with the ship type 1 requirements; or
+.2 any additional requirements of this Code applicable to the substance or, in case of a mixture, its constituent presenting the predominant hazard. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

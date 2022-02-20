@@ -1,0 +1,189 @@
+
+ Amendments to Annex V to the International Convention for the Prevention of Pollution from Ships (Revised MARPOL Annex V)   
+     Filename: 2011-AmendmentsAnnexV-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/blast/blastDataHelper.asp?data_id=30760&amp%3Bfilename=201%28…     
+    ﻿Amendments to Annex V to the International Convention for the Prevention of Pollution from Ships (Revised MARPOL Annex V)
+Source: http://www.imo.org/blast/blastDataHelper.asp?data_id=30760&amp;filename=201%... RESOLUTION MEPC.201(62), Adopted on 15 July 2011, downloaded 20120214
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+HAVING CONSIDERED draft amendments to Annex V of MARPOL 73/78,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the amendments to Annex V of MARPOL 73/78, the text of which is set out at annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 July 2012 unless, prior to that date, not less than one third of the Parties or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 January 2013 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to MARPOL 73/78 copies of the present resolution and its Annex.
+ANNEX
+REVISED MARPOL ANNEX V
+REGULATIONS FOR THE PREVENTION OF POLLUTION BY GARBAGE FROM SHIPS
+Regulation 1
+Definitions
+For the purposes of this Annex:
+1 Animal carcasses means the bodies of any animals that are carried on board as cargo and that die or are euthanized during the voyage.
+2 Cargo residues means the remnants of any cargo which are not covered by other Annexes to the present Convention and which remain on the deck or in holds following loading or unloading, including loading and unloading excess or spillage, whether in wet or dry condition or entrained in wash water but does not include cargo dust remaining on the deck after sweeping or dust on the external surfaces of the ship.
+3 Cooking oil means any type of edible oil or animal fat used or intended to be used for the preparation or cooking of food, but does not include the food itself that is prepared using these oils.
+4 Domestic wastes means all types of wastes not covered by other Annexes that are generated in the accommodation spaces on board the ship. Domestic wastes does not include grey water.
+5 En route means that the ship is underway at sea on a course or courses, including deviation from the shortest direct route, which as far as practicable for navigational purposes, will cause any discharge to be spread over as great an area of the sea as is reasonable and practicable.
+6 Fishing gear means any physical device or part thereof or combination of items that may be placed on or in the water or on the sea-bed with the intended purpose of capturing, or controlling for subsequent capture or harvesting, marine or fresh water organisms.
+7 Fixed or floating platforms means fixed or floating structures located at sea which are engaged in the exploration, exploitation or associated offshore processing of sea-bed mineral resources.
+8 Food wastes means any spoiled or unspoiled food substances and includes fruits, vegetables, dairy products, poultry, meat products and food scraps generated aboard ship.
+9 Garbage means all kinds of food wastes, domestic wastes and operational wastes, all plastics, cargo residues, cooking oil, fishing gear, and animal carcasses generated during the normal operation of the ship and liable to be disposed of continuously or periodically except those substances which are defined or listed in other Annexes to the present Convention. Garbage does not include fresh fish and parts thereof generated as a result of fishing activities undertaken during the voyage, or as a result of aquaculture activities which involve the transport of fish
+including shellfish for placement in the aquaculture facility and the transport of harvested fish including shellfish from such facilities to shore for processing.
+10 Incinerator ashes means ash and clinkers resulting from shipboard incinerators used for the incineration of garbage.
+11 Nearest land. The term "from the nearest land" means from the baseline from which the territorial sea of the territory in question is established in accordance with international law, except that, for the purposes of the present Annex, ''from the nearest land'' off the north-eastern coast of Australia shall mean from a line drawn from a point on the coast of Australia in:
+latitude 11°00΄ S, longitude 142°08΄ E to a point in latitude 10°35΄ S, longitude 141°55΄ E, thence to a point latitude 10°00΄ S, longitude 142°00΄ E, thence to a point latitude 09°10΄ S, longitude 143°52΄ E, thence to a point latitude 09°00΄ S, longitude 144°30΄ E, thence to a point latitude 10°41΄ S, longitude 145°00΄ E, thence to a point latitude 13°00΄ S, longitude 145°00΄ E, thence to a point latitude 15°00΄ S, longitude 146°00΄ E, thence to a point latitude 17°30΄ S, longitude 147°00΄ E, thence to a point latitude 21°00΄ S, longitude 152°55΄ E, thence to a point latitude 24°30΄ S, longitude 154°00΄ E, thence to a point on the coast of Australia in latitude 24°42΄ S, longitude 153°15΄ E.
+12 Operational wastes means all solid wastes (including slurries) not covered by other Annexes that are collected on board during normal maintenance or operations of a ship, or used for cargo stowage and handling. Operational wastes also includes cleaning agents and additives contained in cargo hold and external wash water. Operational wastes does not include grey water, bilge water, or other similar discharges essential to the operation of a ship, taking into account the guidelines developed by the Organization.
+13 Plastic means a solid material which contains as an essential ingredient one or more high molecular mass polymers and which is formed (shaped) during either manufacture of the polymer or the fabrication into a finished product by heat and/or pressure. Plastics have material properties ranging from hard and brittle to soft and elastic. For the purposes of this annex, "all plastics" means all garbage that consists of or includes plastic in any form, including synthetic ropes, synthetic fishing nets, plastic garbage bags and incinerator ashes from plastic products.
+14 Special area means a sea area where for recognized technical reasons in relation to its oceanographic and ecological condition and to the particular character of its traffic the adoption of special mandatory methods for the prevention of sea pollution by garbage is required.
+For the purposes of this Annex the special areas are the Mediterranean Sea area, the Baltic Sea area, the Black Sea area, the Red Sea area, the Gulfs area, the North Sea area, the Antarctic area and the Wider Caribbean Region, which are defined as follows:
+.1 The Mediterranean Sea area means the Mediterranean Sea proper including the gulfs and seas therein with the boundary between the Mediterranean and the Black Sea constituted by the 41º N parallel and bounded to the west by the Straits of Gibraltar at the meridian 5°36΄ W.
+.2 The Baltic Sea area means the Baltic Sea proper with the Gulf of Bothnia and the Gulf of Finland and the entrance to the Baltic Sea bounded by the parallel of the Skaw in the Skagerrak at 57º 44.8΄ N.
+.3 The Black Sea area means the Black Sea proper with the boundary between the Mediterranean and the Black Sea constituted by the parallel 41º N.
+.4 The Red Sea area means the Red Sea proper including the Gulfs of Suez and Aqaba bounded at the south by the rhumb line between Ras si Ane (12º 28.5΄ N, 43º 19.6΄ E) and Husn Murad (12º 40.4΄ N, 43º 30.2΄ E).
+.5 The Gulfs area means the sea area located north-west of the rhumb line between Ras al Hadd (22º 30΄ N, 59º 48΄ E) and Ras al Fasteh (25º 04΄ N, 61º 25΄ E).
+.6 The North Sea area means the North Sea proper including seas therein with the boundary between:
+.1 the North Sea southwards of latitude 62º N and eastwards of longitude 4º W;
+.2 the Skagerrak, the southern limit of which is determined east of the Skaw by latitude 57º 44.8΄ N; and
+.3 the English Channel and its approaches eastwards of longitude 5º W and northwards of latitude 48º 30΄ N.
+.7 The Antarctic area means the sea area south of latitude 60º S.
+.8 The Wider Caribbean Region means the Gulf of Mexico and Caribbean Sea proper including the bays and seas therein and that portion of the Atlantic Ocean within the boundary constituted by the 30° N parallel from Florida eastward to 77°30΄ W meridian, thence a rhumb line to the intersection of 20° N parallel and 59° W meridian, thence a rhumb line to the intersection of 7°20' N parallel and 50° W meridian, thence a rhumb line drawn southwesterly to the eastern boundary of French Guiana.
+Regulation 2
+Application
+Unless expressly provided otherwise, the provisions of this Annex shall apply to all ships.
+Regulation 3
+General prohibition on discharge of garbage into the sea
+1 Discharge of all garbage into the sea is prohibited, except as provided otherwise in regulations 4, 5, 6 and 7 of this Annex.
+2 Except as provided in regulation 7 of this Annex, discharge into the sea of all plastics, including but not limited to synthetic ropes, synthetic fishing nets, plastic garbage bags and incinerator ashes from plastic products is prohibited.
+3 Except as provided in regulation 7 of this Annex, the discharge into the sea of cooking oil is prohibited.
+Regulation 4
+Discharge of garbage outside special areas
+1 Subject to the provisions of regulations 5, 6, and 7 of this Annex, discharge of the following garbage into the sea outside special areas shall only be permitted while the ship is en route and as far as practicable from the nearest land, but in any case not less than:
+.1 3 nautical miles from the nearest land for food wastes which have been passed through a comminuter or grinder. Such comminuted or ground food wastes shall be capable of passing through a screen with openings no greater than 25 mm.
+.2 12 nautical miles from the nearest land for food wastes that have not been treated in accordance with subparagraph .1 above.
+.3 12 nautical miles from the nearest land for cargo residues that cannot be recovered using commonly available methods for unloading. These cargo residues shall not contain any substances classified as harmful to the marine environment, taking into account guidelines developed by the Organization.
+.4 For animal carcasses, discharge shall occur as far from the nearest land as possible, taking into account the guidelines developed by the Organization.
+2 Cleaning agents or additives contained in cargo hold, deck and external surfaces wash water may be discharged into the sea, but these substances must not be harmful to the marine environment, taking into account guidelines developed by the Organization.
+3 When garbage is mixed with or contaminated by other substances prohibited from discharge or having different discharge requirements, the more stringent requirements shall apply.
+Regulation 5
+Special requirements for discharge of garbage from fixed or floating platforms
+1 Subject to the provisions of paragraph 2 of this regulation, the discharge into the sea of any garbage is prohibited from fixed or floating platforms and from all other ships when alongside or within 500 m of such platforms.
+2 Food wastes may be discharged into the sea from fixed or floating platforms located more than 12 nautical miles from the nearest land and from all other ships when alongside or within 500 m of such platforms, but only when the wastes have been passed through a comminuter or grinder. Such comminuted or ground food wastes shall be capable of passing through a screen with openings no greater than 25 mm.
+Regulation 6
+Discharge of garbage within special areas
+1 Discharge of the following garbage into the sea within special areas shall only be permitted while the ship is en route and as follows:
+.1 Discharge into the sea of food wastes as far as practicable from the nearest land, but not less than 12 nautical miles from the nearest land or the nearest ice shelf. Food wastes shall be comminuted or ground and shall be capable
+of passing through a screen with openings no greater than 25 mm. Food wastes shall not be contaminated by any other garbage type. Discharge of introduced avian products, including poultry and poultry parts, is not permitted in the Antarctic area unless it has been treated to be made sterile.
+.2 Discharge of cargo residues that cannot be recovered using commonly available methods for unloading, where all the following conditions are satisfied:
+.1 Cargo residues, cleaning agents or additives, contained in hold washing water do not include any substances classified as harmful to the marine environment, taking into account guidelines developed by the Organization;
+.2 Both the port of departure and the next port of destination are within the special area and the ship will not transit outside the special area between those ports;
+.3 No adequate reception facilities are available at those ports taking into account guidelines developed by the Organization; and
+.4 Where the conditions of subparagraphs 2.1, 2.2 and 2.3 of this paragraph have been fulfilled, discharge of cargo hold washing water containing residues shall be made as far as practicable from the nearest land or the nearest ice shelf and not less than 12 nautical miles from the nearest land or the nearest ice shelf.
+2 Cleaning agents or additives contained in deck and external surfaces wash water may be discharged into the sea, but only if these substances are not harmful to the marine environment, taking into account guidelines developed by the Organization.
+3 The following rules (in addition to the rules in paragraph 1 of this regulation) apply with respect to the Antarctic area:
+.1 Each Party at whose ports ships depart en route to or arrive from the Antarctic area undertakes to ensure that as soon as practicable adequate facilities are provided for the reception of all garbage from all ships, without causing undue delay, and according to the needs of the ships using them.
+.2 Each Party shall ensure that all ships entitled to fly its flag, before entering the Antarctic area, have sufficient capacity on board for the retention of all garbage, while operating in the area and have concluded arrangements to discharge such garbage at a reception facility after leaving the area.
+4 When garbage is mixed with or contaminated by other substances prohibited from discharge or having different discharge requirements, the more stringent requirements shall apply.
+Regulation 7
+Exceptions
+1 Regulations 3, 4, 5 and 6 of this Annex shall not apply to:
+.1 The discharge of garbage from a ship necessary for the purpose of securing the safety of a ship and those on board or saving life at sea; or
+.2 The accidental loss of garbage resulting from damage to a ship or its equipment, provided that all reasonable precautions have been taken before and after the occurrence of the damage, to prevent or minimize the accidental loss; or
+.3 The accidental loss of fishing gear from a ship provided that all reasonable precautions have been taken to prevent such loss; or
+.4 The discharge of fishing gear from a ship for the protection of the marine environment or for the safety of that ship or its crew.
+2 Exception of en route:
+.1 The en route requirements of regulations 4 and 6 shall not apply to the discharge of food wastes where it is clear the retention on board of these food wastes presents an imminent health risk to the people on board.
+Regulation 8
+Reception facilities
+1 Each Party undertakes to ensure the provision of adequate facilities at ports and terminals for the reception of garbage without causing undue delay to ships, and according to the needs of the ships using them.
+2 Each Party shall notify the Organization for transmission to the Contracting Parties concerned of all cases where the facilities provided under this regulation are alleged to be inadequate.
+3 Reception facilities within special areas
+.1 Each Party, the coastline of which borders a special area, undertakes to ensure that as soon as possible, in all ports and terminals within the special area, adequate reception facilities are provided, taking into account the needs of ships operating in these areas.
+.2 Each Party concerned shall notify the Organization of the measures taken pursuant to subparagraph 3.1 of this regulation. Upon receipt of sufficient notifications the Organization shall establish a date from which the requirements of regulation 6 of this Annex in respect of the area in question are to take effect. The Organization shall notify all Parties of the date so established no less than twelve months in advance of that date. Until the date so established, ships that are navigating in a special area shall comply with the requirements of regulation 4 of this Annex as regards discharges outside special areas.
+Regulation 9
+Port State control on operational requirements1
+1 A ship when in a port or an offshore terminal of another Party is subject to inspection by officers duly authorized by such Party concerning operational requirements under this Annex, where there are clear grounds for believing that the master or crew are not familiar with essential shipboard procedures relating to the prevention of pollution by garbage.
+2 In the circumstances given in paragraph 1 of this regulation, the Party shall take such steps as will ensure that the ship shall not sail until the situation has been brought to order in accordance with the requirements of this Annex.
+3 Procedures relating to the port State control prescribed in article 5 of the present Convention shall apply to this regulation.
+4 Nothing in this regulation shall be construed to limit the rights and obligations of a Party carrying out control over operational requirements specifically provided for in the present Convention.
+Regulation 10
+Placards, garbage management plans2 and garbage record-keeping
+1 .1 Every ship of 12 m or more in length overall and fixed or floating platforms shall display placards which notify the crew and passengers of the discharge requirements of regulations 3, 4, 5 and 6 of this Annex, as applicable.
+.2 The placards shall be written in the working language of the ship's crew and, for ships engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to the Convention, shall also be in English, French or Spanish.
+2 Every ship of 100 gross tonnage and above, and every ship which is certified to carry 15 or more persons, and fixed or floating platforms shall carry a garbage management plan which the crew shall follow. This plan shall provide written procedures for minimizing, collecting, storing, processing and disposing of garbage, including the use of the equipment on board. It shall also designate the person or persons in charge of carrying out the plan. Such a plan shall be based on the guidelines developed by the Organization2 and written in the working language of the crew.
+3 Every ship of 400 gross tonnage and above and every ship which is certified to carry 15 or more persons engaged in voyages to ports or offshore terminals under the jurisdiction of another Party to the Convention and every fixed or floating platform shall be provided with a Garbage Record Book. The Garbage Record Book, whether as a part of the ship's official log-book or otherwise, shall be in the form specified in the appendix to this Annex:
+1 Refer to the Procedures for port State control adopted by the Organization by resolution A.787(19) and amended by A.882(21); see IMO sales publication IA650E.
+2
+Refer to the Guidelines for the development of garbage management plans adopted by the Marine
+Environment Protection Committee of the Organization by resolution MEPC.71(38); see MEPC/Circ.317
+and IMO sales publication IA656E.
+.1 Each discharge into the sea or to a reception facility, or a completed incineration, shall be promptly recorded in the Garbage Record Book and signed for on the date of the discharge or incineration by the officer in charge. Each completed page of the Garbage Record Book shall be signed by the master of the ship. The entries in the Garbage Record Book shall be at least in English, French or Spanish. Where the entries are also made in an official language of the State whose flag the ship is entitled to fly, the entries in that language shall prevail in case of a dispute or discrepancy;
+.2 The entry for each discharge or incineration shall include date and time, position of the ship, category of the garbage and the estimated amount discharged or incinerated;
+.3 The Garbage Record Book shall be kept on board the ship or the fixed or floating platform, and in such a place as to be readily available for inspection at all reasonable times. This document shall be preserved for a period of at least two years from the date of the last entry made in it;
+.4 In the event of any discharge or accidental loss referred to in regulation 7 of this Annex an entry shall be made in the Garbage Record Book, or in the case of any ship of less than 400 gross tonnage, an entry shall be made in the ship's official log-book, of the location, circumstances of, and the reasons for the discharge or loss, details of the items discharged or lost, and the reasonable precautions taken to prevent or minimize such discharge or accidental loss.
+4 The Administration may waive the requirements for Garbage Record Books for:
+.1 Any ship engaged on voyages of one (1) hour or less in duration which is certified to carry 15 or more persons; or
+.2 Fixed or floating platforms.
+5 The competent authority of the Government of a Party to the Convention may inspect the Garbage Record Books or ship's official log-book on board any ship to which this regulation applies while the ship is in its ports or offshore terminals and may make a copy of any entry in those books, and may require the master of the ship to certify that the copy is a true copy of such an entry. Any copy so made, which has been certified by the master of the ship as a true copy of an entry in the ship's Garbage Record Book or ship's official log-book, shall be admissible in any judicial proceedings as evidence of the facts stated in the entry. The inspection of a Garbage Record Book or ship's official log-book and the taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
+6 The accidental loss or discharge of fishing gear as provided for in regulations 7.1.3 and 7.1.3bis which poses a significant threat to the marine environment or navigation shall be reported to the State whose flag the ship is entitled to fly, and, where the loss or discharge occurs within waters subject to the jurisdiction of a coastal State, also to that coastal State.
+APPENDIX FORM OF GARBAGE RECORD BOOK
+Name of ship: _______________________ Distinctive number or letters: _______________________ IMO No.: _______________________ Period:_____________ From: _____________ To: _____________
+1 Introduction
+In accordance with regulation 10 of Annex V of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 (MARPOL), a record is to be kept of each discharge operation or completed incineration. This includes discharges into the sea, to reception facilities, or to other ships, as well as the accidental loss of garbage.
+2 Garbage and garbage management
+Garbage means all kinds of food wastes, domestic wastes and operational wastes, all plastics, cargo residues, cooking oil, fishing gear, and animal carcasses generated during the normal operation of the ship and liable to be disposed of continuously or periodically except those substances which are defined or listed in other Annexes to the present Convention. Garbage does not include fresh fish and parts thereof generated as a result of fishing activities undertaken during the voyage, or as a result of aquaculture activities which involve the transport of fish including shellfish for placement in the aquaculture facility and the transport of harvested fish including shellfish from such facilities to shore for processing.
+The Guidelines for the Implementation of Annex V of MARPOL3 should also be referred to for relevant information.
+3 Description of the garbage
+Garbage is to be grouped into categories for the purposes of the Garbage Record Book (or ship's official log-book) as follows:
+A Plastics
+B Food wastes
+C Domestic Wastes
+D Cooking Oil
+E Incinerator ashes
+F Operational wastes
+3 Refer to the Guidelines for the Implementation of Annex V of MARPOL 73/78, as amended by resolutions.
+G Cargo residues
+H Animal Carcass(es)
+I Fishing Gear4
+4 Entries in the Garbage Record Book
+4.1 Entries in the Garbage Record Book shall be made on each of the following occasions:
+4.1.1 When garbage is discharged to a reception facility5 ashore or to other ships:
+.1 Date and time of discharge .2 Port or facility, or name of ship .3 Categories of garbage discharged .4 Estimated amount discharged for each category in cubic metres .5 Signature of officer in charge of the operation.
+4.1.2 When garbage is incinerated:
+.1 Date and time of start and stop of incineration .2 Position of the ship (latitude and longitude) at the start and stop of
+incineration .3 Categories of garbage incinerated .4 Estimated amount incinerated in cubic metres .5 Signature of the officer in charge of the operation.
+4.1.3 When garbage is discharged into the sea in accordance with regulations 4, 5 or 6 of Annex V of MARPOL:
+.1 Date and time of discharge .2 Position of the ship (latitude and longitude). Note: for cargo
+residue discharges, include discharge start and stop positions. .3 Category of garbage discharged .4 Estimated amount discharged for each category in cubic metres .5 Signature of the officer in charge of the operation.
+4.1.4 Accidental or other exceptional discharges or loss of garbage into the sea, including in accordance with regulation 7 of Annex V of MARPOL:
+.1 Date and time of occurrence .2 Port or position of the ship at time of occurrence (latitude,
+longitude and water depth if known) .3 Categories of garbage discharged or lost .4 Estimated amount for each category in cubic metres .5 The reason for the discharge or loss and general remarks.
+4 Refer to Guidelines to be developed by the Organization. 5 Ship's masters should obtain from the operator of the reception facilities, which includes barges and trucks, a receipt or certificate specifying the estimated amount of garbage transferred. The receipts or certificates must be kept together with the Garbage Record Book.
+4.2 Amount of garbage
+The amount of garbage on board should be estimated in cubic metres, if possible separately according to category. The Garbage Record Book contains many references to estimated amount of garbage. It is recognized that the accuracy of estimating amounts of garbage is left to interpretation. Volume estimates will differ before and after processing. Some processing procedures may not allow for a usable estimate of volume, e.g., the continuous processing of food waste. Such factors should be taken into consideration when making and interpreting entries made in a record.
+RECORD OF GARBAGE DISCHARGES
+Ship's name: _______________________
+Distinctive No., or letters: _______________________
+IMO No.: ____________
+Garbage categories:
+A. Plastics
+B. Food wastes
+C. Domestic wastes (e.g., paper products, rags, glass, metal, bottles, crockery, etc.)
+D. Cooking oil
+E. Incinerator Ashes
+F. Operational wastes
+G. Cargo residues
+H. Animal Carcass(es)
+I. Fishing gear
+NEW TABLE LAYOUT AS BELOW:
+Master's signature:______________ Date: ____________________ *** 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

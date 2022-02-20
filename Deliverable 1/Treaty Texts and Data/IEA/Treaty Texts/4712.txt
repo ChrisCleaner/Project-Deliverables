@@ -1,0 +1,37 @@
+
+ Amendments To The International Convention On Standards Of Training, Certification And Watchkeeping For Seafarers - STCW Code (Survival Craft Competence)   
+     Filename: 2004-AmendmentsSurvivalCraftCompetenceCode-1978-StandardsSeafarers.EN.txt 
+ Source: http://www.imo.org/blast/blastDataHelper.asp?data_id=15553&amp%3Bfilename=180%28…     
+    ﻿Adoption Of Amendments To The Seafarers' Training, Certification And Watchkeeping (STCW) Code
+Source: http://www.imo.org/blast/blastDataHelper.asp?data_id=15553&amp;filename=180%..., downloaded 20120215
+RESOLUTION MSC.180(79) (adopted on 9 December 2004)
+THE MARITIME SAFETY COMMITTEE,
+RECALLING Article 28(b) of the Convention on the International Maritime Organization concerning the functions of the Committee,
+RECALLING FURTHER article XII and regulation I/1.2.3 of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978 (hereinafter referred to as "the Convention") concerning the procedures for amending Part A of the Seafarers' Training, Certification and Watchkeeping (STCW) Code,
+HAVING CONSIDERED, at its seventy-ninth session, amendments to Part A of the STCW Code proposed and circulated in accordance with article XII(1)(a)(i) of the Convention,
+1. ADOPTS, in accordance with article XII(1)(a)(iv) of the Convention, amendments to the STCW Code, the text of which is set out in the Annex to the present resolution;
+2. DETERMINES, in accordance with article XII(1)(a)(vii)(2) of the Convention, that the said amendments to the STCW Code shall be deemed to have been accepted on 1 January 2006 unless, prior to that date, more than one third of Parties to the Convention or Parties the combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's merchant shipping of ships of 100 gross tonnage or more, have notified their objections to the amendments;
+3. INVITES Parties to the Convention to note that, in accordance with article XII(1)(a)(ix) of the Convention, the annexed amendments to the STCW Code shall enter into force on 1 July 2006 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article XII(1)(a)(v) of the Convention, to transmit certified copies of the present resolution and the text of the amendments contained in the Annex to all Parties to the Convention;
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and its Annex to Members of the Organization, which are not Parties to the Convention.
+ANNEX
+AMENDMENTS TO THE SEAFARERS' TRAINING, CERTIFICATION AND WATCHKEEPING (STCW) CODE
+Table A-VI/2-1 - Specifications of minimum standards of competence in survival crafts and rescue boats other than fast rescue boats.
+With respect to Competence "Take charge of a survival craft or rescue boat during and after launch" (Column 1) amend as follows:
+1. In column 2, the following two items are added at the end of the seventh paragraph: "Dangers associated with the use of on-load release devices" "Knowledge of maintenance procedures"
+2. In column 3, the following additional text is added at the end of subparagraph .4: "and operate off-load and on-load release devices."
+3. In column 3, the following additional text is added at the end of the present text of subparagraph .5:
+"including the proper resetting of both off-load and on-load release devices."
+4. In column 4, the following new item is added at the end of the third paragraph:
+"Equipment is operated in accordance with manufacturers' instructions for release and resetting." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

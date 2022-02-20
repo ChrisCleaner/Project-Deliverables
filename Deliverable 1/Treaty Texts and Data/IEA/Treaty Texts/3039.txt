@@ -1,0 +1,1424 @@
+
+ Amendments To Annex II Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1989-AmendmentsAnnexII-1973-PollutionFromShips.EN.txt 
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/1990/51.html     
+    ﻿Adoption Of Amendments To The Annex Of The Protocol Of 1978 Relating To The International Convention For The Prevention Of Pollution From Ships, 1973 (Appendices II and III of Annex II of MARPOL 73/78) [Resolution MEPC.34(27) adopted on 17 March 1989
+Source: http://www.austlii.edu.au/au/other/dfat/treaties/1990/51.html, downloaded 20061227
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the function of the Committee conferred upon it by International Convention for the Prevention and Control of Marine Pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol"), which together specify the amendment procedure of the 1978 Protocol and confers upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+BEING DESIROUS of keeping appendices II and III of Annex II of MARPOL 73/78 up to date and compatible with the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC Code) and the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (BCH Code),
+NOTING FURTHER resolution MEPC.32(27) by which the Committee adopted amendments to the IBC Code,
+RECOGNIZING the need to bring the corresponding amendments to appendices II and III of Annex II of MARPOL 73/78 into force on the date on which the amendments to the IBC Code enter into force,
+HAVING CONSIDERED, at its twenty-seventh session, the amendments to appendices II and III of Annex II of MARPOL 73/78 proposed by the Sub-Committee on Bulk Chemicals at its eighteenth session and circulated in accordance with article 16(2)(a) of the 1973 Convention,
+ADOPTS in accordance with article 16(2)(d) of the 1973 Convention amendments to appendices II and III of Annex II of MARPOL 73/78, the text of which is set out in the Annex to the present resolution;
+DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on the date on which the conditions for the entry into force of the amendments to the IBC Code adopted by the Committee by resolution MEPC.32(27) are met, unless prior to that date, not less than one third of the Parties or the Parties, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments;
+INVITES the Parties to note that in accordance with article 16(2)(g)(ii) of the 1973 Convention the amendments shall enter into force six months after their acceptance in accordance with paragraph 2 above;
+REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1978 Protocol certified copies of the present resolution and the text of the amendments contained in the Annex;
+REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the resolution and its Annex.
+ANNEX
+AMENDMENTS TO APPENDICES II AND III OF ANNEX II OF MARPOL 73/78
+The lists contained in Appendices II and III of Annex II of MARPOL 73/78 are replaced by the following:
+APPENDIX II
+[Editor's note: Properly-formatted table of chemicals available in original document. http://www.austlii.edu.au/au/other/dfat/treaties/1990/51.html ]
+Pollution Category in brackets indicates that the substance has been provisionally included in this list and that further data are necessary in order to complete the evaluation of its environmental hazards, particularly in relation to living resources. Until the hazard evaluation is completed the Pollution Category assigned shall be used.
+Substance
+I
+II
+III
+IV
+Acetaldehyde
+1089
+C
+Acetic acid
+2789
+D
+Acetic anhydride
+D
+Acetone cyanohydrin
+1541
+A
+0.1
+0.05
+Acrylamide solution (50% or less)
+2074
+D
+Acrylic acid
+2218
+D
+Acrylonitrile
+1093
+B
+Adiponitrile
+2205
+D
+Alcohol (C12-C15) poly(1-3)ethoxylates
+A
+0.1
+0.05
+Alcohol (C12-C15) poly(3-11)ethoxylates
+A
+0.1
+0.05
+Alcohol (C6-C17) (secondary) poly(3-6)ethoxylates
+A
+0.1
+0.05
+Alcohol (C6-C17) (secondary) poly(7-12)ethoxylates
+B
+Alkyl acrylate-Vinyl pyridine copolymer in toluene
+C
+Alkyl (C9-C17) benzenes
+(D)
+Alkyl benzene sulphonic acid
+2584, 2586
+C
+Alkyl benzene sulphonic acid, sodium salt solution
+C
+Allyl alcohol
+1098
+B
+Allyl chloride
+1100
+B
+Aluminium chloride (30% or less)/Hydrochloric acid (20% or less) solution
+D
+Aluminium sulphate solution
+D
+2-(2-Aminoethoxy) ethanol
+3055
+D
+Aminoethyl ethanolamine
+(D)
+N-Aminoethylpiperazine
+2815
+D
+2-Amino-2-methyl-1-propanol (90% or less)
+D
+Ammonia aqueous (28% or less)
+2672*
+C
+Ammonium nitrate solution (93% or less)
+D
+Ammonium sulphate solution
+D
+Ammonium sulphide solution (45% or less)
+2683
+B
+Ammonium thiocyanate (25% or less)/Ammonium thiosulphate (20% or less) solution
+(C)
+Ammonium thiosulphate solution (60% or less)
+(C)
+n-Amyl acetate
+1104
+C
+sec-Amyl acetate
+1104
+C
+Amyl acetate, commercial
+1104
+C
+n-Amyl alcohol
+1105
+D
+sec-Amyl alcohol
+1105
+D
+Amyl alcohol, primary
+1105
+D
+Aniline
+1547
+C
+Animal and fish oils, n.o.s. including: Cod liver oil, Sperm oil
+D
+Aviation alkylates (C8 paraffins and iso-paraffins BPT 95-120°C)
+(C)
+Benzene and mixtures having 10% benzene or more
+1114**
+C
+Benzene sulphonyl chloride
+2225
+D
+Benzyl acetate
+C
+Benzyl alcohol
+C
+Benzyl chloride
+1738
+B
+Brake fluid base mix: (Poly(2-8) alkylene (C2-C3) glycols/Polyalkylene (C2-C10) glycols monoalkyl (C1-C4) ethers and their borate esters)
+D
+Butene oligomer
+B
+n-Butyl acetate
+1123
+C
+sec-Butyl acetate
+1123
+D
+n-Butyl acrylate
+2348
+B
+Butylamine (all isomers)
+C
+Butylbenzenes (all isomers)
+2709
+(A)
+0.1
+0.05
+Butyl benzyl phthalate
+A
+0.1
+0.05
+n-Butyl butyrate
+(C)
+Butyl/Decyl/Cetyl/Eicosyl methacrylate mixture
+D
+Butylene glycol
+D
+1,2-Butylene oxide
+3022
+C
+n-Butyl ether
+1149
+C
+Butyl lactate
+D
+Butyl methacrylate
+D
+n-Butyraldehyde
+1129
+B
+Butyric acid
+2820
+D
+gamma-Butyrolactone
+D
+Calcium alkyl salicylate
+C
+Calcium hydroxide slurry
+D
+Calcium hypochlorite solution (15% or less)
+C
+Calcium hypochlorite solution (more than 15%)
+B
+Calcium naphthenate in mineral oil
+A
+0.1
+0.05
+Camphor oil
+1130
+B
+epsilon-Caprolactam (molten or aqueous solutions)
+D
+Carbolic oil
+A
+0.1
+0.05
+Carbon disulphide
+1131
+B
+Carbon tetrachloride
+1846
+B
+Cashew nut shell oil (untreated)
+D
+Chlorinated paraffins (C10-C13)
+A
+0.1
+0.05
+Chloroacetic acid (80% or less)
+1750
+C
+Chlorobenzene
+1134
+B
+Chloroform
+1888
+B
+Chlorohydrins (crude)
+(D)
+o-Chloronitrobenzene
+1578
+B
+2- or 3-Chloropropionic acid
+(C)
+Chlorosulphonic acid
+1754
+C
+m-Chlorotoluene
+2238
+B
+o-Chlorotoluene
+2238
+A
+0.1
+0.05
+p-Chlorotoluene
+2238
+B
+Chlorotoluenes (mixed isomers)
+2238
+A
+0.1
+0.05
+Choline chloride solutions
+D
+Citric acid
+D
+Coal tar
+A
+0.1
+0.05
+Coal tar naphtha solvent
+B
+Coal tar pitch (molten)
+D
+Cobalt naphthenate in solvent naphtha
+A
+0.1
+0.05
+Coconut oil fatty acid
+C
+Coconut oil fatty acid methyl ester
+D
+Creosote (coal tar)
+A
+0.1
+0.05
+Creosote (wood)
+A
+0.1
+0.05
+Cresols (all isomers)
+2076
+A
+0.1
+0.05
+Cresylic acid, sodium salt solution
+A
+0.1
+0.05
+Crotonaldehyde
+1143
+B
+Cycloheptane
+2241
+(C)
+Cyclohexane
+1145
+C
+Cyclohexanol
+C
+Cyclohexanone
+1915
+D
+Cyclohexyl acetate
+(B)
+Cyclohexylamine
+2357
+C
+1,3-Cyclopentadiene dimer (molten)
+B
+Cyclopentane
+1146
+(C)
+Cyclopentene
+(B)
+p-Cymene
+2046
+C
+Decahydronaphthalene
+1147
+(D)
+Decanoic acid
+C
+Decene
+B
+Decyl acrylate
+A
+0.1
+0.05
+Decyl alcohol (all isomers)
+B
+Decylbenzene
+D
+Diacetone alcohol
+1148
+D
+Dialkyl (C7-C13) phthalates
+D
+Dibutylamine
+C
+Dibutyl phthalate
+A
+0.1
+0.05
+Dichlorobenzenes (all isomers)
+1592
+B
+1,1-Dichloroethane
+2362
+B
+Dichloroethyl ether
+1916
+B
+1,6-Dichlorohexane
+B
+2,2'-Dichloroisopropyl ether
+2490
+C
+Dichloromethane
+1593
+D
+2,4-Dichlorophenol
+2021
+A
+0.1
+0.05
+2,4-Dichlorophenoxyacetic acid, diethanolamine salt solution
+A
+0.1
+0.05
+2,4-Dichlorophenoxyacetic acid, dimethylamine salt solution (70% or less)
+A
+0.1
+0.05
+2,4-Dichlorophenoxyacetic acid, triisopropanolamine salt solution
+A
+0.1
+0.05
+1,1-Dichloropropane
+B
+1,2-Dichloropropane
+1279
+B
+1,3-Dichloropropane
+B
+1,3-Dichloropropene
+2047
+B
+Dichloropropene/Dichloropropane mixtures
+B
+2,2-Dichloropropionic acid
+D
+Diethylamine
+1154
+C
+Diethylaminoethanol
+2686
+C
+Diethylbenzene
+2049
+C
+Diethylene glycol butyl ether acetate
+(D)
+Diethylene glycol dibutyl ether
+D
+Diethylene glycol ethyl ether acetate
+(D)
+Diethylene glycol methyl ether
+C
+Diethylene glycol methyl ether acetate
+(D)
+Diethylenetriamine
+2079
+D
+Di-(2-ethylhexyl) adipate
+D
+Di-(2-ethylhexyl) phosphoric acid
+1902
+C
+Diethyl phthalate
+C
+Diethyl sulphate
+1594
+(B)
+Diglycidyl ether of bisphenol A
+B
+Diglycidyl ether of bisphenol F
+B
+Di-n-hexyl adipate
+B
+1,4-Dihydro-9,10-dihydroxy anthracene, disodium salt solution
+D
+Diisobutylamine
+2361
+(C)
+Diisobutylene
+2050
+B
+Diisobutyl ketone
+1157
+D
+Diisobutyl phthalate
+B
+Diisodecyl phthalate
+D
+Diisononyl adipate
+D
+Diisopropanolamine
+C
+Diisopropylamine
+1158
+C
+Diisopropylbenzene (all isomers)
+A
+0.1
+0.05
+Diisopropyl naphthalene
+D
+N,N-Dimethylacetamide solution (40% or less)
+D
+Dimethyl adipate
+B
+Dimethylamine solution (45% or less)
+1160
+C
+Dimethylamine solution (greater than 45% but not greater than 55%)
+1160
+C
+Dimethylamine solution (greater than 55% but not greater than 65%)
+1160
+C
+N,N-Dimethylcyclohexylamine
+2264
+C
+Dimethylethanolamine
+2051
+D
+Dimethylformamide
+2265
+D
+Dimethyl glutarate
+C
+Dimethyl octanoic acid
+(C)
+Dimethyl phthalate
+C
+2,2-Dimethylpropane-1,3-diol
+(D)
+Dimethyl succinate
+C
+Dinitrotoluene (molten)
+1600
+B
+Dinonyl phthalate
+D
+1,4-Dioxane
+1165
+D
+Dipentene
+2052
+C
+Diphenyl
+A
+0.1
+0.05
+Diphenyl/Diphenyl ether mixtures
+A
+0.1
+0.05
+Diphenyl ether
+A
+0.1
+0.05
+Diphenyl ether/Diphenyl phenyl ether mixture
+A
+0.1
+0.05
+Diphenylmethane diisocyanate
+2489
+(B)
+Diphenylol propane-epichlorohydrin resins
+B
+Di-n-propylamine
+2383
+C
+Dipropylene glycol methyl ether
+(D)
+Ditridecyl phthalate
+D
+Diundecyl phthalate
+D
+Dodecene (all isomers)
+(B)
+Dodecenyl succinic acid, dipotassium salt solution
+(D)
+Dodecyl alcohol
+B
+Dodecyl diphenyl ether disulphonate solution
+B
+Dodecyl phenol
+A
+0.1
+0.05
+Drilling brines, containing Zinc salts
+(A)
+0.1
+0.05
+Epichlorohydrin
+2023
+C
+Ethanolamine
+2491
+D
+2-Ethoxyethanol
+1171
+D
+2-Ethoxyethyl acetate
+1172
+C
+Ethyl acetate
+1173
+D
+Ethyl acetoacetate
+(D)
+Ethyl acrylate
+1917
+A
+0.1
+0.05
+Ethylamine
+1036
+(C)
+Ethylamine solutions (72% or less)
+2270
+(C)
+Ethyl amyl ketone
+2271
+C
+Ethylbenzene
+1175
+C
+N-Ethylbutylamine
+(C)
+Ethyl butyrate
+1180
+C
+Ethylcyclohexane
+(C)
+N-Ethylcyclohexylamine
+D
+Ethylene chlorohydrin
+1135
+C
+Ethylene cyanohydrin
+(D)
+Ethylenediamine
+1604
+C
+Ethylenediamine, Tetraacetic acid, Tetrasodium salt solution
+D
+Ethylene dibromide
+1605
+B
+Ethylene dichloride
+1184
+B
+Ethylene glycol
+D
+Ethylene glycol acetate
+(D)
+Ethylene glycol butyl ether acetate
+(C)
+Ethylene glycol diacetate
+C
+Ethylene glycol isopropyl ether
+D
+Ethylene glycol methyl butyl ether
+D
+Ethylene glycol methyl ether
+1188
+D
+Ethylene glycol methyl ether acetate
+1189
+D
+Ethylene glycol phenyl ether
+D
+Ethylene glycol phenyl ether/Diethylene glycol phenyl ether mixture
+D
+Ethylene oxide/Propylene oxide mixture with an Ethylene oxide content of not more than 30% in weight
+2983
+D
+2-Ethylhexanoic acid
+D
+2-Ethylhexyl acrylate
+B
+2-Ethylhexylamine
+2276
+B
+Ethylidene norbornene
+B
+Ethyl methacrylate
+2277
+(D)
+o-Ethylphenol
+(A)
+0.1
+0.05
+Ethyl propionate
+1195
+D
+2-Ethyl-3-propylacrolein
+(B)
+Ethyltoluene
+(B)
+Ferric chloride solutions
+2582
+C
+Ferric hydroxyethyl ethylenediamine triacetic acid, trisodium salt solution
+D
+Ferric nitrate/Nitric acid solution
+C
+Formaldehyde solutions (45% or less)
+1198, 2209
+C
+Formamide
+D
+Formic acid
+1779
+D
+Fumaric adduct of rosin, water dispersion
+B
+Furfural
+1199
+C
+Furfuryl alcohol
+2874
+C
+Glutaraldehyde solutions (50% or less)
+D
+Glycidyl ester of C10 trialkylacetic acid
+B
+Glyoxal solution (40% or less)
+D
+Heptane (all isomers)
+1206
+(C)
+n-Heptanoic acid
+(D)
+Heptanol (all isomers)
+C
+Heptene (all isomers)
+C
+Heptyl acetate
+(B)
+Hexamethylenediamine adipate (50% in water)
+D
+Hexamethylenediamine solution
+1783
+C
+Hexamethyleneimine
+2493
+C
+Hexamethylenetetramine solutions
+D
+Hexane (all isomers)
+1208
+(C)
+Hexanoic acid
+D
+Hexanol
+2282
+D
+Hexene (all isomers)
+(C)
+Hexyl acetate
+1233
+B
+Hydrochloric acid
+1789
+D
+Hydrogen peroxide solutions (over 8% but not over 60%)
+2014, 2984
+C
+Hydrogen peroxide solutions (over 60% but not over 70%)
+2015
+C
+2-Hydroxyethyl acrylate
+B
+N-(Hydroxyethyl) ethylenediamine triacetic acid, trisodium salt solution
+D
+Isoamyl acetate
+1104
+C
+Isoamyl alcohol
+1105
+D
+Isobutyl acetate
+1213
+C
+Isobutyl acrylate
+2527
+B
+Isobutyl formate
+2393
+D
+Isobutyraldehyde
+2045
+C
+Isophorone
+D
+Isophoronediamine
+2289
+D
+Isophorone diisocyanate
+2290
+B
+Isoprene
+1218
+C
+Isopropanolamine
+C
+Isopropylamine
+1221
+C
+Isopropylbenzene
+1918
+B
+Isopropylcyclohexane
+(C)
+Isopropyl ether
+1159
+D
+Isovaleraldehyde
+2058
+C
+Lactic acid
+D
+Lactonitrile solution (80% or less)
+B
+Latex (ammonia inhibited)
+D
+Lauric acid
+B
+Maleic anhydride
+2215
+D
+Mercaptobenzothiazol, sodium salt solution
+B
+Mesityl oxide
+1229
+D
+Metam sodium solution
+A
+0.1
+0.05
+Methacrylic acid
+2531
+D
+Methacrylic resin in 1,2-Dichloroethane solution
+B
+Methacrylonitrile
+3079
+(B)
+3-Methoxybutyl acetate
+2708
+D
+Methyl acetoacetate
+D
+Methyl acrylate
+1919
+B
+Methylamine solutions (42% or less)
+1235
+C
+Methylamyl acetate
+1233
+(C)
+Methylamyl alcohol
+2053
+(C)
+Methyl amyl ketone
+1110
+(C)
+Methyl butenol
+(D)
+Methyl tert-butyl ether
+2398
+D
+Methyl butyl ketone
+D
+Methyl butynol
+D
+Methyl butyrate
+1237
+(C)
+Methylcyclohexane
+2296
+(C)
+Methylcyclopentadiene dimer
+(B)
+2-Methyl-6-ethyl aniline
+C
+2-Methyl-5-ethyl pyridine
+2300
+(B)
+Methyl formate
+1243
+D
+Methyl heptyl ketone
+B
+Methyl isobutyl ketone
+1245
+D
+Methyl methacrylate
+1247
+D
+Methylnapthalene
+A
+0.1
+0.05
+2-Methyl-1-pentene
+2288
+C
+Methyl propyl ketone
+D
+2-Methylpyridine
+2313
+B
+4-Methylpyridine
+2313
+B
+N-Methyl-2-pyrrolidone
+B
+Methyl salicylate
+(B)
+alpha-Methylstyrene
+2303
+A
+0.1
+0.05
+Morpholine
+2054
+D
+Motor fuel anti-knock compounds
+1649
+A
+0.1
+0.05
+Naphthalene (molten)
+2304
+A
+0.1
+0.05
+Naphthalene sulphonic acid-formaldehyde copolymer, sodium salt solution
+D
+Naphthenic acids
+A
+0.1
+0.05
+Neodecanoic acid
+C
+Nitrating acid (mixture of sulphuric and nitric acids)
+1796
+(C)
+Nitric acid (less than 70%)
+2031
+C
+Nitric acid (70% and over)
+2031, 2032
+C
+Nitrilotriacetic acid, trisodium salt solution
+D
+Nitrobenzene
+1662
+B
+o-Nitrophenol (molten)
+1663
+B
+1- or 2-Nitropropane
+2608
+D
+Nitropropane (60%)/Nitroethane (40%) mixture
+1993
+D
+o- or p-Nitrotoluenes
+1664
+C
+Nonane (all isomers)
+1920
+(C)
+Nonanoic acid (all isomers)
+D
+Nonene
+B
+Nonyl alcohol (all isomers)
+C
+Nonyl methacrylate monomer
+(D)
+Nonylphenol
+A
+0.1
+0.05
+Nonyl phenol poly(4-12)ethoxylates
+B
+Octane (all isomers)
+1262
+(C)
+Octanoic acid (all isomers)
+D
+Octanol (all isomers)
+C
+Octene (all isomers)
+B
+n-Octyl acetate
+D
+Octyl aldehydes
+(B)
+Octyl nitrates (all isomers)
+A
+0.1
+0.05
+Olefin mixtures (C5-C7)
+C
+Olefin mixtures (C5-C15)
+B
+alpha-Olefins (C6-C18) mixtures
+B
+Oleic acid
+D
+Oleum
+1831
+C
+Palm nut oil fatty acid
+(C)
+Palm oil fatty acid methyl ester
+D
+Palm stearin
+D
+Paraldehyde
+1264
+C
+Pentachloroethane
+1669
+B
+1,3-Pentadiene
+C
+Pentaethylenehexamine
+D
+Pentane (all isomers)
+1265
+(C)
+Pentanoic acid
+D
+Pentene (all isomers)
+C
+Perchloroethylene
+1897
+B
+Phenol
+2312
+B
+1-Phenyl-1-xylyl ethane
+C
+Phosphoric acid
+1805
+D
+Phosphorus, yellow or white
+1381, 2447
+A
+0.01
+0.005
+Phthalic anhydride (molten)
+2214
+C
+Pinene
+2368
+B
+Polyalkylene glycol butyl ether
+D
+Polyethylene polyamines
+2734, 2735
+(C)
+Polyferric sulphate solution
+(C)
+Polymethylene polyphenyl isocyanate
+2207
+D
+Polypropylene glycol
+D
+Potassium hydroxide solution
+1814
+C
+n-Propanolamine
+C
+beta-Propiolactone
+D
+Propionaldehyde
+1275
+D
+Propionic acid
+1848
+D
+Propionic anhydride
+2496
+C
+Propionitrile
+2404
+C
+n-Propyl acetate
+1276
+D
+n-Propylamine
+1277
+C
+n-Propylbenzene
+2364
+(C)
+n-Propyl chloride
+B
+Propylene dimer
+(C)
+Propylene glycol ethyl ether
+(D)
+Propylene glycol methyl ether
+(D)
+Propylene glycol monoalkyl ether
+(D)
+Propylene oxide
+1280
+D
+Propylene tetramer
+2850
+B
+Propylene trimer
+2057
+B
+Pyridine
+1282
+D
+Rosin
+B
+Rosin soap (disproportionated) solution
+B
+Silicon tetrachloride
+D
+Sodium aluminate solution
+C
+Sodium borohydride (15% or less)/Sodium hydroxide solution
+C
+Sodium carbonate solution
+D
+Sodium dichromate solution (70% or less)
+C
+Sodium hydrogen sulphite solution (35% or less)
+2693
+D
+Sodium hydrosulphide/Ammonium sulphide solution
+B
+Sodium hydrosulphide solution (45% or less)
+2949
+B
+Sodium hydroxide solution
+1824
+D
+Sodium hypochlorite solution (15% or less)
+1791
+C
+Sodium nitrite solution
+1577
+B
+Sodium silicate solution
+D
+Sodium sulphide solution
+B
+Sodium sulphite solution
+C
+Sodium thiocyanate solution (56% or less)
+(B)
+Styrene monomer
+2055
+B
+Sulpholane
+D
+Sulphuric acid
+1830
+C
+Sulphuric acid, spent
+1832
+C
+Tall oil (crude and distilled)
+B
+Tall oil fatty acid (resin acids less than 20%)
+(C)
+Tall oil soap (disproportionated) solution
+B
+Tallow
+D
+Tallow fatty acid
+(D)
+Tetrachloroethane
+1702
+B
+Tetraethylene pentamine
+2320
+D
+Tetrahydrofuran
+2056
+D
+Tetrahydronaphthalene
+C
+1,2,3,5-Tetramethylbenzene
+(C)
+Titanium tetrachloride
+1838
+D
+Toluene
+1294
+C
+Toluenediamine
+1709
+C
+Toluene diisocyanate
+2078
+C
+o-Toluidine
+1708
+C
+Tributyl phosphate
+B
+1,2,4-Trichlorobenzene
+2321
+B
+1,1,1-Trichloroethane
+2831
+B
+1,1,2-Trichloroethane
+B
+Trichloroethylene
+1710
+B
+1,2,3-Trichloropropane
+B
+1,1,2-Trichloro-1,2,2-trifluoroethane
+C
+Tricresyl phosphate (containing less than 1% ortho-isomer)
+A
+0.1
+0.05
+Tricresyl phosphate (containing 1% or more ortho-isomer)
+2574[dagger]
+A
+0.1
+0.05
+Triethanolamine
+D
+Triethylamine
+1296
+C
+Triethylbenzene
+A
+0.1
+0.05
+Triethylene glycol ethyl ether
+(D)
+Triethylene glycol methyl ether
+(D)
+Triethylenetetramine
+2259
+D
+Trimethylacetic acid
+D
+Trimethylamine
+C
+Trimethyl benzenes (all isomers)
+B
+Trimethylhexamethylene diamine (2,2,4- and 2,4,4-isomers)
+2327
+D
+Trimethylhexamethylene diisocyanate (2,2,4- and 2,4,4-isomers)
+2328
+B
+Trimethylol propane polyethoxylate
+D
+2,2,4-Trimethyl-1,3-pentanediol-1-isobutyrate
+C
+Tripropylene glycol methyl ether
+(D)
+Trixylyl phosphate
+A
+0.1
+0.05
+Turpentine
+1299
+B
+Undecanoic acid
+(C)
+1-Undecene
+B
+Undecyl alcohol
+B
+Urea/Ammonium mono- and di-hydrogen phosphite/Potassium chloride solution
+(D)
+Urea/Ammonium nitrate solution
+D
+Urea/Ammonium nitrate solution (containing aqua Ammonia)
+C
+Urea/Ammonium phosphate solution
+D
+n-Valeraldehyde
+2058
+D
+Vegetable oil, n.o.s., including: Castor oil, Coconut oil, Corn oil, Cottonseed oil, Groundnut oil, Linseed oil, Olive oil, Palm nut oil, Palm oil, Rape seed oil, Rice bran oil, Safflower oil, Sesame oil, Soya bean oil, Sunflower oil, Tung oil
+D
+Vinyl acetate
+1301
+C
+Vinyl ethyl ether
+1302
+C
+Vinylidene chloride
+1303
+B
+Vinyl neodecanoate
+B
+Vinyltoluene
+2618
+A
+0.1
+0.05
+White spirit, low (15-20%) aromatic
+1300
+(B)
+Xylenes
+1307
+C
+Xylenol
+2261
+B
+* UN number refers to 10-35%.
+** UN number 1114 applies to Benzene.
+[dagger] UN number 2574 applies to Tricresyl phosphate containing more than 3% ortho-isomer.
+APPENDIX III
+Editor's note: Properly-formatted table of chemicals available in original document. http://www.austlii.edu.au/au/other/dfat/treaties/1990/51.html]
+Substance
+UN number
+Acetone
+1090
+Acetonitrile
+1648
+Alcoholic beverages, n.o.s.
+Alcohols (C13 and above)
+Aminoethyldiethanolamine/Aminoethylethanolamine solution
+2-Amino-2-hydroxymethyl-1,3-propanediol solution (40% or less)
+tert-Amyl alcohol
+1105
+Apple juice
+Behenyl alcohol
+Benzene tricarboxylic acid, trioctyl ester
+n-Butyl alcohol
+1120
+sec-Butyl alcohol
+1120
+tert-Butyl alcohol
+1120
+Butyl stearate
+Calcium carbonate slurry
+Calcium nitrate/Magnesium nitrate/Potassium chloride solution
+Cetyl/Eicosyl methacrylate mixture
+Cetyl/Stearyl alcohol
+Chlorinated paraffins (C14-C17) (with 52% chlorine)
+Clay slurry
+Coal slurry
+Dextrose solution
+Diethanolamine
+Diethyl ether
+1155
+Diethylene glycol
+Diethylene glycol butyl ether
+Diethylene glycol diethyl ether
+Diethylene glycol ethyl ether
+Diethylenetriamine pentaacetic acid, pentasodium salt solution
+Diheptyl phthalate
+Dihexyl phthalate
+Diisooctyl phthalate
+Dioctyl phthalate
+Dipropylene glycol
+Dodecane (all isomers)
+Dodecyl benzene
+Dodecyl methacrylate
+Dodecyl/Pentadecyl methacrylate mixture
+Drilling brines: Calcium bromide solution, Calcium chloride solution, Sodium chloride solution
+Ethyl alcohol
+1170
+Ethylene carbonate
+Ethylene glycol butyl ether
+2369
+Ethylene glycol tert-butyl ether
+Ethylene-Vinyl acetate copolymer (emulsion)
+Fatty acid (saturated, C13 and above)
+Glucose solution
+Glycerine
+Glycerol polyalkoxylate
+Glyceryl triacetate
+Glycine, sodium salt solution
+Hexamethylene glycol
+Hexylene glycol
+Isobutyl alcohol
+1212
+Isopropyl acetate
+1220
+Isopropyl alcohol
+1219
+Kaolin slurry
+Lard
+Latex: Carboxylated styrene-Butadiene copolymer, Styrene-butadiene rubber
+Lignin sulphonic acid, sodium salt solution
+Magnesium chloride solution
+Magnesium hydroxide slurry
+3-Methoxy-1-butanol
+Methyl acetate
+1231
+Methyl alcohol
+1230
+Methyl ethyl ketone
+2-Methyl-2-hydroxy-3-butyne
+3-Methyl-3-methoxy butanol
+3-Methyl-3-methoxy butyl acetate
+Molasses
+Octyl decyl adipate
+alpha-Olefins (C13-C18)
+Olefins (C13 and above, all isomers)
+n-Paraffins (C10-C20)
+Paraffin wax
+Petrolatum
+Polyaluminium chloride solution
+Polybutene
+Polyethylene glycol dimethyl ether
+Polyethylene glycols
+Polypropylene glycol methyl ether
+Polysiloxane
+n-Propyl alcohol
+Propylene glycol
+Propylene-butylene copolymer
+Sodium alumino silicate slurry
+Sodium chlorate solution (50% or less)
+2428
+Sorbitol solution
+Sulphur (molten)
+2448
+Tetraethylene glycol
+Tridecane
+Tridecanoic acid
+Triethylene glycol
+Triethylene glycol butyl ether
+Triisopropanolamine
+Tripropylene glycol
+Urea formaldehyde resin solution
+Urea solution
+Vegetable protein solution (hydrolyzed)
+Water 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

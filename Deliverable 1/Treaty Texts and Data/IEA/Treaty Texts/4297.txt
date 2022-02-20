@@ -1,0 +1,114 @@
+
+ Amendments To Regulation 13g, Addition Of New Regulation 13h And Consequential Amendments To The Supplement To The Iopp Certificate Of Annex I To The Annex Of The Protocol Of 1978 Relating To The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2003-AmendmentsAnnexIreg13G13H-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D15714/111%2850%29.pdf     
+    ﻿Amendments To Regulation 13g, Addition Of New Regulation 13h And Consequential Amendments To The Supplement To The Iopp Certificate Of Annex I To The Annex Of The Protocol Of 1978 Relating To The International Convention For The Prevention Of Pollution From Ships, 1973
+Source: 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+HAVING CONSIDERED the proposed amendments to regulation 13G and consequential amendments to the Supplement (Form B) of the IOPP Certificate of Annex Ito MARPOL 73/38,
+HAVING ALSO CONSIDERED the proposed new regulation 13H of Annex I to MARPOL 73/78,
+1. ADOPTS, in accordance with article I6(2)(d) of the 1973 Convention, the amendments to Annex I of MARPOL 73/78, the text of which is set out at annexes 1, 2, 3 and 4 to the present resolution, each of which being subject to separate consideration by the Parties pursuant to Article 16(2)(f)(ii) of the 1973 Convention;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 4 October 2004 unless, prior to that date, not less than one-third of the Parties or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 5 April 2005 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments contained in the annexes; and
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to MARPOL 73/78 copies of the present resolution and its annexes.
+ANNEX I
+AMENDMENTS TO ANNEX I OF MARPOL 73/78 The existing regulation 13G is replaced by the following:
+"Regulation 13G
+Prevention of accidental oil pollution - Measures for existing oil tankers (I) Unless expressly provided otherwise this regulation shall:
+(a) apply to oil tankers of 5,000 tons deadweight and above, which are contracted, the keels of which are Iaid, or which are delivered before the dates specified in regulation 13F(1) of this Annex; and
+(b) not apply to oil tankers complying with regulation 13F of this Annex, which are contracted, the keels of which are laid, or are delivered before the dates specified in regulation 13F(1) of this Annex; and
+(c) not apply to oil tankers covered by subparagraph (a) above which comply with regulation 13F(3)(a) and (b) or 13F(4) or 13F(5) of this Annex, except that the requirement for minimum distances between the cargo tank boundaries and the ship side and bottom plating need not be met in all respects. In that event, the side protection distances shall not be less than those specified in the International Bulk Chemical Code for type 2 cargo tank location and the bottom protection distances at centreline shall comply with regulation 13E(4)(b) of this Annex.
+(2) For the purpose of this regulation:
+(a) "Heavy diesel oil" means diesel oil other than those distillates of which more than 50 per cent by volume distils at a temperature not exceeding 340°C when tested by the method acceptable to the Organization'.
+(b) "Fuel oil" means heavy distillates or residues from crude oil or blends of such materials intended for use as a fuel for the production of heat or power of a quality equivalent to the specification acceptable to the Organization.
+(3) For the purpose of this regulation, oil tankers are divided into the following categories:
+(a) "Category 1 oil tanker" means an oil tanker of 20,000 tons deadweight and above carrying crude oil, fuel oil, heavy diesel oil or lubricating oil as cargo, and of 30,000 tons deadweight and above carrying oil other than the above, which does not comply with the requirements for new oil tankers as defined in regulation 1(26) of this Annex;
+(b) "Category 2 oil tanker" means an oil tanker of 20,000 tons deadweight and above carrying crude oil, fuel oil, heavy diesel oil or lubricating oil as cargo, and of 30,000 tons deadweight and above carrying oil other than the above, which
+1 Refer to the American Society for Testing and Material's Standard Test Method (Designation D86).
+2 Refer to the American Society for Testing and Material's Specification for Number Four Fuel Oil (Designation D396) or
+heavier.
+complies with the requirements for new oil tankers as defined in regulation 1(26) of this Annex; and
+(c) "Category 3 oil tanker" means an oil tanker of 5,000 tons deadweight and above but less than that specified in subparagraph (a) or (b) of this paragraph.
+(4) An oil tanker to which this regulation applies shall comply with the requirements of regulation 13F of this Annex not later than 5 April 2005 or the anniversary of the date of delivery of the ship on the date or in the year specified in the following table:
+Category of oil tanker[TAB]Date or year
+Category 1[TAB]5 April 2005 for ships delivered on 5 April 1982 or earlier
+[TAB]2005 for ships delivered after 5 April 1982
+Category 2 and Category 3[TAB]5 April 2005 for ships delivered on 5 April 1977 or earlier
+[TAB]2005 for ships delivered after 5 April 1977 but before 1 January 1978
+[TAB]2006 for ships delivered in 1978 and 1979
+[TAB]2007 for ships delivered in 1980 and 1981
+[TAB]2008 for ships delivered in 1982
+[TAB]2009 for ships delivered in 1983
+[TAB]2010 for ships delivered in 1984 or later
+(5) Notwithstanding the provisions of paragraph (4) of this regulation, in the case of a Category 2 or 3 oil tanker fitted with only double bottoms or double sides not used for the carriage of oil and extending to the entire cargo tank length or double hull spaces which are not used for the carriage of oil and extend to the entire cargo tank length, but which does not fulfil conditions for being exempted from the provisions of paragraph (1)(c) of this regulation, the Administration may allow continued operation of such a ship beyond the date specified in paragraph (4) of this regulation, provided that:
+(a) the ship was in service on 1 July 2001;
+(b) the Administration is satisfied by verification of the official records that the ship complied with the conditions specified above;
+(c) the conditions of the ship specified above remain unchanged; and
+(d) such continued operation does not go beyond the date on which the ship reaches 25 years after the date of its delivery.
+(6) A Category 2 or 3 oil tanker of 15 years and over after the date of its delivery shall comply with the Condition Assessment Scheme adopted by the Marine Environment Protection Committee by resolution MEPC.94 (46), as amended, provided that such amendments shall be adopted, brought into force and take effect in accordance with the provisions of article 16 of the present Convention relating to amendment procedures applicable to an appendix to an Annex.
+(7) The Administration may allow continued operation of a Category 2 or 3 oil tanker beyond the date specified in paragraph (4) of this regulation, if satisfactory results of the Condition Assessment Scheme warrant that, in the opinion of the Administration, the ship is fit to continue such operation, provided that the operation shall not go beyond the anniversary of the date of delivery of the ship in 2015 or the date on which the ship reaches 25 years after the date of its delivery, whichever is the earlier date.
+(8) (a) The Administration of a Party to the present Convention which allows the application of paragraph (5) of this regulation, or allows, suspends, withdraws or declines the application of paragraph (7) of this regulation, to a ship entitled to fly its flag shall forthwith communicate to the Organization for circulation to the Parties to the present Convention particulars thereof, for their information and appropriate action, if any.
+(b) A Party to the present Convention shall be entitled to deny entry into the ports or offshore terminals under its jurisdiction of oil tankers operating in accordance with the provisions of:
+(i) paragraph (5) of this regulation beyond the anniversary of the date of delivery of the ship in 2015; or
+(ii) paragraph (7) of this regulation.
+In such cases, that Party shall communicate to the Organization for circulation to the Parties to the present Convention particulars thereof for their information."
+ANNEX 2
+AMENDMENTS TO ANNEX I OF MARPOL 73/78 The following new regulation is added after regulation I3G:
+"Regulation 13H
+Prevention of oil pollution from oil tankers carrying heavy grade oil as cargo (1) This regulation shall:
+(a) apply to oil tankers of 600 tons deadweight and above carrying heavy grade oil as cargo regardless of the date of delivery; and
+(b) not apply to oil tankers covered by subparagraph (a) above which comply with regulation 13F(3)(a) and (b) or 13F(4) or 13F(5) of this Annex, except that the requirement for minimum distances between the cargo tank boundaries and the ship side and bottom plating need not be met in all respects. In that event, the side protection distances shall not be less than those specified in the International Bulk Chemical Code for type 2 cargo tank location and the bottom protection distances at centreline shall comply with regulation 13E(4)(b) of this Annex.
+(2) For the purpose of this regulation "heavy grade oil" means any of the following:
+(a) crude oils having a density at 15° C higher than 900 kg/m3;
+(b) fuel oils having either a density at 15° C higher than 900 kg/m3 or a kinematic viscosity at 50° C higher than 180 mm2/s;
+(c) bitumen, tar and their emulsions.
+(3) An oil tanker to which this regulation applies shall comply with the provisions of paragraphs (4) to (8) of this regulation in addition to complying with the applicable provisions of regulation 13G.
+(4) Subject to the provisions of paragraphs (5), (6) and (7) of this regulation, an oil tanker to which this regulation applies shall:
+(a) if 5,000 tons deadweight and above, comply with the requirements of regulation 13F of this Annex not later than 5 April 2005; or
+(b) if 600 tons deadweight and above but less than 5,000 tons deadweight, be fitted with both double bottom tanks or spaces complying with the provisions of regulation 13F(7)(a) of this Annex, and wing tanks or spaces arranged in accordance with regulation 13F(3)(a) and complying with the requirement for distance w as referred to in regulation 13F(7)(b), not later than the anniversary of the date of delivery of the ship in the year 2008.
+(5) In the case of an oil tanker of 5,000 tons deadweight and above, carrying heavy grade oil as cargo fitted with only double bottoms or double sides not used for the carriage of oil and extending to the entire cargo tank length or double hull spaces which are not used for the carriage of oil and extend to the entire cargo tank length, but which does not fulfil conditions for being exempted from the provisions of paragraph (1)(b) of this regulation, the Administration may
+allow continued operation of such a ship beyond the date specified in paragraph (4) of this regulation, provided that:
+(a) the ship was in service on 4 December 2003;
+(b) the Administration is satisfied by verification of the official records that the ship complied with the conditions specified above;
+(c) the conditions of the ship specified above remain unchanged; and
+(d) such continued operation does not go beyond the date on which the ship reaches 25 years after the date of its delivery.
+(6) (a) The Administration may allow continued operation of an oil tanker of 5,000 tons deadweight and above, carrying crude oil having a density at 15° C higher than 900 kg/m3 but lower than 945 kg/m3, beyond the date specified in paragraph (4)(a) of this regulation, if satisfactory results of the Condition Assessment Scheme referred to in regulation 13G(6) warrant that, in the opinion of the Administration, the ship is fit to continue such operation, having regard to the size, age, operational area and structural conditions of the ship and provided that the operation shall not go beyond the date on which the ship reaches 25 years after the date of its delivery.
+(b) The Administration may allow continued operation of an oil tanker of 600 tons deadweight and above but less than 5,000 tons deadweight, carrying heavy grade oil as cargo, beyond the date specified in paragraph (4)(b) of this regulation, if, in the opinion of the Administration, the ship is fit to continue such operation, having regard to the size, age, operational area and structural conditions of the ship, provided that the operation shall not go beyond the date on which the ship reaches 25 years after the date of its delivery.
+(7) The Administration of a Party to the present Convention may exempt an oil tanker of 600 tons deadweight and above carrying heavy grade oil as cargo from the provisions of this regulation if the oil tanker:
+(a) either is engaged in voyages exclusively within an area under its jurisdiction, or operates as a floating storage unit of heavy grade oil located within an area under its jurisdiction; or
+(b) either is engaged in voyages exclusively within an area under the jurisdiction of another Party, or operates as a floating storage unit of heavy grade oil located within an area under the jurisdiction of another Party, provided that the Party within whose jurisdiction the oil tanker will be operating agrees to the operation of the oil tanker within an area under its jurisdiction.
+(8) (a) The Administration of a Party to the present Convention which allows, suspends, withdraws or declines the application of paragraphs (5), (6) or (7) of this regulation to a ship entitled to fly its flag shall forthwith communicate to the Organization for circulation to the Parties to the present Convention particulars thereof, for their information and appropriate action, if any.
+(b) Subject to the provisions of international law, a Party to the present Convention shall be entitled to deny entry of oil tankers operating in accordance with the provisions of paragraph (5) or (6) of this regulation into the ports or offshore terminals under its jurisdiction, or deny ship-to-ship transfer of heavy grade oil in
+areas under its jurisdiction, except when this is necessary for the purpose of securing the safety of a ship or saving Iife at sea. In such cases, that Party shall communicate to the Organization for circulation to the Parties to the present Convention particulars thereof for their information.
+ANNEX 3
+AMENDMENTS TO FORM B OF THE SUPPLEMENT TO THE IOPP CERTIFICATE RELATING TO REVISED REGULATION 13G OF ANNEX I OF MARPOL 73/78
+The existing paragraph 5.8.4 in Form B of the Supplement to the TOPP Certificate is replaced by the following:
+"5.8.4 The ship is subject to regulation 13G and:
+.1 is required to comply with regulation 13F not later than []
+.2 is so arranged that the following tanks or spaces are not used for the carriage of oil []
+.3 is allowed to continue operation in accordance with regulation 130(5) until []
+.4 is allowed to continue operation in accordance with regulation 130(7) until []
+ANNEX 4
+AMENDMENTS TO FORM B OF THE SUPPLEMENT TO THE IOPP CERTIFICATE RELATING TO NEW REGULATION 13H OF ANNEX I OF MARPOL 73/78
+The following new paragraphs are added after paragraph 5.8.5 in the Form B of the Supplement to the IOPP Certificate:
+"5.8.6 The ship is subject to regulation 13H and:
+.1 is required to comply with regulation 13H(4) not later than []
+.2 is allowed to continue operation in accordance with regulation I 3H(5) until []
+.3 is allowed to continue operation in accordance with regulation I 3H(6)(a) until []
+.4 is allowed to continue operation in accordance with regulation 13H(6)(b) until []
+.5 is exempted from the provisions of regulation 13H in accordance with regulation 13H(7)(b) []
+5.8.7 The ship is not subject to regulation 13H []" 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

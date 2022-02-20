@@ -1,0 +1,52 @@
+
+ Amendments To The Convention For The Regulation Of The Meshes Of Fishing Nets And The Size Limits Of Fish   
+     Filename: 1963-Amendments-1946-MeshFishingNets.EN.txt 
+ Source: UNTS vol. 482, pp. 372.     
+    ﻿Amendments To The Convention For The Regulation Of The Meshes Of Fishing Nets And The Size Limits Of Fish
+Source: UNTS vol. 482, pp. 372.
+The following Amendments were adopted at the Eleventh Meeting of the Permanent Commission held in London from 8 to 10 May 1963:
+(1) Article 5 of the Convention was amended by substituting for the present text the following words:
+"No vessel shall carry on board or use any trawl, seine or other net towed or hauled at or near the bottom of the sea which has in any part of the net meshes of dimensions less than those specified in Annex I to this Convention."
+(2) Article 6 of the Convention was amended by deleting "paragraph 1 of" in the fifteenth line.
+(3) Sub-paragraph (i) of paragraph (2) of Article 7 of the Convention was amended by substituting in the fourth line "1965" for "1963" and "100" for "110", and by deleting the words in parentheses.
+(4) Annex I to the Convention was amended by substituting for the present text the following words:
+(1) The minimum size of mesh for nets referred to in Article 5 of this Convention shall be such that when the mesh is stretched diagonally lengthwise of the net a flat gauge 2 mm. thick of the appropriate width shall pass through it easily when the net is wet.
+(2) The appropriate width of gauge in relation to any net shall be
+(a) until 31st May, 1964 that shown in Table I, [2] and
+(b) as from 1st June, 1964 that shown in Table II.
+(5) Annex II to the Convention was amended by substituting "110" for "120" in the penultimate line.
+TABLE I
+Part of Convention Area[TAB]Type of Net[TAB]Appropriate Width of Gauge
+(1) Icelandic waters between the parallels of 68 degrees and 62 degrees north latitude and between the meridians of 28 degrees and 10 degrees west longitude.[TAB]Seine net or such part of any trawl net as is made of cotton, hemp, polyamide fibres or polyester fibres.[TAB]100 mm.
+[TAB]Such part of any trawl net as is made of any other material.[TAB]110 mm.
+Part of Convention Area[TAB]Type of Net[TAB]Appropriate
+Width of
+Gauge
+(2) Waters situated north of 66 degrees
+north latitude and east of the meridian
+of Greenwich.[TAB]Seine net.[TAB]100 mm.
+[TAB]Such part of any trawl net as is made of cotton, hemp, polyamide fibres or polyester fibres.[TAB]110 mm.
+[TAB]Such part of any trawl net as is made of any other material.[TAB]120 mm.
+(3) Other waters.[TAB]Seine net or such part of any trawl net as is made of single twine and contains no manila or sisal. Such part of any trawl net as is made of double twine or of manila or sisal.[TAB]70 mm.
+75 mm.
+TABLE II
+Part of Convention Area[TAB]Type of Net[TAB]Appropriate
+Width of
+Gauge
+(1) Waters north of a line drawn from the coast of Norway along latitude 66 degrees north to the meridian 10 degrees west, thence south to latitude 62 degrees north; thence west to the meridian of 28 degrees west, thence south to latitude 59 degrees north and thence west.[TAB]Seine net.[TAB]100 mm.
+[TAB]Such part of any trawl net as is made of cotton, hemp, polyamide fibres or polyester fibres.[TAB]110 mm.
+[TAB]Such part of any trawl net as is made of any other material.[TAB]120 mm.
+(2) Other waters.[TAB]Seine net, or such part of any trawl net as is made of single twine and contains no manila or sisal.[TAB]70 mm.
+[TAB]Such part of any trawl net as is made of double twine and contains no manila or sisal.[TAB]75 mm.
+[TAB]Such part of any trawl net as is made of manila or sisal.[TAB]80 mm. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

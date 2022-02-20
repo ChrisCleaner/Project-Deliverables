@@ -1,0 +1,755 @@
+
+ Annex I To The Protocol To The International Convention For The Prevention Of Pollution From Ships On Regulations For The Prevention Of Pollution By Oil   
+     Filename: 1973-PollutionFromShipsAnnexI.EN.txt 
+ Source:     
+    ﻿Annex I To The International Convention For The Prevention Of Pollution From Ships On Regulations For The Prevention Of Pollution By Oil
+Source:
+CHAPTER I - GENERAL
+Regulation 1
+Definitions For the purposes of this Annex:
+(1) "Oil" means petroleum in any form including crude oil, fuel oil, sludge, oil refuse and refined products (other than petrochemicals which are subject to the provisions of Annex II of the present Convention) and, without limiting the generality of the foregoing, includes the substances listed in Appendix I to this Annex.
+(2) "Oily mixture" means a mixture with any oil content.
+(3) "Oil fuel" means any oil used as fuel in connexion with the propulsion and auxiliary machinery of the ship in which such oil is carried.
+(4) "Oil tanker" means a ship constructed or adapted primarily to carry oil in bulk in its cargo spaces and includes combination carriers and any "chemical tanker" as defined in Annex II of the present Convention when it is carrying a cargo or part cargo of oil in bulk.
+(5) "Combination carrier" means a ship designed to carry either oil or solid cargoes in bulk.
+(6) "New ship" means a ship:
+(a) for which the building contract is placed after 31 December 1975; or
+(b) in the absence of a building contract, the keel of which is laid or which is at a similar stage of construction after 30 June 1976; or
+(c) the delivery of which is after 31 December 1979; or
+(d) which has undergone a major conversion:
+(i) for which the contract is placed after 31 December 1975; or
+(ii) in the absence of a contract, the construction work of which is begun after 30 June 1976; or
+(iii) which is completed after 31 December 1979.
+(7) "Existing ship" means a ship which is not a new ship.
+(8) "Major conversion" means a conversion of an existing ship:
+(a) which substantially alters the dimensions or carrying capacity of the ship; or
+(b) which changes the type of the ship; or
+(c) the intent of which in the opinion of the Administration is substantially to prolong its life; or
+(d) which otherwise so alters the ship that if it were a new ship, it would become subject to relevant provisions of the present Convention not applicable to it as an existing ship.
+(9) "Nearest land". The term "from the nearest land" means from the baseline from which the territorial sea of the territory in question is established in accordance with international law, except that, for the purposes of the present Convention "from the nearest land" off the north eastern coast of Australia shall mean from a line drawn from a point on the coast of Australia in latitude 11°00' South, longitude 142°08' East to a point in latitude 10°35' South, longitude 141°55' East - thence to a point latitude 10°00' South, longitude 142° 00' East, thence to a point latitude 9° 10' South, longitude 143°52' East, thence to a point latitude 9°00' South, longitude 144°30' East, thence to a point latitude 13°00' South, longitude 144°00' East, thence to a point latitude 15°00' South, longitude 146°00' East, thence to a point latitude 18°00' South, longitude 147°00' East, thence to a point latitude 21°00' South, longitude 153°00' East, thence to a point on the coast. of Australia in latitude 24°42' South, longitude 153° 15' East.
+(10) "Special area" means a sea area where for recognized technical reasons in relation to its oceanographical and ecological condition and to the particular character of its traffic the adoption of special mandatory methods for the prevention of sea pollution by oil is required. Special areas shall include those listed in Regulation 10 of this Annex.
+(11) "Instantaneous rate of discharge of oil content" means the rate of discharge of oil in litres per hour at any instant divided by the speed of the ship in knots at the same instant.
+(12) "Tank" means an enclosed space which is formed by the permanent structure of a ship and which is designed for the carriage of liquid in bulk.
+(13) "Wing tank" means any tank adjacent to the side shell plating.
+(14) "Centre tank" means any tank inboard of a longitudinal bulkhead.
+(15) "Slop tank" means a tank specifically designated for the collection of tank drainings, tank washings and other oily mixtures.
+(16) "Clean ballast" means the ballast in a tank which since oil was last carried therein, has been so cleaned that effluent therefrom if it were discharged from a ship which is stationary into clean calm water on a clear day would not produce visible traces of oil on the surface of the water or on adjoining shorelines or cause a sludge or emulsion to be deposited beneath the surface of the water or upon adjoining shorelines. If the ballast is discharged through an oil discharge monitoring and control system approved by the Administration, evidence based on such a system to the effect that the oil content of the effluent did not exceed 15 parts per million shall be determinative that the ballast was clean, notwithstanding the presence of visible traces.
+(17) "Segregated ballast" means the ballast water introduced into a tank which is completely separated from the cargo oil and oil fuel system and which is permanently allocated to the carriage of ballast or to the carriage of ballast or cargoes other than oil or noxious substances as variously defined in the Annexes of the present Convention.
+(18) "Length" (L) means 96 per cent of the total length on a waterline at 85 per cent of the least moulded depth measured from the top of the keel, or the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that be greater. In ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline. The length (L) shall be measured in metres.
+(19) "Forward and after perpendiculars" shall be taken at the forward and after ends of the length (L). The forward perpendicular shall coincide with the foreside of the stem on the waterline on which the length is measured.
+(20) "Amidships" is at the middle of the length (L).
+(21) "Breadth" (B) means the maximum breadth of the ship, measured amidships to the moulded line of the frame in a ship with a metal shell and to the outer surface of the hull in a ship with a shell of any other material. The breadth (B) shall be measured in metres.
+(22) "Deadweight" (DW) means the difference in metric tons between the displacement of a ship in water of a specific gravity of 1.025 at the load waterline corresponding to the assigned summer freeboard and the lightweight of the ship.
+(23) "Lightweight" means the displacement of a ship in metric tons without cargo, oil fuel, lubricating oil, ballast water, fresh water and feedwater in tanks, consumable stores, passengers and their effects.
+(24) "Permeability" of a space means the ratio of the volume within that space which is assumed to be occupied by water to the total volume of that space.
+(25) "Volumes" and "areas" in a ship shall be calculated in all cases to moulded lines.
+Regulation 2 Application
+(1) Unless expressly provided otherwise, the provisions of this Annex shall apply to all ships.
+(2) In ships other than oil tankers fitted with cargo spaces which are constructed and utilized to carry oil in bulk of an aggregate capacity of 200 cubic metres or more, the requirements of Regulations 9, 10, 14, 15(1), (2) and (3), 18, 20 and 24(4) of this Annex for oil tankers shall also apply to the construction and operation of those spaces, except that where such aggregate capacity is less than 1,000 cubic metres the requirements of Regulation 15(4) of this Annex may apply in lieu of Regulation 15(1), (2) and (3).
+(3) Where a cargo subject to the provisions of Annex II of the present Convention is carried in a cargo space of an oil tanker, the appropriate requirements of Annex II of the present Convention shall also apply.
+(4) (a) Any hydrofoil, air-cushion vehicle and other new type of vessel (near-surface craft, submarine craft, etc.) whose constructional features are such as to render the application of any of the provisions of Chapters II and III of this Annex relating to construction and equipment unreasonable or impracticable may be exempted by the Administration from such provisions, provided that the construction and equipment of that ship provides equivalent protection against pollution by oil, having regard to the service for which it is intended.
+(b) Particulars of any such exemption granted by the Administration shall be indicated in the Certificate referred to in Regulation 5 of this Annex.
+(c) The Administration which allows any such exemption shall, as soon as possible, but not more than ninety days thereafter, communicate to the Organization particulars of same and the reasons therefor, which the Organization shall circulate to the Parties to the Convention for their information and appropriate action, if any.
+Regulation 3 Equivalents
+(1) The Administration may allow any fitting, material, appliance or apparatus to be fitted in a ship as an alternative to that required by this Annex if such fitting, material, appliance or apparatus is at least as effective as that required by this Annex. This authority of the Administration shall not extend to substitution of operational methods to effect the control of discharge of oil as equivalent to those design and construction features which are prescribed by Regulations in this Annex.
+(2) The Administration which allows a fitting, material, appliance or apparatus. as an alternative to that required by this Annex shall communicate to the Organization for circulation to the Parties to the Convention particulars thereof. for their information and appropriate action, if any.
+Regulation 4 Surveys
+(1) Every oil tanker of 150 tons gross tonnage and above, and every other ship of 400 tons gross tonnage and above shall be subject to the surveys specifier below:
+(a) An initial survey before the ship is put in service or before the Certificate required under Regulation 5 of this Annex is issued for the first time, which shall include a complete survey of its structure, equipment, fittings, arrangements and material in so far as the ship is covered by this Annex. This survey shall be such as to ensure that the structure, equipment, fittings, arrangements and material fully comply with the applicable requirements of this Annex.
+(b) Periodical surveys at intervals specified by the Administration, but not exceeding five years, which shall be such as to ensure that the structure, equipment, fittings, arrangements and material fully comply with the applicable requirements of this Annex. However, where the duration of the International Oil Pollution Prevention Certificate (1973) is extended as specified in Regulation 8(3) or (4) of this Annex, the interval of the periodical survey may be extended correspondingly.
+(c) Intermediate surveys at intervals specified by the Administration but not exceeding thirty months, which shall be such as to ensure that the equipment and associated pump and piping systems, including oil discharge monitoring and control systems, oily-water separating equipment and oil filtering systems, fully comply with the applicable requirements of this Annex and are in good working order. Such inter-mediate surveys shall be endorsed on the International Oil Pollution Prevention Certificate (1973) issued under Regulation 5 of this Annex.
+(2) The Administration shall establish appropriate measures for ships which are not subject to the provisions of paragraph (1) of this Regulation in order to ensure that the applicable provisions of this Annex are complied with.
+(3) Surveys of the ship as regards enforcement of the provisions of this Annex shall be carried out by officers of the Administration. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it. In every case the Administration concerned fully guarantees the completeness and efficiency of the surveys.
+(4) After any survey of the ship under this Regulation has been completed, no significant change shall be made in the structure, equipment, fittings, arrangements or material covered by the survey without the sanction of the Administration, except the direct replacement of such equipment or fittings.
+Regulation 5
+Issue of Certificate
+(1) An International Oil Pollution Prevention Certificate (1973) shall be issued, after survey in accordance with the provisions of Regulation 4 of this Annex, to any oil tanker of 150 tons gross tonnage and above and any other ships of 400 tons gross tonnage and above which are engaged in voyages to ports or off-shore terminals under the jurisdiction of other Parties to the Convention. In the case of existing ships this requirement shall apply twelve months after the date of entry into force of the present Convention.
+(2) Such Certificate shall be issued either by the Administration or by any persons or organization duly authorized by it. In every case the Administration assumes full responsibility for the Certificate.
+Regulation 6
+Issue of a Certificate by another Government
+(1) The Government of a Party to the Convention may, at the request of the Administration, cause a ship to be surveyed and, if satisfied that the provisions of this Annex are complied with, shall issue or authorize the issue of an International Oil Pollution Prevention Certificate (1973) to the ship in accordance with this Annex.
+(2) A copy of the Certificate and a copy of the survey report shall be transmitted as soon as possible to the requesting Administration.
+(3) A Certificate so issued' shall contain a statement to the effect that it has been issued at the request of the Administration and it shall have the same force and receive the same recognition as the Certificate issued under Regulation 5 of this Annex.
+(4) No International Oil Pollution Prevention Certificate (1973) shall be issued to a ship which is entitled to fly the flag of a State which is not a Party.
+Regulation 7 Form of Certificate
+The International Oil Pollution Prevention Certificate (1973) shall be drawn up in an official language of the issuing country in the form corresponding to the model given in Appendix II to this Annex. If the language used is neither English nor French, the text shall include a translation into one of these languages.
+Regulation 8 Duration of Certificate
+(1) An International Oil Pollution Prevention Certificate (1973) shall be issued for a period specified by the Administration, which shall not exceed five years from the date of issue, except as provided in paragraphs (2), (3) and (4) of this Regulation.
+(2) If a ship at the time when the Certificate expires is not in a port or off-shore terminal under the jurisdiction of the Party to the Convention whose flag the ship is entitled to fly, the Certificate may be extended by the Administration, but such extension shall be granted only for the purpose of allowing the ship to complete its voyage to the State whose flag the ship is entitled to fly or in which it is to be surveyed and then only in cases where it appears proper and reasonable to do so.
+(3) No Certificate shall be thus extended for a period longer than five months and a ship to which such extension is granted shall not on its arrival in the State whose flag it is entitled to fly or the port in which it is to be surveyed, be entitled by virtue of such extension to leave that port or State without having obtained a new Certificate.
+(4) A Certificate which has not been extended under the provisions of paragraph (2) of this Regulation may be extended by the Administration for a period of grace of up to one month from the date of expiry stated on it.
+(5) A Certificate shall cease to be valid if significant alterations have taken place in the construction, equipment, fittings, arrangements, or material required without the sanction of the Administration, except the direct replacement of such equipment or fittings, or if intermediate surveys as specified by the Administration under Regulation 4(1)(c) of this Annex are not carried out.
+(6) A Certificate issued to a ship shall cease to be valid upon transfer of such a ship to the flag of another State, except as provided in paragraph (7) of this Regulation.
+(7) Upon transfer of a ship to the flag of another Party,' the Certificate shall remain in force for a period not exceeding five months provided that it would not have expired before the end of that period, or until the Administration issues a replacement Certificate, whichever is earlier. As soon as possible after the transfer has taken place the Government of the Party whose flag the ship was formerly entitled to fly shall transmit to the Administration a copy of the Certificate carried by the ship before the transfer and, if available, a copy of the relevant survey report.
+CHAPTER II - REQUIREMENTS FOR CONTROL OF OPERATIONAL POLLUTION
+Regulation 9
+Control of Discharge of Oil
+(1) Subject to the provisions of Regulations 10 and 11 of this Annex and paragraph (2) of this Regulation, any discharge into the sea of oil or oily mixtures from ships to which this Annex applies shall be prohibited except when all the following conditions are satisfied:
+(a) for an oil tanker, except as provided for in sub-paragraph (b) of this paragraph:
+(i) the tanker is not within a special area;
+(ii) the tanker is more than 50 nautical miles from the nearest land;
+(iii) the tanker is proceeding en route;
+(iv) the instantaneous rate of discharge of oil content does not exceed 60 litres per nautical mile;
+(v) the total quantity of oil discharged into the sea does not exceed for existing tankers 1/15,000 of the total quantity of the particular cargo of which the residue formed a part, and for new tankers 1/30,000 of the total quantity of the particular cargo of which the residue formed a part; and
+(vi) the tanker has in operation, except as provided for in Regulation 15(3) of this Annex, an oil discharge monitoring and control system and a slop tank arrangement as required by Regulation 15 of this Annex;
+(b) from a ship of 400 tons gross tonnage and above other than an oil tanker and from machinery space bilges excluding cargo pump room bilges of an oil tanker unless mixed with oil cargo residue:
+(i) the ship is not within a special area;
+(ii) the ship is more than 12 nautical miles from the nearest land;
+(iii) the ship is proceeding en route;
+(iv) the oil content of the effluent is less than 100 parts per million; and
+(v) the ship has in operation an oil discharge monitoring and control system, oily-water separating equipment, oil filtering system or other installation as required by Regulation 16 of this Annex.
+(2) In the case of a ship of less than 400 tons gross tonnage other than an oil tanker whilst outside the special area, the Administration shall ensure that it is equipped as far as practicable and reasonable with installations to ensure the storage of oil residues on board and their discharge to reception facilities or into the sea in compliance with the requirements of paragraph (1)(b) of this Regulation.
+(3) Whenever visible traces of oil are observed on or below the surface of the water in the immediate vicinity of a ship or its wake, Governments of Parties to the Convention should, to the extent they are reasonably able to do so, promptly investigate the facts bearing on the issue of whether there has been a violation of the provisions of this Regulation or Regulation 10 of this Annex. The investigation should include, in particular, the wind and sea conditions, the track and speed of the ship, other possible sources of the visible traces in the vicinity, and any relevant oil discharge records.
+(4) The provisions of paragraph (1) of this Regulation shall not apply to the discharge of clean or segregated ballast. The provisions of sub-paragraph (1)(b) of this Regulation shall not apply to the discharge of oily mixture which without dilution has an oil content not exceeding 15 parts per million.
+(5) No discharge into the sea shall contain chemicals or other substances in quantities or concentrations which are hazardous to the marine environment or chemicals or other substances introduced for the purpose of circumventing the conditions of discharge specified in this Regulation.
+(6) The oil residues which cannot be discharged into the sea in compliance with paragraphs (1), (2) and (4) of this Regulation shall be retained on board or discharged to reception facilities.
+Regulation 10
+Methods For The Prevention Of Oil Pollution From Ships While Operating In Special Areas
+(1) For the purposes of this Annex the special areas are the Mediterranean Sea. area, the Baltic Sea area, the Black Sea area, the Red Sea area and the "Gulfs area' which are defined as follows:
+(a) The Mediterranean Sea area means the Mediterranean Sea proper including the gulfs and seas therein with the boundary between the Mediterranean and the Black Sea constituted by the 41°N parallel and bounded to the west by the Straits of Gibraltar at the meridian of 5°36'W.
+(b) The Baltic Sea area means the Baltic Sea proper with the Gulf of Bothnia, the Gulf of Finland and the entrance to the Baltic Sea bounded by the parallel of the Skaw in the Skagerrak at 57°44.8'N.
+(c) The Black Sea area means the Black Sea proper with the boundary between the Mediterranean and the Black Sea constituted by the parallel 41°N.
+(d) The Red Sea area means the Red Sea proper including the Gulfs of Suez and Aqaba bounded at the south by the rhumb line between Ras si Ane (12°8.5 N, 43°19.6 E) and Husn Murad (12°40.4'N, 43030.2'E).
+(e) The Gulfs area means the sea area located north west of the rhumb line between Ras al Hadd (22°30'N, 59°48'E) and Ras Al Fasteh (25°04'N, 61°25'E).
+(2) (a) Subject to the provisions of Regulation 11 of this Annex, any discharge into the sea of oil or oily mixture from any oil tanker and any ship of 400 tons gross tonnage and above other than an oil tanker shall be prohibited, while in a special area.
+(b) Such ships while in a special area shall retain on board all oil drainage and sludge, dirty ballast and tank washing waters and discharge them only to reception facilities.
+(3) (a) Subject to the provisions of Regulation 11 of this Annex, any discharge into the sea of oil or oily mixture from a ship of less than 400 tons gross tonnage, other than an oil tanker, shall be prohibited while in a special area, except when the oil content of the effluent without dilution does not exceed 15 parts per million or alternatively when all of the following conditions are satisfied:
+(i) the ship is proceeding en route;
+(ii) the oil content of the effluent is less than 100 parts per million; and
+(iii) the discharge is made as far as practicable from the land, but in no case less than 12 nautical miles from the nearest land.
+(b) No discharge into the sea shall contain chemicals or other substances in quantities or concentrations which are hazardous to the marine environment or chemicals or other substances introduced for the purpose of circumventing the conditions of discharge specified in this Regulation.
+(c) The oil residues which cannot be discharged into the sea in compliance with sub-paragraph (a) of this paragraph shall be retained on board or discharged to reception facilities.
+(4) The provisions of this Regulation shall not apply to the discharge of clean or segregated ballast.
+(5) Nothing in this Regulation shall prohibit a ship on a voyage only part of which is in a special area from discharging outside the special area in accordance with Regulation 9 of this Annex.
+(6) Whenever visible traces of oil are observed on or below the surface of the water in the immediate vicinity of a ship or its wake, the Governments of Parties to the Convention should, to the extent they are reasonably able to do so, promptly investigate the facts bearing on the issue of whether there has been a violation of the provisions of this Regulation or Regulation 9 of this Annex. The investigation should include, in particular, the wind and sea conditions, the track and speed of the ship, other possible sources of the visible traces in the vicinity, and any relevant oil discharge records.
+(7) Reception facilities within special areas: (a) Mediterranean Sea, Black Sea and Baltic Sea areas:
+(i) The Government of each Party to the Convention, the coastline of which borders on any given special area undertakes to ensure that not later than 1 January 1977 all oil loading terminals and repair ports within the special area are provided with facilities adequate for the reception and treatment of all the dirty ballast and tank washing water from oil tankers. In addition all ports within the special area shall be provided with adequate reception facilities for other residues and oily mixtures from all ships. Such facilities shall have adequate capacity to meet the needs of the ships using them without causing undue delay.
+(ii) The Government of each Party having under its jurisdiction entrances to seawater courses with low depth contour which might require a reduction of draught by the discharge of ballast undertakes to ensure the provision of the facilities referred to in sub-paragraph (a)(i) of this paragraph but with the proviso that ships required to discharge slops or dirty ballast could be subject to some delay.
+(iii) During the period between the entry into force of the present Convention (if earlier than 1 January 1977) and 1 January 1977 ships while navigating in the special areas shall comply with the requirements of Regulation 9 of this Annex. However, the Governments of Parties the coastlines of which border any of the special areas under this sub-paragraph may establish a date earlier than 1 January 1977, but after the date of entry into force of the present Convention, from which the requirements of this Regulation in respect of the special areas in question shall take effect:
+(1) if all the reception facilities required have been provided by the date so established; and
+(2) provided that the Parties concerned notify the Organization of the date so established at least six months in advance, for circulation to other Parties.
+(iv) After 1 January 1977, or the date established in accordance with sub-paragraph (a)(iii) of this paragraph if earlier, each Party shall notify the Organization for transmission to the Contracting Governments concerned of all cases where the facilities are alleged to be inadequate.
+(b) Red Sea area and Gulfs area:
+(i) The Government of each Party the coastline of which borders on the special areas undertakes to ensure that as soon as possible all oil loading terminals and repair ports within these special areas are provided with facilities adequate for the reception and treatment of all the dirty ballast and tank washing water from tankers. In addition all ports within the special area shall be provided with adequate reception facilities for other residues and oily mixtures from all ships. Such facilities shall have adequate capacity to meet the needs of the ships using them without causing undue delay.
+(ii) The Government of each Party having under its jurisdiction entrances to seawater courses with low depth contour which might require a reduction of draught by the discharge of ballast shall undertake to ensure the provision of the facilities referred to in sub-paragraph (b)(i) of this paragraph but with the proviso that ships required to discharge slops or dirty ballast could be subject to some delay.
+(iii) Each Party concerned shall notify the Organization of the measures taken pursuant to provisions of sub-paragraph (b)(i) and (ii) of this paragraph. Upon receipt of sufficient notifications the Organization shall establish a date from which the requirements of this Regulation in respect of the area in question shall take effect. The Organization shall notify all Parties of the date so established no less than twelve months in advance of that date.
+(iv) During the period between the entry into force of the present Convention and the date so established, ships while navigating in the special area shall comply with the requirements of Regulation 9 of this Annex.
+(v) After such date oil tankers loading in ports in these special areas where such facilities are not yet available shall also fully comply with the requirements of this Regulation. However, oil tankers entering these special areas for the purpose of loading shall make every effort to enter the area with only clean ballast on board.
+(vi) After the date on which the requirements for the special area in question take effect, each Party shall notify the Organization for transmission to the Parties concerned of all cases where the facilities are alleged to be inadequate.
+(vii) At least the reception facilities as prescribed in Regulation 12 of this Annex shall be provided by 1 January 1977 or one year after the date of entry into force of the present Convention, whichever occurs later.
+Regulation 11 Exceptions
+Regulations 9 and 10 of this Annex shall not apply to:
+(a) the discharge into the sea of oil or oily mixture necessary for the purpose of securing the safety of a ship or saving life at sea; or
+(b) the discharge into the sea of oil or oily mixture resulting from damage to a ship or its equipment:
+(i) provided that all reasonable precautions have been taken after the occurrence of the damage or discovery of the discharge for the purpose of preventing or minimizing the discharge; and
+(ii) except if the owner or the Master acted either with intent to cause damage, or recklessly and with knowledge that damage would probably result; or
+(c) the discharge into the sea of substances containing oil, approved by the Administration, when being used for the purpose of combating specific pollution incidents in order to minimize the damage from pollution. Any such discharge shall be subject to the approval of any Government in whose jurisdiction it is contemplated the discharge will occur.
+Regulation 12 Reception Facilities
+(1) Subject to the provisions of Regulation 10 of this Annex, the Government of each Party undertakes to ensure the provision at oil loading terminals, repair ports, and in other ports in which ships have oily residues to discharge, of facilities for the reception of such residues and oily mixtures as remain from oil tankers and other ships adequate to meet the needs of the ships using them without causing undue delay to ships.
+(2) Reception facilities in accordance with paragraph (1) of this Regulation shall be provided in:
+(a) all ports and terminals in which crude oil is loaded into oil tankers where such tankers have immediately prior to arrival completed a ballast voyage of not more than 72 hours or not more than 1,200 nautical miles;
+(b) all ports and terminals in which oil other than crude oil in bulk is loaded at an average quantity of more than 1,000 metric tons per day;
+(c) all ports having ship repair yards or tank cleaning facilities;
+(d) all ports and terminals which handle ships provided with the sludge tank(s) required by Regulation 17 of this Annex;
+(e) all ports in respect of oily bilge waters and other residues, which cannot be discharged in accordance with Regulation 9 of this Annex; and
+(f) all loading ports for bulk cargoes in respect of oil residues from combination carriers which cannot be discharged in accordance with Regulation 9 of this Annex.
+(3) The capacity for the reception facilities shall be as follows:
+(a) Crude oil loading terminals shall have sufficient reception facilities to receive oil and oily mixtures which cannot be discharged in accordance with the provisions of Regulation 9(1)(a) of this Annex from all oil tankers on voyages as described in paragraph (2)(a) of this Regulation.
+(b) Loading ports and terminals referred to in paragraph (2)(b) of this Regulation shall have sufficient reception facilities to receive oil and oily mixtures which cannot be discharged in accordance with the provisions of Regulation 9(1)(a) of this Annex from oil tankers which load oil other than crude oil in bulk.
+(c) All ports having ship repair yards or tank cleaning facilities shall have sufficient reception facilities to receive all residues and oily mixtures which remain on board for disposal from ships prior to entering such yards or facilities.
+(d) All facilities provided in ports and terminals under paragraph (2)(d) of this Regulation shall be sufficient to receive all residues retained according to Regulation 17 of this Annex from all ships that may reasonably be expected to call at such ports and terminals.
+(e) All facilities provided in ports and terminals under this Regulation shall be sufficient to receive oily bilge waters and other residues which cannot be discharged in accordance with Regulation 9 of this Annex.
+(f) The facilities provided in loading ports for bulk cargoes shall take into account the special problems of combination carriers as appropriate.
+(4) The reception facilities prescribed in paragraphs (2) and (3) of this Regulation shall be made available no later than one year from the date of entry into force of the present Convention or by 1 January 1977, whichever occurs later.
+(5) Each Party shall notify the Organization for transmission to the Parties concerned of all cases where the facilities provided under this Regulation are alleged to be inadequate.
+Regulation 13
+Segregated Ballast Oil Tankers
+(1) Every new oil tanker of 70,000 tons deadweight and above shall be provided with segregated ballast tanks and shall comply with the requirements of this Regulation.
+(2) The capacity of the segregated ballast tanks shall be so determined that the ship may operate safely on ballast voyages without recourse to the use of oil tanks for water ballast except as provided for in paragraph (3) of this Regulation. In all cases, however, the capacity of segregated ballast tanks shall be at least such that in any ballast condition at any part of the voyage, including the conditions consisting of lightweight plus segregated ballast only, the ship's draughts and trim can meet each of the following requirements:
+(a) the moulded draught amidships (dm) in metres (without taking into account any ship's deformation) shall not be less than: dm = 2.0 + 0.02L;
+(b) the draughts at the forward and after perpendiculars shall correspond to those determined by the draught amidships (dm), as specified in sub-paragraph (a) of this paragraph, in association with the trim by the stern of not greater than 0.015L; and
+(c) in any case the draught at the after perpendicular shall not be less than that which is necessary to obtain full immersion of the propeller(s).
+(3) In no case shall ballast water be carried in oil tanks except in weather conditions so severe that, in the opinion of the Master, it is necessary to carry additional ballast water in oil tanks for the safety of the ship. Such additional ballast water shall be processed and discharged in compliance with Regulation 9 and in accordance with the requirements of Regulation 15 of this Annex, and entry shall be made in the Oil Record Book referred to in Regulation 20 of this Annex.
+(4) Any oil tanker which is not required to be provided with segregated ballast tanks in accordance with paragraph (1) of this Regulation may, however, be qualified as a segregated ballast tanker, provided that in the case of an oil tanker of 150 metres in length and above it fully complies with the requirements of paragraphs (2) and (3) of this Regulation and in the case of an oil tanker of less than 150 metres in length the segregated ballast conditions shall be to the satisfaction of the Administration.
+Regulation 14 Segregation of Oil and Water Ballast
+(1) Except as provided in paragraph (2) of this Regulation, in new ships of 4,000 tons gross tonnage and above other than oil tankers, and in new oil tankers of 150 tons gross tonnage and above, no ballast water shall be carried in any oil fuel tank.
+(2) Where abnormal conditions or the need to carry large quantities of oil fuel render it necessary to carry ballast water which is not a clean ballast in any oil fuel tank, such ballast water shall be discharged to reception facilities or into the sea in compliance with Regulation 9 using the equipment specified in Regulation 16(2) of this Annex, and an entry shall be made in the Oil Record Book to this effect.
+(3) All other ships shall comply with the requirements of paragraph (1) of this Regulation as far as reasonable and practicable.
+Regulation 15 Retention of Oil on Board
+(1) Subject to the provisions of paragraphs (5) and (6) of this Regulation, oil tankers of 150 tons gross tonnage and above shall be provided with arrangements in accordance with the requirements of paragraphs (2) and (3) of this Regulation, provided that in the case of existing tankers the requirements for oil discharge monitoring and control systems and slop tank arrangements shall apply three years after the date of entry into force of the present Convention.
+(2) (a) Adequate means shall be provided for cleaning the cargo tanks and transferring the dirty ballast residue and tank washings from the cargo tanks into a slop tank approved by the Administration. In existing oil tankers, any cargo tank may be designated as a slop tank.
+(b) In this system arrangements shall be provided to transfer the oily waste into a slop tank or combination of slop tanks in such a way that any effluent discharged into the sea will be such as to comply with the provisions of Regulation 9 of this Annex.
+(c) The arrangements of the slop tank or combination of slop tanks shall have a capacity necessary to retain the slops generated by tank washing, oil residues and dirty ballast residues but the total shall be not less than 3 per cent of the oil carrying capacity of the ship, except that, where segregated ballast tanks are provided in accordance with Regulation 13 of this Annex, or where arrangements such as eductors involving the use of water additional to the washing water are not fitted, the Administration may accept 2 per cent. New oil tankers over 70,000 tons dead-weight shall be provided with at least two slop tanks.
+(d) Slop tanks shall be so designed particularly in respect of the position of inlets, outlets, baffles or weirs where fitted, so as to avoid excessive turbulence and entrainment of oil or emulsion with the water.
+(3) (a) An oil discharge monitoring and control system approved by the Administration shall be fitted. In considering the design of the oil content meter to be incorporated in the system, the Administration shall have regard to the specification recommended by the Organization.[1] The system shall be fitted with a recording device to provide a continuous record of the discharge in litres per nautical mile and total quantity discharged, or the oil content and rate of discharge. This record shall be identifiable as to time and date and shall be kept for at least three years. The oil discharge monitor and control system shall come into operation when there is any discharge of effluent into the sea and shall be such as will ensure that any discharge of oily mixture is automatically stopped when the instantaneous rate of discharge of oil exceeds that permitted by Regulation 9(1)(a) of this Annex. Any failure of this monitoring and control system shall stop the discharge and be noted in the Oil Record Book. A manually operated alternative method shall be provided and may be used in the event of such failure, but the defective unit shall be made operable before the oil tanker commences its next ballast voyage unless it is proceeding to a repair port. Existing oil tankers shall comply with all of the provisions specified above except that the stopping of the discharge may be performed manually and the rate of discharge may be estimated from the pump characteristic.
+(b) Effective oil/water interface detectors approved by the Administration shall be provided for a rapid and accurate determination of the oil/water interface in slop tanks and shall be available for use in other tanks where the separation of oil and water is effected and from which it is intended to discharge effluent direct to the sea.
+(c) Instructions as to the operation of the system shall be in accordance with an operational manual approved by the Administration. They shall cover manual as well as automatic operations and shall be intended to ensure that at no time shall oil be discharged except in compliance with the conditions specified in Regulation 9 of this Annex.[2]
+(4) The requirements of paragraphs (1), (2) and (3) of this Regulation shall not apply to oil tankers of less than 150 tons gross tonnage, for which the control of discharge of oil under Regulation 9 of this Annex shall be effected by the retention of oil on board with subsequent discharge of all contaminated washings to reception facilities. The total quantity of oil and water used for washing and returned to a storage tank shall be recorded in the Oil Record Book. This total quantity shall be discharged to reception facilities unless adequate arrangements are made to ensure that any effluent which is allowed to be discharged into the sea is effectively monitored to ensure that the provisions of Regulation 9 of this Annex are complied with.
+(5) The Administration may waive the requirements of paragraphs (1), (2) and (3) of this Regulation for any oil tanker which engages exclusively on voyages both of 72 hours or less in duration and within 50 miles from the nearest land, provided that the oil tanker is not required to hold and does not hold an International Oil Pollution Prevention Certificate (1973). Any such waiver shall be subject to the requirement that the oil tanker shall retain on board all oily mixtures for subsequent discharge to reception facilities and to the determination by the Administration that facilities available to receive such oily mixtures are adequate.
+(6) Where in the view of the Organization equipment required by Regulation 9(1)(a)(vi) of this Annex and specified in sub-paragraph (3)(a) of this Regulation is not obtainable for the monitoring of discharge of light refined products (white oils), the Administration may waive compliance with such requirement, provided that discharge shall be permitted only in compliance with procedures established by the Organization which shall satisfy the conditions of Regulation 9(1)(a) of this Annex except the obligation to have an oil discharge monitoring and control system in operation. The Organization shall review the availability of equipment at intervals not exceeding twelve months.
+(7) The requirements of paragraphs (1), (2) and (3) of this Regulation shall not apply to oil tankers carrying asphalt, for which the control of discharge of asphalt under Regulation 9 of this Annex shall be effected by the retention of asphalt residues on board with discharge of all contaminated washings to reception facilities.
+Regulation 16
+Oil Discharge Monitoring and Control System and Oily-Water Separating Equipment
+(1) Any ship of 400 tons gross tonnage and above shall be fitted with an oily-water separating equipment or filtering system complying with the provisions of paragraph (6) of this Regulation. Any such ship which carries large quantities of oil fuel shall comply with paragraph 2 of this Regulation or paragraph (1) of Regulation 14.
+(2) Any ship of 10,000 tons gross tonnage and above shall be fitted:
+(a) in addition to the requirements of paragraph (1) of this Regulation with an oil discharge monitoring and control system complying with paragraph (5) of this Regulation; or
+(b) as an alternative to the requirements of paragraph (1) and sub-paragraph (2)(a) of this Regulation, with an oily-water separating equipment complying with paragraph (6) of this Regulation and an effective filtering system, complying with paragraph (7) of this Regulation.
+(3) The Administration shall ensure that ships of less than 400 tons gross tonnage are equipped, as far as practicable, to retain on board oil or oily mixtures or discharge them in accordance with the requirements of Regulation 9(1)(b) of this Annex.
+(4) For existing ships the requirements of paragraphs (1), (2) and (3) of this Regulation shall apply three years after the date of entry into force of the present Convention.
+(5) An oil discharge monitoring and control system shall be of a design approved by the Administration. In considering the design of the oil content meter to be incorporated into the system, the Administration shall have regard to the specification recommended by the Organization.[3] The system shall be fitted with a recording device to provide a continuous record of the oil content in parts per million. This record shall be identifiable as to time and date and shall be kept for at least three years. The monitoring and control system shall come into operation when there is any discharge of effluent into the sea and shall be such as will ensure that any discharge of oily mixture is automatically stopped when the oil content of effluent exceeds that permitted by Regulation 9(1)(b) of this Annex. Any failure of this monitoring and control system shall stop the discharge and be noted in the Oil Record Book. The defective unit shall be made operable before the ship commences its next voyage unless it is proceeding to a repair port. Existing ships shall comply with all of the provisions specified above except that the stopping of the discharge may be performed manually.
+(6) Oily-water separating equipment or an oil filtering system shall be of a design approved by the Administration and shall be such as will ensure that any oily mixture discharged into the sea after passing through the separator or filtering systems shall have an oil content of not more than 100 parts per million. In considering the design of such equipment, the Administration shall have regard to the specification recommended by the Organization.[4]
+(7) The oil filtering system referred to in paragraph (2)(b) of this Regulation shall be of a design approved by the Administration and shall be such that it will accept the discharge from the separating system and produce an effluent the oil content of which does not exceed 15 parts per million. It shall be provided with alarm arrangements to indicate when this level cannot be maintained.
+Regulation 17
+Tanks for Oil Residues (Sludge)
+(1) Every ship of 400 tons gross tonnage and above shall be provided with a tank or tanks of adequate capacity, having regard to the type of machinery and length of voyage, to receive the oily residues (sludges) which cannot be dealt with other-wise in accordance with the requirements of this Annex, such as those resulting from the purification of fuel and lubricating oils and oil leakages in the machinery spaces.
+(2) In new ships, such tanks shall be designed and constructed so as to facilitate their cleaning and the discharge of residues to reception facilities. Existing ships shall comply with this requirement as far as is reasonable and practicable.
+Regulation 18
+Pumping, Piping and Discharge Arrangements of Oil Tankers
+(1) In every oil tanker, a discharge manifold for connexion to reception facilities for the discharge of dirty ballast water or oil contaminated water shall be located on the open deck on both sides of the ship.
+(2) In every oil tanker, pipelines for the discharge to the sea of effluent which may be permitted under Regulation 9 of this Annex shall be led to the open deck or to the ship's side above the waterline in the deepest ballast condition. Different piping arrangements to permit operation in the manner permitted in sub-paragraphs (4)(a) and (b) of this Regulation may be accepted.
+(3) In new oil tankers means shall be provided for stopping the discharge of effluent into the sea from a position on upper deck or above located so that the manifold in use referred to in paragraph(1) of this Regulation and the effluent from the pipelines referred to in paragraph (2) of this Regulation may be visually observed. Means for stopping the discharge need not be provided at the observation position if a positive communication system such as telephone or radio system is provided between the observation position and the discharge control position.
+(4) All discharges shall take place above the waterline except as follows:
+(a) Segregated ballast and clean ballast may be discharged below the waterline in ports or at offshore terminals.
+(b) Existing ships which, without modification, are not capable of discharging segregated ballast above the waterline may discharge segregated ballast below the waterline provided that an examination of the tank immediately before the discharge has established that no contamination with oil has taken place.
+Regulation 19 Standard Discharge Connection
+To enable pipes of reception facilities to be connected with the ship's discharge pipeline for residues from machinery bilges, both lines shall be fitted with a standard discharge connection in accordance with the following table:
+STANDARD DIMENSIONS OF FLANGES FOR DISCHARGE CONNECTIONS
+Description[TAB]Dimension
+Outside diameter[TAB]215 mm
+Inner diameter[TAB]According to pipe outside diameter
+Bolt circle diameter[TAB]183 mm
+Slots in flange[TAB]6 holes 22 mm in diameter equidistantly
+placed on a bolt circle of the above
+diameter, slotted to the flange periphery.
+The slot width to be 22 mm
+Flange thickness[TAB]20 mm
+Bolts and nuts:
+quantity, diameter[TAB]6, each of 20 mm in diameter and of
+suitable length
+The flange is designed to accept pipes up to a maximum internal diameter of 125 mm and
+shall be of steel or other equivalent material having a flat face. This flange, together with a
+gasket of oilproof material, shall be suitable for a service pressure of 6 kg/cm2.
+Regulation 20 Oil Record Book
+(1) Every oil tanker of 150 tons gross tonnage and above and every ship of 400 tons gross tonnage and above other than an oil tanker shall be provided with an Oil Record Book, whether as part of the ship's official log book or otherwise, in the form specified in Appendix III to this Annex.
+(2) The Oil Record Book shall be completed on each occasion, on a tank-to-tank basis, whenever any of the following operations take place in the ship:
+(a) For oil tankers
+(i) loading of oil cargo;
+(ii) internal transfer of oil cargo during voyage;
+(iii) opening or closing before and after loading and unloading operations of valves or similar devices which inter-connect cargo tanks;
+(iv) opening or closing of means of communication between cargo piping and seawater ballast piping;
+(v) opening or closing of ships' side valves before, during and after loading and unloading operations;
+(vi) unloading of oil cargo;
+(vii) ballasting of cargo tanks;
+(viii) cleaning of cargo tanks;
+(ix) discharge of ballast except from segregated ballast tanks;
+(x) discharge of water from slop tanks;
+(xi) disposal of residues;
+(xii) discharge overboard of bilge water which has accumulated in machinery spaces whilst in port, and the routine discharge at sea of bilge water which has accumulated in machinery spaces.
+(b) For ships other than oil tankers
+(i) ballasting or cleaning of fuel oil tanks or oil cargo spaces;
+(ii) discharge of ballast or cleaning water from tanks referred to under (i) of this sub-paragraph;
+(iii) disposal of residues;
+(iv) discharge overboard of bilge water which has accumulated in machinery spaces whilst in port, and the routine discharge at sea of bilge water which has accumulated in machinery spaces.
+(3) In the event of such discharge of oil or oily mixture as is referred to in Regulation 11 of this Annex or in the event of accidental or other exceptional discharge of oil not excepted by that Regulation, a statement shall be made in the Oil Record Book of the circumstances of, and the reasons for, the discharge.
+(4) Each operation described in paragraph (2) of this Regulation shall be fully recorded without delay in the Oil Record Book so that all the entries in the book appropriate to that operation are completed. Each section of the book shall be signed by the officer or officers in charge of the operations concerned and shall be countersigned by the Master of the ship. The entries in the Oil Record Book shall be in an official language of the State whose flag the ship is entitled to fly, and, for ships holding an International Oil Pollution Prevention Certificate (1973), in English or French. The entries in an official national language of the State whose flag the ship is entitled to fly shall prevail in case of a dispute or discrepancy.
+(5) The Oil Record Book shall be kept in such a place as to be readily available for inspection at all reasonable times and, except in the case of unmanned ships under tow, shall be kept on board the ship. It shall be preserved for a period of three years after the last entry has been made.
+(6) The competent authority of the Government of a Party to the Convention may inspect the Oil Record Book on board any ship to which this Annex applies while the ship is in its port or offshore terminals and may make a copy of any entry in that book and may require the Master of the ship to certify that the copy is a true copy of such entry. Any copy so made which has been certified by the Master of the ship as a true copy of an entry in the ship's Oil Record Book shall be made admissible in any judicial proceedings as evidence of the facts stated in the entry. The inspection of an Oil Record Book and the taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
+Regulation 21
+Special Requirements for Drilling Rigs and other Platforms
+Fixed and floating drilling rigs when engaged in the exploration, exploitation and associated offshore processing of sea-bed mineral resources and other platforms shall comply with the requirements of this Annex applicable to ships of 400 tons gross tonnage and above other than oil tankers, except that:
+(a) they shall be equipped as far as practicable with the installations required in Regulations 16 and 17 of this Annex;
+(b) they shall keep a record of all operations involving oil or oily mixture discharges, in a form approved by the Administration; and
+(c) in any special area and subject to the provisions of Regulation 11 of this Annex, the discharge into the sea of oil or oily mixture shall be prohibited except when the oil content of the discharge without dilution does not exceed 15 parts per million.
+(a)
+CHAPTER III - REQUIREMENTS FOR MINIMIZING OIL POLLUTION FROM OIL TANKERS DUE TO SIDE AND BOTTOM DAMAGES
+Regulation 22 Damage Assumptions
+(1) For the purpose of calculating hypothetical oil outflow from oil tankers, three dimensions of the extent of damage of a parallelepiped on the side and bottom of the ship are assumed as follows. In the case of bottom damages two conditions are set forth to be applied individually to the stated portions of the oil tanker.
+(a) Side damage
+(i) Longitudinal extent (lc):[TAB]2
+1/3 L^2/3 or 14.5 metres,
+whichever is less
+(ii) Transverse extent (tc):
+(inboard from the
+ship's side at right
+angles to the centre
+line at the level
+corresponding to the
+assigned summer free
+board)[TAB]B or 11.5 metres,
+whichever is less
+(iii) Vertical extent (ve):[TAB]from the base line
+upwards without limit
+(b) Bottom damage[TAB]
+[TAB]For 0.3L from the
+forward perpendicular of the ship[TAB]Any other part
+of the ship
+(i) Longitudinal
+extent (Qs):[TAB]L
+10[TAB]L or 5 metres,
+10
+whichever is less
+(ii) Transverse
+extent (ts):[TAB]B or 10 metres,
+6
+whichever is less
+but not less than
+5 metres[TAB]5 metres
+(iii) Vertical extent
+from the base
+line (vs):[TAB]B or 6 metres, whichever is less
+(2) Wherever the symbols given in this Regulation appear in this Chapter, they have the meaning as defined in this Regulation.
+(1)
+Regulation 23
+Hypothetical Outflow of Oil
+(1) The hypothetical outflow of oil in the case of side damage (Oc) and bottom damage (Os) shall be calculated by the following formulae with respect to compartments breached by damage to all conceivable locations along the length of the ship to the extent as defined in Regulation 22 of this Annex.
+(a) for side damages:
+Oc =[Sigma]Wi + [Sigma]KiCi (I)
+(b) for bottom damages:
+OS = 1/3([Sigma]Z.Wi + [Sigma]Z.C.) (II)
+where: Wi = volume of a wing tank in cubic metres assumed to be breached by the damage as specified in Regulation 22 of this Annex; Wi for a segregated ballast tank may be taken equal to zero,
+Ci = volume of a centre tank in cubic metres assumed to be breached by the damage as specified in Regulation 22 of this Annex; Ci for a segregated ballast tank may be taken equal to zero,
+Ki = 1 - bi/tc when bi is equal to or greater than tc, Ki
+shall be taken equal to zero, h.
+Zi = 1 - hj/vs when hi is equal to or greater than vs, Zi
+s shall be taken equal to zero,
+bi = width of wing tank in metres under consideration measured inboard from the ship's side at right angles to the centreline at the level corresponding to the assigned summer freeboard,
+hi = minimum depth of the double bottom in metres under consideration; where no double bottom is fitted hi shall be taken equal to zero.
+Whenever symbols given in this paragraph appear in this Chapter, they have the meaning as defined in this Regulation.
+(2) If a void space or segregated ballast tank of a length less than Lc as defined in Regulation 22 of this Annex is located between wing oil tanks, Oc in formula (I) may be calculated on the basis of volume Wi being the actual volume of one such tank (where they are of equal capacity) or the smaller of the two tanks (if they differ in capacity) adjacent to such space, multiplied by Si as defined below and taking for all other wing tanks involved in such a collision the value of the actual full volume.
+li/lc Si=1-li/lc
+where li = length in metres of void space or segregated ballast tank under consideration.
+(3) (a) Credit shall only be given in respect of double bottom tanks which are either empty or carrying clean water when cargo is carried in the tanks above.
+(b) Where the double bottom does not extend for the full length and width of the tank involved, the double bottom is considered non-existent and the volume of the tanks above the area of the bottom damage shall be included in formula (II) even if the tank is not considered breached because of the installation of such a partial double bottom.
+(c) Suction wells may be neglected in the determination of the value hi provided such wells are not excessive in area and extend below the tank for a minimum distance and in no case more than half the height of the double bottom. If the depth of such a well exceeds half the height of the double bottom, hi shall be taken equal to the double bottom height minus the well height.
+Piping serving such wells if installed within the double bottom shall be fitted with valves or other closing arrangements located at the point of connexion to the tank served to prevent oil outflow in the event of damage to the piping. Such piping shall be installed as high from the bottom shell as possible. These valves shall be kept closed at sea at any time when the tank contains oil cargo, except that they may be opened only for cargo transfer needed for the purpose of trimming of the ship.
+(4) In the case where bottom damage simultaneously involves four centre tanks, the value of Os may be calculated according to the formula
+Os = 4([Sigma]ZiWi + [Sigma]ZiCi) (III)
+(5) An Administration may credit as reducing oil outflow in case of bottom damage, an installed cargo transfer system having an emergency high suction in each cargo oil tank, capable of transferring from a breached tank or tanks to segregated ballast tanks or to available cargo tankage if it can be assured that such tanks will have sufficient ullage. Credit for such a system would be governed by ability to transfer in two hours of operation oil equal to one half of the largest of the breached tanks involved and by availability of equivalent receiving capacity in ballast or cargo tanks. The credit shall be confined to permitting calculation of Os according to formula (III). The pipes for such suctions shall be installed at least at a height not less than the vertical extent of the bottom damage vs. The Administration shall supply the Organization with the information concerning the arrangements accepted by it, for circulation to other Parties to the Convention.
+Regulation 24
+Limitation of Size and Arrangement of Cargo Tanks
+(1) Every new oil tanker shall comply with the provision of this Regulation. Every existing oil tanker shall be required, within two years after the date of entry into force of the present Convention, to comply with the provisions of this Regulation if such a tanker falls into either of the following categories:
+(a) a tanker, the delivery of which is after 1 January 1977; or
+(b) a tanker to which both the following conditions apply:
+(i) delivery is not later than 1 January 1977; and
+(ii) the building contract is placed after 1 January 1974, or in cases where no building contract has previously been placed, the keel is laid or the tanker is at a similar stage of construction after 30 June 1974.
+(2) Cargo tanks of oil tankers shall be of such size and arrangements that the hypothetical outflow Oc or Os calculated in accordance with the provisions of Regulation 23 of this Annex anywhere in the length of the ship does not exceed 30,000 cubic metres or 400 (Dw^1/3), whichever is the greater, but subject to a maximum of 40,000 cubic metres.
+(3) The volume of any one wing cargo oil tank of an oil tanker shall not exceed seventy-five per cent of the limits of the hypothetical oil outflow referred to in paragraph (2) of this Regulation. The volume of any one centre cargo oil tank shall not exceed 50,000 cubic metres. However, in segregated ballast oil tankers as defined in Regulation 13 of this Annex, the permitted volume of a wing cargo oil tank situated between two segregated ballast tanks, each exceeding lc in length, may be increased to the maximum limit of hypothetical oil outflow provided that the width of the wing tanks exceeds tc.
+(4) The length of each cargo tank shall not exceed 10 metres or one of the following values, whichever is the greater:
+(a) where no longitudinal bulkhead is provided:
+0.1L
+(b) where a longitudinal bulkhead is provided at the centreline only: 0.15L
+(c) where two or more longitudinal bulkheads are provided:
+(i) for wing tanks:
+0.2L
+(ii) for centre tanks:
+(1) if bi/B is equal to or greater than 1/5:
+0.2L
+(2) if bi/B is less than 1/5:
+- where no centreline longitudinal bulkhead is provided:
+bi
+(0.5 B + 0.1)L
+- where a centreline longitudinal bulkhead is provided: (0.25 bi/B + 0.15)L
+(5) In order not to exceed the volume limits established by paragraphs (2), (3) and (4) of this Regulation and irrespective of the accepted type of cargo transfer system installed, when such system inter-connects two or more cargo tanks, valves or other similar closing devices shall be provided for separating the tanks from each other. These valves or devices shall be closed when the tanker is at sea.
+(6) Lines of piping which run through cargo tanks in a position less than t from the ship's side or less than vc from the ship's bottom shall be fitted with valves or similar closing devices at the point at which they open into any cargo tank. These valves shall be kept closed at sea at any time when the tanks contain cargo oil, except that they may be opened only for cargo transfer needed for the purpose of trimming of the ship.
+Regulation 25 Subdivision and Stability
+(1) Every new oil tanker shall comply with the subdivision and damage stability criteria as specified in paragraph (3) of this Regulation, after the assumed side or bottom damage as specified in paragraph (2) of this Regulation, for any operating draught reflecting actual partial or full load conditions consistent with trim and strength of the ship as well as specific gravities of the cargo. Such damage shall be applied to all conceivable locations along the length of the ship as follows:
+(a) in tankers of more than 225 metres in length, anywhere in the ship's length;
+(b) in tankers of more than 150 metres, but not exceeding 225 metres in length, anywhere in the ship's length except involving either after or forward bulkhead bounding the machinery space located aft. The machinery space shall be treated as a single floodable compartment;
+(c) in tankers not exceeding 150 metres in length, anywhere in the ship's length between adjacent transverse bulkheads with the exception of the machinery space. For tankers of 100 metres or less in length where all requirements of paragraph (3) of this Regulation cannot be fulfilled without materially impairing the operational qualities of the ship, Administrations may allow relaxations from these requirements.
+Ballast conditions where the tanker is not carrying oil in cargo tanks excluding any oil residues, shall not be considered.
+(2) The following provisions regarding the extent and the character of the assumed damage shall apply:
+(a) The extent of side or bottom damage shall be as specified in Regulation 22 of this Annex, except that the longitudinal extent of bottom damage within 0.3L from the forward perpendicular shall be the same as for side damage, as specified in Regulation 22(l)(a)(i) of this Annex. If any damage of lesser extent results in a more severe condition such damage shall be assumed.
+(b) Where the damage involving transverse bulkheads is envisaged as specified in sub-paragraphs (1)(a) and (b) of this Regulation, transverse watertight bulkheads shall be spaced at least at a distance equal to the longitudinal extent of assumed damage specified in sub-paragraph (a) of this paragraph in order to be considered effective. Where transverse bulkheads are spaced at a lesser distance, one or more of these bulkheads within such extent of damage shall be assumed as non-existent for the purpose of determining flooded compartments.
+(c) Where the damage between adjacent transverse watertight bulkheads is envisaged as specified in sub-paragraph (1)(c) of this Regulation, no main transverse bulkhead or a transverse bulkhead bounding side tanks or double bottom tanks shall be assumed damaged, unless:
+(i) the spacing of the adjacent bulkheads is less than the longitudinal extent of assumed damage specified in sub-paragraph (a) of this paragraph; or
+(ii) there is a step or a recess in a transverse bulkhead of more than 3.05 metres in length, located within the extent of penetration of assumed damage. The step formed by the after peak bulkhead and after peak tank top shall not be regarded as a step for the purpose of this Regulation.
+(d) If pipes, ducts or tunnels are situated within the assumed extent of damage, arrangements shall be made so that progressive flooding cannot thereby extend to compartments other than those assumed to be floodable for each case of damage.
+(3) Oil tankers shall be regarded as complying with the damage stability criteria if the following requirements are met:
+(a) The final waterline, taking into account sinkage, heel and trim, shall be below the lower edge of any opening through which progressive flooding may take place. Such openings shall include air pipes and those which are closed by means of weathertight doors or hatch covers and may exclude those openings closed by means of watertight manhole covers and flush scuttles, small watertight cargo tank hatch covers which maintain the high integrity of the deck, remotely operated watertight sliding doors, and side scuttles of the non-opening type.
+(b) In the final stage of flooding, the angle of heel due to unsymmetrical flooding shall not exceed 25 degrees, provided that this angle may be increased up to 30 degrees if no deck edge immersion occurs.
+(c) The stability in the final stage of flooding shall be investigated and may be regarded as sufficient if the righting lever curve has at least a range of 20 degrees beyond the position of equilibrium in association with a maximum residual righting lever of at least 0.1 metre. The Administration shall give consideration to the potential hazard presented by protected or unprotected openings which may become temporarily immersed within the range of residual stability.
+(d) The Administration shall be satisfied that the stability is sufficient during intermediate stages of flooding.
+(4) The requirements of paragraph (1) of this Regulation shall be confirmed by calculations which take into consideration the design characteristics of the ship, the arrangements, configuration and contents of the damaged compartments; and the distribution, specific gravities and the free surface effect of liquids. The calculations shall be based on the following:
+(a) Account shall be taken of any empty or partially filled tank, the specific gravity of cargoes carried, as well as any outflow of liquids from damaged compartments.
+(b) The permeabilities are assumed as follows:
+Spaces Permeability
+Appropriated to stores 0.60
+Occupied by accommodation 0.95 4
+Occupied by machinery 0.85
+Voids 0.95
+Intended for consumable liquids 0 or 0.95[5]
+Intended for other liquids 0 to 0.95[5][6]
+(c) The buoyancy of any superstructure directly above the side damage shall be disregarded. The unflooded parts of superstructures beyond the extent of damage, however, may be taken into consideration provided that they are separated from the damaged space by watertight bulkheads and the requirements of sub-paragraph (3)(a) of this Regulation in respect of these intact spaces are complied with. Hinged watertight doors may be acceptable in watertight bulkheads in the superstructure.
+(d) The free surface effect shall be calculated at an angle of heel of 5 degrees for each individual compartment. The Administration may require or allow the free surface corrections to be calculated at an angle of heel greater than 5 degrees for partially filled tanks.
+(e) In calculating the effect of free surfaces of consumable liquids it shall be assumed that, for each type of liquid at least one transverse pair or a single centreline tank has a free surface and the tank or combination of tanks to be taken into account shall be those where the effect of free surfaces is the greatest.
+(5) The Master of every oil tanker and the person in charge of a non- self-propelled oil tanker to which this Annex applies shall be supplied in an approved form with:
+(a) information relative to loading and distribution of cargo necessary tc ensure compliance with the provisions of this Regulation; and
+(b) data on the ability of the ship to comply with damage stability criteria as determined by this Regulation, including the effect of relaxations that may have been allowed under sub-paragraph (1)(c) of this Regulation.
+Appendix I
+LIST OF OILS[7]
+Asphalt solutions
+Blending Stocks
+Roofers Flux
+Straight Run Residue
+Oils
+Clarified Crude Oil
+Mixtures containing crude oil
+Diesel Oil Fuel Oil No.4
+Fuel Oil No.5
+Fuel Oil No.6
+Residual Fuel Oil
+Road Oil Transformer Oil
+Aromatic Oil (excluding vegetable oil) Lubricating Oils and Blending Stocks
+Mineral Oil Motor Oil Penetrating Oil
+Spindle Oil Turbine Oil
+Distillates Straight Run Flashed Feed Stocks
+Gas Oil Cracked
+Appendix II
+FORM OF CERTIFICATE
+INTERNATIONAL OIL POLLUTION PREVENTION CERTIFICATE (1973)
+Issued under the Provisions of the International Convention for the Prevention of Pollution from Ships, 1973, under the Authority of the Government of
+.................................................................. (full designation of the country)
+(full designation of the competent person or organization authorized under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973)
+Name of Ship[TAB]Distinctive
+Number or
+Letter[TAB]Port of
+Registry[TAB]Gross
+Tonnage
+[TAB][TAB][TAB]
+Type of ship:
+Oil tanker, including combination carrier[8] Asphalt carrier*
+Ship other than an oil tanker with cargo tanks coming under Regulation 2(2) of Annex I of the Convention*
+Ship other than any of the above* New/existing ship*
+Date of building or major conversion contract
+Date on which keel was laid or ship was at a similar stage of
+construction or on which major conversion was commenced
+Date of delivery or completion of major conversion
+PART A ALL SHIPS
+The ship is equipped with:
+for ships of 400 tons gross tonnage and above:
+(a) oily-water separating equipment[8] (capable of producing the effluent with an oil content not exceeding 100 parts per million) or
+(b) an oil filtering system* (capable of producing the effluent with an oil content not exceeding 100 parts per million)
+for ships of 10,000 tons gross tonnage and above:
+(c) an oil discharge monitoring and control system* (additional to (a) or (b) above) or
+(d) oily-water separating equipment and an oil filtering system* (capable of producing the effluent with an oil content not exceeding 15 parts per million) in lieu of (a) or (b) above.
+Particulars of requirements from which exemption is granted under Regulation 2(2) and 2(4)(a) of Annex I of the Convention:
+: Remarks:
+PART B OIL TANKER [9] [10]
+Deadweight metric tons. Length of ship metres.
+It is certified that this ship is:
+(a) required to be constructed according to and complies with3
+(b) not required to be constructed according to3
+(c) not required to be constructed according to, but complies with [8] the requirements of Regulation 24 of Annex I of the Convention.
+The capacity of segregated ballast tanks is cubic metres and
+complies with the requirements of Regulation 13 of Annex I of the Convention.
+The segregated ballast is distributed as follows:
+Tank[TAB]Quantity[TAB]Tank[TAB]Quantity
+[TAB][TAB][TAB]
+THIS IS TO CERTIFY:
+That the ship has been surveyed in accordance with Regulation 4 of Annex I of the International Convention for the Prevention of Pollution from Ships, 1973, concerning the prevention of pollution by oil; and
+That the survey shows that the structure, equipment, fittings, arrangement and material of the ship and the condition thereof are in all respects satisfactory and that the ship complies with the applicable requirements of Annex I of the Convention.
+This Certificate is valid until
+subject to intermediate survey(s) at intervals of
+Issued at (place of issue of Certificate)
+19 (Signature of duly authorized official issuing the Certificate)
+(Seal or stamp of the issuing Authority, as appropriate) Endorsement for existing ships [11]
+This is to certify that this ship has been so equipped as to comply with the requirements of the International Convention for the Prevention of Pollution from Ships, 1973 as relating to existing ships three years from the date of entry into force of the Convention.
+Signed (Signature of duly authorized official)
+Place of endorsement
+Date of endorsement (Seal or stamp of the Authority, as appropriate)
+Intermediate survey
+This is to certify that at an intermediate survey required by Regulation 4(1)(c) of Annex I of the Convention, this ship and the condition thereof are found to comply with the relevant provisions of the Convention.
+Signed (Signature of duly authorized official)
+Place
+Date Veal or stamp of the Authority, as appropriate)
+Signed (Signature of duly authorized official)
+Place
+Date (Seal or stamp of the Authority, as appropriate)
+Under the provisions of Regulation 8(2) and (4) of Annex I of the Convention the validity of this Certificate is extended until
+..................................................................
+Signed (Signature of duly authorized official)
+Place
+Date (Seal or stamp of the Authority, as appropriate)
+Appendix III
+FORM OF OIL RECORD BOOK
+OIL RECORD BOOK I - FOR OIL TANKERS[12]
+Name of ship
+Total cargo carrying capacity of ship in cubic metres
+Voyage from (date) to (date)
+(a) Loading of oil cargo
+1. Date and place of loading[TAB][TAB][TAB]
+2. Types of oil loaded[TAB][TAB][TAB]
+3. Identity of tank(s) loaded[TAB][TAB][TAB]
+4. Closing of applicable cargo
+tank valves and applicable
+line cut-off valves on
+completion of loading[13][TAB][TAB][TAB]
+The undersigned certifies that in addition to the above, all sea valves, over-board discharge valves, cargo tank and pipeline connections and inter-connections, were secured on completion of loading oil cargo.
+Date of entry Officer in charge
+Master
+(b) Internal transfer of oil cargo during voyage
+5. Date of internal transfer[TAB][TAB][TAB]
+6. Identity of tank(s)[TAB](i)[TAB]From[TAB][TAB][TAB]
+[TAB](ii)[TAB]To[TAB][TAB][TAB]
+7. Was(were) tank(s) in 6(i) emptied?[TAB][TAB][TAB]
+The undersigned certifies that in addition to the above, all sea valves, over-board discharge valves, cargo tank and pipeline connections and inter-connections, were secured on completion of internal transfer of oil cargo.
+Date of entry Officer in charge
+Master
+(c) Unloading of oil cargo
+8. Date and place of unloading[TAB][TAB][TAB]
+9. Identity of tank(s) unloaded[TAB][TAB][TAB]
+10. Was(were) tank(s) emptied?[TAB][TAB][TAB]
+11. Opening of applicable cargo tank[TAB][TAB][TAB]
+valves and applicable line cut-off[TAB][TAB][TAB]
+valves prior to cargo unloading2[TAB][TAB][TAB]
+12. Closing of applicable cargo tank[TAB][TAB][TAB]
+valves and applicable line cut-off[TAB][TAB][TAB]
+valves on completion of unloading2[TAB][TAB][TAB]
+[TAB][TAB][TAB]
+The undersigned certifies that in addition to the above, all sea valves, over-board discharge valves, cargo tank and pipeline connections and inter-connections, were secured on completion of unloading of oil cargo.
+Date of entry Officer in charge
+Master
+(d) Ballasting of cargo tanks
+13. Identity of tank(s) ballasted[TAB][TAB][TAB]
+14. Date and position of ship at[TAB][TAB][TAB]
+start of ballasting[TAB][TAB][TAB]
+15. If valves connecting cargo lines and segregated ballast lines were used give time, date and position of ship when valves were(a) opened, and (b) closed[TAB][TAB][TAB]
+The undersigned certifies that in addition to the above all sea valves, over-board discharge valves, cargo tank and pipeline connections and inter-connections, were secured on completion of ballasting.
+Date of entry Officer in charge
+Master
+(e) Cleaning of cargo tanks
+16. Identity of tank(s) cleaned[TAB][TAB][TAB]
+17. Date and duration of cleaning[TAB][TAB][TAB]
+18. Methods of cleaning[14][TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(f) Discharge of dirty ballast
+19. Identity of tank(s)[TAB][TAB][TAB]
+20. Date and position of ship at
+start of discharge to sea[TAB][TAB][TAB]
+21. Date and position of ship at
+finish of discharge to sea[TAB][TAB][TAB]
+22. Ship's speed(s) during
+discharge[TAB][TAB][TAB]
+23. Quantity discharged to sea[TAB][TAB][TAB]
+24. Quantity of polluted water
+transferred to slop tank(s)
+(identify slop tank(s))[TAB][TAB][TAB]
+25. Date and port of discharge into
+shore reception facilities (if
+applicable)[TAB][TAB][TAB]
+26. Was any part of the discharge
+conducted during darkness, if so,
+for how long?[TAB][TAB][TAB]
+27. Was a regular check kept on the
+effluent and the surface of the
+water in the locality of the
+discharge?[TAB][TAB][TAB]
+28. Was any oil observed on the
+surface of the water in the locality
+of the discharge?[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(g) Discharge of water from slop tanks
+29. Identity of slop tank(s)[TAB][TAB][TAB]
+30. Time of settling from last entry
+of residues, or[TAB][TAB][TAB]
+31. Time of settling from last
+discharge[TAB][TAB][TAB]
+32. Date, time and position of ship
+at start of discharge[TAB][TAB][TAB]
+33. Sounding of total contents at
+start of discharge[TAB][TAB][TAB]
+34. Sounding of oil/water interface
+at start of discharge[TAB][TAB][TAB]
+35. Bulk quantity discharged and
+rate of discharge[TAB][TAB][TAB]
+36. Final quantity discharged and
+rate of discharge[TAB][TAB][TAB]
+37. Date, time and position of ship
+at end of discharge[TAB][TAB][TAB]
+38. Ship's speed(s) during
+discharge[TAB][TAB][TAB]
+39. Sounding of oil/water interface
+at end of discharge[TAB][TAB][TAB]
+40. Was any part of the discharge
+conducted during darkness, if so,
+for how long?[TAB][TAB][TAB]
+41. Was a regular check kept on the
+effluent and the surface of the
+water in the locality of the
+discharge ?[TAB][TAB][TAB]
+42. Was any oil observed on the
+surface of the water in the
+locality of the discharge?[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(h) Disposal of residues
+43. Identity of tank(s)[TAB][TAB][TAB]
+44. Quantity disposed from each tank[TAB][TAB][TAB]
+45. Method of disposal of residue:
+(a) Reception facilities
+(b) Mixed with cargo
+(c) Transferred to another (other)
+tank(s) (identify tank(s))
+(d) Other method (state which)[TAB][TAB][TAB]
+46. Date and port of disposal of
+residue[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(i) Discharge of clean ballast contained in cargo tanks
+47. Date and position of ship at
+commencement of discharge
+of clean ballast[TAB][TAB][TAB]
+48. Identity of tank(s) discharged[TAB][TAB][TAB]
+49. Was(were) the tank(s) empty on
+completion?[TAB][TAB][TAB]
+50. Position of vessel on completion
+if different from 47[TAB][TAB][TAB]
+51. Was any part of the discharge
+conducted during darkness, if so,
+for how long?[TAB][TAB][TAB]
+52. Was a regular check kept on the
+effluent and the surface of the
+water in the locality of the
+discharge?[TAB][TAB][TAB]
+53. Was any oil observed on the
+surface of the water in the locality
+of the discharge?[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(j) Discharge overboard of bilge water containing oil which has accumulated in machinery spaces whilst in port[15]
+54. Port[TAB][TAB][TAB]
+55. Duration of stay[TAB][TAB][TAB]
+56. Quantity disposed[TAB][TAB][TAB]
+57. Date and place of disposal[TAB][TAB][TAB]
+58. Method of disposal (state
+whether a separator was used)[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(k) Accidental or other exceptional discharges of oil
+59. Date and time of occurrence[TAB][TAB][TAB]
+60. Place or position of ship at time
+of occurrence[TAB][TAB][TAB]
+61. Approximate quantity and type
+of oil[TAB][TAB][TAB]
+62. Circumstances of discharge or
+escape, the reasons therefor and
+general remarks[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(1) Has the oil monitoring and control system been out of operation at any time when discharging overboard? If so, give time and date of failure and time and date of restoration and confirm that this was due to equipment failure and state reason if known
+.................................................................. .................................................................. Date of entry Officer in charge
+Master
+(m) Additional operational procedures and general remarks
+.................................................................. .................................................................. ..................................................................
+For oil tankers of less than 150 tons gross tonnage operating in accordance with Regulation 15(4) of Annex I of the Convention, an appropriate oil record book should be developed by the Administration.
+For asphalt carriers, a separate oil record book may be developed by the Administration utilizing sections (a), (b), (c), (e), (h), (j), (k) and (m) of this form of oil record book.
+II - FOR SHIPS OTHER THAN OIL TANKERS
+Name of ship
+Operations from (date), to (date)
+(a) Ballasting or cleaning of oil fuel tanks
+1. Identity of tank(s) ballasted[TAB][TAB][TAB]
+2. Whether cleaned since they last
+contained oil and, if not, type
+of oil previously carried[TAB][TAB][TAB]
+3. Date and position of ship at
+start of cleaning[TAB][TAB][TAB]
+4. Date and position of ship at
+start of ballasting[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(b) Discharge of dirty ballast or cleaning water from tanks referred to under section (a)
+5. Identity of tank(s)[TAB][TAB][TAB]
+6. Date and position of ship at
+start of discharge[TAB][TAB][TAB]
+7. Date and position of ship at
+finish of discharge[TAB][TAB][TAB]
+8. Ship's speed(s) during discharge[TAB][TAB][TAB]
+9. Method of discharge (state
+whether to reception facility or
+through installed equipment)[TAB][TAB][TAB]
+10. Quantity discharged[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(c) Disposal of residues
+11. Quantity of residue retained on
+board[TAB][TAB][TAB]
+12. Methods of disposal of residue:
+(a) reception facilities
+(b) mixed with next bunkering
+(c) transferred to another
+(other) tank
+(d) other method (state which)[TAB][TAB][TAB]
+13. Date and port of disposal of
+residue[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(d) Discharge overboard of bilge water containing oil which has accumulated
+in machinery spaces whilst in port[16]
+14. Port[TAB][TAB][TAB]
+15. Duration of stay[TAB][TAB][TAB]
+16. Quantity discharged[TAB][TAB][TAB]
+17. Date and place of discharge[TAB][TAB][TAB]
+18. Method of discharge:
+(a) through oily-water separating
+equipment;
+(b) through oil filtering system;
+(c) through oily-water separating
+equipment and an oil
+filtering system;
+(d) to reception facilities[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(e) Accidental or other exceptional discharges of oil
+19. Date and time of occurrence[TAB][TAB][TAB]
+20. Place or position of ship at
+time of occurrence[TAB][TAB][TAB]
+21. Approximate quantity and type
+of oil[TAB][TAB][TAB]
+22. Circumstances of discharge or
+escape, the reasons therefor and
+general remarks[TAB][TAB][TAB]
+Date of entry Officer in charge
+Master
+(f) Has the required oil monitoring and control system been out of operation at any time when discharging overboard? If so, state time and date of failure and time and date of restoration, and confirm that this was due to equipment failure, and state reason if known
+Date of entry Officer in charge
+Master
+(g) New ships of 4,000 tons gross tonnage and above: has dirty ballast been carried in oil fuel tanks?
+Yes/No
+If so, state which tanks were so ballasted and method of discharge of the dirty ballast
+..................................................................
+..................................................................
+Date of entry Officer in charge
+Master
+(h) Additional operational procedures and general remarks
+Date of entry Officer in charge
+Master ……………………….
+Notes:
+[1] Reference is made to the Recommendation on International Performance Specifications for Oily-Water Separating Equipment and Oil Content Meters adopted by the Organization by Resolution A.233(VII).
+[2] Reference is made to "Clean Seas Guide for Oil Tankers", published by the International Chamber of Shipping and the Oil Companies International Marine Forum.
+[3] Reference is made to the Recommendation on International Performance Specifications for Oily-Water Separating Equipment and Oil Content Meters adopted by the Organization by Resolution A.233(VII).
+[4] Reference is made to the Recommendation on International Performance Specifications foi Oily-Water Separating Equipment and Oil Content Meters adopted by the Organization by Resolution A.233(VII).
+[5] Whichever results in the more severe requirements.
+[6] The permeability of partially filled compartments shall be consistent with the amount of liquid carried.
+[7] The list of oils shall not necessarily be considered as comprehensive.
+[8] Delete as appropriate
+[9] This part should be completed for oil tankers including combination carriers and asphalt carriers, and those entries which are applicable should be completed for ships other than oil tankers, which are constructed and utilized to carry oil in bulk of an aggregate capacity of 200 cubic meters or above.
+[10] This page need not be reproduced on a Certificate issued to any ship other than those refered to in footnote 10.
+[11] This entry need not be reproduced on a Certificate other than the first Certificate issued to any ship.
+[12] This Part should be completed for oil tankers including combination carriers and asphalt carriers, and those entries which are applicable shall be completed for ships other than oil tankers which are constructed and utilized to carry oil in bulk of an aggregate capacity of 200 cubic metres or above. This Part need not be reproduced on an Oil Record Book issued to any ship other than those referred to above.
+[13] Applicable valves and similar devices are those referred to in Regulations 20(2)(a)(iii), 23 and 24 of Annex I of the Convention.
+[14] Hand hosing, machine washing and/or chemical cleaning. Where chemically cleaned, the chemical concerned and the amount used should be stated.
+[15] Where the pump starts automatically and discharges through a separator at all times it will be sufficient to enter each day "Automatic discharge from bilges through a separator".
+[16] Where the pump starts automatically and discharges through a separator at all times it will be sufficient to enter each day "Automatic discharge from bilges through a separator". 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

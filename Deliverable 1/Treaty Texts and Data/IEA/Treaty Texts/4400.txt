@@ -1,0 +1,217 @@
+
+ Amendments To Annex IV To The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2004-AmendmentsRevisedAnnexIV-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D15718/115%2851%29.pdf     
+    ﻿Amendments To The Annex Of The Protocol Of 1978 Relating To The International Convention For The Prevention Of Pollution From Ships, 1973 (Revised Annex IV of MARPOL 73/78)
+Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D15718/115%2851%2..., downloaded 20070610
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+HAVING CONSIDERED the revised Annex IV of MARPOL 73/78,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the revised Annex IV of MARPOL 73/78, the text of which is set out at annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the revised Annex IV shall be deemed to have been accepted on 1 February 2005, unless, prior to that date, not less than one third of the Parties to MARPOL 73/78 or by the Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have notified to the Organization their objections to the amendments;
+3. INVITES Parties to MARPOL 73/78 to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 August 2005 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments contained in the annex;
+5. REQUESTS FURTHER the Secretary-General to transmit copies of this resolution and its annex to Members of the Organization which are not Parties to MARPOL 73/78.
+ANNEX
+REVISED ANNEX IV OF MARPOL 73/78
+REGULATIONS FOR THE PREVENTION OF POLLUTION BY SEWAGE FROM SHIPS
+Chapter 1 General
+Regulation 1
+Definitions
+For the purposes of this Annex:
+1 "New ship" means a ship:
+.1 for which the building contract is placed, or in the absence of a building contract, the keel of which is laid, or which is at a similar stage of construction, on or after the date of entry into force of this Annex; or
+.2 the delivery of which is three years or more after the date of entry into force of this Annex.
+2 "Existing ship" means a ship which is not a new ship.
+3 "Sewage" means:
+.1 drainage and other wastes from any form of toilets and urinals;
+.2 drainage from medical premises (dispensary, sick bay, etc.) via wash basins, wash tubs and scuppers located in such premises;
+.3 drainage from spaces containing living animals; or
+.4 other waste waters when mixed with the drainages defined above.
+4 "Holding tank" means a tank used for the collection and storage of sewage.
+5 "Nearest Land". The term "from the nearest land" means from the baseline from which the territorial sea of the territory in question is established in accordance with international law except that, for the purposes of the present Convention "from the nearest land" off the north eastern coast of Australia shall mean from a line drawn from a point on the coast of Australia in:
+latitude 11°00' S, longitude 142°08' E
+to a point in latitude 10°35' S, longitude 141°55' E
+thence to a point latitude 10°00' S, longitude 142°00' E
+thence to a point latitude 9°10' S, longitude 143°52' E
+thence to a point latitude 9°00' S, longitude 144°30' E
+thence to a point latitude 10°41' S, longitude 145°00' E
+thence to a point latitude 13°00' S, longitude 145°00' E
+thence to a point latitude 15°00' S, longitude 146°00' E
+thence to a point latitude 17°30' S, longitude 147°00' E
+thence to a point latitude 21°00' S, longitude 152°55' E
+thence to a point latitude 24°30' S, longitude 154°00' E
+thence to a point on the coast of Australia
+in latitude 24°42' S, longitude 153°15' E
+6 "International voyage" means a voyage from a country to which the present Convention applies to a port outside such country, or conversely.
+7 "Person" means member of the crew and passengers.
+8 "Anniversary date" means the day and the month of each year which will correspond to the date of expiry of the International Sewage Pollution Prevention Certificate.
+Regulation 2 Application
+1 The provisions of this Annex shall apply to the following ships engaged in international voyages:
+.1 new ships of 400 gross tonnage and above; and
+.2 new ships of less than 400 gross tonnage which are certified to carry more than 15 persons; and
+.3 existing ships of 400 gross tonnage and above, five years after the date of entry into force of this Annex; and
+.4 existing ships of less than 400 gross tonnage which are certified to carry more than 15 persons, five years after the date of entry into force of this Annex.
+2 The Administration shall ensure that existing ships, according to subparagraphs 1.3 and 1.4 of this regulation, the keels of which are laid or which are of a similar stage of construction before 2 October 1983 shall be equipped, as far as practicable, to discharge sewage in accordance with the requirements of regulation 11 of the Annex.
+Regulation 3
+Exceptions
+1 Regulation 11 of this Annex shall not apply to:
+.1 the discharge of sewage from a ship necessary for the purpose of securing the safety of a ship and those on board or saving life at sea; or
+.2 the discharge of sewage resulting from damage to a ship or its equipment if all reasonable precautions have been taken before and after the occurrence of the damage, for the purpose of preventing or minimizing the discharge.
+Chapter 2
+Surveys and certification
+Regulation 4 Surveys
+1 Every ship which, in accordance with regulation 2, is required to comply with the provisions of this Annex shall be subject to the surveys specified below:
+.1 An initial survey before the ship is put in service or before the Certificate required under regulation 5 of this Annex is issued for the first time, which shall include a complete survey of its structure, equipment, systems, fittings, arrangements and material in so far as the ship is covered by this Annex. This survey shall be such as to ensure that the structure, equipment, systems, fittings, arrangements and material fully comply with the applicable requirements of this Annex.
+.2 A renewal survey at intervals specified by the Administration, but not exceeding five years, except where regulation 8.2, 8.5, 8.6 or 8.7 of this Annex is applicable. The renewal survey shall be such as to ensure that the structure, equipment, systems, fittings, arrangements and material fully comply with applicable requirements of this Annex.
+.3 An additional survey either general or partial, according to the circumstances, shall be made after a repair resulting from investigations prescribed in paragraph 4 of this regulation, or whenever any important repairs or renewals are made. The survey shall be such as to ensure that the necessary repairs or renewals have been effectively made, that the material and workmanship of such repairs or renewals are in all respects satisfactory and that the ship complies in all respects with the requirements of this Annex.
+2 The Administration shall establish appropriate measures for ships which are not subject to the provisions of paragraph 1 of this regulation in order to ensure that the applicable provisions of this Annex are complied with.
+3 Surveys of ships as regards the enforcement of the provisions of this Annex shall be carried out by officers of the Administration. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it.
+4 An Administration nominating surveyors or recognizing organizations to conduct surveys as set forth in paragraph 3 of this regulation shall, as a minimum, empower any nominated surveyor or recognized organization to:
+.1 require repairs to a ship; and
+.2 carry out surveys if requested by the appropriate authorities of a Port State.
+The Administration shall notify the Organization of the specific responsibilities and conditions of the authority delegated to the nominated surveyors or recognized organizations, for circulation to Parties to the present Convention for the information of their officers.
+5 When a nominated surveyor or recognized organization determines that the condition of the ship or its equipment does not correspond substantially with the particulars of the Certificate or is such that the ship is not fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment, such surveyor or organization shall immediately ensure that corrective action is taken and shall in due course notify the Administration. If such corrective action is not taken the Certificate should be withdrawn and the Administration shall be notified immediately and if the ship is in a port of another Party, the appropriate authorities of the Port State shall also be notified immediately. When an officer of the Administration, a nominated surveyor or recognized organization has notified the appropriate authorities of the Port State, the Government of the Port State concerned shall give such officer, surveyor or organization any necessary assistance to carry out their obligations under this regulation. When applicable, the Government of the Port State concerned shall take such steps as will ensure that the ship shall not sail until it can proceed to sea or leave the port for the purpose of proceeding to the nearest appropriate repair yard available without presenting an unreasonable threat of harm to the marine environment.
+6 In every case, the Administration concerned shall fully guarantee the completeness and efficiency of the survey and shall undertake to ensure the necessary arrangements to satisfy this obligation.
+7 The condition of the ship and its equipment shall be maintained to conform with the provisions of the present Convention to ensure that the ship in all respects will remain fit to proceed to sea without presenting an unreasonable threat of harm to the marine environment.
+8 After any survey of the ship under paragraph 1 of this regulation has been completed, no change shall be made in the structure, equipment, systems, fittings, arrangements or material covered by the survey, without the sanction of the Administration, except the direct replacement of such equipment and fittings.
+9 Whenever an accident occurs to a ship or a defect is discovered which substantially affects the integrity of the ship or the efficiency or completeness of its equipment covered by this Annex the master or owner of the ship shall report at the earliest opportunity to the Administration, the recognized organization or the nominated surveyor responsible for issuing the relevant Certificate, who shall cause investigations to be initiated to determine whether a survey as required by paragraph 1 of this regulation is necessary. If the ship is in a port of another Party, the master or owner shall also report immediately to the appropriate authorities of the Port State and the nominated surveyor or recognized organization shall ascertain that such report has been made.
+Regulation 5
+Issue or Endorsement of Certificate
+1 An international Sewage Pollution Prevention Certificate shall be issued, after an initial or renewal survey in accordance with the provisions of regulation 4 of this Annex to any ship which is engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to the Convention. In the case of existing ships this requirement shall apply five years after the date of entry into force of this Annex.
+2 Such Certificate shall be issued or endorsed either by the Administration or by any persons or organization [1] duly authorized by it. In every case the Administration assumes full responsibility for the Certificate.
+Regulation 6
+Issue or Endorsement of a Certificate by another Government
+1 The Government of a Party to the Convention may, at the request of the Administration, cause a ship to be surveyed and, if satisfied that the provisions of this Annex are complied with, shall issue or authorize the issue of an International Sewage Pollution Prevention Certificate to the ship, and where appropriate, endorse or authorize the endorsement of that Certificate on the ship in accordance with this Annex.
+2 A copy of the Certificate and a copy of the Survey report shall be transmitted as soon as possible to the Administration requesting the survey.
+3 A Certificate so issued shall contain a statement to the effect that it has been issued at the request of the Administration and it shall have the same force and receive the same recognition as the Certificate issued under regulation 5 of this Annex.
+4 No International Sewage Pollution Prevention Certificate shall be issued to a ship which is entitled to fly the flag of a State, which is not a Party.
+Regulation 7
+Form of Certificate
+The International Sewage Pollution Prevention Certificate shall be drawn up in the form corresponding to the model given in the Appendix to this Annex and shall be at least in English, French or Spanish. If an official language of the issuing country is also used, this shall prevail in case of a dispute or discrepancy.
+Regulation 8
+Duration and validity of Certificate
+1 An International Sewage Pollution Prevention Certificate shall be issued for a period specified by the Administration which shall not exceed five years.
+2 .1 Notwithstanding the requirements of paragraph 1 of this regulation, when the renewal survey is completed within three months before the expiry date of the existing Certificate, the new Certificate shall be valid from the date of completion of the renewal survey to a date not exceeding five years from the date of expiry of the existing Certificate.
+.2 When the renewal survey is completed after the expiry date of the existing Certificate, the new Certificate shall be valid from the date of completion of the renewal survey to a date not exceeding five years from the date of expiry of the existing Certificate.
+.3 When the renewal survey is completed more than three months before the expiry date of the existing Certificate, the new Certificate shall be valid from the date of completion of the renewal survey to a date not exceeding five years from the date of completion of the renewal survey.
+3 If a Certificate is issued for a period of less than five years, the Administration may extend the validity of the Certificate beyond the expiry date to the maximum period specified in paragraph 1 of this regulation.
+4 If a renewal survey has been completed and a new Certificate cannot be issued or placed on board the ship before the expiry date of the existing Certificate, the person or organization authorized by the Administration may endorse the existing Certificate and such a Certificate shall be accepted as valid for a further period which shall not exceed five months from the expiry date.
+5 If a ship at the time when a Certificate expires is not in a port in which it is to be surveyed, the Administration may extend the period of validity of the Certificate but this extension shall be granted only for the purpose of allowing the ship to complete its voyage to the port in which it is to be surveyed and then only in cases where it appears proper and reasonable to do so. No Certificate shall be extended for a period longer than three months, and a ship to which an extension is granted shall not, on its arrival in the port in which it is to be surveyed, be entitled by virtue of such extension to leave that port without having a new Certificate. When the renewal survey is completed, the new Certificate shall be valid to a date not exceeding five years from the date of expiry of the existing Certificate before the extension was granted.
+6 A Certificate issued to a ship engaged on short voyages which has not been extended under the foregoing provisions of this regulation may be extended by the Administration for a period of grace of up to one month from the date of expiry stated on it. When the renewal survey is completed, the new Certificate shall be valid to a date not exceeding five years from the date of expiry of the existing Certificate before the extension was granted.
+7 In special circumstances, as determined by the Administration, a new Certificate need not be dated from the date of expiry of the existing Certificate as required by paragraph 2.2, 5 or 6 of this regulation. In these special circumstances, the new Certificate shall be valid to a date not exceeding five years from the date of completion of the renewal survey.
+8 A Certificate issued under regulation 5 or 6 of this Annex shall cease to be valid in either of the following cases:
+.1 if the relevant surveys are not completed within the periods specified under regulation 4.1 of this Annex; or
+.2 upon transfer of the ship to the flag of another State. A new Certificate shall only be issued when the Government issuing the new Certificate is fully satisfied that the ship is in compliance with the requirements of regulations 4.7 and 4.8 of this Annex. In the case of a transfer between Parties, if requested within 3 months after the transfer has taken place, the Government of the Party whose flag the ship was formerly entitled to fly shall, as soon as possible, transmit to the Administration copies of the Certificate carried by the ship before the transfer and, if available, copies of the relevant survey reports.
+Chapter 3 Equipment and control of discharge
+Regulation 9
+Sewage Systems
+1 Every ship which, in accordance with regulation 2, is required to comply with the provisions of this Annex shall be equipped with one of the following sewage systems:
+.1 a sewage treatment plant which shall be of a type approved by the Administration, taking into account the standards and test methods developed by the Organization [2], or
+.2 a sewage comminuting and disinfecting system approved by the Administration. Such system shall be fitted with facilities to the satisfaction of the Administration, for the temporary storage of sewage when the ship is less than 3 nautical miles from the nearest land, or
+.3 a holding tank of the capacity to the satisfaction of the Administration for the retention of all sewage, having regard to the operation of the ship, the number of persons on board and other relevant factors. The holding tank shall be constructed to the satisfaction of the Administration and shall have a means to indicate visually the amount of its contents.
+Regulation 10
+Standard Discharge Connections
+1 To enable pipes of reception facilities to be connected with the ship's discharge pipeline, both lines shall be fitted with a standard discharge connection in accordance with the following table:
+STANDARD DIMENSIONS OF FLANGES FOR DISCHARGE CONNECTIONS
+[Editor's Note: the following table has been reformatted, refer to page 9 of original document]
+Description [TAB] Dimension
+Outside diameter [TAB] 210 mm
+Inner diameter [TAB] According to pipe outside diameter
+Bolt circle diameter [TAB] 170 mm
+Slots in flange [TAB] 4 holes 18 mm in diameter equidistantly placed on a bolt circle of the above diameter, slotted to the flange periphery. The slot width to be 18 mm
+Flange thickness [TAB] 16 mm
+Bolts and nuts: quantity and diameter [TAB] 4, each of 16 mm in diameter and of suitable length
+The flange is designed to accept pipes up to a maximum internal diameter of 100 mm and shall be of steel or other equivalent material having a flat face. This flange, together with a suitable gasket, shall be suitable for a service pressure of 600 kPa.
+For ships having a moulded depth of 5 metres and less, the inner diameter of the discharge connection may be 38 millimetres.
+2 For ships in dedicated trades, i.e. passenger ferries, alternatively the ship's discharge pipeline may be fitted with a discharge connection which can be accepted by the Administration, such as quick connection couplings.
+Regulation 11
+Discharge of Sewage
+1 Subject to the provisions of regulation 3 of this Annex, the discharge of sewage into the sea is prohibited, except when:
+.1 the ship is discharging comminuted and disinfected sewage using a system approved by the Administration in accordance with regulation 9.1.2 of this Annex at a distance of more than 3 nautical miles from the nearest land, or sewage which is not comminuted or disinfected at a distance of more than 12 nautical miles from the nearest land, provided that in any case, the sewage that has been stored in holding tanks shall not be discharged instantaneously but at a moderate rate when the ship is en route and proceeding at not less than 4 knots; the rate of discharge shall be approved by the Administration based upon standards developed by the Organization; or
+.2 the ship has in operation an approved sewage treatment plant which has been certified by the Administration to meet the operational requirements referred to in regulation 9.1.1 of this Annex, and
+.1 the test results of the plant are laid down in the ship's International Sewage Pollution Prevention Certificate; and
+.2 additionally, the effluent shall not produce visible floating solids nor cause discoloration of the surrounding water.
+2 The provisions of paragraph 1 shall not apply to ships operating in the waters under the jurisdiction of a State and visiting ships from other States while they are in these waters and are discharging sewage in accordance with such less stringent requirements as may be imposed by such State.
+3 When the sewage is mixed with wastes or waste water covered by other Annexes of MARPOL 73/78, the requirements of those Annexes shall be complied with in addition to the requirements of this Annex.
+Chapter 4
+Reception facilities
+Regulation 12
+Reception facilities
+1 The Government of each Party to the Convention, which requires ships operating in waters under its jurisdiction and visiting ships while in its waters to comply with the requirements of regulation 11.1, undertakes to ensure the provision of facilities at ports and terminals of the reception of sewage, without causing delay to ships, adequate to meet the needs of the ships using them.
+2 The Government of each Party shall notify the Organization for transmission to the Contracting Governments concerned of all cases where the facilities provided under this regulation are alleged to be inadequate.
+Appendix
+FORM OF CERTIFICATE
+International Sewage Pollution Prevention Certificate
+Issued under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, and as amended by resolution MEPC…(…), (hereinafter referred to as "the Convention") under the authority of the Government of:
+(full designation of the country)
+by (full designation of the competent person or organization authorized under the provisions of the Convention)
+Particulars of ship[3]
+Name of ship
+Distinctive number or letters
+Port of registry
+Gross tonnage
+Number of persons which the ship is certified to carry
+IMO
+Number [4]
+New/existing ship [5]
+Date on which keel was laid or ship was at a similar stage of construction or, where applicable, date on which work for a conversion or an alteration or modification of a major character was commenced
+THIS IS TO CERTIFY
+1 That the ship is equipped with a sewage treatment plant/comminuter/holding tank [5] and a discharge pipeline in compliance with regulations 9 and 10 of Annex IV of the Convention as follows:
+[5] 1.1 Description of the sewage treatment plant:
+Type of sewage treatment plant
+Name of manufacturer
+The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in resolution MEPC.2(VI)
+[5] 1.2 Description of comminuter:
+Type of comminuter
+Name of manufacturer
+Standard of sewage after disinfection
+[5] 1.3 Description of holding tank:
+Total capacity of the holding tank m3
+Location
+1.4 A pipeline for the discharge of sewage to a reception facility, fitted with a standard shore connection
+2 That the ship has been surveyed in accordance with regulation 4 of Annex IV of the Convention.
+3 That the survey shows that the structure, equipment, systems, fittings, arrangements and material of the ship and the condition thereof are in all respects satisfactory and that the ship complies with the applicable requirements of Annex IV of the Convention.
+This Certificate is valid until [6]
+subject to surveys in accordance with regulation 4 of Annex IV of the Convention.
+Completion date of survey on which this Certificate is based: dd/mm/yyyy
+Issued at (Place of issue of Certificate)
+(Date of issue)
+(Signature of authorized official issuing the Certificate)
+(Seal or stamp of the authority, as appropriate)
+Endorsement to extend the Certificate if valid for less than 5 years where regulation 8.3. applies
+The ship complies with the relevant provisions of the Convention, and this Certificate shall, in accordance with regulation 8.3 of Annex IV of the Convention, be accepted as valid until
+Signed: (signature of authorized official)
+Place:
+Date:
+(Seal or stamp of the authority, as appropriate)
+Endorsement where the renewal survey has been completed and regulation 8.4 applies
+The ship complies with the relevant provisions of the Convention, and this Certificate shall, in accordance with regulation 8.4 of Annex IV of the Convention, be accepted as valid until
+Signed: (signature of authorized official)
+Place:
+Date:
+(Seal or stamp of the authority, as appropriate)
+Endorsement to extend the validity of the Certificate until reaching the port of survey or for a period of grace where regulation 8.5 or 8.6 applies
+This certificate shall, in accordance with regulation 8.5 or 8.6 [5] of Annex IV of the Convention, be accepted as valid until
+Signed: (signature of authorized official)
+Place:
+Date:
+(Seal or stamp of the authority, as appropriate)
+[1] Refer to the Guidelines for the authorization of organizations acting on behalf of the Administrations, adopted by the Organization by resolution A.739(18), and the Specifications on the survey and certification functions of recognized organizations acting on behalf of the Administration, adopted by the Organization by resolution A.789(19).
+[2] Refer to the Recommendation on International effluent standards and guidelines for performance tests for sewage treatment plants adopted by the Organization by resolution MEPC.2(VI). For existing ships national specifications are acceptable.
+[3] Alternatively, the particulars of the ship may be placed horizontally in boxes.
+[4] Refer to the IMO Ship Identification Number Scheme adopted by the Organization by resolution A.600(15). 
+[5] Delete as appropriate
+[6] Insert the date of expiry as specified by the Administration in accordance with regulation 8.1 of Annex IV of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation 1.8 of Annex IV of the Convention. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

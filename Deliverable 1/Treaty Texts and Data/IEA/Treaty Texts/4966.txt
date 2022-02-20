@@ -1,0 +1,57 @@
+
+ Amendments to Annex A to the Stockholm Convention on Persistent Organic Pollutants (listing technical endosulfan)   
+     Filename: 2011-Amendments-2001-PersistentOrganicPollutants.EN.txt 
+ Source: http://chm.pops.int/Portals/0/download.aspx?d=UNEP-POPS-TREATY-NOTIF-CN703-2011.…     
+    ﻿Amendment to Annex A of the Stockholm Convention On Persistent Organic Pollutants
+Source: http://chm.pops.int/Portals/0/download.aspx?d=UNEP-POPS-TREATY-NOTIF-CN7..., downloaded 20131015
+Stockholm, 22 May 2001
+The Secretary-General of the United Nations, acting in his capacity as depositary, communicates the following:
+At its fifth meeting held in Geneva from 25 to 29 April 2011, the Conference of the Parties to the above Convention adopted an amendment to Annex A by decision SC-5/3 to list the chemical "technical endosulfan and its related isomers" in the annex.
+In accordance with paragraphs 3 (b) and 3 (c) and paragraph 4 of article 22 of the Convention, any Party that is unable to accept an amendment to Annex A, B or C shall so notify the depositary, in writing, within one year from the date of communication by the depositary of the adoption of the amendment. The depositary shall without delay notify all Parties of any such notification received. A Party may at any time withdraw a previous notification of non-acceptance in respect of any amendment to Annex A, B or C, and the amendment shall thereupon enter into force for that Party subject to paragraph 3 (c) of article 22. On the expiry of one year from the date of the communication by the depositary of the adoption of the amendment to Annex A, B or C, the amendment shall enter into force for all Parties that have not submitted a notification in accordance with the provisions of paragraph 3 (b) of article 22.
+In accordance with paragraph 4 of article 22, an amendment to Annex A, B or C shall not enter into force with respect to any Party that has made a declaration with respect to any amendment to those Annexes in accordance with paragraph 4 of article 25, in which case any such amendment shall enter into force for such a Party on the ninetieth day after the date of deposit with the depositary of its instrument of ratification, acceptance, approval or accession with respect to such amendment.
+The texts of the amendment to Annex A, as contained in the above-mentioned decision of the Conference of the Parties, in the six authentic languages are transmitted herewith.
+27 October 2011
+The Conference of the Parties,
+Having considered the risk profile and risk management evaluation for endosulfan (technical endosulfan, its related isomers and endosulfan sulfate) as transmitted by the Persistent Organic Pollutants Review Committee,
+Taking note of the recommendation by the Persistent Organic Pollutants Review Committee to list technical endosulfan, its related isomers and endosulfan sulfate in Annex A to the Convention, with specific exemptions,
+1. Decides to amend part I of Annex A to the Stockholm Convention on Persistent Organic Pollutants to list therein technical endosulfan and its related isomers, with specific exemptions for production as allowed for the parties listed in the Register of Specific Exemptions and/or for use on crop-pest complexes as listed in accordance with the provisions of a new part VI of the annex by inserting the following row:
+Chemical:
+Technical endosulfan* (CAS No: 115-29-7) and its related isomers* (CAS No: 959-98-8 and CAS No: 33213-65-9)
+Activity:
+Production:
+As allowed for the parties listed in the Register
+Use: Crop-pest complexes as listed in accordance with the provisions of part VI of this Annex
+2. Decides to insert a new note (v) in part I of Annex A as follows: Technical endosulfan (CAS No: 115-29-7), its related isomers (CAS No: 959-98-8 and CAS No: 33213-65-9) and endosulfan sulfate (CAS No: 1031-07-8) were assessed and identified as persistent organic pollutants.
+3. Decides to insert a new Part VI in Annex A as follows:
+Part VI
+Technical endosulfan and its related isomers (endosulfan)
+The production and use of endosulfan shall be eliminated except for parties that have notified the Secretariat of their intention to produce and/or use it in accordance with Article 4 of the Convention. Specific exemptions may be available for the use of endosulfan for the following crop-pest complexes:
+Crop Pest
+Apple: Aphids
+Arhar, gram: Aphids, caterpillars, pea semilooper, pod borer
+Bean, cowpea: Aphids, leaf miner, whiteflies
+Chilli, onion, potato: Aphids, jassids
+Coffee: Berry borer, stem borers
+Cotton: Aphids, cotton bollworm, jassids, leaf rollers, pink bollworm, thrips, whiteflies
+Eggplant, okra: Aphids, diamondback moth, jassids, shoot and fruit borer
+Groundnut: Aphids
+Jute: Bihar hairy caterpillar, yellow mite
+Maize: Aphids, pink borer, stem borers
+Mango: Fruit flies, hoppers
+Mustard: Aphids, gall midges
+Rice Gall: midges, rice hispa, stem borers, white jassid
+Tea: Aphids, caterpillars, flushworm, mealybugs, scale insects, smaller green leafhopper, tea geometrid, tea mosquito bug, thrips
+Tobacco: Aphids, oriental tobacco budworm
+Tomato: Aphids, diamondback moth, jassids, leaf miner, shoot and fruit borer, whiteflies
+Wheat: Aphids, pink borer, termites 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

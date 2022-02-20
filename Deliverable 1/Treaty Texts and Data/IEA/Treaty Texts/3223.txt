@@ -1,0 +1,123 @@
+
+ Amendments To Annex V Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1995-AmendmentsAnnexV-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=6985/65(37).pdf     
+    ﻿AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 17 FEBRUARY 1978 RELATING TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS OF 2 NOVEMBER 1973 [MARPOL 73/78]
+Source: http://www.imo.org/includes/blastData.asp/doc_id=6985/65(37).pdf
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the function of the Committee conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and Article VI of the Protocol of 1978 relating to the 1973 Convention (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confers upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+NOTING ALSO that there is a need to provide for a more effective implementation of Annex V of MARPOL 73/78,
+REQUIRING a more systematic approach to the enforcement and control of the requirements of Annex V, MARPOL 73/78,
+HAVING CONSIDERED the amendments to Annex V of MARPOL 73/78, agreed at its thirty-sixth session and circulated in accordance with Article 16(2)(a) of the 1973 Convention,
+1. ADOPTS , in accordance with Article 16(2)(b) of the 1973 Convention, amendments to Annex V of MARPOL 73/78, the text of which is set out in the Annex to the present resolution;
+2. DETERMINES , in accordance with Article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 January 1997, unless prior to the date, not less than one-third of the Parties or the Parties, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments;
+3. INVITES the Parties to note that in accordance with Article 16(2)(g)(ii) of the 1973 Convention the amendments shall enter into force on 1 July 1997 in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with Article 16(2)(e) of the 1973 Convention, to transmit to all Parties to Annex V of the 1978 Protocol certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to Annex V of the 1978 Protocol copies of the resolution and its Annex.
+ANNEX
+TEXTS OF AMENDMENTS TO ANNEX V OF MARPOL 73/78
+Regulation 2
+Application
+The existing text of Regulation 2 is replaced by the following:
+"Unless expressly provided otherwise, the provisions of this Annex shall apply to all ships."
+New Regulation 9 is added as follows:
+Regulation 9
+Placards, garbage management plans and garbage record-keeping
+(1) (a) Every ship of 12 metres or more in length overall shall display placards which notify the crew and passengers of the disposal requirements of Regulations 3 and 5 of this Annex, as applicable.
+(b) The placards shall be written in the official language of the State whose flag the ship is entitled to fly and, for ships engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to the Convention, in English or French.
+(2) Every ship of 400 tons gross tonnage and above, and every ship which is certified to carry 15 persons or more, shall carry a garbage management plan which the crew shall follow. This plan shall provide written procedures for collecting, storing, processing and disposing of garbage, including the use of the equipment on board. It shall also designate the person in charge of carrying out the plan. Such a plan shall be in accordance with the guidelines developed by the Organization and written in the working language of the crew.
+(3) Every ship of 400 tons gross tonnage and above and every ship which is certified to carry 15 persons or more engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to the Convention and every fixed and floating platform engaged in exploration and exploitation of the sea-bed, shall be provided with a Garbage Record Book. The Garbage Record Book, whether as a part of the ship's official logbook or otherwise, shall be in the form specified in the Appendix to this Annex;
+(a) each discharge operation, or completed incineration, shall be recorded in the Garbage Record Book and signed for on the date of the incineration or discharge by the officer in charge. Each completed page of the Garbage Record Book shall be signed by the master of the ship. The entries in the Garbage Record Book shall be both in an official language of the State whose flag the ship is entitled to fly, and in English or French. The entries in an official national language of the State whose flag the ship is entitled to fly shall prevail in case of a dispute or discrepancy;
+(b) the entry for each incineration or discharge shall include date and time, position of the ship, description of the garbage and the estimated amount incinerated or discharged;
+(c) the Garbage Record Book shall be kept on board the ship and in such a place as to be available for inspection in a reasonable time. This document shall be preserved for a period of two years after the last entry is made on the record;
+(d) in the event of discharge, escape or accidental loss referred to in Regulation 6 of this Annex an entry shall be made in the Garbage Record Book of the circumstances of, and the reasons for, the loss.
+(4) The Administration may waive the requirements for Garbage Record Books for:
+(i) any ship engaged on voyages of 1 hour or less in duration which is certified to carry 15 persons or more; or
+(ii) fixed or floating platforms while engaged in exploration and exploitation of the sea-bed.
+(5) The competent authority of the Government of a Party to the Convention may inspect the Garbage Record Book on board any ship to which this regulation applies while the ship is in its ports or offshore terminals and may make a copy of any entry in that book, and may require the master of the ship to certify that the copy is a true copy of such an entry. Any copy so made, which has been certified by the master of the ship as a true copy of an entry in the ship's Garbage Record Book, shall be admissible in any judicial proceedings as evidence of the facts stated in the entry. The inspection of a Garbage Record Book and the taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
+(6) In the case of ships built before 1 July 1997, this regulation shall apply as from 1 July 1998.
+Appendix is added to the Annex as follows:
+APPENDIX
+FORM OF GARBAGE RECORD BOOK
+Name of ship: ......................................................
+Distinctive number or letters: ...............................
+IMO No. ......................................
+Period: From: ............................ To: ...................................
+1. Introduction
+In accordance with Regulation 9 of Annex V of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL 73/78) a record is to be kept of each discharge operation or completed incineration. This includes discharges at sea, to reception facilities, or to other ships.
+2. Garbage and garbage management
+Garbage includes all kinds of food, domestic and operational waste excluding fresh fish and parts thereof, generated during the normal operation of the vessel and liable to be disposed of continuously or periodically except those substances which are defined or listed in other annexes to MARPOL 73/78 (such as oil, sewage or noxious liquid substances).
+The Guidelines for the Implementation of Annex V of MARPOL 73/78 should also be referred to for relevant information.
+3. Description of the garbage
+The garbage is to be grouped into categories for the purposes of this record book as follows:
+1. Plastics
+2. Floating dunnage, lining, or packing material
+3. Ground-down paper products, rags, glass, metal, bottles, crockery, etc.
+4. Paper products, rags, glass, metal, bottles, crockery, etc.
+5. Food waste
+6. Incinerator ash
+4. Entries in the Garbage Record Book
+Entries in the Garbage Record Book shall be made on each of the following occasions:
+(a) When garbage is discharged into the sea:
+(i) Date and time of discharge
+(ii) Position of the ship (latitude and longitude)
+(iii) Category of garbage discharged
+(iv) Estimated amount discharged for each category in m3
+(v) Signature of the officer in charge of the operation.
+(b) When garbage is discharged to reception facilities ashore or to other ships:
+(i) Date and time of discharge
+(ii) Port or facility, or name of ship
+(iii) Category of garbage discharged
+(iv) Estimated amount discharged for each category in m3
+(v) Signature of officer in charge of the operation.
+(c) When garbage is incinerated:
+(i) Date and time of start and stop of incineration
+(ii) Position of the ship (latitude and longitude)
+(iii) Estimated amount incinerated in m3
+(iv) Signature of the officer in charge of the operation.
+(d) Accidental or other exceptional discharges of garbage:
+(i) Time of occurrence
+(ii) Port or position of the ship at time of occurrence
+(iii) Estimated amount and category of garbage
+(iv) Circumstances of disposal, escape or loss, the reason therefore and general remarks.
+4.2 Receipts
+The master should obtain from the operator of port reception facilities, or from the master of the ship receiving the garbage, a receipt or certificate specifying the estimated amount of garbage transferred. The receipts or certificates must be kept on board the ship with the Garbage Record Book for two years.
+4.3 Amount of garbage
+The amount of garbage onboard should be estimated in m3, if possible separately according to category. The Garbage Record Book contains many references to estimated amount of garbage. It is recognized that the accuracy of estimating amounts of garbage is left to interpretation. Volume estimates will differ before and after processing. Some processing procedures may not allow for a usable estimate of volume, e.g. the continuous processing of food waste. Such factors should be taken into consideration when making and interpreting entries made in a record.
+RECORD OF GARBAGE DISCHARGES
+Ship's name: ....................... Distinctive no. or letters: .................. IMO no.: ....................
+Garbage categories:
+1: Plastic.
+2: Floating dunnage, lining, or packing materials.
+3: Ground-down paper products, rags, glass, metal, bottles, crockery, etc.
+4: Paper products, rags, glass, metal, bottles, crockery, etc.
+5: Food waste.
+6: Incinerator ash.
+NOTE: THE DISCHARGE OF ANY GARBAGE OTHER THAN FOOD WASTE IS PROHIBITED IN SPECIAL AREAS. ONLY GARBAGE DISCHARGED INTO THE SEA MUST BE CATEGORIZED. GARBAGE OTHER THAN CATEGORY 1 DISCHARGED TO RECEPTION FACILITIES NEED ONLY BE LISTED AS A TOTAL ESTIMATED AMOUNT.
+Date/ Time
+Position of the ship
+Estimated amount discharged into sea (m3)
+Estimated amount discharged to reception facilities or to other ship (m3)
+Estimated amount discharged to reception facilities or to other ship (m3)
+Certification/ signature
+CAT 1
+CAT 2
+CAT 3
+CAT 4
+CAT 5
+CAT 6
+Other
+Master's signature: ........................................... Date: ................................
+[1] Adopted by IMO Marine Environment Protection Committee pursuant to Resolution MEPC.65(37). 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

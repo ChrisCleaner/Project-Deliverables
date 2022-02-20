@@ -1,0 +1,45 @@
+
+ Amendments to regulations A-1 and D-3 (Code for Approval of Ballast Water Management Systems (BWMS Code)) of the International Convention for the Control and Management of Ships&#039; Ballast Water and Sediments   
+     Filename: AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE CONTROL AND MANAGEMENT OF SHIPS&#039; BALLAST WATER AND SEDIMENTS, 2004 
+ Source: http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Marine-Environment-P…     
+    ANNEX 1
+RESOLUTION MEPC.296(72) (adopted on 13 April 2018)
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE CONTROL AND MANAGEMENT OF SHIPS' BALLAST WATER AND SEDIMENTS, 2004
+Amendments to regulations A-1 and D-3 (Code for Approval of Ballast Water Management Systems (BWMS Code))
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee conferred upon it by international conventions for the prevention and control of marine pollution from ships,
+NOTING article 19 of the International Convention for the Control and Management of Ships' Ballast Water and Sediments, 2004 (the BWM Convention), which specifies the amendment procedure and confers upon the Marine Environment Protection Committee of the Organization the function of considering amendments thereto for adoption by the Parties,
+NOTING ALSO resolution MEPC.300(72), by which it adopted the Code for Approval of Ballast Water Management Systems (BWMS Code),
+HAVING CONSIDERED, at its seventy-second session, proposed amendments to regulations A-1 and D-3 of the BWM Convention to make the provisions of the BWMS Code mandatory,
+1 ADOPTS, in accordance with article 19(2)(c) of the BWM Convention, amendments to regulations A-1 and D-3, the text of which is set out in the annex to the present resolution;
+2 DETERMINES, in accordance with article 19(2)(e)(ii) of the BWM Convention, that the amendments shall be deemed to have been accepted on 13 April 2019 unless, prior to that date, more than one-third of the Parties have notified the Secretary-General that they object to the amendments;
+3 INVITES the Parties to note that, in accordance with article 19(2)(f)(ii) of the BWM Convention, the said amendments shall enter into force on 13 October 2019 upon their acceptance in accordance with paragraph 2 above;
+4 REQUESTS the Secretary-General, for the purposes of article 19(2)(d) of the BWM Convention, to transmit certified copies of the present resolution and the text of the amendments contained in the annex to all Parties to the BWM Convention;
+5 REQUESTS ALSO the Secretary-General to transmit copies of the present resolution and its annex to Members of the Organization which are not Parties to the BWM Convention;
+6 REQUESTS FURTHER the Secretary-General to prepare a consolidated certified text of the BWM Convention.
+ANNEX
+AMENDMENTS TO THE ANNEX TO THE BWM CONVENTION (BWMS Code)
+Section A – General provisions
+Regulation A-1 – Definitions
+1 A new paragraph 8 is added as follows:
+"8 "BWMS Code" means the Code for Approval of Ballast Water Management Systems adopted by resolution MEPC.300(72), as may be amended by the Organization, provided that such amendments are adopted and brought into force in accordance with article 19 of the present Convention relating to amendment
+procedures applicable to the Annex."
+Section D – Standards for ballast water management
+Regulation D-3 – Approval requirements for ballast water management systems
+2 Paragraph 1 is replaced with the following:
+"1 Except as specified in paragraph 2, ballast water management systems used to comply with this Convention shall be approved by the Administration as follows:
+.1 ballast water management systems installed[1] on or after 28 October 2020 shall be approved in accordance with the BWMS Code, as may be amended; and
+.2 ballast water management systems installed[1] before 28 October 2020 shall be approved taking into account the guidelines[2] developed by the Organization or the BWMS Code, as may be amended."
+[1] Refer to paragraph 2 of the Unified interpretation of appendix I (Form of the International Ballast Water Management Certificate) of the BMW Convention related to "date installed" contained in BWM.2/Circ.66.
+[2] Refer to resolutions MEPC.125(53), MEPC.174(58) or MEPC.279(70), as appropriate." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

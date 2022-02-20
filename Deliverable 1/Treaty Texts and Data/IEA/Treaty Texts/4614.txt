@@ -1,0 +1,95 @@
+
+ Amendments To Appendices I and II To The Convention On International Trade In Endangered Species Of Wild Fauna And Flora (COP-15, 2010)   
+     Filename: 2010-AmendmentsAppendicesIAndII-1973-TradeEndangeredSpecies.EN.txt 
+ Source: http://www.cites.org/eng/notif/2010/E005.pdf     
+    ﻿Amendments To Appendices I and II To The Convention On International Trade In Endangered Species Of Wild Fauna And Flora (COP-15, 2010)
+Source: http://www.cites.org/eng/notif/2010/E005.pdf, downloaded 20100710
+1. In accordance with the provisions of Article XV of the Convention, the Conference of the Parties to the Convention, at its 15th meeting (CoP15), held in Doha, Qatar, from 13 to 25 March 2010, considered the amendments to Appendices I and II proposed by the Parties. These proposed amendments were communicated to the contracting States of the Convention by Notification sent through the diplomatic channel, dated 21 April 2010.
+2. At CoP15, the Conference of the Parties took the decisions listed below. The abbreviation ‘spp.' is used to denote all species of a higher taxon.
+a) The following taxon is deleted from Appendix I of the Convention:
+F A U N A
+CHORDATA
+AVES
+ANSERIFORMES
+Anatidae Anas oustaleti
+b) The following taxa are deleted from Appendix II of the Convention:
+F L O R A
+EUPHORBIACEAE Euphorbia misera
+PROTEACEAE Orothamnus zeyheri
+Protea odorata
+c) The following taxa are transferred from Appendix I to Appendix II of the Convention:
+F A U N A
+CHORDATA
+REPTILIA
+CROCODYLIA
+Crocodylidae Crocodylus moreletii (Only the populations of Belize and Mexico, with a zero quota for wild specimens traded for commercial purposes)
+Crocodylus niloticus (Only the population of Egypt, with a zero quota for wild specimens traded for commercial purposes)
+d) The following taxon is included in Appendix I of the Convention:
+F A U N A
+CHORDATA
+AMPHIBIA
+CAUDATA
+Salamandridae Neurergus kaiseri
+e) The following taxa are included in Appendix II of the Convention:
+F A U N A
+CHORDATA
+REPTILIA
+SAURIA
+Iguanidae Ctenosaura bakeri
+Ctenosaura oedirhina
+Ctenosaura melanosterna
+Ctenosaura palearis
+AMPHIBIA
+ANURA
+Hylidae Agalychnis spp.
+ARTHROPODA
+INSECTA
+COLEOPTERA
+Scarabaeidae Dynastes satanas
+F L O R A
+ANACARDIACEAE Operculicarya hyphaenoides
+Operculicarya pachypus
+CUCURBITACEAE Zygosicyos pubescens
+Zygosicyos tripartitus
+LAURACEAE Aniba rosaeodora (Logs, sawn wood, veneer sheets, plywood and essential oil, excluding finished products packaged and ready for retail)
+PASSIFLORACEAE Adenia olaboensis
+VITACEAE Cyphostemma elephantopus
+Cyphostemma montagnacii
+ZYGOPHYLLACEAE Bulnesia sarmientoi (Logs, sawn wood, veneer sheets, plywood, powder and extracts)
+f) The species Canis lupus (MAMMALIA, CARNIVORA, Canidae), with populations included in Appendices I and II, will be annotated as follows:
+"Excludes the domesticated form and the dingo which are referenced as Canis lupus familiaris and Canis lupus dingo."
+g) For plant taxa listed in Appendix II, delete annotations #1 and #4 and replace them both with the following new annotation:
+"All parts and derivatives, except:
+a) seeds (including seedpods of Orchidaceae), spores and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from Beccariophoenix madagascariensis and Neodypsis decaryi exported from Madagascar;
+b) seedlings or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers;
+c) cut flowers of artificially propagated plants;
+d) fruits and parts and derivatives thereof of naturalized or artificially propagated plants of the genus Vanilla (Orchidaceae) and of the family Cactaceae;
+e) stems, flowers, and parts and derivatives thereof of naturalized or artificially propagated plants of the genera Opuntia subgenus Opuntia and Selenicereus (Cactaceae); and
+f) finished products of Euphorbia antisyphilitica packaged and ready for retail trade."
+h) For Cactaceae spp. (FLORA), the footnote is amended to read as follows:
+"Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of the Convention:
+- Hatiora x graeseri
+- Schlumbergera x buckleyi
+- Schlumbergera russelliana x Schlumbergera truncata
+- Schlumbergera orssichiana x Schlumbergera truncata
+- Schlumbergera opuntioides x Schlumbergera truncata
+- Schlumbergera truncata (cultivars)
+- Cactaceae spp. colour mutants grafted on the following grafting stocks: Harrisia 'Jusbertii', Hylocereus trigonus or Hylocereus undatus
+- Opuntia microdasys (cultivars)."
+i) The annotation to all species of Orchidaceae (FLORA) in Appendix I is replaced with the following annotation:
+"For all of the following Appendix-I species, seedling or tissue cultures obtained in vitro, in solid or liquid media, and transported in sterile containers are not subject to the provisions of the Convention only if the specimens meet the definition of ‘artificially propagated' agreed by the Conference of the Parties."
+3. As a consequence of the adoption by the Conference of the Parties of amendments to Resolution Conf. 12.11 (Rev. CoP14) on Standard nomenclature, containing taxonomic and nomenclature references for species included in the Appendices, some changes to the names of species are being introduced in the revised version of Appendices I, II and III.
+4. In accordance with the provisions of Article XV, paragraph 1, subparagraph (c), of the Convention, the amendments adopted at the 15th meeting of the Conference of the Parties shall enter into force 90 days after that meeting, i.e. on 23 June 2010, for all Parties except those which make reservations in accordance with paragraph 3 of that Article.
+5. In accordance with the provisions of Article XV, paragraph 3, of the Convention, and during the period of 90 days provided for by subparagraph (c) of paragraph 1 of that Article (i.e. by 23 June 2010), any Party may by notification in writing to the Depositary Government (the Government of the Swiss Confederation) make a reservation with respect to one or more amendments adopted at the 15th meeting of the Conference of the Parties. In this case, the Party shall be treated as a State not party to the Convention with respect to trade in the species concerned. The other Parties shall then apply the provisions of Article X of the Convention to such trade with the Party having made the reservation.
+6. In accordance with the provisions of Article XII, paragraph 2, subparagraph (f), of the Convention, the Secretariat shall publish an updated version of Appendices I, II and III to take into account the amendments adopted at the 15th meeting of the Conference of the Parties and the changes necessitated by the adoption of standard references mentioned under paragraph 3 above. This updated version, valid from 23 June 2010, will be placed on the CITES website as soon as it is available. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

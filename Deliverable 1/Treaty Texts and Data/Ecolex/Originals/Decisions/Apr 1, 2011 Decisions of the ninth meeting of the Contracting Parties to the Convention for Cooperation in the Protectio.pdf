@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.informea.org/sites/all/themes/informea.theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.informea.org/en" />
+<link rel="shortlink" href="https://www.informea.org/en" />
+  <title>Page not found | InforMEA</title>
+  <link type="text/css" rel="stylesheet" href="https://www.informea.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.informea.org/sites/default/files/css/css_hTLrwzbU9bZhjvzx-j5entbJFEHkjJyd6RgHEla8FhA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.informea.org/sites/default/files/css/css_vi9alCuZeb6DCEZZ3E552BRzEq1QjfZzceHbH_AdcMA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.informea.org/sites/default/files/css/css_qdtkt4D038PH0F2FB_JFxZ6DlDlmNgdXXnBk2zH1TYQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.informea.org/sites/default/files/css/css_iNdife8bAAz6vtSTLnchHDbX6uVihLELYKuphvXBV7U.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="https://www.informea.org/sites/default/files/js/js_ypadrG4kz9-JBpNOXmgjyVozLCJG_1RP3Ig-iqWR8n0.js"></script>
+<script src="https://www.informea.org/sites/default/files/js/js_mLtNuqbIXnorls5w5EwMNVMvE_go7faLghz2etrh8Kw.js"></script>
+<script src="https://www.informea.org/sites/default/files/js/js_jtLlfgQHjHfA6UMBzbDiZXRjiBgrOgMqvRqaPMeTOQc.js"></script>
+<script src="https://www.informea.org/sites/default/files/js/js_1IQw6FIjPWx6iAvMMuX4U-B-HLeRv7U6DlVqy9IV7Ak.js"></script>
+<script src="//www.google-analytics.com/analytics.js"></script>
+<script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-21090649-1', 'auto');</script>
+<script>  if (typeof ga == 'function') {
+    ga('set', 'anonymizeIp', true);
+    ga('create', 'UA-21090649-1', 'auto', {'name': 'informea'});
+    ga('informea.set', 'hostname', 'www.informea.org');
+    ga('informea.set', 'location', 'https://www.informea.org/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf');
+    ga('informea.set', 'title', 'Page not found');
+    ga('informea.send', 'pageview');
+  }
+  else {
+    console.error('Google Analytics is not initialized');
+  }</script>
+<script>  if (typeof ga == 'function') {
+    ga('set', 'anonymizeIp', true);
+    ga('create', 'UA-59519586-13', 'auto', {'name': 'unep'});
+    ga('unep.set', 'referrer', "http://" + document.domain);
+    ga('unep.set', 'hostname', 'www.informea.org');
+    ga('unep.set', 'location', 'https://www.informea.org/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf');
+    ga('unep.set', 'title', 'Page not found');
+    ga('unep.send', 'pageview');
+  }
+  else {
+    console.error('Google Analytics is not initialized');
+  }</script>
+<script src="https://www.informea.org/sites/default/files/js/js_tSmgmRZLSopnDst28j0LKnF5iltv7MowOyL-uZ4UsJc.js"></script>
+<script src="https://www.informea.org/sites/default/files/js/js_mBQQnv2jfT7hV2YFgICrM1KFECoRoI4UlzREm5pJWyg.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"en\/","ajaxPageState":{"theme":"informea_theme","theme_token":"vslcPWGTdsLLrOufsWYlcnVkAP7J5JJAI2P9L4eLARI","jquery_version":"1.10","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"sites\/all\/modules\/contrib\/select2\/js\/Drupal.select2.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.menu.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.autocomplete.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"sites\/all\/modules\/email_hide\/js\/email_hide.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/informea\/informea_search\/js\/informea_search.js":1,"sites\/all\/modules\/informea\/informea_search\/js\/autocomplete.js":1,"sites\/all\/modules\/contrib\/views\/js\/base.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/_progress.js":1,"sites\/all\/modules\/informea\/thesaurus\/js\/horizontal-tabs-menu.js":1,"sites\/all\/modules\/contrib\/views\/js\/ajax_view.js":1,"sites\/all\/modules\/informea\/analytics_integration\/js\/analytics_integration.js":1,"sites\/all\/libraries\/select2\/select2.min.js":1,"\/\/www.google-analytics.com\/analytics.js":1,"0":1,"1":1,"2":1,"sites\/all\/themes\/informea.theme\/bootstrap\/dist\/js\/bootstrap.min.js":1,"sites\/all\/themes\/informea.theme\/js\/common.js":1,"sites\/all\/themes\/informea.theme\/js\/scroll-buttons.js":1,"sites\/all\/themes\/informea.theme\/js\/horizontal-switcher.js":1,"sites\/all\/themes\/bootstrap\/js\/misc\/ajax.js":1,"sites\/all\/themes\/bootstrap\/js\/modules\/views\/js\/ajax_view.js":1},"css":{"modules\/system\/system.base.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.menu.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/email_hide\/css\/email_hide.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"modules\/locale\/locale.css":1,"sites\/all\/libraries\/select2\/select2.css":1,"sites\/all\/modules\/contrib\/select2\/css\/select2_integration.css":1,"sites\/all\/themes\/informea.theme\/css\/bootstrap.css":1,"sites\/all\/themes\/informea.theme\/css\/style.css":1,"sites\/all\/themes\/informea.theme\/css\/style-from-less.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"views":{"ajax_path":"\/en\/views\/ajax","ajaxViews":{"views_dom_id:67fcc17f69b60e98eee29d4f9b984b24":{"view_name":"events","view_display_id":"homepage_events","view_args":"","view_path":"sites\/default\/files\/decisions\/COP-9-Decisions-English-Abidjan Convention Accra, Ghana 2011.pdf","view_base_path":null,"view_dom_id":"67fcc17f69b60e98eee29d4f9b984b24","pager_element":0},"views_dom_id:dec87a5e651c245e739bb74d0fdc4f28":{"view_name":"learning_courses","view_display_id":"promoted_block","view_args":"","view_path":"sites\/default\/files\/decisions\/COP-9-Decisions-English-Abidjan Convention Accra, Ghana 2011.pdf","view_base_path":null,"view_dom_id":"dec87a5e651c245e739bb74d0fdc4f28","pager_element":0}}},"urlIsAjaxTrusted":{"\/en\/views\/ajax":true,"\/en\/prepare-search":true},"better_exposed_filters":{"views":{"events":{"displays":{"homepage_events":{"filters":[]}}},"learning_courses":{"displays":{"promoted_block":{"filters":[]}}}}},"select_2":{"excludes":{"by_id":{"values":[],"reg_exs":[]},"by_class":[],"by_selectors":[]},"branch":3,"default_settings":{"separator":"\u00b6","jqui_sortable":false,"dropdownAutoWidth":true,"width":"element","containerCssClass":"","minimumResultsForSearch":"15"},"process_all_selects_on_page":false,"no_version_check":false,"elements":[],"settings_updated":true},"bootstrap":{"anchorsFix":"","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":"1","popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":"1","tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="navbar-is-static-top html not-front not-logged-in no-sidebars page-sites page-sites-default page-sites-default-files page-sites-default-files-decisions page-sites-default-files-decisions-cop-9-decisions-english-abidjan-convention-accra-ghana-2011pdf i18n-en">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="modal fade" id="dialog-modal-ajax" tabindex="-1" role="dialog" aria-labelledby="modal-label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content"></div>
+  </div><!-- .modal-dialog .modal-lg -->
+</div><!-- .modal .fade #dialog-modal-ajax -->
+<header id="navbar" role="banner" class="navbar navbar-static-top navbar-default">
+  <div class="container">
+    <div class="navbar-header header-brand">
+              <a class="logo navbar-btn pull-left" href="/en" title="Home">
+          <img src="https://www.informea.org/sites/all/themes/informea.theme/logo.png" width="226" height="54" alt="Home" />
+        </a><!-- .logo .navbar-btn .pull-left -->
+          </div><!-- .navbar-header -->
+    <div class="navbar-header header-content">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button><!-- .navbar-toggle -->
+    </div><!-- .navbar-header -->
+    <nav class="navbar-collapse collapse navbar-left" role="navigation">
+        <div class="secondary-nav-mobile hidden-lg row container-fluid">
+            <!-- <div class="container"> -->
+                          <!-- </div> -->
+        </div>
+
+
+
+      <ul class="nav navbar-nav" aria-hidden="true">
+        <li class="dropdown dropdown-full-width dropdown-treaties-menu">
+          <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><b></b></a>
+          <a href="/en/treaties" class="menu-title active" id="treaties-menu-link">Treaties<span class="caret"></span></a>
+          <ul class="treaties-menu dropdown-menu">
+      <li class="treaties-menu-topic dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/850" class="treaties-menu-title menu-title">
+        Treaties in <b><i>Biological diversity</i></b>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>GLOBAL TREATIES</b> in <i>Biological diversity</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/convention-biological-diversity" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cbd.png"><span class="treaties-menu-treaty-name">Convention on Biological Diversity</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/convention-international-trade-endangered-species-wild-fauna-and-flora" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cites.png"><span class="treaties-menu-treaty-name">Convention on International Trade in Endangered Species of Wild Fauna and Flora</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/convention-migratory-species" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/cms_logo_blue4c.jpg"><span class="treaties-menu-treaty-name">Convention on Migratory Species</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/cartagena-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cbd_secondary.png"><span class="treaties-menu-treaty-name">Cartagena Protocol</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/nagoya-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cbd_secondary.png"><span class="treaties-menu-treaty-name">Nagoya Protocol</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/international-treaty-plant-genetic-resources-food-and-agriculture" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_plant.png"><span class="treaties-menu-treaty-name">International Treaty on Plant Genetic Resources for Food and Agriculture</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/world-heritage-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_whc.png"><span class="treaties-menu-treaty-name">World Heritage Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/ramsar-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/ramsar.png"><span class="treaties-menu-treaty-name">Ramsar Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/united-nations-convention-combat-desertification" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unccd.jpg"><span class="treaties-menu-treaty-name">United Nations Convention to Combat Desertification</span></a>                </li>
+                          </ul>
+          </li>
+        
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>REGIONAL TREATIES</b> in <i>Biological diversity</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/agreement-conservation-african-eurasian-migratory-waterbirds" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_aewa.png"><span class="treaties-menu-treaty-name">Agreement on the Conservation of African-Eurasian Migratory Waterbirds</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/barcelona-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_1.jpg"><span class="treaties-menu-treaty-name">Barcelona Convention</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/prevention-and-emergency-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_3.jpg"><span class="treaties-menu-treaty-name">Prevention and Emergency Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/land-based-sources-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_7.jpg"><span class="treaties-menu-treaty-name">Land-Based Sources Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/specially-protected-areas-and-biodiversity-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_5.jpg"><span class="treaties-menu-treaty-name">Specially Protected Areas and Biodiversity Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/protocol-water-and-health" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_5.jpg"><span class="treaties-menu-treaty-name">Protocol on Water and Health</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/water-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_1.jpg"><span class="treaties-menu-treaty-name">The Water Convention</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/abidjan-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Abidjan Convention</span><span class="treaties-menu-treaty-info">Africa</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/noumea-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_apia.png"><span class="treaties-menu-treaty-name">Noumea Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/cartagena-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/cep-unep_2.png"><span class="treaties-menu-treaty-name">Cartagena Convention</span><span class="treaties-menu-treaty-info">Latin America and the Caribbean</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/jeddah-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_jeddah.png"><span class="treaties-menu-treaty-name">Jeddah Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/nairobi-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Nairobi Convention</span><span class="treaties-menu-treaty-info">Africa</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/apia-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_apia.png"><span class="treaties-menu-treaty-name">Apia Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/antigua-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Antigua Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/kuwait-regional-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_kuwait.png"><span class="treaties-menu-treaty-name">Kuwait Regional Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/convention-transboundary-effects-industrial-accidents" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_3.jpg"><span class="treaties-menu-treaty-name">Convention on the Transboundary Effects of Industrial Accidents</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/lusaka-agreement" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_lusaka.png"><span class="treaties-menu-treaty-name">Lusaka Agreement</span><span class="treaties-menu-treaty-info">Africa</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/agreement-conservation-small-cetaceans-baltic-and-north-seas" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/ascobans_logo.png"><span class="treaties-menu-treaty-name">Agreement on the Conservation of Small Cetaceans of the Baltic and North Seas</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/agreement-conservation-populations-european-bats" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/eurobats_logo.png"><span class="treaties-menu-treaty-name">Agreement on the Conservation of Populations of European Bats</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                          </ul>
+          </li>
+        
+      </ul>
+    </li>
+      <li class="treaties-menu-topic dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/851" class="treaties-menu-title menu-title">
+        Treaties in <b><i>Chemicals and Waste</i></b>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>GLOBAL TREATIES</b> in <i>Chemicals and Waste</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/basel-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/basel_logo.png"><span class="treaties-menu-treaty-name">Basel Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/stockholm-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_stockholm.png"><span class="treaties-menu-treaty-name">Stockholm Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/rotterdam-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_rotterdam.png"><span class="treaties-menu-treaty-name">Rotterdam Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/kyiv-protocol-pollutant-release-and-transfer-registers" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2.jpg"><span class="treaties-menu-treaty-name">Kyiv Protocol on Pollutant Release and Transfer Registers</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/minamata-convention-mercury" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/new-minamata-logo_64.fw_.png"><span class="treaties-menu-treaty-name">Minamata Convention on Mercury</span></a>                </li>
+                          </ul>
+          </li>
+        
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>REGIONAL TREATIES</b> in <i>Chemicals and Waste</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/barcelona-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_1.jpg"><span class="treaties-menu-treaty-name">Barcelona Convention</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/dumping-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_2.jpg"><span class="treaties-menu-treaty-name">Dumping Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/prevention-and-emergency-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_3.jpg"><span class="treaties-menu-treaty-name">Prevention and Emergency Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/land-based-sources-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_7.jpg"><span class="treaties-menu-treaty-name">Land-Based Sources Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/specially-protected-areas-and-biodiversity-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_5.jpg"><span class="treaties-menu-treaty-name">Specially Protected Areas and Biodiversity Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/hazardous-wastes-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_4.jpg"><span class="treaties-menu-treaty-name">Hazardous Wastes Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/convention-long-range-transboundary-air-pollution" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_2.jpg"><span class="treaties-menu-treaty-name">Convention on Long-range Transboundary Air Pollution</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/protocol-water-and-health" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_5.jpg"><span class="treaties-menu-treaty-name">Protocol on Water and Health</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/abidjan-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Abidjan Convention</span><span class="treaties-menu-treaty-info">Africa</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/noumea-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_apia.png"><span class="treaties-menu-treaty-name">Noumea Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/cartagena-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/cep-unep_2.png"><span class="treaties-menu-treaty-name">Cartagena Convention</span><span class="treaties-menu-treaty-info">Latin America and the Caribbean</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/jeddah-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_jeddah.png"><span class="treaties-menu-treaty-name">Jeddah Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/nairobi-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Nairobi Convention</span><span class="treaties-menu-treaty-info">Africa</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/apia-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_apia.png"><span class="treaties-menu-treaty-name">Apia Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/kuwait-regional-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_kuwait.png"><span class="treaties-menu-treaty-name">Kuwait Regional Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/bamako-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Bamako Convention</span><span class="treaties-menu-treaty-info">Africa</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/convention-transboundary-effects-industrial-accidents" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_3.jpg"><span class="treaties-menu-treaty-name">Convention on the Transboundary Effects of Industrial Accidents</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                          </ul>
+          </li>
+        
+      </ul>
+    </li>
+      <li class="treaties-menu-topic dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/852" class="treaties-menu-title menu-title">
+        Treaties in <b><i>Climate and Atmosphere</i></b>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>GLOBAL TREATIES</b> in <i>Climate and Atmosphere</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/vienna-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/mp-logo.jpg"><span class="treaties-menu-treaty-name">Vienna Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/montreal-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/mp-logo_0.jpg"><span class="treaties-menu-treaty-name">Montreal Protocol</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/united-nations-framework-convention-climate-change" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_unfccc.png"><span class="treaties-menu-treaty-name">United Nations Framework Convention on Climate Change</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/kyoto-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_unfccc_1.png"><span class="treaties-menu-treaty-name">Kyoto Protocol</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/paris" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_unfccc_e.png"><span class="treaties-menu-treaty-name">Paris Agreement</span></a>                </li>
+                          </ul>
+          </li>
+        
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>REGIONAL TREATIES</b> in <i>Climate and Atmosphere</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/convention-long-range-transboundary-air-pollution" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_2.jpg"><span class="treaties-menu-treaty-name">Convention on Long-range Transboundary Air Pollution</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/convention-transboundary-effects-industrial-accidents" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_3.jpg"><span class="treaties-menu-treaty-name">Convention on the Transboundary Effects of Industrial Accidents</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                          </ul>
+          </li>
+        
+      </ul>
+    </li>
+      <li class="treaties-menu-topic dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/6546" class="treaties-menu-title menu-title">
+        Treaties in <b><i>Environmental Governance</i></b>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>GLOBAL TREATIES</b> in <i>Environmental Governance</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/aarhus-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new.jpg"><span class="treaties-menu-treaty-name">Aarhus Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/kyiv-protocol-pollutant-release-and-transfer-registers" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2.jpg"><span class="treaties-menu-treaty-name">Kyiv Protocol on Pollutant Release and Transfer Registers</span></a>                </li>
+                          </ul>
+          </li>
+        
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>REGIONAL TREATIES</b> in <i>Environmental Governance</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/espoo-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_0.jpg"><span class="treaties-menu-treaty-name">Espoo Convention</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/protocol-strategic-environmental-assessment" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_4.jpg"><span class="treaties-menu-treaty-name">Protocol on Strategic Environmental Assessment</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/lusaka-agreement" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_lusaka.png"><span class="treaties-menu-treaty-name">Lusaka Agreement</span><span class="treaties-menu-treaty-info">Africa</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/escazu" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/ECLAC-logo_0.png"><span class="treaties-menu-treaty-name">Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean</span><span class="treaties-menu-treaty-info">Latin America and the Caribbean</span></a>                  </li>
+                                          </ul>
+          </li>
+        
+      </ul>
+    </li>
+      <li class="treaties-menu-topic dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/6545" class="treaties-menu-title menu-title">
+        Treaties in <b><i>Land and Agriculture</i></b>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>GLOBAL TREATIES</b> in <i>Land and Agriculture</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/cartagena-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cbd_secondary.png"><span class="treaties-menu-treaty-name">Cartagena Protocol</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/nagoya-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cbd_secondary.png"><span class="treaties-menu-treaty-name">Nagoya Protocol</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/international-treaty-plant-genetic-resources-food-and-agriculture" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_plant.png"><span class="treaties-menu-treaty-name">International Treaty on Plant Genetic Resources for Food and Agriculture</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/world-heritage-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_whc.png"><span class="treaties-menu-treaty-name">World Heritage Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/ramsar-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/ramsar.png"><span class="treaties-menu-treaty-name">Ramsar Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/united-nations-convention-combat-desertification" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unccd.jpg"><span class="treaties-menu-treaty-name">United Nations Convention to Combat Desertification</span></a>                </li>
+                          </ul>
+          </li>
+        
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>REGIONAL TREATIES</b> in <i>Land and Agriculture</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/land-based-sources-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_7.jpg"><span class="treaties-menu-treaty-name">Land-Based Sources Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/specially-protected-areas-and-biodiversity-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_5.jpg"><span class="treaties-menu-treaty-name">Specially Protected Areas and Biodiversity Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/apia-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_apia.png"><span class="treaties-menu-treaty-name">Apia Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/convention-transboundary-effects-industrial-accidents" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_3.jpg"><span class="treaties-menu-treaty-name">Convention on the Transboundary Effects of Industrial Accidents</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                          </ul>
+          </li>
+        
+      </ul>
+    </li>
+      <li class="treaties-menu-topic dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/4417" class="treaties-menu-title menu-title">
+        Treaties in <b><i>Marine and Freshwater</i></b>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>GLOBAL TREATIES</b> in <i>Marine and Freshwater</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/world-heritage-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_whc.png"><span class="treaties-menu-treaty-name">World Heritage Convention</span></a>                </li>
+                              <li class="treaties-menu-inside-list-item">
+                  <a href="/en/treaties/ramsar-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/ramsar.png"><span class="treaties-menu-treaty-name">Ramsar Convention</span></a>                </li>
+                          </ul>
+          </li>
+        
+                  <li class="treaties-menu-heading dropdown-header">
+            <b>REGIONAL TREATIES</b> in <i>Marine and Freshwater</i>          </li>
+          <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+            <ul class="treaties-menu-inside-list list-unstyled">
+                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/barcelona-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_1.jpg"><span class="treaties-menu-treaty-name">Barcelona Convention</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/dumping-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_2.jpg"><span class="treaties-menu-treaty-name">Dumping Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/prevention-and-emergency-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_3.jpg"><span class="treaties-menu-treaty-name">Prevention and Emergency Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/land-based-sources-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_7.jpg"><span class="treaties-menu-treaty-name">Land-Based Sources Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/specially-protected-areas-and-biodiversity-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_5.jpg"><span class="treaties-menu-treaty-name">Specially Protected Areas and Biodiversity Protocol</span><span class="treaties-menu-treaty-info">Africa, Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/protocol-water-and-health" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_5.jpg"><span class="treaties-menu-treaty-name">Protocol on Water and Health</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/water-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_1.jpg"><span class="treaties-menu-treaty-name">The Water Convention</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/abidjan-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Abidjan Convention</span><span class="treaties-menu-treaty-info">Africa</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/noumea-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_apia.png"><span class="treaties-menu-treaty-name">Noumea Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/cartagena-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/cep-unep_2.png"><span class="treaties-menu-treaty-name">Cartagena Convention</span><span class="treaties-menu-treaty-info">Latin America and the Caribbean</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/jeddah-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_jeddah.png"><span class="treaties-menu-treaty-name">Jeddah Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/nairobi-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Nairobi Convention</span><span class="treaties-menu-treaty-info">Africa</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/apia-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_apia.png"><span class="treaties-menu-treaty-name">Apia Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/antigua-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Antigua Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/kuwait-regional-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_kuwait.png"><span class="treaties-menu-treaty-name">Kuwait Regional Convention</span><span class="treaties-menu-treaty-info">Asia and the Pacific</span></a>                  </li>
+                                                                <li class="treaties-menu-inside-list-item">
+                    <a href="/en/treaties/convention-transboundary-effects-industrial-accidents" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_3.jpg"><span class="treaties-menu-treaty-name">Convention on the Transboundary Effects of Industrial Accidents</span><span class="treaties-menu-treaty-info">Europe</span></a>                  </li>
+                                          </ul>
+          </li>
+        
+      </ul>
+    </li>
+    <li role="separator" class="divider"></li>
+      <li class="treaties-menu-region dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/410" class="treaties-menu-title menu-title">
+        Treaties in <i>Africa</i>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+        <li class="treaties-menu-heading dropdown-header">
+          <b>TREATIES</b> in <i>Africa</i>        </li>
+        <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+          <ul class="treaties-menu-inside-list list-unstyled">
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/agreement-conservation-african-eurasian-migratory-waterbirds" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_aewa.png"><span class="treaties-menu-treaty-name">Agreement on the Conservation of African-Eurasian Migratory Waterbirds</span><span class="treaties-menu-treaty-info">Biological diversity</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/barcelona-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_1.jpg"><span class="treaties-menu-treaty-name">Barcelona Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/dumping-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_2.jpg"><span class="treaties-menu-treaty-name">Dumping Protocol</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/prevention-and-emergency-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_3.jpg"><span class="treaties-menu-treaty-name">Prevention and Emergency Protocol</span><span class="treaties-menu-treaty-info">Biological diversity, Chemicals and Waste, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/land-based-sources-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_7.jpg"><span class="treaties-menu-treaty-name">Land-Based Sources Protocol</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/specially-protected-areas-and-biodiversity-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_5.jpg"><span class="treaties-menu-treaty-name">Specially Protected Areas and Biodiversity Protocol</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/hazardous-wastes-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_4.jpg"><span class="treaties-menu-treaty-name">Hazardous Wastes Protocol</span><span class="treaties-menu-treaty-info">Chemicals and Waste</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/abidjan-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Abidjan Convention</span><span class="treaties-menu-treaty-info">Biological diversity, Chemicals and Waste, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/nairobi-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Nairobi Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/bamako-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Bamako Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/lusaka-agreement" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_lusaka.png"><span class="treaties-menu-treaty-name">Lusaka Agreement</span><span class="treaties-menu-treaty-info">Environmental Governance, Biological diversity</span></a>            </li>
+                    </ul>
+        </li>
+      </ul>
+    </li>
+      <li class="treaties-menu-region dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/411" class="treaties-menu-title menu-title">
+        Treaties in <i>Asia and the Pacific</i>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+        <li class="treaties-menu-heading dropdown-header">
+          <b>TREATIES</b> in <i>Asia and the Pacific</i>        </li>
+        <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+          <ul class="treaties-menu-inside-list list-unstyled">
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/noumea-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_apia.png"><span class="treaties-menu-treaty-name">Noumea Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/jeddah-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_jeddah.png"><span class="treaties-menu-treaty-name">Jeddah Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/apia-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_apia.png"><span class="treaties-menu-treaty-name">Apia Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/antigua-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/UNEP-small-logo-engish.png"><span class="treaties-menu-treaty-name">Antigua Convention</span><span class="treaties-menu-treaty-info">Biological diversity, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/kuwait-regional-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_kuwait.png"><span class="treaties-menu-treaty-name">Kuwait Regional Convention</span><span class="treaties-menu-treaty-info">Biological diversity, Chemicals and Waste, Marine and Freshwater</span></a>            </li>
+                    </ul>
+        </li>
+      </ul>
+    </li>
+      <li class="treaties-menu-region dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/412" class="treaties-menu-title menu-title">
+        Treaties in <i>Europe</i>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+        <li class="treaties-menu-heading dropdown-header">
+          <b>TREATIES</b> in <i>Europe</i>        </li>
+        <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+          <ul class="treaties-menu-inside-list list-unstyled">
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/agreement-conservation-african-eurasian-migratory-waterbirds" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_aewa.png"><span class="treaties-menu-treaty-name">Agreement on the Conservation of African-Eurasian Migratory Waterbirds</span><span class="treaties-menu-treaty-info">Biological diversity</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/barcelona-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_1.jpg"><span class="treaties-menu-treaty-name">Barcelona Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/dumping-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_2.jpg"><span class="treaties-menu-treaty-name">Dumping Protocol</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/prevention-and-emergency-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_3.jpg"><span class="treaties-menu-treaty-name">Prevention and Emergency Protocol</span><span class="treaties-menu-treaty-info">Biological diversity, Chemicals and Waste, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/land-based-sources-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_7.jpg"><span class="treaties-menu-treaty-name">Land-Based Sources Protocol</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/specially-protected-areas-and-biodiversity-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_5.jpg"><span class="treaties-menu-treaty-name">Specially Protected Areas and Biodiversity Protocol</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/hazardous-wastes-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/barcelona_4.jpg"><span class="treaties-menu-treaty-name">Hazardous Wastes Protocol</span><span class="treaties-menu-treaty-info">Chemicals and Waste</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/convention-long-range-transboundary-air-pollution" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_2.jpg"><span class="treaties-menu-treaty-name">Convention on Long-range Transboundary Air Pollution</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Climate and Atmosphere</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/espoo-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_0.jpg"><span class="treaties-menu-treaty-name">Espoo Convention</span><span class="treaties-menu-treaty-info">Environmental Governance</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/protocol-water-and-health" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_5.jpg"><span class="treaties-menu-treaty-name">Protocol on Water and Health</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/water-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_1.jpg"><span class="treaties-menu-treaty-name">The Water Convention</span><span class="treaties-menu-treaty-info">Biological diversity, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/protocol-strategic-environmental-assessment" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_4.jpg"><span class="treaties-menu-treaty-name">Protocol on Strategic Environmental Assessment</span><span class="treaties-menu-treaty-info">Environmental Governance</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/convention-transboundary-effects-industrial-accidents" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2_3.jpg"><span class="treaties-menu-treaty-name">Convention on the Transboundary Effects of Industrial Accidents</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Climate and Atmosphere, Biological diversity, Marine and Freshwater, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/agreement-conservation-small-cetaceans-baltic-and-north-seas" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/ascobans_logo.png"><span class="treaties-menu-treaty-name">Agreement on the Conservation of Small Cetaceans of the Baltic and North Seas</span><span class="treaties-menu-treaty-info">Biological diversity</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/agreement-conservation-populations-european-bats" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/eurobats_logo.png"><span class="treaties-menu-treaty-name">Agreement on the Conservation of Populations of European Bats</span><span class="treaties-menu-treaty-info">Biological diversity</span></a>            </li>
+                    </ul>
+        </li>
+      </ul>
+    </li>
+      <li class="treaties-menu-region dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/413" class="treaties-menu-title menu-title">
+        Treaties in <i>Latin America and the Caribbean</i>      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+        <li class="treaties-menu-heading dropdown-header">
+          <b>TREATIES</b> in <i>Latin America and the Caribbean</i>        </li>
+        <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+          <ul class="treaties-menu-inside-list list-unstyled">
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/cartagena-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/cep-unep_2.png"><span class="treaties-menu-treaty-name">Cartagena Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste, Biological diversity, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/escazu" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/ECLAC-logo_0.png"><span class="treaties-menu-treaty-name">Regional Agreement on Access to Information, Public Participation and Justice in Environmental Matters in Latin America and the Caribbean</span><span class="treaties-menu-treaty-info">Environmental Governance</span></a>            </li>
+                    </ul>
+        </li>
+      </ul>
+    </li>
+      <li class="treaties-menu-region dropdown" aria-haspopup="true">
+      <a tabindex="0" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><b></b></a>
+      <a href="/en/taxonomy/term/1118" class="treaties-menu-title menu-title">
+        <i class="text--uppercase">Global</i> treaties      </a>
+      <ul class="treaties-menu-list dropdown-menu" aria-hidden="true">
+        <li class="treaties-menu-heading dropdown-header">
+          <i>Global</i> <b>TREATIES</b>        </li>
+        <li class="treaties-menu-list-item dropdown" aria-haspopup="true">
+          <ul class="treaties-menu-inside-list list-unstyled">
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/convention-biological-diversity" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cbd.png"><span class="treaties-menu-treaty-name">Convention on Biological Diversity</span><span class="treaties-menu-treaty-info">Biological diversity</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/basel-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/basel_logo.png"><span class="treaties-menu-treaty-name">Basel Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/convention-international-trade-endangered-species-wild-fauna-and-flora" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cites.png"><span class="treaties-menu-treaty-name">Convention on International Trade in Endangered Species of Wild Fauna and Flora</span><span class="treaties-menu-treaty-info">Biological diversity</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/convention-migratory-species" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/cms_logo_blue4c.jpg"><span class="treaties-menu-treaty-name">Convention on Migratory Species</span><span class="treaties-menu-treaty-info">Biological diversity</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/stockholm-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_stockholm.png"><span class="treaties-menu-treaty-name">Stockholm Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/vienna-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/mp-logo.jpg"><span class="treaties-menu-treaty-name">Vienna Convention</span><span class="treaties-menu-treaty-info">Climate and Atmosphere</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/montreal-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/mp-logo_0.jpg"><span class="treaties-menu-treaty-name">Montreal Protocol</span><span class="treaties-menu-treaty-info">Climate and Atmosphere</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/cartagena-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cbd_secondary.png"><span class="treaties-menu-treaty-name">Cartagena Protocol</span><span class="treaties-menu-treaty-info">Biological diversity, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/nagoya-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_cbd_secondary.png"><span class="treaties-menu-treaty-name">Nagoya Protocol</span><span class="treaties-menu-treaty-info">Biological diversity, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/international-treaty-plant-genetic-resources-food-and-agriculture" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_plant.png"><span class="treaties-menu-treaty-name">International Treaty on Plant Genetic Resources for Food and Agriculture</span><span class="treaties-menu-treaty-info">Biological diversity, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/united-nations-framework-convention-climate-change" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_unfccc.png"><span class="treaties-menu-treaty-name">United Nations Framework Convention on Climate Change</span><span class="treaties-menu-treaty-info">Climate and Atmosphere</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/world-heritage-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_whc.png"><span class="treaties-menu-treaty-name">World Heritage Convention</span><span class="treaties-menu-treaty-info">Biological diversity, Marine and Freshwater, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/kyoto-protocol" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_unfccc_1.png"><span class="treaties-menu-treaty-name">Kyoto Protocol</span><span class="treaties-menu-treaty-info">Climate and Atmosphere</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/ramsar-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/ramsar.png"><span class="treaties-menu-treaty-name">Ramsar Convention</span><span class="treaties-menu-treaty-info">Biological diversity, Land and Agriculture, Marine and Freshwater</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/united-nations-convention-combat-desertification" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unccd.jpg"><span class="treaties-menu-treaty-name">United Nations Convention to Combat Desertification</span><span class="treaties-menu-treaty-info">Biological diversity, Land and Agriculture</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/rotterdam-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_rotterdam.png"><span class="treaties-menu-treaty-name">Rotterdam Convention</span><span class="treaties-menu-treaty-info">Chemicals and Waste</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/aarhus-convention" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new.jpg"><span class="treaties-menu-treaty-name">Aarhus Convention</span><span class="treaties-menu-treaty-info">Environmental Governance</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/kyiv-protocol-pollutant-release-and-transfer-registers" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/unece-logo-new2.jpg"><span class="treaties-menu-treaty-name">Kyiv Protocol on Pollutant Release and Transfer Registers</span><span class="treaties-menu-treaty-info">Environmental Governance, Chemicals and Waste</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/minamata-convention-mercury" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/new-minamata-logo_64.fw_.png"><span class="treaties-menu-treaty-name">Minamata Convention on Mercury</span><span class="treaties-menu-treaty-info">Chemicals and Waste</span></a>            </li>
+                      <li class="treaties-menu-inside-list-item list-unstyled">
+              <a href="/en/treaties/paris" class="treaties-menu-treaty"><img class="treaties-menu-treaty-logo" src="https://www.informea.org/sites/default/files/images/logo/logo_unfccc_e.png"><span class="treaties-menu-treaty-name">Paris Agreement</span><span class="treaties-menu-treaty-info">Climate and Atmosphere</span></a>            </li>
+                    </ul>
+        </li>
+      </ul>
+    </li>
+    <li class="treaties-menu-all" aria-haspopup="true">
+    <a href="https://www.informea.org/en/treaties" class="treaties-menu-title menu-title treaties-menu-all-link">See all treaties</a>  </li>
+</ul>
+        </li><!-- .dropdown -->
+        <li><a href="/en/countries" class="menu-title" id="parties-menu-link">Parties</a></li>
+
+        <li><a href="/en/search?f%5B0%5D=type%3Acourt_decisions&f%5B1%5D=type%3Alegislation" class="menu-title" id="laws-and-cases-menu-link">Law & Cases</a></li>
+        <li><a href="/en/events" class="menu-title" id="events-menu-link">Events</a></li>
+        <li><a href="/en/terms" class="menu-title" id="terms-menu-link">Glossary</a></li>
+        <li><a href="/en/goals" class="menu-title" id="goals-menu-link">Goals</a></li>
+        <li class="dropdown">
+          <a tabindex="0" class="dropdown-toggle menu-title" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            More <span>+</span>            <b></b>
+          </a>
+          <ul class="dropdown-menu more-menu">
+            <li><a href="/en/documents" class="menu-title" id="documents-and-literature-menu-link">Documents and Literature</a></li>
+            <li><a href="/en/search?f%5B0%5D=type%3Acontact_person" class="menu-title" id="contacts-hub-menu-link">Contacts Hub</a></li>
+            <li class="divider" role="separator"></li>
+            <li><a href="/en/about" class="menu-title" id="about-menu-link">About InforMEA</a></li>
+            <li><a href="/en/contact" class="menu-title" id="contact-menu-link">Contact</a></li>
+            <li><a href="/en/get-involved" class="menu-title" id="get-involved-menu-link">Get Involved</a></li>
+          </ul>
+        </li><!-- .dropdown -->
+          <li><a href="http://elearning.informea.org/" target="_blank" class="free-online-courses" id="free-online-courses-menu-link"><img class="informea-elearning img-responsive" alt="" height="20" width="27" typeof="foaf:Image" src="https://www.informea.org/sites/all/themes/informea.theme/img/elearning.svg" />Free online courses</a>        </li>
+        </li>
+        <li class="dropdown">
+          <a tabindex="0" class="dropdown-toggle menu-title" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Browse all <span class="caret"></span>            <b></b>
+          </a>
+          
+<ul class="dropdown-menu browse-all-menu dropdown-menu-right">
+  <li class="dropdown-header">BROWSE ALL by <b><i>Environmental Topic</i></b></li>
+      <li class="browse-all-menu-topic">
+      <a href="/en/mea-topic/biological-diversity" class="browse-all-menu-title menu-title"><b><i>Biological diversity</i></b></a>    </li>
+      <li class="browse-all-menu-topic">
+      <a href="/en/mea-topic/chemicals-and-waste" class="browse-all-menu-title menu-title"><b><i>Chemicals and Waste</i></b></a>    </li>
+      <li class="browse-all-menu-topic">
+      <a href="/en/mea-topic/climate-and-atmosphere" class="browse-all-menu-title menu-title"><b><i>Climate and Atmosphere</i></b></a>    </li>
+      <li class="browse-all-menu-topic">
+      <a href="/en/mea-topic/environmental-governance" class="browse-all-menu-title menu-title"><b><i>Environmental Governance</i></b></a>    </li>
+      <li class="browse-all-menu-topic">
+      <a href="/en/mea-topic/land-and-agriculture" class="browse-all-menu-title menu-title"><b><i>Land and Agriculture</i></b></a>    </li>
+      <li class="browse-all-menu-topic">
+      <a href="/en/mea-topic/marine-and-freshwater" class="browse-all-menu-title menu-title"><b><i>Marine and Freshwater</i></b></a>    </li>
+    <li class="dropdown-header">BROWSE ALL by <b><i>Regions</i></b></li>
+      <li class="browse-all-menu-region">
+      <a href="/en/geographical-region/africa" class="browse-all-menu-title menu-title"><i>Africa</i></a>    </li>
+      <li class="browse-all-menu-region">
+      <a href="/en/geographical-region/asia-and-pacific" class="browse-all-menu-title menu-title"><i>Asia and the Pacific</i></a>    </li>
+      <li class="browse-all-menu-region">
+      <a href="/en/geographical-region/europe" class="browse-all-menu-title menu-title"><i>Europe</i></a>    </li>
+      <li class="browse-all-menu-region">
+      <a href="/en/geographical-region/latin-america-and-caribbean" class="browse-all-menu-title menu-title"><i>Latin America and the Caribbean</i></a>    </li>
+      <li class="browse-all-menu-region">
+      <a href="/en/geographical-region/north-america" class="browse-all-menu-title menu-title"><i>North America</i></a>    </li>
+      <li class="browse-all-menu-region">
+      <a href="/en/geographical-region/polar-arctic" class="browse-all-menu-title menu-title"><i>Polar: Arctic</i></a>    </li>
+      <li class="browse-all-menu-region">
+      <a href="/en/geographical-region/west-asia" class="browse-all-menu-title menu-title"><i>West Asia</i></a>    </li>
+      <li class="browse-all-menu-region">
+    <a href="/en/geographical-region/global" class="browse-all-menu-title menu-title"><i>GLOBAL</i></a>  </li>
+  </ul>
+        </li><!-- .dropdown -->
+          <li class="dropdown language-switcher"><a tabindex="0" class="dropdown-toggle menu-title" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">en <span class="caret"></span><b></b></a><ul class="language-switcher-locale-url dropdown-menu dropdown-menu-right" aria-labelledby="dLanguage"><li class="en first active"><a href="/en/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title active" xml:lang="en" hreflang="en">English</a></li>
+<li class="fr"><a href="/fr/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="fr" hreflang="fr">Français</a></li>
+<li class="ru"><a href="/ru/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="ru" hreflang="ru">Русский</a></li>
+<li class="es"><a href="/es/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="es" hreflang="es">Español</a></li>
+<li class="ar"><a href="/ar/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="ar" hreflang="ar">العربية</a></li>
+<li class="zh-hans last"><a href="/zh-hans/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="zh-hans" hreflang="zh-hans">简体中文</a></li>
+</ul></li>      </ul><!-- .nav .navbar-nav -->
+      </nav><!-- .navbar-collapse .collapse -->
+  </div><!-- .container -->
+</header><!-- #navbar -->
+<div class="search-block">
+  <div class="container">
+            <div class="region region-navigation">
+    <section id="block-informea-informea-page-title" class="block block-informea clearfix">
+
+      
+  <h1>Access information on Multilateral Environmental Agreements</h1>
+</section>
+<section id="block-informea-search-search-informea" class="block block-informea-search clearfix">
+
+      
+  <form class="search-form" action="/en/prepare-search" method="get" id="search-form" accept-charset="UTF-8"><div><div class="input-group"><input placeholder="Search" class="form-control form-text" type="text" id="edit-text" name="text" value="" size="25" maxlength="255" /><span class="edit-search-in">in:</span><select id="edit-search-category" name="category" class="use-select-2"><optgroup label="Treaties"><option value="treaties" data-optgroup="1" >Treaties</option><option value="treaty" data-optgroup="" >Treaty texts</option><option value="decision" data-optgroup="" >Decisions texts</option></optgroup><optgroup label="National Submissions"><option value="national_submissions" data-optgroup="1" >National Submissions</option><option value="action_plan" data-optgroup="" >National Plans</option><option value="national_report" data-optgroup="" >National Reports</option></optgroup><optgroup label="Law and Cases"><option value="national_legislation_cases" data-optgroup="1" >Law and Cases</option><option value="legislation" data-optgroup="" >Legislation</option><option value="court_decisions" data-optgroup="" >Court Decisions</option></optgroup><optgroup label="Documents and Literature"><option value="documents_literature" data-optgroup="1" >Documents and Literature</option><option value="documents" data-optgroup="" >Documents</option><option value="literature" data-optgroup="" >Literature</option></optgroup><optgroup label="News and Events"><option value="news_events" data-optgroup="1" >News and Events</option><option value="news" data-optgroup="" >News</option><option value="events" data-optgroup="" >Events</option></optgroup><optgroup label="Goals and declarations"><option value="goals_and_declarations" data-optgroup="1" >Goals and declarations</option><option value="goals" data-optgroup="" >Goals</option><option value="declarations" data-optgroup="" >Declarations</option></optgroup><optgroup label="Contacts HUB"><option value="contact_person" data-optgroup="1" >Contacts HUB</option></optgroup><optgroup label="All Categories"><option value="all" data-optgroup="1" selected>All Categories</option></optgroup></select><span class="input-group-btn"><button type="submit" class="btn btn-default"><span class="icon glyphicon glyphicon-search" aria-hidden="true"></span>
+</button></span></div><div id="search-autocomplete-terms" class="search-autocomplete-items"></div><input type="hidden" name="action" value="search" />
+<button class="btn-default element-invisible btn form-submit" type="submit" id="edit-submit" name="" value=""></button>
+</div></form>
+</section>
+  </div>
+      </div>
+</div>
+
+<div class="page-header">
+  <div class="container">
+        <div class="title-prefix">
+        </div>
+    <h1>Page not found</h1>
+  </div>
+</div><!-- .page-header -->
+<div class="container">
+    <div class="row sidebar-first-row">
+        <section class="col-sm-12">
+            <a id="main-content"></a>
+                                              <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  The requested page "/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" could not be found.
+</section>
+  </div>
+    </section>
+      </div><!-- .row -->
+</div><!-- .container -->
+
+
+<footer class="footer">
+        <div class="footer-section">
+      <div class="container">
+        <section id="block-informea-informea-footer-block" class="block block-informea clearfix">
+
+      
+  <div class="row">
+  <div class="col-sm-3">
+    <h5 class="footer-section-title">Get informed</h5>
+    <ul class="nav" aria-hidden="true">
+      <li><a href="/en/treaties" class="menu-title" id="treaties-footer-menu-link">Treaties</a></li>
+      <li><a href="/en/countries" class="menu-title" id="parties-footer-menu-link">Parties</a></li>
+      <li><a href="/en/search?f%5B0%5D=type%3Acourt_decisions&amp;f%5B1%5D=type%3Alegislation" class="menu-title" id="laws-and-cases-footer-menu-link">Law and Cases</a></li>
+      <li><a href="/en/events" class="menu-title" id="events-footer-menu-link">Events</a></li>
+      <li><a href="/en/goals" class="menu-title" id="goals-footer-menu-link">Goals</a></li>
+      <li><a href="/en/documents" class="menu-title" id="documents-footer-menu-link">Documents and Literature</a></li>
+      <li><a href="/en/terms" class="menu-title" id="terms-footer-menu-link">Glossary</a></li>
+      <li><a href="/en/search?f%5B0%5D=type%3Acontact_person" class="menu-title" id="contacts-hub-footer-menu-link">Contacts Hub</a></li>
+    </ul>
+  </div>
+  <div class="col-sm-3">
+    <h5 class="footer-section-title">Browse by environmental topic</h5>
+    <ul class="nav">
+              <li class="browse-all-menu-topic">
+          <a href="/en/mea-topic/biological-diversity" class="browse-all-menu-title menu-title">Biological diversity</a>        </li>
+              <li class="browse-all-menu-topic">
+          <a href="/en/mea-topic/chemicals-and-waste" class="browse-all-menu-title menu-title">Chemicals and Waste</a>        </li>
+              <li class="browse-all-menu-topic">
+          <a href="/en/mea-topic/climate-and-atmosphere" class="browse-all-menu-title menu-title">Climate and Atmosphere</a>        </li>
+              <li class="browse-all-menu-topic">
+          <a href="/en/mea-topic/environmental-governance" class="browse-all-menu-title menu-title">Environmental Governance</a>        </li>
+              <li class="browse-all-menu-topic">
+          <a href="/en/mea-topic/land-and-agriculture" class="browse-all-menu-title menu-title">Land and Agriculture</a>        </li>
+              <li class="browse-all-menu-topic">
+          <a href="/en/mea-topic/marine-and-freshwater" class="browse-all-menu-title menu-title">Marine and Freshwater</a>        </li>
+          </ul>
+  </div>
+  <div class="col-sm-3">
+    <h5 class="footer-section-title">Browse by regions</h5>
+    <ul class="nav">
+              <li class="browse-all-menu-region">
+          <a href="/en/geographical-region/africa" class="browse-all-menu-title menu-title">Africa</a>        </li>
+              <li class="browse-all-menu-region">
+          <a href="/en/geographical-region/asia-and-pacific" class="browse-all-menu-title menu-title">Asia and the Pacific</a>        </li>
+              <li class="browse-all-menu-region">
+          <a href="/en/geographical-region/europe" class="browse-all-menu-title menu-title">Europe</a>        </li>
+              <li class="browse-all-menu-region">
+          <a href="/en/geographical-region/latin-america-and-caribbean" class="browse-all-menu-title menu-title">Latin America and the Caribbean</a>        </li>
+              <li class="browse-all-menu-region">
+          <a href="/en/geographical-region/north-america" class="browse-all-menu-title menu-title">North America</a>        </li>
+              <li class="browse-all-menu-region">
+          <a href="/en/geographical-region/polar-arctic" class="browse-all-menu-title menu-title">Polar: Arctic</a>        </li>
+              <li class="browse-all-menu-region">
+          <a href="/en/geographical-region/west-asia" class="browse-all-menu-title menu-title">West Asia</a>        </li>
+          </ul>
+  </div>
+  <div class="col-sm-3">
+    <h5 class="footer-section-title">Free courses</h5>
+    <p>Explore our collection of courses on the environmental topics</p>
+    <ul class="nav">
+        <li><a href="http://elearning.informea.org/" target="_blank" class="free-online-courses" id="free-online-courses-footer-link"><img class="informea-elearning img-responsive" alt="" height="20" width="27" typeof="foaf:Image" src="https://www.informea.org/sites/all/themes/informea.theme/img/elearning.svg" />FREE ONLINE COURSES</a>      </li>
+    </ul>
+  </div>
+</div><!-- .row -->
+
+
+
+
+
+</section>
+      </div>
+    </div><!-- .footer-section -->
+    <div class="footer-section">
+      <div class="container">
+        <h5 class="footer-section-title">Organizations</h5>
+        <ul class="list-inline">
+          <li>
+            <a class="brand brand-hover brand-un" href="http://www.un.org/" target="_blank">
+              <div class="image"></div>
+              UN            </a><!-- .brand .brand-hover .brand-un -->
+          </li>
+          <li>
+            <a class="brand brand-hover brand-unep" href="http://www.unep.org/" target="_blank">
+              <div class="image"></div>
+              UN Environment            </a><!-- .brand .brand-hover .brand-unep -->
+          </li>
+          <li>
+            <a class="brand brand-hover brand-fao" href="http://www.fao.org/" target="_blank">
+              <div class="image"></div>
+              FAO            </a><!-- .brand .brand-hover .brand-fao -->
+          </li>
+          <li>
+            <a class="brand brand-hover brand-unesco" href="http://www.unesco.org/" target="_blank">
+              <div class="image"></div>
+              UNESCO            </a><!-- .brand .brand-hover .brand-unesco -->
+          </li>
+          <li>
+            <a class="brand brand-hover brand-unece" href="http://www.unece.org/env/treaties/welcome.html" target="_blank">
+              <div class="image"></div>
+              UNECE            </a><!-- .brand .brand-hover .brand-unece -->
+          </li>
+          <li>
+            <a class="brand brand-hover brand-eclac" href="https://www.cepal.org/en/escazuagreement" target="_blank">
+              <div class="image"></div>
+              ECLAC            </a><!-- .brand .brand-hover .brand-eclac -->
+          </li>
+          <li>
+            <a class="brand brand-hover brand-ecolex" href="http://www.ecolex.org/" target="_blank">
+              <div class="image"></div>
+              ECOLEX            </a><!-- .brand .brand-hover .brand-ecolex -->
+          </li>
+          <li class="pull-right">
+            <a class="brand brand-hover brand-eu" href="http://ec.europa.eu/" target="_blank">
+              <div class="image"></div>
+              European Union            </a><!-- .brand .brand-hover .brand-eu -->
+          </li>
+        </ul><!-- .list-inline -->
+      </div>
+    </div><!-- .footer-section -->
+    <div class="footer-section footer-section--info">
+      <div class="container">
+                  <a class="logo" href="/en" title="Home">
+            <img src="https://www.informea.org/sites/all/themes/informea.theme/logo.png" width="226" height="54" alt="Home" />
+          </a><!-- .logo .navbar-btn .pull-left -->
+                <ul class="nav nav--inline">
+          <li><a href="/en/about" class="menu-title" id="about-footer-link">About InforMEA</a></li>
+          <li><a href="/en/contact" class="menu-title" id="contact-footer-link">Contact</a></li>
+          <li><a href="/en/get-involved" class="menu-title" id="get-involved-footer-link">Get Involved</a></li>
+          <li class="dropdown language-switcher"><a tabindex="0" class="dropdown-toggle menu-title" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">en <span class="caret"></span><b></b></a><ul class="language-switcher-locale-url dropdown-menu dropdown-menu-right" aria-labelledby="dLanguage"><li class="en first active"><a href="/en/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title active" xml:lang="en" hreflang="en">English</a></li>
+<li class="fr"><a href="/fr/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="fr" hreflang="fr">Français</a></li>
+<li class="ru"><a href="/ru/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="ru" hreflang="ru">Русский</a></li>
+<li class="es"><a href="/es/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="es" hreflang="es">Español</a></li>
+<li class="ar"><a href="/ar/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="ar" hreflang="ar">العربية</a></li>
+<li class="zh-hans last"><a href="/zh-hans/sites/default/files/decisions/COP-9-Decisions-English-Abidjan%20Convention%20Accra%2C%20Ghana%202011.pdf" class="language-link menu-title" xml:lang="zh-hans" hreflang="zh-hans">简体中文</a></li>
+</ul></li>          <li class="user-link"><a href="/en/user/login" class="menu-title" id="login-footer-link">Login<img class="informea-user-icon img-responsive" alt="" typeof="foaf:Image" src="https://www.informea.org/sites/all/themes/informea.theme/img/user-icon.png" /></a></li>
+        </ul>
+      </div>
+    </div><!-- .footer-section -->
+  </div><!-- .container -->
+</footer><!-- .footer -->
+<a class="scroll-button scroll-to-top" href="#" title="Scroll to top"></a>
+<a class="scroll-button scroll-to-bottom" href="#" title="Scroll down"></a>
+  <script src="https://www.informea.org/sites/default/files/js/js_MRdvkC2u4oGsp5wVxBG1pGV5NrCPW3mssHxIn6G9tGE.js"></script>
+</body>
+</html>

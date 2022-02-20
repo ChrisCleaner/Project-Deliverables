@@ -1,0 +1,48 @@
+
+ Protocol II, Arbitration To The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1973-Protocol-II-1973-PollutionFromShips.EN.txt 
+ Source: http://sedac.ciesin.org/entri/texts/pollution.from.ships.1973.html     
+    ﻿Protocol II, Arbitration To The International Convention For The Prevention Of Pollution From Ships
+Source: http://sedac.ciesin.org/entri/texts/pollution.from.ships.1973.html
+(in accordance with Article 10 of the Convention)
+Article I
+Arbitration procedure, unless the Parties to the dispute decide otherwise, shall be in accordance with the rules set out in this Protocol.
+Article II
+(1) An Arbitration Tribunal shall be established upon the request of one Party to the Convention addressed to another in application of Article 10 of the present Convention. The request for arbitration shall consist of a statement of the case together with any supporting documents.
+(2) The requesting Party shall inform the Secretary-General of the Organization of the fact that it has applied for the establishment of a Tribunal, of the names of the Parties to the dispute, and of the Articles of the Convention or Regulations over which there is in its opinion disagreement concerning their interpretation or application. The Secretary-General shall transmit this information to all Parties.
+Article Ill
+The Tribunal shall consist of three members: one Arbitrator nominated by each Party to the dispute and a third Arbitrator who shall be nominated by agreement between the two first named, and shall act as its Chairman.
+Article IV
+(1) If, at the end of a period of sixty days from the nomination of the second Arbitrator, the Chairman of the Tribunal shall not have been nominated, the Secretary-General of the Organization upon request of either Party shall within a further period of sixty days proceed to such nomination, selecting him from a list of qualified persons previously drawn up by the Council of the Organization.
+(2) If, within a period of sixty days from the date of the receipt of the request, one of the Parties shall not have nominated the member of the Tribunal for whose designation it is responsible, the other Party may directly inform the Secretary-General of the Organization who shall nominate the Chairman of the Tribunal within a period of sixty days, selecting him from the list prescribed in paragraph (1) of the present Article.
+(3) The Chairman of the Tribunal shall, upon nomination, request the Party which has not provided an Arbitrator, to do so in the same manner and under the same conditions. If the Party does not make the required nomination, the Chairman of the Tribunal shall request the Secretary-General of the Organization to make the nomination in the form and conditions prescribed in the preceding paragraph.
+(4) The Chairman of the Tribunal, if nominated under the provisions of the present Article, shall not be or have been a national of one of the Parties concerned, except with the consent of the other Party.
+(5) In the case of the decease or default of an Arbitrator for whose nomination one of the Parties is responsible, the said Party shall nominate a replacement within a period of sixty days from the date of decease or default. Should the said Party not make the nomination, the arbitration shall proceed under the remaining Arbitrators. In case of the decease or default of the Chairman of the Tribunal, a replacement shall be nominated in accordance with the provisions of Article III above, or in the absence of agreement between the members of the Tribunal within a period of sixty days of the decease or default, according to the provisions of the present Article.
+Article V
+The Tribunal may hear and determine counter-claims arising directly out of the subject matter of the dispute.
+Article VI
+Each Party shall be responsible for the remuneration of its Arbitrator and connected costs and for the costs entailed by the preparation of its own case. The remuneration of the Chairman of the Tribunal and of all general expenses incurred by the Arbitration shall be borne equally by the Parties. The Tribunal shall keep a record of all its expenses and shall furnish a final statement thereof.
+Article VII
+Any Party to the Convention which has an interest of a legal nature and which may be affected by the decision in the case may, after giving written notice to the Parties which have originally initiated the procedure, join in the arbitration procedure with the consent of the Tribunal.
+Article VIII
+Any Arbitration Tribunal established under the provisions of the present Protocol shall decide its own rules of procedure.
+Article IX
+(1) Decisions of the Tribunal both as to its procedure and its place of meeting and as to any question laid before it, shall be taken by majority votes of its members; the absence or abstention of one of the members of the Tribunal for whose nomination the Parties were responsible, shall not constitute an impediment to the Tribunal reaching a decision. In cases of equal voting, the vote of the Chair-man shall be decisive.
+(2) The Parties shall facilitate the work of the Tribunal and in particular, in accordance with their legislation, and using all means at their disposal:
+(a) provide the Tribunal with the necessary documents and information;
+(b) enable the Tribunal to enter their territory, to hear witnesses or experts, and to visit the scene.
+(3) Absence or default of one Party shall not constitute an impediment to the procedure.
+Article X
+(1) The Tribunal shall render its award within a period of five months from the time it is established unless it decides, in the case of necessity, to extend the time limit for a further period not exceeding three months. The award of the Tribunal shall be accompanied by a statement of reasons. It shall be final and without appeal and shall be communicated to the Secretary-General of the Organization. The _Parties shall immediately comply with the award.
+(2) Any controversy which may arise between the Parties as regards interpretation or execution of the award may be submitted by either Party for judgment to the Tribunal which made the award, or, if it is not available to another Tribunal constituted for this purpose, in the same manner as the original Tribunal. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

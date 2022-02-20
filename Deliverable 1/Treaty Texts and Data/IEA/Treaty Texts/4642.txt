@@ -1,0 +1,41 @@
+
+ Amendments to Annexes I and II to the Protocol On Persistent Organic Pollutants To The Convention On Long-Range Transboundary Air Pollution (listing of short-chain chlorinated paraffins and polychlorinated naphtalenes)   
+     Filename: 2009-AmendmentsC-1998-ProtocolPersistentOrganicPollutants-1979-EuropeanTransboundaryAirPollution.EN.txt 
+ Source: http://www.unece.org/env/documents/2009/EB/eb/EB%20Decisions/Decision%202009%202…     
+    ﻿Amendment of Listings in Annexes I and II to the 1998 Protocol on Persistent Organic Pollutants
+Source: http://www.unece.org/env/documents/2009/EB/eb/EB%20Decisions/Decision%20..., downloaded 20110505 (ECE/EB.AIR/99/ADD.1, Decision 2009/2)
+Listing of short-chain chlorinated paraffins and polychlorinated naphtalenes in annexes I and II to the 1998 Protocol on Persistent Organic Pollutants
+The Parties to the 1998 Protocol on Persistent Organic Pollutants meeting within the twenty-seventh session of the Executive Body,
+Decide to amend the 1998 Protocol on Persistent Organic Pollutants (the "POPs Protocol") to the Convention on Long-Range Transboundary Air Pollution as follows:
+ARTICLE 1: AMENDMENT
+A. Annex I
+1. Listings for the following substances shall be added by inserting in appropriate alphabetical order the following rows:
+Polychlorinated naphthalenes (PCN): Production - None
+Polychlorinated naphthalenes (PCN): Use - None
+Short-chain chlorinated paraffins d/: Production - None, except for production for the uses specified in annex II
+Short-chain chlorinated paraffins d/: Use - None, except for the uses specified in annex II
+2. The following footnote shall be added at the end of annex I:
+"d/ Short-chain chlorinated paraffins means chlorinated alkanes with a carbon chain-length of 10 to 13 carbon atoms and the degree of chlorination of more than 48% by weight."
+B: Annex II
+A listing for the following substance shall be added by inserting in appropriate alphabetical order the following row:
+Short-chain chlorinated paraffins b/
+(a) Fire retardants in rubber used in conveyor belts in the mining industry; Parties should take action to eliminate these uses once suitable alternatives are available.
+(b) Fire retardants in dam sealants. No later than 2015 and every four years thereafter, each Party that uses these substances shall report on progress made to eliminate them and submit information on such progress to the Executive Body. Based on these reports, these restricted uses shall be reassessed.
+2. The following footnote shall be added at the end of annex II:
+b/ Short-chain chlorinated paraffins means chlorinated alkanes with a carbon chain-length of 10 to 13 carbon atoms and the degree of chlorination of more than 48% by weight.
+ARTICLE 2: RELATIONSHIP TO THE POPS PROTOCOL
+No State or regional economic integration organization may deposit an instrument of acceptance of this Amendment unless it has previously, or simultaneously, deposited an instrument of ratification, acceptance, approval, or accession to the POPs Protocol.
+ARTICLE 3: ENTRY INTO FORCE
+1. In accordance with article 14(3) of the POPs Protocol, this Amendment shall enter into force on the ninetieth day after the date on which two thirds of the Parties to the POPs Protocol have deposited with the Depositary their instruments of acceptance thereof.
+2. After the entry into force of this Amendment, as provided under paragraph 1, it shall enter into force for any other Party to the Protocol on the ninetieth day following the date of deposit of its instrument of acceptance. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

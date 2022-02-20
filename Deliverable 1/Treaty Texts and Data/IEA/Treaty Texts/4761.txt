@@ -1,0 +1,101 @@
+
+ Amendments of 1991 To The Technical Annex Of The Protocol To The Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Nitrogen Oxides Or Their Transboundary Fluxes   
+     Filename: 1991-AmendmentTechnicalAnnex-1988-ProtocolNitrogenOxides-1979-EuropeanTransboundaryAirPollution.EN.txt 
+ Source: https://zoek.officielebekendmakingen.nl/trb-1992-84.pdf     
+    Amendments of 1991 To The Technical Annex Of The Protocol To The Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Nitrogen Oxides Or Their Transboundary Fluxes
+ Source: https://zoek.officielebekendmakingen.nl/trb-1992-84.pdf, downloaded 20120503
+ On 19 March 1992 the Executive Secretary of the Economic Commission for Europe in accordance with Article 11, fifth paragraph of the Protocol, adopted the following amendments to the Technical Annex to the Protocol, which, during the 18 to 22 November 1991 Ninth Meeting held of the Executive Body and communicated them to the Parties to the Protocol. The English text of the revised Technical Annex to the Protocol reads as follows:
+ ANNEX III
+ Part II of the Revised Technical Annex to the 1988 Sofia Protocol on Control Technologies for NOx Emissions from Motor Vehicles
+ INTRODUCTION
+ 1. This annex is based on information on emission-control performance and costs contained in the official documentation of the Executive Body and its subsidiary bodies; in the report on Mobile Source NOx Emissions: Sources and Control Options, prepared for the Working Party on Air Pollution Problems; in the documentation of the ECE Inland Transport Committee and its subsidiary bodies and on supplementary information provided by governmentally designated experts.
+ 2. The regular elaboration and amendment of this annex will be necessary in the light of continuously expanding experience with new vehicles incorporating low-emission technology and the development of alternative fuels, as well as with retrofitting, where appropriate, and other strategies for existing vehicles. The annex cannot be an exhaustive statement of technical options; its aim is to provide guidance to Parties in identifying economically feasible technologies for fulfilling their obligations under the Protocol.
+ Major NOx emitters from mobile sources
+ 3. Primary mobile sources of anthropogenic NOx emissions include:
+ On-road vehicles:
+ a) Petrol-fuelled and diesel-fuelled passenger cars;
+ b) Light-duty vehicles;
+ c) Heavy-duty vehicles;
+ d) Motorcycles;
+ e) Mopeds.
+ Off-road vehicles:
+ Agricultural, industrial and construction machinery.
+ Other mobile sources:
+ a) Rail transport;
+ b) Ships and other marine craft;
+ c) Aircraft.
+ 4. Road transport is a major source of anthropogenic NOx emissions in many countries of the Economic Commission for Europe (ECE), contributing up to two thirds of total national emissions. Typically, current uncontrolled petrol-fuelled vehicles contribute up to two thirds of total road transport NOx emissions in countries with no previous emission control.
+ 5. Many countries have enacted regulations that limit the emission of pollutants from road vehicles. For off-road vehicles, rail, ships and other marine craft, agricultural, industrial and construction machinery, no NOx emission standards have been enacted by any ECE country. NOx emissions from these other sources may be substantial.
+ Until other data become available this annex concentrates on on-road vehicles only.
+ General aspects of control technology for NOx emissions from on-road vehicles
+ 6. The road vehicles considered in this annex are passenger cars, light-duty vehicles, motor cycles, mopeds and heavy-duty vehicles.
+ 7. This annex deals with both new and in-use vehicles, with attention primarily focused on NOx emission control for new vehicle types.
+ 8. Cost figures for the various technologies given are manufacturing cost estimates rather than retail prices.
+ 9. It is important to ensure that new-vehicle emission standards are maintained in service. This can be done through inspection and maintenance programmes, ensuring conformity of production, full useful-life durability, warranty of emission-control components, and recall of defective vehicles.
+ 10. Fiscal incentives can encourage the accelerated introduction of desirable technology. Retrofit is of limited benefit for NOx reduction, and may be difficult to apply to more than a small percentage of the vehicle fleet.
+ 11. Technologies that incorporate catalytic converters require the use of unleaded fuel, which should be made generally available.
+ 12. The management of urban and long-distance traffic, though not elaborated in this annex, is important as an efficient additional approach to reducing NOx emissions. Measures to reduce NOx emissions and other air pollutants may include enforcement of speed limits and efficient traffic management. Key measures for traffic management aim at changing the modal split through tactical, structural, financial and restrictive elements. They will also be beneficial for the other harmful effects of traffic expansion such as noise, congestion, etc.
+ 13. Measures to reduce NOx emissions, especially for diesel-fuelled engines, should take into account possible reverse effects on the emission of carbon monoxide, carbon dioxide and particles, and the need to meet limits for these substances.
+ Control technologies for NOx emissions from road vehicles
+ a) Petrol- and diesel-fuelled passenger cars and light-duty vehicles
+ 14. The main technologies for controlling NOx emissions are listed in table 1.
+ 15. The basis for comparison in table 1 is technology option B, representing non-catalytic technology designed in response to the requirements of the United States for 1973/74 or of ECE regulation 15-04* pursuant to the 1958 Agreement concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicles Equipment and Parts. The table also presents typical emission levels for open- and closed-loop catalytic control as well as their cost.
+ * Replaced by Regulation No. 83.
+ 16. The "uncontrolled" level (A) in table 1 refers to the 1970 situation in the ECE region, but may still prevail in certain areas.
+ 17. The emission level in table 1 reflects emissions measured using standard test procedures. Emissions from vehicles on the road may differ because of the effect of, inter alia, ambient temperature, operating conditions (especially at higher speed), fuel properties and maintenance. However, the reduction potential indicated in table 1 is considered representative of reductions achievable in use.
+ 18. The most efficient currently available technology for NOx reduction is option E. This technology achieves large reductions of NOx, volatile organic compounds (VOC), and CO emissions.
+ 19. In response to regulatory programmes for further NOx emission reductions (e.g. low-emission vehicles in California), advanced closed-loop three-way catalyst systems are being developed (option F). These improvements will focus on engine management, very precise control of air-fuel ratio, heavier catalyst loading, on-board diagnostic systems (OBD) and other advanced control measures. Additional reductions may be achieved through the use of alternative fuels (e.g. CNG, LPG or oxygenated fuels - methanol or ethanol), as well as reformulated gasoline (petrol). The amount of additional reductions achieved through the use of these fuels will depend somewhat on operating conditions, maintenance and the other factors mentioned in paragraph 17 above, just as in the case of current fuels.
+ b) Motor cycles and mopeds
+ 20. Although actual NOx emissions of motor cycles and mopeds are very low (e.g. with two-stroke engines), their NOx emissions should be considered. While VOC emissions of these vehicles are going to be limited by many Parties to the Convention, their NOx emissions may increase (e.g. with four-stroke engines). Generally the same technology options as described for petrol-fuelled passenger cars are applicable. In Austria and Switzerland, strict NOx emission standards are already implemented.
+ c) Heavy-duty diesel-fuelled vehicles
+ 21. In table 2 four technology options are summarized. The baseline engine configuration is the naturally aspirated engine. The trend is towards turbocharged engines. This trend has implications for improved baseline fuel consumption performance. Comparative estimates of consumption are therefore not included. The corresponding changes of particulate emissions have to be considered.
+ Control techniques for in-use vehicles
+ a) Full useful life, recall and warranties
+ 22. To promote durable emission-control systems, consideration should be given to emission standards that may not be exceeded for the "full useful life" of the vehicle. Surveillance programmes are needed to enforce this requirement. Under such programmes, manufacturers may be made responsible for recalling vehicles that fail to meet the required standards. They may also be required to provide warranties for emission-control components.
+ 23. New vehicles shall not be equipped with devices which reduce the efficiency or switch off the emission-control systems during any operating conditions except conditions which are indispenable for trouble-free running (e.g. cold start).
+ b) Inspection and maintenance
+ 24. The inspection and maintenance programme has an important secondary function. It may encourage regular maintenance and discourage vehicle owners from tampering with or disabling the emission controls, both through direct enforcement and public information. Inspection should ensure that vehicles are not equipped with devices that reduce the efficiency or disable emission-control systems during operation. It should also ensure that emission-control systems have not been removed to achieve performance benefits at the expense of emissions.
+ 25. Improved monitoring of emission control performance can be achieved by on-board diagnostic systems which monitor the functioning of emission-control components, store fault codes for further interrogation and warn the driver in the event of malfunction. For such vehicles, tailpipe emissions testing may not be sufficient and more sophisticated tests (e.g. dynamometer) may be necessary to assure proper functioning.
+ 26. Inspection and maintenance programmes can be beneficial for all types of control technology by ensuring that new-vehicle emission levels are maintained. However, for uncontrolled vehicles, maintenance of new-vehicle specifications may lead to higher NOx levels in service to the benefit of CO, VOC, and for diesels, particulate emissions. Conversely, for catalyst-controlled vehicles it is essential to ensure that the new-vehicle specifications and settings are maintained to avoid deterioration of all major pollutants, including NOx.
+ Table 1: Emission control technologies for petrol- and diesel-fuelled passenger cars and light-duty vehicles
+ Technology option || NOx emission level (%) || Estimated additional production cost* (US$)
+ Petrol-fuelled || ||
+ A. Uncontrolled situation || 70 || -
+ B. Engine modifications (engine design, carburetion and ignition systems, air injection) || 100 || **
+ C. Open-loop catalyst || 50 || 150- 200
+ D. Closed-loop three-way catalyst || 25 || 250- 450***
+ E. Advanced closed-loop three-way catalyst || 10 || 350- 600***
+ F. Californian low-emission vehicles (advanced option E) || 6 || &gt; 700***
+ Dieselfuelled || ||
+ G. Conventional indirect injection diesel engine || 40 ||
+ H. Indirect injection engine with secondary injection, high injection pressures electronically controlled || 30 || 1000-1200****
+ I. Direct injection engine with turbocharging || 50 || 1000-1200****
+ [|| serve as tab-indicators in the table above]
+ * Per vehicle, relative to technology option B.
+ ** Costs for engine modifications from options A to B are estimated at US$ 40-100.
+ *** Under technology options D, E and F, CO and VOC emissions are also substantially reduced, in addition to NOx reductions. Technology options B and C result also in CO and VOC control.
+ **** Fuel consumption is substantially reduced as compared to option G, while particulate emissions of technology option G are considerably higher.
+ Table 2: Heavy-duty diesel engine technologies, emission performance and costs
+ Technology option || NOx emission level (%) || Estimated additional production cost* (US$)
+ A. Current conventional direct injection engine || 100 || 0
+ B. Turbocharged diesel engine || 115 || 400- 600
+ C. Turbocharged diesel engine with intercooling || 70 || 1500-3000
+ D. Turbocharged diesel engine with intercooling, high-pressure fuel injection, electronically controlled fuel pump, combustion chamber and port optimalization EGR || 50-60 || 1500-3000
+ E. Conversion to spark ignition engine, e.g. alternative fuels such as CNG, LPG or oxygenated fuels, in combination with three-way catalytic converter || 10-30 || 1000-4000
+ [|| serve as tab-indicators in the table above]
+ * Per vehicle, and depending on engine size relative to technology option A.
+ Ingevolge artikel 11, vierde lid, van het Protocol zijn de wijzigingen op 18 april 1992 in werking getreden.
+ Uitgegeven de zevenentwintigste mei 1992.
+ De Minister van Buitenlandse Zaken,
+ H. VAN DEN BROEK 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

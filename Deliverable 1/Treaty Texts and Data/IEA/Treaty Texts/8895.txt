@@ -1,0 +1,130 @@
+
+ Amendments to Annex II of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto   
+     Filename: 8895-2019-Amendment to Annex-2650 
+ Source: https://www.mardep.gov.hk/en/msnote/pdf/msin1923anx1.pdf     
+    Amendments to Annex II of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto
+https://www.mardep.gov.hk/en/msnote/pdf/msin1923anx1.pdf
+ANNEX 4
+RESOLUTION MEPC.315(74)
+(adopted on 17 May 2019)
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO
+Amendments to MARPOL Annex II
+(Cargo residues and tank washings of persistent floating products)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee conferred upon it by international conventions for the prevention and control of marine pollution from ships,
+RECALLING ALSO article 16 of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL), which specifies the amendment procedure and confers upon the appropriate body of the Organization the function of considering and adopting amendments thereto,
+HAVING CONSIDERED, at its seventy-fourth session, proposed amendments to MARPOL Annex II concerning cargo residues and tank washings of persistent floating products, which were circulated in accordance with article 16(2)(a) of MARPOL,
+1 ADOPTS, in accordance with article 16(2)(d) of MARPOL, amendments to MARPOL Annex II, the text of which is set out in the annex to the present resolution;
+2 DETERMINES, in accordance with article 16(2)(f)(iii) of MARPOL, that the amendments shall be deemed to have been accepted on 1 July 2020 unless prior to that date, not less than one third of the Parties or Parties the combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of MARPOL, the said amendments shall enter into force on 1 January 2021 upon their acceptance in accordance with paragraph 2 above;
+4 REQUESTS the Secretary-General, for the purposes of article 16(2)(e) of MARPOL, to transmit certified copies of the present resolution and the text of the amendments contained in the annex to all Parties to MARPOL;
+5 REQUESTS ALSO the Secretary-General to transmit copies of the present resolution and its annex to Members of the Organization which are not Parties to MARPOL.
+ANNEX
+AMENDMENTS TO MARPOL ANNEX II
+(Cargo residues and tank washings of persistent floating products)
+CHAPTER 1 – GENERAL
+Regulation 1 – Definitions
+1 A new paragraph 23 is added as follows:
+"23 Persistent floater means a slick forming substance with the following properties:
+- Density: ≤ sea water (1025 kg/m3 at 20°C);
+- Vapour pressure: ≤ 0.3 kPa;
+- Solubility: ≤ 0.1% (for liquids) ≤ 10% (for solids); and
+- Kinematic viscosity: &gt; 10 cSt at 20°C."
+CHAPTER 5 – OPERATIONAL DISCHARGES OF RESIDUES OF NOXIOUS LIQUID SUBSTANCES
+Regulation 13 – Control of discharges of residues of noxious liquid substances
+2 A new paragraph 7.1.4 is inserted after existing paragraph 7.1.3 as follows:
+"7.1.4 For substances assigned to category Y that are persistent floaters with a viscosity equal to or greater than 50 mPas at 20ºC and/or with a melting point equal to or greater than 0ºC, as identified by '16.2.7' in column 'o' of chapter 17 of the IBC Code, the following shall apply in the areas in paragraph 9:
+.1 a prewash procedure as specified in appendix VI to this annex shall be applied;
+.2 the residue/water mixture generated during the prewash shall be discharged to a reception facility at the port of unloading until the tank is empty; and
+.3 any water subsequently introduced into the tank may be discharged into the sea in accordance with the discharge standards in regulation 13.2."
+3 A new paragraph 9 is inserted after existing paragraph 8.2 as follows:
+"9 Areas to which regulation 13.7.1.4 applies
+9.1 the North West European waters include the North Sea and its approaches, the Irish Sea and its approaches, the Celtic Sea, the English Channel and its approaches and part of the North East Atlantic immediately to the west of Ireland. The area is bounded by lines joining the following points:
+4827' N on the French coast
+4827' N; 00625' W
+4952' N; 00744' W
+5030' N; 012 W
+5630' N; 012 W
+62 N; 003 W
+62 N on the Norwegian coast
+5744.8' N on the Danish and Swedish coasts
+9.2 the Baltic Sea area means the Baltic Sea proper with the Gulf of Bothnia, the Gulf of Finland and the entrance to the Baltic Sea bounded by the parallel of the Skaw in the Skagerrak at 5744.8' N;
+9.3 the Western European waters is an area that covers the United Kingdom, Ireland, Belgium, France, Spain and Portugal, from the Shetland Islands in the North to Cape S. Vicente in the South, and the English Channel and its approaches. The area is bounded by lines joining the following points:
+58°30' N on the UK coast
+58°30' N; 000° W
+62° N; 000° W
+62° N; 003° W
+56°30' N; 012° W
+54°40'40.9'' N; 015° W
+50°56'45.3'' N; 015° W
+48°27' N; 006°25' W
+48°27' N; 008° W
+44°52' N; 003°10' W
+44°52' N; 010° W
+44°14' N; 011°34' W
+42°55' N; 012°18' W
+41°50' N; 011°34' W
+37°00' N; 009°49' W
+36°20' N; 009°00' W
+36°20' N; 007°47' W
+37°10' N; 007°25' W
+51°22'25" N; 003°21'52.5" E
+52°12' N; on the UK east coast
+52°10.3' N; 006°21.8' W
+52°01.52' N; 005°04.18' W
+54°51.43' N; 005°08.47' W
+54°40.39' N; 005°34.34' W
+9.4 the Norwegian Sea is bounded by lines joining the following points:"
+69°47.6904' N; 030°49.059' E
+69°58.758' N; 031°6.2598' E
+70°8.625' N; 031°35.1354' E
+70°16.4826' N; 032°4.3836' E
+73°23.0652' N; 036°28.5732' E
+73°35.6586' N; 035°27.3378' E
+74°2.9748' N; 033°17.8596' E
+74°20.7084' N; 030°33.5052' E
+74°29.7972' N; 026°28.1808' E
+74°24.2448' N; 022°55.0272' E
+74°13.7226' N; 020°15.9762' E
+73°35.439' N; 016°36.4974' E
+73°14.8254' N; 014°9.4266' E
+72°42.54' N; 011°42.1392' E
+71°58.2' N; 009°54.96' E
+71°37.5612' N; 008°43.8222' E
+70°43.161' N; 006°36.0672' E
+69°36.624' N; 004°47.322' E
+68°58.3164' N; 003°51.2154' E
+68°14.9892' N; 003°17.0322' E
+67°25.7982' N; 003°10.2078' E
+66°49.7292' N; 003°25.1304' E
+66°25.9344' N; 003°17.1102' E
+65°22.7214' N; 001°24.5928' E
+64°25.9692' N; 000°29.3214' W
+63°53.2242' N; 000°29.442' W
+62°53.4654' N; 000°38.355' E
+62° N; 001°22.2498' E
+62° N; 004°52.3464' E
+APPENDIX IV – STANDARD FORMAT FOR THE PROCEDURES AND ARRANGEMENTS MANUAL
+Section 4 – Procedures relating to the cleaning of cargo tanks, the discharge of residues, ballasting and deballasting
+4 Paragraph 4.4.5 is replaced by the following:
+".5 Persistent floaters with a viscosity equal to or greater than 50 mPas at 20ºC and/or a melting point equal to or greater than 0ºC
+This section should contain instructions on how to deal with tank washings of substances identified by the presence of '16.2.7' in column 'o' of chapter 17 of the IBC Code and the latest version of the MEPC.2/Circular, when operating in the areas specified in regulation 13.9 of Annex II."
+Addendum A – Flow diagrams – Cleaning of cargo tanks and disposal of tank washings/ballast containing residues of category X, Y and Z substances
+5 A new Note 4 is inserted after existing Note 3 as follows:
+"Note 4: Within the areas specified in regulation 13.9 of Annex II, regulation 13.7.1.4 applies to substances that are identified by '16.2.7' in column 'o' of chapter 17 of the IBC Code."
+APPENDIX VI – PREWASH PROCEDURES
+6 A new section C is added after existing paragraph 21 as follows:
+"C For all ships
+Prewash procedures for persistent floaters to which regulation 13.7.1.4 of Annex II of MARPOL applies
+Persistent floaters with a viscosity equal to or greater than 50 mPas at 20ºC and/or a melting point equal to or greater than 0ºC, shall be treated as solidifying or high-viscosity substances for the purposes of the prewash. Where it is determined that the use of small amounts of cleaning additives would improve and maximize the removal of cargo residues during a prewash, then this should be done in consultation and with prior agreement from the reception facility." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

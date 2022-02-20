@@ -1,0 +1,177 @@
+
+ Amendments To The International Convention On Standards Of Training, Certification And Watchkeeping For Seafarers - Gmdss   
+     Filename: 1991-Amendments-1978-StandardsSeafarers.EN.txt 
+ Source: http://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/seldoc/1991/3907.html     
+    ﻿AMENDMENTS TO THE INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAFARERS, 1978
+Source: http://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/seldoc/1991/390...
+THE MARITIME SAFETY COMMITTEE,
+RECALLING Article 28(b) of the Convention on the International Maritime Organization concerning the functions of the Committee,
+RECALLING further Article XII(i)(a)(vii) of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, hereinafter referred to as "the Convention", concerning the procedures for amending the Annex to the Convention,
+HAVING CONSIDERED, at its fifty-ninth session, amendments to the Convention proposed and circulated in accordance with Article XII(1)(a)(i) thereof,
+1. Adopts, in accordance with Article XII(1)(a)(iv) of the Convention, amendments to the Convention, the texts of which are set out in the Annex to the present resolution;
+2. Determines, in accordance with Article XII(1)(a)(vii)(2) of the Convention, that the amendments shall be deemed to have been accepted on 1 June 1992 unless, prior to that date, more than one third of Parties or Parties, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant shipping of ships of 100 gross register tons or more, have notified their objections to the amendments;
+3. Invites Parties to note that, in accordance with Article XII(1)(a)(viii) of the Convention, the amendments shall enter into force on 1 December 1992 upon their acceptance in accordance with paragraph 2 above;
+4. Requests the Secretary-General, in conformity with Article XII(1)(a)(v) of the Convention, to transmit certified copies of the present resolution and the text of the amendments contained in the Annex to all Parties to the Convention for acceptance;
+5. Further requests the Secretary-General to transmit copies of the resolution to Members of the Organization which are not Parties to the Convention.
+ANNEX
+CHAPTER I
+GENERAL PROVISIONS
+Regulation I/1
+Definitions
+Replace the existing texts of paragraphs (k) and (1) by:
+"(k) "Radio operator" means a person holding an appropriate certificate related to the global maritime distress and safety system issued or recognized by an Administration under the provisions of the Radio Regulations".
+In paragraph (p): Replace "IMCO recommendations" by "recommendations of the Organization".
+In paragraph (r): Delete "IMCO".
+In paragraph (s): Delete "IMCO".
+Reletter paragraphs (k) to (s) as (k) to (z).
+Regulation I/2
+Content of certificates and form of endorsement
+Amend the first line of paragraph 2 to read:
+"In respect of radio operators, Administrations may:".
+Regulation I/4
+Control procedures
+In paragraph 3, replace "radio officer" by "radio operator".
+Add the following new regulation:
+"Regulation I/5
+Conduct of trials
+1. These regulations shall not prevent an Administration from authorizing ships entitled to fly its flag to participate in trials.
+2. For the purposes of this regulation, the term "trial" means an experiment or series of experiments, conducted over a limited period, which may involve the use of automated or integrated systems in order to evaluate alternative methods of performing specific duties or satisfying particular arrangements prescribed by this Convention, which would provide at least the same degree of safety and pollution prevention as provided by these regulations.
+3. The Administration authorizing ships to participate in trials shall be satisfied that such trials are conducted in a manner that provides at least the same degree of safety and pollution prevention as provided by these regulations. Such trials shall be conducted in accordance with guidelines adopted by the Organization.
+4. Details of such trials shall be reported to the Organization as early as practicable but not less than six months before the date on which the trials are scheduled to commence. The Organization shall circulate such particulars to all Parties.
+5. The results of trials authorized under paragraph 1, and any recommendations the Administration may have regarding those results, shall be reported to the Organization which shall circulate such results and recommendations to all Parties.
+6. Any Party having any objection to particular trials authorized in accordance with this regulation should communicate such objection to the Organization as early as practicable. The Organization shall circulate details of the objection to all Parties.
+7. An Administration which has authorized a trial should respect objections received from other Administrations relating to such trial by directing ships entitled to fly its flag not to engage in a trial while navigating in the waters of a coastal State which has communicated its objection to the Organization.
+8. An Administration which concludes, on the basis of a trial, that a particular system will provide at least the same degree of safety and pollution prevention as provided by these regulations may authorize ships indefinitely, subject to the following requirements:
+(a) the Administration shall, after results of the trial have been submitted in accordance with paragraph 5, provide details of any such authorization, including identification of the specific ships which may be subject to the authorization, to the Organization which will circulate this information to all Parties;
+(b) any operations authorized under this paragraph shall be conducted in accordance with guidelines as may be developed by the Organization, to the same extent as they apply during a trial;
+(c) such operation shall respect any objections received from other Administrations in accordance with paragraph 7, to the extent such objections have not been withdrawn; and
+(d) an operation authorized under this paragraph shall only be permitted pending a determination by the Maritime Safety Committee as to whether an amendment to the Convention would be appropriate, and, if so, whether the operation should be suspended or permitted to continue before the amendment enters into force. At the request of any Party, the Maritime Safety Committee shall establish a date for consideration of the trial results and for the appropriate determinations."
+CHAPTER II
+MASTER - DECK DEPARTMENT
+APPENDIX TO REGULATION II/2
+Minimum knowledge required for certification of masters and chief mates of ships of 200 gross register tons or more
+7. Ship manoeuvring and handling
+In the existing paragraph:
+(j) Replace "boats or liferafts" by "rescue boats or survival craft".
+(k) Replace "lifeboats or liferafts" by "rescue boats or survival craft".
+8. Ship stability, construction and damage control
+In the existing paragraph:
+(e) Replace "IMCO recommendations" by "the recommendations of the Organization".
+16. Communications
+Replace subtitle "Communications" by "Radiocommunications and visual signalling"
+Amend existing paragraphs (b) and (c) to read:
+"(b) Knowledge of procedures used in radiocommunications and ability to use radio equipment for distress, urgency, safety and navigational messages.
+(c) A knowledge of the procedures for emergency distress signals as prescribed in the Radio Regulations".
+17. Life-saving
+In the existing text, replace "lifeboats, liferafts" by "survival craft, rescue boats".
+18. Search and rescue
+In the existing text, delete "IMCO".
+19. Methods of demonstration of proficiency
+(f) Life-Saving
+In the existing text, replace "lifeboats" by "survival craft, rescue boats".
+APPENDIX TO REGULATION II/4
+Minimum knowledge required for certification of officers in charge of a navigational watch on ships of 200 gross register tons or more
+10. Radiotelephony and visual signalling
+Replace the subtitle "Radiotelephony and visual signalling" by "Radiocommunications and visual signalling".
+(c) Replace the existing text by:
+"(c) Knowledge of procedures used in radiocommunications and ability to use radio equipment for distress, urgency, safety and navigational messages".
+12. Life-saving
+Replace the existing text by:
+"Ability to organize abandon ship drills and knowledge of the operation of survival craft and rescue boats, their launching appliances and arrangements, and their equipment including radio life-saving appliances, satellite emergency position-indicating radio beacons (EPIRBs), immersion suits and thermal protective aids. Knowledge of survival at sea techniques".
+13. Emergency procedures
+Replace the existing text by:
+"Knowledge of the items listed in the appropriate appendix of the current edition of the ILO/IMO "Document for Guidance".
+16. English Language
+In the existing text, delete "IMCO".
+20. Search and rescue
+In the existing text, delete "IMCO".
+Regulation II/6
+Mandatory minimum requirements for ratings forming part of a navigational watch
+Replace the existing text of subparagraph 2(d)(vii) by:
+"knowledge of rocket parachute flares, hand flares and buoyant smoke signals;".
+Replace the existing chapter IV by:
+"CHAPTER IV
+RADIO PERSONNEL
+Explanatory note:
+Mandatory provisions relating to radio watchkeeping are set forth in the Radio Regulations and in the International Convention for the Safety of Life at Sea, 1974, as amended. Provisions for radio maintenance are set forth in the International Convention for the Safety of Life at Sea, 1974, as amended, and the guidelines adopted by the Organization.
+Regulation IV/1
+Application
+1. The provisions of this chapter shall apply to radio personnel in a ship operating in the global maritime distress and safety system (GMDSS) as prescribed by the International Convention for the Safety of Life at Sea, 1974, as amended.
+2. Until 1 February 1999, radio personnel on a ship complying with the provisions of the International Convention for the Safety of Life at Sea, 1974, in force prior to 1 February 1992, shall comply with the provisions of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, in force prior to 1 December 1992.
+Regulation IV/2
+Mandatory minimum requirements for certification of GMDSS radio personnel
+1. Every radio operator in charge of, or performing, radiocommunication duties on a ship shall hold an appropriate certificate or certificates issued or recognized by the Administration under the provisions of the Radio Regulations.
+2. In addition, a radio operator on a ship which is required by the International Convention for the Safety of Life at Sea, 1974, as amended, to have a radio installation shall:
+(a) be not less than 18 years of age;
+(b) satisfy the Administration as to medical fitness, particularly regarding eyesight, hearing and speech;
+(c) meet the requirements of the appendix to this regulation.
+3. Every candidate for a certificate shall be required to pass an examination or examinations to the satisfaction of the Administration.
+4. The level of knowledge required for certification shall be sufficient for radio operators to carry out their radiocommunication duties safely and efficiently. The knowledge required for obtaining each type of certificate defined in the Radio Regulations shall be in accordance with those Regulations. In addition, for all types of certificates defined in the Radio Regulations, the required knowledge and training shall include the subjects listed in the appendix to this regulation. In determining the appropriate level of knowledge and training, the Administration shall also take into account the relevant recommendations of the Organization.
+Appendix to regulation IV/2
+Minimum additional knowledge and training requirements for radio personnel
+1. In addition to satisfying the requirements for the issue of a certificate in compliance with the Radio Regulations, radio operators shall have knowledge and training, including practical training, in the following:
+(a) the provision of radio services in emergencies, including:
+(i) abandon ship;
+(ii) fire aboard ship;
+(iii) partial or full breakdown of the radio installations;
+(b) the operation of survival craft and rescue boats and their equipment, with special reference to radio life-saving appliances;
+(c) survival at sea;
+(d) first aid;
+(e) fire prevention and fire-fighting, with particular reference to the radio installations;
+(f) preventive measures for the safety of ship and personnel in connection with hazards related to radio equipment, including electrical, radiation, chemical and mechanical hazards;
+(g) the use of the Merchant Ship Search and Rescue Manual (MERSAR) with particular reference to radiocommunications;
+(h) ship position-reporting systems and procedures;
+(i) the use of the International Code of Signals and the Standard Marine Navigational Vocabulary;
+(j) radio medical systems and procedures.
+2. The Administration may vary, as appropriate, the knowledge and training required by paragraph 1 for issue of a radio operator's certificate to a holder of a certificate issued under the provisions of chapters II, III or VI, provided the Administration is satisfied that the standard of training or level of knowledge for issue of the certificate held is adequate.
+Regulation IV/3
+Mandatory minimum requirements to ensure the continued proficiency and updating of knowledge for GMDSS radio personnel
+1. Every radio operator holding a certificate or certificates issued or recognized by the Administration shall, in order to continue to qualify for seagoing service, be required to satisfy the Administration as to the following:
+(a) medical fitness, particularly regarding eyesight, hearing and speech, at regular intervals not exceeding five years; and
+(b) professional competence:
+(i) by performing radio service in a seagoing ship with no single interruption exceeding five years; or
+(ii) by virtue of having performed functions relating to the duties appropriate to the grade of certificate held which are considered to be at least equivalent to the seagoing service required in paragraph 1(b)(i); or
+(iii) by passing an approved test or successfully completing an approved training course or courses at sea or ashore which shall include those elements which are of direct relevance to the safety of life at sea, and which are applicable for the certificate that the person is holding, in accordance with the requirements of the International Convention for the Safety of Life at Sea, 1974, as amended, and the Radio Regulations.
+2. When new modes, equipment or practices are to become mandatory aboard ships entitled to fly the flag of a Party, the Administration may require radio operators to pass an approved test or successfully complete an appropriate training course or courses, at sea or ashore, with particular reference to safety duties.
+3. Every radio operator, in order to continue to qualify for seagoing service on board particular types of ship for which special training requirements have been internationally agreed upon, shall successfully complete approved relevant training or examinations which shall take into account relevant international regulations and recommendations.
+4. The Administration shall ensure that the texts of recent changes in international regulations relating to radiocommunications and relevant to the safety of life at sea are available to ships entitled to fly its flag.
+5. Administrations are encouraged, in consultation with those concerned, to formulate or promote the formulation of a structure of refresher and updating courses, either voluntary or mandatory, as appropriate, at sea or ashore, for radio operators who are serving at sea and especially for re-entrants to seagoing service. The course or courses should include elements that are of direct relevance to radio duties and include changes in marine radiocommunication technology and relevant international regulations and recommendations concerning the safety of life at sea".
+CHAPTER VI
+Regulation VI/1
+Replace the existing heading by:
+"Mandatory minimum requirements for the issue of certificates of proficiency in survival craft and rescue boats"
+(e) Replace the existing subparagraphs (iii) to (v) and (viii) and (ix) by:
+"(iii) interpret the markings on survival craft and rescue boats with respect to the number of persons they are permitted to carry;
+(iv) make the correct commands required for launching and boarding the survival craft and rescue boats, clearing the ship and handling and disembarking from the survival craft or rescue boat;
+(v) prepare and launch survival craft and rescue boats safely into the water and clear the ship's side quickly;
+(viii) use signalling equipment including rocket parachute flares, hand flares and buoyant smoke signals;
+(ix) use radio life-saving appliances;
+(x) don and use an immersion suit; use a thermal protective aid".
+APPENDIX TO REGULATION VI/1
+Replace the existing text of paragraph 2(c) and (f) by:
+"2. (c) actions to be taken when called to survival craft and rescue boat stations;
+(f) actions to be taken when aboard a survival craft or rescue boat."
+Replace the existing text of paragraphs 5 to 8 by:
+"5. Construction and outfit of survival craft and rescue boats and individual items of their equipment.
+6. Particular characteristics and facilities of survival craft and rescue boats.
+7. Various types of devices used for launching survival craft and rescue boats.
+8. Methods of launching survival craft and rescue boats into a rough sea."
+Replace the existing text of paragraph 10 by:
+"10. Handling survival craft and rescue boats in rough weather."
+Replace the existing text of paragraphs 15 to 19 by:
+"15. Radio life-saving appliances carried in survival craft and rescue boats, including satellite emergency position-indicating radio beacons.
+16. Effects of hypothermia and its prevention; use of protective covers and protective garments including immersion suits and thermal protective aids.
+17. Methods of starting and operating a survival craft or rescue boat engine and its accessories together with the use of fire extinguisher provided.
+18. Use of rescue boats and lifeboats for marshalling liferafts and rescue of survivors and persons in the sea.
+19. Beaching survival craft and rescue boats." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,95 @@
+
+ Amendments To Annex I (Condition Assessment Scheme) of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2003-AmendmentsCAS-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/blast/blastDataHelper.asp?data_id=15715&filename=112%2850%29.…     
+    ﻿Amendments To Annex I (Condition Assessment Scheme) of The International Convention For The Prevention Of Pollution From Ships
+Source: RESOLUTION MEPC.112(50) Adopted on 4 December 2003
+AMENDMENTS TO THE CONDITION ASSESSMENT SCHEME
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+NOTING ALSO that regulation 13G of Annex I of MARPOL 73/78 specifies that the Condition Assessment Scheme, adopted by resolution MEPC.94(46), may be amended provided such amendments shall be adopted, brought into force and take effect in accordance with the provisions of article 16 of the 1973 Convention relating to amendment procedures applicable to an appendix to an Annex,
+RECALLING ALSO resolution MEPC.99(48), by which the Committee adopted amendments to the Condition Assessment Scheme, in accordance with the provisions of article 16 of the 1973 Convention relating to amendment procedures applicable to an appendix to an Annex,
+HAVING ADOPTED, at its fiftieth session, amendments to regulation 13G of Annex I to MARPOL 73/78 by resolution MEPC.111(50) to further accelerate the phase-out of single-hull tankers in an effort to further enhance the protection of the marine environment,
+RECOGNIZING the need to amend the Condition Assessment Scheme for the purposes of application of the amendments to regulation 13G and the new regulation 13H of Annex I to MARPOL 73/78, as adopted by resolution MEPC.111(50),
+HAVING CONSIDERED, at its fiftieth session, the proposed amendments to the Condition Assessment Scheme,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Conve ntion, the amendments to the Condition Assessment Scheme, the text of which is set out at Annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 4 October 2004, unless, prior to that date, not less than one third of the Parties to MARPOL 73/78 or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have notified to the Organization their objections to the amendments;
+3. INVITES Parties to MARPOL 73/78 to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 5 April 2005 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. REQUESTS FURTHER the Secretary-General to transmit copies of this resolution and its Annex to Members of the Organization which are not Parties to MARPOL 73/78;
+6. INVITES the Maritime Safety Committee to note the amendments to the Condition Assessment Scheme;
+7. URGES the Maritime Safety Committee to undertake, as a matter of priority, a review of the Guidelines on the Enhanced Programme of Inspections During Surveys of Bulk Carriers and Oil Tankers (the Guidelines), adopted by resolution A.744(18) as amended, for the purpose of introducing and incorporating relevant elements and provisions of the Condition Assessment Scheme in the Guidelines, so as to ensure that oil tankers required to comply with the provisions of the Condition Assessment Scheme will be subject to a single and harmonized survey and inspection regime; and
+8. AGREES that the Committee will undertake, as soon as the Maritime Safety Committee has incorporated relevant elements and provisions of the Condition Assessment Scheme into the Guidelines, to carry out the necessary review of the Condition Assessment Scheme and, if needed, of the provisions of regulations 13G and 13H of Annex I of MARPOL 73/78 related thereto with a view to ensuring that oil tankers required to comply with the provisions of the Condition Assessment Scheme will be subject to a single and harmonized survey and inspection regime as adopted by the Maritime Safety Committee.
+ANNEX
+AMENDMENTS TO THE CONDITION ASSESSMENT SCHEME
+1 In the last sentence of paragraph 1.1, the following words are added at the end of the sentence:
+", or Interim Statement of Compliance, as applicable."
+2 In paragraph 2, the words "regulation 13G(7)" are replaced by "regulations 13G(6) and
+(7) and 13H(6)(a)", and the words "resolution MEPC.95(46)" are deleted.
+3 Paragraph 3.3 is deleted and the existing paragraphs 3.4 and 3.5 are renumbered as paragraphs 3.3. and 3.4 respectively.
+4 Paragraph 3.6 is deleted and the existing paragraph 3.7 is renumbered as paragraph 3.5.
+5 The following new paragraph 3.6 is added, and the existing paragraphs 3.8 through 3.14 are renumbered as paragraphs 3.7 through 3.13.
+"3.6 "Category 3 oil tanker" means an oil tanker of 5,000 tons deadweight and above but less than that specified in regulation 13G(3)(a) or (b) of Annex I of MARPOL 73/78."
+6 Paragraph 4.3 is replaced by the following:
+"4.3 The Administration shall require Category 2 and Category 3 oil tankers flying its flag which are subject to the provisions of regulation 13G(7) to remain out of service during the periods referred to in paragraph 5.1.2, until these oil tankers are issued with a valid Statement of Compliance."
+7 Paragraph 5.1 is replaced by the following:
+"5.1 Application
+The requirements of the CAS apply to:
+.1 oil tankers of 5,000 tons deadweight and above and of 15 years and over after date of delivery of the ship, in accordance with regulation 13G(6);
+.2 oil tankers subject to the provisions of regulation 13G(7), where authorization is requested for continued service beyond the anniversary of the date of delivery of the ship in 2010; and
+.3 oil tankers of 5,000 tons deadweight and above and of 15 years and over after date of delivery of the ship, carrying crude oil as cargo having a density at 15oC higher than 900 kg/m3 but lower than 945 kg/m3, in accordance with regulation 13H(6)(a)."
+8 Paragraph 5.3 is replaced by the following:
+"5.3.1 The CAS survey shall be aligned to the Enhanced Programme of Inspection.
+5.3.2 The first CAS survey in accordance with regulation 13G(6) shall be carried out concurrent with the first scheduled intermediate or renewal survey after 5 April 2005, or when the ship reaches the 15 years of age, whichever occurs later.
+5.3.3 The first CAS survey in accordance with regulation 13G(7) shall be carried out concurrent with the scheduled intermediate or renewal survey due prior to the anniversary of the date of delivery of the ship in 2010.
+5.3.4 The first CAS survey in accordance with regulation 13H(6)(a) shall be carried out concurrent with the first scheduled intermediate or renewal survey after 5 April 2005.
+5.3.5 In the case where the Statement of Compliance issued following the first CAS survey under 5.3.2 is valid beyond the anniversary of the date of delivery of the ship in 2010, that CAS may be treated as the first CAS carried out in compliance with regulation 13G(7).
+5.3.6 Any subsequent CAS survey, required for the renewal of the Statement of Compliance, shall be carried out at intervals not exceeding 5 years and 6 months.
+5.3.7 Notwithstanding the above, the Company may, with the agreement of the Administration, opt to carry out the CAS survey at a date earlier than the due date of the survey referred to above, provided that all the requirements of the CAS are complied with."
+9 Paragraph 6.1.1.7 is replaced by the following:
+"6.1.1.7 Such relaxation shall, at all times, be subject to the RO having sufficient time to complete the CAS survey and issue the Interim Statement of Compliance under regulation 13G(6) or 13H(6)(a), or the Administration to review the CAS Final Report and issue the Statement of Compliance under regulation 13G(7), as applicable, prior to re-entry of the ship to service."
+10 Paragraph 10.2.2 is replaced by the following:
+"10.2.2 The CAS Final Report shall be submitted by the RO to the Administration without delay and:
+.1 in the case of the CAS survey in accordance with regulation 13G(6) or 13H(6)(a), not later than 3 months after the completion of the CAS survey; or
+.2 in the case of the CAS survey in accordance with regulation 13G(7), not later than 3 months after the completion of the CAS survey, or 2 months prior to the date the ship is required to be issued with a Statement of Compliance, whichever occurs earlier."
+11 In paragraph 11.1, the words "Category 1 and Category 2" are replaced by the words "Category 2 and Category 3".
+12 Paragraph 13.1 is replaced by the following:
+"13.1 The Administration shall, in accordance with its procedures, issue to each ship which completes the CAS to the satisfaction of the Administration, the Statement of Compliance.
+Such Statement shall be issued:
+.1 in the case of the CAS in accordance with regulation 13G(6) or 13H(6)(a), not later than 5 months after the completion of the CAS surve y; or
+.2 in the case of the CAS in accordance with regulation 13G(7), not later than 5 months after the completion of the CAS survey, or the anniversary of the date of delivery of the ship in 2010, whichever occurs earlier, for the first CAS survey, and not later than the expiry date of the Statement of Compliance for any subsequent CAS survey."
+13 Paragraph 13.6 is replaced by the following:
+"13.6The validity of the Statement of Compliance shall not exceed 5 years and 6 months from the date of completion of the CAS survey."
+14 Paragraph 13.7 is replaced by the following:
+"13.7 The RO which has carried out the CAS survey in accordance with regulation 13G(6) or 13H(6)(a), upon satisfactory completion of the survey, shall issue an Interim Statement of Compliance in a form corresponding the model given in appendix 1, for a period not exceeding 5 months. It shall remain valid until its expiry date or the date of issue of a Statement of Compliance, whichever is the earlier date, and shall be accepted by other Parties to MARPOL 73/78."
+15 In appendix 1, the words ", as amended" are inserted after "MEPC.94(46)" (in two places).
+16 In appendix 1, the following words are added after point 2:
+"Date of completion of the CAS survey: dd/mm/yyyy."
+17 In appendix 1, the Form of the Interim Statement of Compliance, which is attached to this document, is added after the Form of Statement of Compliance.
+18 In appendix 3, in paragraph 1.1.1, the words "by resolution MEPC.99(48)" are deleted.
+FORM OF INTERIM STATEMENT OF COMPLIANCE INTERIM STATEMENT OF COMPLIANCE
+Issued under the provisions of the Condition Assessment Scheme (resolution MEPC.94(46), as amended) by: ……........................................................................................………………………………………….
+(full name of the Recognized Organization) Particular of ship Name of ship ……………………………………………………………………………………… Distinctive number or letters ……………………………………………………………………... Port of registry ……………………………………………………………………………………. Gross tonnage …………………………………………………………………………………….. Deadweight of ship (metric tons) ………………………………………………………………… IMO number ……………………………………………………………………………………… Category of tanker ………………………………………………………………………………...
+THIS IS TO CERTIFY:
+1 That the ship has been surveyed in accordance with the requirements of the Condition Assessment Scheme (CAS) (resolution MEPC.94(46), as amended);
+2 That the survey showed that the structural conditions of the ship covered by CAS are in all respects satisfactory and the ship complies with the survey requirements of CAS.
+Date of completion of the CAS survey: dd/mm/yyyy.
+This Statement is valid until …………………………, or the date of issue of the Statement of Compliance, whichever is the earlier date.
+Issued at …………………………………………………………………………………………...
+(Place of issue of the Statement)
+……………………………… ………………………………………………………….
+(Date of issue) (Signature of duly authorized official issuing the Statement)
+(Seal or stamp of the Recognized Organization, as appropriate)
+*** 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

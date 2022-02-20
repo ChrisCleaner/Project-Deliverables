@@ -1,0 +1,53 @@
+
+ Amendments To Annex I (Condition Assessment Scheme) of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2006-AmendmentsCAS-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/blast/blastDataHelper.asp?data_id=16313&filename=155%2855%29.…     
+    ﻿Amendments To Annex I (Condition Assessment Scheme) of The International Convention For The Prevention Of Pollution From Ships
+Source: RESOLUTION MEPC.155(55) Adopted on 13 October 2006
+AMENDMENTS TO THE CONDITION ASSESSMENT SCHEME
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+NOTING ALSO that regulation 13G of Annex I of MARPOL 73/78 specifies that the Condition Assessment Scheme, adopted by resolution MEPC.94(46), may be amended provided such amendments shall be adopted, brought into force and take effect in accordance with the provisions of article 16 of the 1973 Convention relating to amendment procedures applicable to an appendix to an Annex,
+RECOGNIZING the need to amend the Condition Assessment Scheme in respect of the proceedings where there is a change of flag, ownership or recognized organization affecting an oil tanker holding a valid Statement of Compliance, or a change of flag during a Condition Assessment Scheme survey,
+HAVING CONSIDERED, at its fifty-fifth session, the proposed amendments to the Condition Assessment Scheme,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the amendments to the Condition Assessment Scheme, the text of which is set out at Annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 September 2007, unless, prior to that date, not less than one third of the Parties to MARPOL 73/78 or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have notified to the Organization their objections to the amendments;
+3. INVITES Parties to MARPOL 73/78 to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 March 2008 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. REQUESTS FURTHER the Secretary-General to transmit copies of this resolution and its Annex to Members of the Organization which are not Parties to MARPOL 73/78;
+6. INVITES the Maritime Safety Committee to note the amendments to the Condition Assessment Scheme and take action as appropriate in the review of the Guidelines on the Enhanced Programme of Inspections during Surveys of Bulk Carriers and Oil Tankers adopted by resolution A.744(18), as amended.
+ANNEX
+AMENDMENTS TO THE CONDITION ASSESSMENT SCHEME (CAS) (RESOLUTION MEPC.94(46), AS AMENDED)
+1 In Table 7.3.3, at the end of the entry ".1 Each deck plate", the following text is added: "(see note)".
+2 A note is added below Table 7.3.3 as follows:
+"Note: In conjunction with thickness measurement procedures, in case of concern regarding residual throat thickness of the fillet weld between the deck plate and deck longitudinals or possible detachment of a deck longitudinal member, the attending surveyor may refer to the Guidelines on the assessment of residual fillet weld between deck plating and longitudinals adopted by resolution MEPC.147(54)."
+3 The annex to resolution MEPC.94(46), as amended, is further amended by deleting and replacing the existing paragraphs 13.8, 13.9 and 13.10 with the following new paragraphs:
+"13.8 The flag Administration may consider and declare that the Statement of Compliance of a ship entitled to fly its flag remains valid and in full force and effect if:
+.1 a change in ownership of the ship should occur; or
+.2 there is a change in the RO from the RO that performed the CAS survey work and prepared the CAS final report, which was reviewed and accepted by the Administration for the issuance of the Statement of Compliance by the Administration, to a new RO acceptable to the Administration, and that all information required to be submitted under the requirements of this resolution has been provided to the new RO; or
+.3 the safe operation and maintenance of the ship is assumed by a Company, as defined in SOLAS chapter IX, other than the one that was operating the ship at the time of the completion of the CAS survey; or
+.4 any combination of 13.8.1, 13.8.2 and 13.8.3 should simultaneously occur;
+provided that the Administration:
+.5 maintains the same period of validity; and
+.6 co-ordinates the transmittal of specific information, requirements, and procedures concerning the maintenance of the validity of the CAS Statement of Compliance in question to the new owner and/or Company, which shall remain those adopted by the Administration at the time of the issue of the original Statement of Compliance.
+13.9 The Administration shall suspend and/or withdraw the Statement of Compliance of a ship if it is no longer considered to be compliant with the requirements of the CAS.
+13.10 The Administration may reinstate a suspended and/or withdrawn Statement of Compliance when it is satisfied that the requirements of the CAS are again being met, but not beyond the limits of the period and the terms and conditions of validity of the Statement of Compliance previously established by the Administration.
+13.11 The Administration shall withdraw the Statement of Compliance of a ship if it is no longer entitled to fly its flag.
+13.12 If a ship to which a valid Statement of Compliance has already been issued is transferred to the flag of another Party, the new Administration may consider issuing a new Statement of Compliance to that ship on the basis of the Statement of Compliance issued by the previous Administration, provided that the new Administration obtains from the previous Administration:
+with at the time of the transfer.
+13.13 With a change of flag, for the issuance of an Interim Statement of Compliance issued for a period of not more than 90 days to allow the continued operation of the ship while the new Administration performs a technical review and assessment of the CAS Final Report and Review Record, the new Administration shall need only to depend upon the certifications and status report referred to in paragraph 13.12 and provided by the previous Administration and the responsible RO.
+13.14 On satisfactory completion of the technical review and assessment of the CAS Final Report and Review Record by the new Administration, under the circumstance of a change of flag as described in paragraph 13.12, a full term Statement of Compliance may be issued by the new Administration limited to the period and no less than the terms and conditions of validity of the Statement of Compliance issued by the previous Administration. In the event the review is unsatisfactory, the new Administration shall revert to the provisions of paragraphs 13.9 and 13.10.
+13.15 Should a change of flag take place during the course of a CAS survey, the new Administration shall determine at what point in the CAS Schedule provided in annex 3 to MEPC/Circ.390 and under what conditions it will assume responsibility for and allow the CAS survey to continue. Sufficient documentation should be provided by the shipowner and the responsible RO to the new Administration upon which to make its decision."
+*** 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

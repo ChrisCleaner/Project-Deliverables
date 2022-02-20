@@ -1,0 +1,52 @@
+
+ Amendments to the Annex of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto Amendments to MARPOL Annex I (Form B of the Supplement to the International Oil Pollution Prevention Certificate)   
+     Filename: 8834-2016-AmendmentAnnexI-1978-Protocol-1973-PollutionFromShips 
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/ATS/2018/10.pdf     
+    ANNEX 1
+RESOLUTION MEPC.276(70) (Adopted on 28 October 2016)
+AMENDMENTS TO THE ANNEX OF THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO
+Amendments to MARPOL Annex I
+(Form B of the Supplement to the International Oil Pollution Prevention Certificate)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee conferred upon it by international conventions for the prevention and control of marine pollution from ships,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL), which specifies the amendment procedure and confers upon the appropriate body of the Organization the function of considering and adopting amendments thereto,
+HAVING CONSIDERED, at its seventieth session, proposed amendments to appendix II of MARPOL Annex I concerning the Supplement to the International Oil Pollution Prevention Certificate,
+1 ADOPTS, in accordance with article 16(2)(d) of MARPOL, amendments to appendix II of MARPOL Annex I, the text of which is set out in the annex to the present resolution;
+2 DETERMINES, in accordance with article 16(2)(f)(iii) of MARPOL, that the amendments shall be deemed to have been accepted on 1 September 2017 unless prior to that date, not less than one third of the Parties or Parties the combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of MARPOL, the said amendments shall enter into force on 1 March 2018 upon their acceptance in accordance with paragraph 2 above;
+4 REQUESTS the Secretary-General, for the purposes of article 16(2)(e) of MARPOL, to transmit certified copies of the present resolution and the text of the amendments contained in the annex to all Parties to MARPOL;
+5 REQUESTS FURTHER the Secretary-General to transmit copies of the present resolution and its annex to Members of the Organization which are not Parties to MARPOL.
+ANNEX
+AMENDMENTS TO MARPOL ANNEX I
+(Form B of the Supplement to the International Oil Pollution Prevention Certificate)
+ANNEX I
+REGULATIONS FOR THE PREVENTION OF POLLUTION BY OIL
+Appendix II
+Form of IOPP Certificate and Supplements
+Form B of the Supplement to the International Oil Pollution Prevention Certificate RECORD OF CONSTRUCTION AND EQUIPMENT FOR OIL TANKERS
+Section 1 – Particulars of ship
+1 Paragraphs 1.11.8 and 1.11.9 are deleted.
+Section 5 – Construction (regulations 18, 19, 20, 21, 22, 23, 26, 27, 28 and 33) 
+2 Paragraph 5.1 is replaced with the following:
+"5.1 In accordance with the requirements of regulation 18, the ship is qualified as a segregated ballast tanker in compliance with regulation 18.9 .........................................................................."
+3 Existing paragraphs 5.1.1 to 5.1.6 are deleted.
+4 Paragraph 5.2 is replaced with the following:
+"5.2 Segregated ballast tanks (SBT) in compliance with regulation 18 are distributed as follows:
+Tank Volume (m3) Tank Volume (m3)
+Total volume............................m3
+"
+5 Existing paragraphs 5.2.1 to 5.2.3, 5.3 and 5.3.1 to 5.3.5 are deleted.
+6 Existing paragraphs 5.4 and 5.4.1 to 5.4.4 are renumbered as 5.3 and 5.3.1 to 5.3.4.
+7 Existing paragraphs 5.5 and 5.5.1 to 5.5.2 are deleted.
+8 All subsequent paragraphs in section 5 are renumbered accordingly. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

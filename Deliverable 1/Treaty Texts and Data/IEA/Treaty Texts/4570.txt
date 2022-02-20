@@ -1,0 +1,67 @@
+
+ Amendments To Annex I of the Protocol of 1978 Relating to The International Convention For The Prevention Of Pollution From Ships (Addition of a new chapter 8 to MARPOL Annex I and consequential amendments to the Supplement to the IOPP Certificate, Form B)   
+     Filename: 2009-AmendmentsAnnexIA-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D26471/186%2859%29.pdf     
+    ﻿Amendments To Annex I of the Protocol of 1978 Relating to The International Convention For The Prevention Of Pollution From Ships (Addition of a new chapter 8 to MARPOL Annex I and consequential amendments to the Supplement to the IOPP Certificate, Form B)
+Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D26471/186%2859%2..., downloaded 20091223 [RESOLUTION MEPC.186(59)]
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+HAVING CONSIDERED proposed amendments to Annex I of MARPOL 73/78,
+1. ADOPTS, in accordance with Article 16(2)(d) of the 1973 Convention, the amendments to Annex I of MARPOL 73/78 concerning the addition of a new chapter 8 and consequential amendments to the Supplement to the IOPP Certificate, Form B, the text of which is set out in the annex to the present resolution;
+2. DETERMINES, in accordance with Article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 July 2010 unless, prior to that date, not less than one-third of the Parties or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3. INVITES the Parties to note that, in accordance with Article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 January 2011 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with Article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments contained in the annex; and
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to MARPOL 73/78 copies of the present resolution and its annex.
+ANNEX
+(Addition of a new chapter 8 to MARPOL and Annex I and consequential amendments to
+the Supplement to the IOPP Certificate, Form B)
+1 A new chapter 8 is added:
+"CHAPTER 8 - PREVENTION OF POLLUTION DURING TRANSFER OF OIL CARGO BETWEEN OIL TANKERS AT SEA
+Regulation 40
+Scope of application
+1 The regulations contained in this chapter apply to oil tankers of 150 gross tonnage and above engaged in the transfer of oil cargo between oil tankers at sea (STS operations) and their STS operations conducted on or after 1 April 2012. However, STS operations conducted before that date but after the approval of the Administration of STS operations Plan required under regulation 41.1 shall be in accordance with the STS operations Plan as far as possible.
+2 The regulations contained in this chapter shall not apply to oil transfer operations associated with fixed or floating platforms including drilling rigs; floating production, storage and offloading facilities (FPSOs) used for the offshore production and storage of oil; and floating storage units (FSUs) used for the offshore storage of produced oil[1].
+3 The regulations contained in this chapter shall not apply to bunkering operations.
+4 The regulations contained in this chapter shall not apply to STS operations necessary for the purpose of securing the safety of a ship or saving life at sea, or for combating specific pollution incidents in order to minimize the damage from pollution.
+5 The regulations contained in this chapter shall not apply to STS operations where either of the ships involved is a warship, naval auxiliary or other ship owned or operated by a State and used, for the time being, only on government non-commercial service. However, each State shall ensure, by the adoption of appropriate measures not impairing operations or operational capabilities of such ships that the STS operations are conducted in a manner consistent, so far as is reasonable and practicable, with this chapter.
+Regulation 41
+General Rules on safety and environmental protection
+1 Any oil tanker involved in STS operations shall carry on board a Plan prescribing how to conduct STS operations (STS operations Plan) not later than the date of the first annual, intermediate or renewal survey of the ship to be carried out on or after 1 January 2011. Each oil tanker's STS operations Plan shall be approved by the Administration. The STS operations Plan shall be written in the working language of the ship.
+2 The STS operations Plan shall be developed taking into account the information contained in the best practice guidelines for STS operations identified by the Organization[2]. The STS operations Plan may be incorporated into an existing Safety Management System required by chapter IX of the International Convention for the Safety of Life at Sea, 1974, as amended, if that requirement is applicable to the oil tanker in question.
+3 Any oil tanker subject to this chapter and engaged in STS operations shall comply with its STS operations Plan.
+4 The person in overall advisory control of STS operations shall be qualified to perform all relevant duties, taking into account the qualifications contained in the best practice guidelines for STS operations identified by the Organization[3].
+5 Records[4] of STS operations shall be retained on board for three years and be readily available for inspection by a Party to the present Convention.
+Regulation 42
+Notification
+1 Each oil tanker subject to this chapter that plans STS operations within the territorial sea, or the exclusive economic zone of a Party to the present Convention shall notify that Party not less than 48 hours in advance of the scheduled STS operations. Where, in an exceptional case, all of the information specified in paragraph 2 is not available not less than 48 hours in advance, the oil tanker discharging the oil cargo shall notify the Party to the present Convention, not less than 48 hours in advance that an STS operation will occur and the information specified in paragraph 2 shall be provided to the Party at the earliest opportunity.
+2 The notification specified in paragraph 1 of this regulation[5] shall include at least the following:
+.1 name, flag, call sign, IMO Number and estimated time of arrival of the oil tankers involved in the STS operations;
+.2 date, time and geographical location at the commencement of the planned STS operations;
+.3 whether STS operations are to be conducted at anchor or underway;
+.4 oil type and quantity;
+.5 planned duration of the STS operations;
+.6 identification of STS operations service provider or person in overall advisory control and contact information; and
+.7 confirmation that the oil tanker has on board an STS operations Plan meeting the requirements of regulation 41.
+3 If the estimated time of arrival of an oil tanker at the location or area for the STS operations changes by more than six hours, the master, owner or agent of that oil tanker shall provide a revised estimated time of arrival to the Party to the present Convention specified in paragraph 1 of this regulation."
+2 In the Record of Construction and Equipment for Oil Tankers, Form B, new section 8A is added as follows:
+"8A Ship-to-ship oil transfer operations at sea
+(regulation 41)
+8A.1 The oil tanker is provided with an STS operations Plan in compliance with regulation 41."
+Footnotes:
+[1] Revised Annex I of MARPOL, chapter 7 (resolution MEPC.117(52)) and UNCLOS article 56 are applicable and address these operations.
+[2] IMO's "Manual on Oil Pollution, Section I, Prevention" as amended, and the ICS and OCIMF "Ship-to-ship Transfer Guide, Petroleum", fourth edition, 2005.
+[3] IMO's "Manual on Oil Pollution, Section I, Prevention" as amended, and the ICS and OCIMF "Ship-to-ship Transfer Guide, Petroleum", fourth edition, 2005.
+[4] Revised Annex I of MARPOL chapters 3 and 4 (resolution MEPC.117(52)); requirements for recording bunkering and oil cargo transfer operations in the Oil Record Book, and any records required by the STS operations Plan.
+[5] The national operational contact point as listed in document MSC-MEPC.6/Circ.4 of 31 December 2007 or its subsequent amendments. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

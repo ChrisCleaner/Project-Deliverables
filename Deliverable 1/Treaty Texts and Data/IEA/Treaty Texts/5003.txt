@@ -1,0 +1,40 @@
+
+ Amendments to Annex III of the Convention On The Prior Informed Consent Procedure For Certain Hazardous Chemicals And Pesticides In International Trade (listing of perfluorooctane sulfonic acid, perfluorooctane sulfonates, perfluorooctane sulfonamides and perfluorooctane sulfonyls)   
+     Filename: 2013-AmendmentD-1998-PriorInformedConsentHazardousChemicalsPesticides.EN.txt 
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/ATS/2014/5.html     
+    Amendments to Annex III of the Convention On The Prior Informed Consent Procedure For Certain Hazardous Chemicals And Pesticides In International Trade (listing of perfluorooctane sulfonic acid, perfluorooctane sulfonates, perfluorooctane sulfonamides and perfluorooctane sulfonyls)
+Source: http://www.austlii.edu.au/au/other/dfat/treaties/ATS/2014/5.html, downloaded 20140515
+RC-6/7: Listing of perfluorooctane sulfonic acid, perfluorooctane sulfonates, perfluorooctane sulfonamides and perfluorooctane sulfonyls in Annex III to the Rotterdam Convention
+The Conference of the Parties,
+Noting with appreciation the work of the Chemical Review Committee,
+Having considered the recommendation of the Chemical Review Committee to make perfluorooctane sulfonic acid, perfluorooctane sulfonates, perfluorooctane sulfonamides and perfluorooctane sulfonyls subject to the prior informed consent procedure and accordingly to list those chemicals in Annex III to the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade,
+Satisfied that all the requirements for listing in Annex III to the Rotterdam Convention have been met,
+1. Decides to amend Annex III to the Rotterdam Convention to list the following chemicals:
+Chemical Relevant CAS number(s) Category
+- Perfluorooctane sulfonic acid, perfluorooctane sulfonates, perfluorooctane sulfonamides and perfluorooctane sulfonyls including: Industrial
+- Perfluorooctane sulfonic acid 1763-23-1
+- Potassium perfluorooctane sulfonate 2795-39-3
+- Lithium perfluorooctane sulfonate 29457- 72-5
+- Ammonium perfluorooctane sulfonate 29081-56-9
+- Diethanolammonium perfluorooctane sulfonate 70225-14-8
+Chemical Relevant CAS number(s) Category
+- Tetraethylammonium perfluorooctane sulfonate 56773-42-3 Industrial
+- Didecyldimethylammonium perfluorooctane sulfonate 251099-16-8
+- N-Ethylperfluorooctane sulfonamide 4151-50-2
+- N-Methylperfluorooctane sulfonamide 31506-32-8
+- N-Ethyl-N-(2-hydroxyethyl) perfluorooctane sulfonamide 1691-99-2
+- N-(2-Hydroxyethyl)-Nmethylperfluorooctane sulfonamide 24448-09-7
+- Perfluorooctane sulfonyl fluoride 307-35-7
+2. Also decides that this amendment shall enter into force for all parties on 10 August 2013;
+3. Approves the draft decision guidance document on perfluorooctane sulfonic acid, perfluorooctane sulfonates, perfluorooctane sulfonamides and perfluorooctane sulfonyls contained in document UNEP/FAO/RC/COP.6/10/Add.1. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,62 @@
+
+ Amendments To The Schedule To The International Convention For The Regulation Of Whaling, Twenty-Sixth Meeting   
+     Filename: 1974-AmendmentsScheduleM26-1946-Whaling.EN.txt 
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/1974/38.html     
+    ﻿Amendments to the Schedule to the International Convention for the Regulation of Whaling of 2 December 1946
+Source: AUSTRALIAN TREATY SERIES 1974 No. 38 (electronic)
+The amendments read as follows:
+Paragraph 1
+Add the following at end of paragraph: " "lost whale" means any whale that has been taken but not delivered to the factory ship or land station.".
+Paragraph [8]
+Line 3, delete "1,450", insert "1,000"; line 3, delete "4,500", insert "4,000"; line 4, delete "5,000", insert "7,000"; line 4, delete "1973/74", insert "1974/75".
+Add the following at end of paragraph:
+"The total catches taken in any of the areas I to VI shall not exceed the limits shown below. However, in no circumstances shall the sum of the area catches exceed the total quotas.
+Fin
+Sei and Bryde's 
+Minke
+Areas I and II, 120°W-0° 
+475
+1,275
+3,300
+Areas III and IV, 0-130°E 
+416
+1,503
+4,140
+Areas V and VI, 130°E-120°W 
+300
+1,664
+1,060
+Further provided that in areas II and III the catch of sei and Bryde's whales does not exceed 810 and 495 respectively. From 1975/76 the quotas will be divided into six areas or such other divisions based on the advice tendered by the Scientific Committee."
+Paragraph 12
+Line 2, delete "550", insert "300"; line 2, delete "1974", insert "1975".
+Paragraph 13
+Line 2, delete "3,000", insert "2,000"; line 2, delete "1974", insert "1975".
+Paragraph 14
+Line 2, delete "1974", insert "1975".
+Paragraph 15
+Line 1, delete "1973/74", insert "1974/75"; line 2, delete "1974", insert "1975"; line 6, delete "1,900", insert "2,548"; line 6, delete "1,800", insert "2,563"; line 7, delete "2,900", insert "2,730"; line 7, delete "2,100", insert "2,188"; line 8, delete "3,200", insert "3,822"; line 8, delete "1,100", insert "1,500".
+Delete colon and dash in line 4. Add a full stop then the following sentence: "However, in no circumstances shall the sum of the area catches exceed the total quotas.".
+Paragraph 21
+Delete and insert the following:
+"Whales must be measured when at rest on deck or platform after the hauling out wire and grasping device have been released, by means of a tape-measure made of a non-stretching material. The zero end of the tape-measure shall be attached to a spike or stable device to be positioned on the deck or platform abreast of one end of the whale. Alternatively the spike may be stuck into the tail fluke abreast of the apex of the notch. The tape-measure shall be held taut in a straight line parallel to the deck and the whale's body, and other than in exceptional circumstances along the whale's back, and read abreast of the other end of the whale. The ends of the whale for measurement purposes shall be the tip of the upper jaw or, in sperm whales, the most forward part of the head and the apex of the notch between the tail flukes.
+Measurements shall be logged to the nearest foot or 0.1 metres. That is to say, any whale between 75 feet 6 inches and 76 feet 6 inches shall be logged as 76 feet, and any whale between 76 feet 6 inches and 77 feet 6 inches shall be logged as 77 feet. Similarly, any whale between 10.15 metres and 10.25 metres shall be logged as 10.2 metres, and any whale between 10.25 metres and 10.35 metres shall be logged as 10.3 metres. The measurement of any whale which falls on an exact half foot or 0.05 metre shall be logged at the next half foot or 0.05 metre, e.g. 76 feet 6 inches precisely shall be logged as 77 feet and 10.25 metres precisely shall be logged as 10.3 metres."
+Paragraph 24(b)
+Delete and insert the following:
+"For each catcher ship attached to a factory ship or land station:
+(i) The dates on which each is commissioned and ceases whaling for the season;
+(ii) The number of days on which each is at sea on the whaling grounds each season;
+(iii) Where possible the total number of hours spent each day searching for, chasing and catching whales, but not including time spent picking up or towing;
+(iv) The gross tonnage, horsepower and length of each and the list of those equipped with asdic; vessels used only as tow boats should be specified."
+Paragraph 24(c)
+Delete full stop after "concerned". Add a comma and then the following: "and the number of miles searched per day by aircraft, if any." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

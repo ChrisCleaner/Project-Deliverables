@@ -1,0 +1,577 @@
+
+ Annex II To The Protocol To The International Convention For The Prevention Of Pollution From Ships On Regulations For The Control Of Pollution By Noxious Liquid Substances In Bulk   
+     Filename: 1973-PollutionFromShipsAnnexII.EN.txt 
+ Source:     
+    ﻿Annex II To The International Convention For The Prevention Of Pollution From Ships On Regulations For The Control Of Pollution By Noxious Liquid Substances In Bulk
+Source: 
+Regulation 1
+Definitions For the purposes of this Annex:
+(1) "Chemical tanker" means a ship constructed or adapted primarily to carry a cargo of noxious liquid substances in bulk and includes an "oil tanker" as defined in Annex I of the present Convention when carrying a cargo or part cargo of noxious liquid substances in bulk.
+(2) "Clean ballast" means ballast carried in a tank which, since it was last used to carry a cargo containing a substance in Category A, B, C or D has been thoroughly cleaned and the residues resulting therefrom have been discharged and the tank emptied in accordance with the appropriate requirements of this Annex.
+(3) "Segregated ballast" means ballast water introduced into a tank permanently allocated to the carriage of ballast or to the carriage of ballast or cargoes other than oil or noxious liquid substances as variously defined in the Annexes of the present Convention, and which is completely separated from the cargo and oil fuel system.
+(4) "Nearest land" is as defined in Regulation 1(9) of Annex I of the present Convention.
+(5) "Liquid substances" are those having a vapour pressure not exceeding 2.8 kp/cm2 at a temperature of 37.8°C.
+(6) "Noxious liquid substance" means any substance designated in Appendix II to this Annex or provisionally assessed under the provisions of Regulation 3(4) as falling into Category A, B, C or D.
+(7) "Special area" means a sea area where for recognized technical reasons in relation to its oceanographic and ecological condition and to its peculiar transportation traffic the adoption of special mandatory methods for the prevention of sea pollution by noxious liquid substances is required.
+Special areas shall be:
+(a) The Baltic Sea Area, and
+(b) The Black Sea Area.
+(8) "Baltic Sea Area" is as defined in Regulation l0(l)(b) of Annex I of the present Convention.
+(9) "Black Sea Area" is as defined in Regulation 10(1)(c) of Annex I of the present Convention.
+Regulation 2 Application
+(1) Unless expressly provided otherwise the provisions of this Annex shall apply to all ships carrying noxious liquid substances in bulk.
+(2) Where a cargo subject to the provisions of Annex I of the present Convention is carried in a cargo space of a chemical tanker, the appropriate requirements of Annex I of the present Convention shall also apply.
+(3) Regulation 13 of this Annex shall apply only to ships carrying substances which are categorized for discharge control purposes in Category A, B or C.
+Regulation 3
+Categorization and Listing of Noxious Liquid Substances
+(1) For the purpose of the Regulations of this Annex, except Regulation 13, noxious liquid substances shall be divided into four categories as follows:
+(a) Category A - Noxious liquid substances which if discharged into the sea from tank cleaning or deballasting operations would present a major hazard to either marine resources or human health or cause serious harm to amenities or other legitimate uses of the sea and therefore justify the application of stringent anti-pollution measures.
+(b) Category B - Noxious liquid substances which if discharged into the sea from tank cleaning or deballasting operations would present a hazard to either marine resources or human health or cause harm to amenities or other legitimate uses of the sea and therefore justify the application of special anti-pollution measures.
+(c) Category C - Noxious liquid substances which if discharged into the sea from tank cleaning or deballasting operations would present a minor hazard to either marine resources or human health or cause minor harm to amenities or other legitimate uses of the sea and therefore require special operational conditions.
+(d) Category D - Noxious liquid substances which if discharged into the sea from tank cleaning or deballasting operations would present a recognizable hazard to either marine resources or human health or cause minimal harm to amenities or other legitimate uses of the sea and therefore require some attention in operational conditions.
+(2) Guidelines for use in the categorization of noxious liquid substances are given in Appendix Ito this Annex.
+(3) The list of noxious liquid substances carried in bulk and presently categorized which are subject to the provisions of this Annex is set out in Appendix II to this Annex.
+(4) Where it is proposed to carry a liquid substance in bulk which has not been categorized under paragraph (1) of this Regulation or evaluated as referred to in Regulation 4(1) of this Annex, the Governments of Parties to the Convention involved in the proposed operation shall establish and agree on a provisional assessment for the proposed operation on the basis of the guidelines referred to in paragraph (2) of this Regulation. Until full agreement between the Governments involved has been reached, the substance shall be carried under the most severe conditions proposed. As soon as possible, but not later than ninety days after its first carriage, the Administration concerned shall notify the Organization and provide details of the substance and the provisional assessment for prompt circulation to all Parties for their information and consideration. The Government of each Party shall have a period of ninety days in which to forward its comments to the Organization, with a view to the assessment of the substance.
+Regulation 4
+Other Liquid Substances
+(1) The substances listed in Appendix III to this Annex have been evaluated and found to fall outside the Categories A, B, C and D, as defined in Regulation 3(1) of this Annex because they are presently considered to present no harm to human health, marine resources, amenities or other legitimate uses of the sea, when discharged into the sea from tank cleaning or deballasting operations.
+(2) The discharge of bilge or ballast water or other residues or mixtures containing only substances listed in Appendix III to this Annex shall not be subject to any requirement of this Annex.
+(3) The discharge into the sea of clean ballast or segregated ballast shall not be subject to any requirement of this Annex.
+Regulation 5
+Discharge of Noxious Liquid Substances Categories A, B and C Substances outside Special Areas and Category D Substances in all Areas
+Subject to the provisions of Regulation 6 of this Annex,
+(1) The discharge into the sea of substances in Category A as defined in Regulation 3(1)(a) of this Annex or of those provisionally assessed as such or ballast water, tank washings, or other residues or mixtures containing such substances shall be prohibited. If tanks containing such substances or mixtures are to be washed, the resulting residues shall be discharged to a reception facility until the concentration of the substance in the effluent to such facility is at or below the residual concentration prescribed for that substance in column III of Appendix II to this Annex and until the tank is empty. Provided that the residue then remaining in the tank is subsequently diluted by the addition of a volume of water of not less than 5 per cent of the total volume of the tank, it may be discharged into the sea when all the following conditions are also satisfied:
+(a) the ship is proceeding en route at a speed of at least 7 knots in the case of self-propelled ships or at least 4 knots in the case of ships which are not self-propelled;
+(b) the discharge is made below the waterline, taking into account the location of the seawater intakes; and
+(c) the discharge is made at a distance of not less than 12 nautical miles from the nearest land and in a depth of water of not less than 25 metres.
+(2) The discharge into the sea of substances in Category B as defined in Regulation 3(1)(b) of this Annex or of those provisionally assessed as such, or ballast water, tank washings, or other residues or mixtures containing such substances shall be prohibited except when all the following conditions are satisfied:
+(a) the ship is proceeding en route at a speed of at least 7 knots in the case of self-propelled ships or at least 4 knots in the case of ships which are not self-propelled;
+(b) the procedures and arrangements for discharge are approved by the Administration. Such procedures and arrangements shall be based upon standards developed by the Organization and shall ensure that the concentration and rate of discharge of the effluent is such that the concentration of the substance in the wake astern of the ship does not exceed 1 part per million;
+(c) the maximum quantity of cargo discharged from each tank and its associated piping system does not exceed the maximum quantity approved in accordance with the procedures referred to in sub-paragraph (b) of this paragraph, which shall in no case exceed the greater of 1 cubic metre or 1/3,000 of the tank capacity in cubic metres;
+(d) the discharge is made below the waterline, taking into account the location of the seawater intakes; and
+(e) the discharge is made at a distance of not less than 12 nautical miles from the nearest land and in a depth of water of not less than 25 metres.
+(3) The discharge into the sea of substances in Category C as defined in Regulation 3(1)(c) of this Annex or of those provisionally assessed as such, or ballast water, tank washings, or other residues or mixtures containing such substances shall be prohibited except when all the following conditions are satisfied:
+(a) the ship is proceeding en route at a speed of at least 7 knots in the case of self-propelled ships or at least 4 knots in the case of ships which are not self-propelled;
+(b) the procedures and arrangements for discharge are approved by the Administration. Such procedures and arrangements shall be based upon standards developed by the Organization and shall ensure that the concentration and rate of discharge of the effluent is such that the concentration of the substance in the wake astern of the ship does not exceed 10 parts per million;
+(c) the maximum quantity of cargo discharged from each tank and its associated piping system does not exceed the maximum quantity approved in accordance with the procedures referred to in sub-paragraph (b) of this paragraph, which shall in no case exceed the greater of 3 cubic metres or 1/1,000 of the tank capacity in cubic metres;
+(d) the discharge is made below the waterline, taking into account the location of the seawater intakes; and
+(e) the discharge is made at a distance of not less than 12 nautical miles from the nearest land and in a depth of water of not less than 25 metres.
+(4) The discharge into the sea of substances in Category D as defined in Regulation 3(1)(d) of this Annex, or of those provisionally assessed as such, or ballast water, tank washings, or other residues or mixtures containing such substances shall be prohibited except when all the following conditions are satisfied:
+(a) the ship is proceeding en route at a speed of at least 7 knots in the case of self-propelled ships or at least 4 knots in the case of ships which are not self-propelled;
+(b) such mixtures are of a concentration not greater than one part of the substance in ten parts of water; and
+(c) the discharge is made at a distance of not less than 12 nautical miles from the nearest land.
+(5) Ventilation procedures approved by the Administration may be used to remove cargo residues from a tank. Such procedures shall be based upon standards developed by the Organization. If subsequent washing of the tank is necessary, the discharge into the sea of the resulting tank washings shall be made in accordance with paragraph (1), (2), (3) or (4) of this Regulation, whichever is applicable.
+(6) The discharge into the sea of substances which have not been categorized, provisionally assessed, or evaluated as referred to in Regulation 4(1) of this Annex, or of ballast water, tank washings, or other residues or mixtures containing such substances shall be prohibited.
+Categories A, B and C Substances within Special Areas Subject to the provisions of Regulation 6 of this Annex,
+(7) The discharge into the sea of substances in Category A as defined in Regulation 3(1)(a) of this Annex or of those provisionally assessed as such, or ballast water, tank washings, or other residues or mixtures containing such substances shall be prohibited. If tanks containing such substances or mixtures are to be washed the resulting residues shall be discharged to a reception facility which the States bordering the special area shall provide in accordance with Regulation 7 of this Annex, until the concentration of the substance in the effluent to such facility is at or below the residual concentration prescribed for that substance in column IV of Appendix II to this Annex and until the tank is empty. Provided that the residue then remaining in the tank is subsequently diluted by the addition of a volume of water of not less than 5 per cent of the total volume of the tank, it may be discharged into the sea when all the following conditions are also satisfied:
+(a) the ship is proceeding en route at a speed of at least 7 knots in the case of self-propelled ships or at least 4 knots in the case of ships which are not self-propelled;
+(b) the discharge is made below the waterline, taking into account the location of the seawater intakes; and
+(c) the discharge is made at a distance of not less than 12 nautical mile: from the nearest land and in a depth of water of not less than 25 metres.
+(8) The discharge into the sea of substances in Category B as defined in Regula. tion 3(1)(b) of this Annex or of those provisionally assessed as such, or ballast water, tank washings, or other residues or mixtures containing such substance: shall be prohibited except when all the following conditions are satisfied:
+(a) the tank has been washed after unloading with a volume of water of not less than 0.5 per cent of the total volume of the tank, and the resulting residues have been discharged to a reception facility until th( tank is empty;
+(b) the ship is proceeding en route at a speed of at least 7 knots in the cas( of self-propelled ships or at least 4 knots in the case of ships which an not self-propelled;
+(c) the procedures and arrangements for discharge and washings an approved by the Administration. Such procedures and arrangement: shall be based upon standards developed by the Organization and shall ensure that the concentration and rate of discharge of the effluent is such that the concentration of the substance in the wake astern o: the ship does not exceed 1 part per million;
+(d) the discharge is made below the waterline, taking into account th( location of the seawater intakes; and
+(e) the discharge is made at a distance of not less than 12 nautical mile: from the nearest land and in a depth of water of not less than 25 metres.
+(9) The discharge into the sea of substances in Category C as defined in Regula tion 3(1)(c) of this Annex or of those provisionally assessed as such, or ballas water, tank washings, or other residues or mixtures containing such substance shall be prohibited except when all the following conditions are satisfied:
+(a) the ship is proceeding en route at a speed of at least 7 knots in the cas( of self-propelled ships or at least 4 knots in the case of ships which an not self-propelled;
+(b) the procedures and arrangements for discharge are approved by th( Administration. Such procedures and arrangements shall be based upo' standards developed by the Organization and shall ensure that th( concentration and rate of discharge of the effluent is such that th( concentration of the substance in the wake astern of the ship does no exceed 1 part per million;
+(c) the maximum quantity of cargo discharged from each tank and its associated piping system does not exceed the maximum quantity approved in accordance with the procedures referred to in sub-paragraph (b) of this paragraph which shall in no case exceed the greater of 1 cubic metre or 1/3,000 of the tank capacity in cubic metres;
+(d) the discharge is made below the waterline, taking into account the location of the seawater intakes; and
+(e) the discharge is made at a distance of not less than 12 nautical miles from the nearest land and in a depth of water of not less than 25 metres.
+(10) Ventilation procedures approved by the Administration may be used to remove cargo residues from a tank. Such procedures shall be based upon standards developed by the Organization. If subsequent washing of the tank is necessary, the discharge into the sea of the resulting tank washings shall be made in accordance with paragraph (7), (8) or (9) of this Regulation, whichever is applicable.
+(11) The discharge into the sea of substances which have not been categorized, provisionally assessed or evaluated as referred to in Regulation 4(1) of this Annex, or of ballast water, tank washings, or other residues or mixtures containing such substances shall be prohibited.
+(12) Nothing in this Regulation shall prohibit a ship from retaining on board the residues from a Category B or C cargo and discharging such residues into the sea outside a special area in accordance with paragraph (2) or (3) of this Regulation, respectively.
+(13) (a) The Governments of Parties to the Convention, the coastlines of which border on any given special area, shall collectively agree and establish a date by which time the requirement of Regulation 7(1) of this Annex will be fulfilled and from which the requirements of paragraphs (7), (8), (9) and (10) of this Regulation in respect of that area shall take effect and notify the Organization of the date so established at least six months in advance of that date. The Organization shall then promptly notify all Parties of that date.
+(b) If the date of entry into force of the present Convention is earlier than the date established in accordance with sub-paragraph (a) of this paragraph, the requirements of paragraphs (1), (2) and (3) of this Regulation shall apply during the interim period.
+Regulation 6 Exceptions Regulation 5 of this Annex shall not apply to:
+(a) the discharge into the sea of noxious liquid substances or mixtures containing such substances necessary for the purpose of securing the safety of a ship or saving life at sea; or
+(b) the discharge into the sea of noxious liquid substances or mixtures containing such substances resulting from damage to a ship or its equipment:
+(i) provided that all reasonable precautions have been taken after the occurrence of the damage or discovery of the discharge for the purpose of preventing or minimizing the discharge; and
+(ii) except if the owner or the Master acted either with intent to cause damage, or recklessly and with knowledge that damage would probably result; or
+(c) the discharge into the sea of noxious liquid substances or mixtures containing such substances, approved by the Administration, when being used for the purpose of combating specific pollution incidents in order to minimize the damage from pollution. Any such discharge shall be subject to the approval of any Government in whose jurisdiction it is contemplated the discharge will occur.
+Regulation 7 Reception Facilities
+(1) The Government of each Party to the Convention undertakes to ensure the provision of reception facilities according to the needs of ships using its ports, terminals or repair ports as follows:
+(a) cargo loading and unloading ports and terminals shall have facilities adequate for reception without undue delay to ships of such residues and mixtures containing noxious liquid substances as would remain for disposal from ships carrying them as a consequence of the application of this Annex; and
+(b) ship repair ports undertaking repairs to chemical tankers shall have facilities adequate for the reception of residues and mixtures containing noxious liquid substances.
+(2) The Government of each Party shall determine the types of facilities provided for the purpose of paragraph (1) of this Regulation at each cargo loading and unloading port, terminal and ship repair port in its territories and notify the Organization thereof.
+(3) Each Party shall notify the Organization, for transmission to the Parties concerned, of any case where facilities required under paragraph (1) of this Regulation are alleged to be inadequate.
+Regulation 8 Measures of Control
+(1) The Government of each Party to the Convention shall appoint or authorize surveyors for the purpose of implementing this Regulation.
+Category A Substances in all Areas
+(2) (a) If a tank is partially unloaded or unloaded but not cleaned, an appropriate entry shall be made in the Cargo Record Book.
+(b) Until that tank is cleaned every subsequent pumping or transfer operation carried out in connexion with that tank shall also be entered in the Cargo Record Book.
+(3) If the tank is to be washed:
+(a) the effluent from the tank washing operation shall be discharged from the ship to a reception facility at least until the concentration of the substance in the discharge, as indicated by analyses of samples of the effluent taken by the surveyor, has fallen to the residual concentration specified for that substance in Appendix II to this Annex. When the required residual concentration has been achieved, remaining tank washings shall continue to be discharged to the reception facility until the tank is empty. Appropriate entries of these operations shall be made in the Cargo Record Book and certified by the surveyor; and
+(b) after diluting the residue then remaining in the tank with at least 5 per cent of the tank capacity of water, this mixture may be discharged into the sea in accordance with the provisions of sub-paragraphs (1)(a), (b) and (c) or 7(a), (b) and (c), whichever is applicable, of Regulation 5 of this Annex. Appropriate entries of these operations shall be made in the Cargo Record Book.
+(4) Where the Government of the receiving Party is satisfied that it is impracticable to measure the concentration of the substance in the effluent without causing undue delay to the ship, that Party may accept an alternative procedure as being equivalent to sub-paragraph (3)(a) provided that:
+(a) a precleaning procedure for that tank and that substance, based on standards developed by the Organization, is approved by the Administration and that Party is satisfied that such procedure will fulfil the requirements of paragraph (1) or (7), whichever is applicable, of Regulation 5 of this Annex with respect to the attainment of the prescribed residual concentrations;
+(b) a surveyor duly authorized by that Party shall certify in the Cargo Record Book that:
+(i) the tank, its pump and piping system have been emptied, and that the quantity of cargo remaining in the tank is at or below the quantity on which the approved precleaning procedure referred to in sub-paragraph (ii) of this paragraph has been based;
+(ii) precleaning has been carried out in accordance with the pre-cleaning procedure approved by the Administration for that tank and that substance; and
+(iii) the tank washings resulting from such precleaning have been discharged to a reception facility and the tank is empty;
+(c) the discharge into the sea of any remaining residues shall be in accordance with the provisions of paragraph (3)(b) of this Regulation and an appropriate entry is made in the Cargo Record Book.
+Category B Substances outside Special Areas and Category C Substances in all Areas
+(5) Subject to such surveillance and approval by the authorized or appointed surveyor as may be deemed necessary by the Government of the Party, the Master of a ship shall, with respect to a Category B substance outside special areas or a Category C substance in all areas, ensure compliance with the following:
+(a) If a tank is partially unloaded or unloaded but not cleaned, an appropriate entry shall be made in the Cargo Record Book.
+(b) If the tank is to be cleaned at sea:
+(i) the cargo piping system serving that tank shall be drained and an appropriate entry made in the Cargo Record Book;
+(ii) the quantity of substance remaining in the tank shall not exceed the maximum quantity which may be discharged into the sea for that substance under Regulation 5(2)(c) of this Annex outside special areas in the case of Category B substances, or under Regulations 5(3)(c) and 5(9)(c) outside and within special areas respectively in the case of Category C substances. An appropriate entry shall be made in the Cargo Record Book;
+(iii) where it is intended to discharge the quantity of substance remaining into the sea the approved procedures shall be complied with, and the necessary dilution of the substance satisfactory for such a discharge shall be achieved. An appropriate entry shall be made in the Cargo Record Book; or
+(iv) where the tank washings are not discharged into the sea, if any internal transfer of tank washings takes place from that tank an appropriate entry shall be made in the Cargo Record Book; and
+(v) any subsequent discharge into the sea of such tank washings shall be made in accordance with the requirements of Regulation 5 of this Annex for the appropriate area and Category of substance involved.
+(c) If the tank is to be cleaned in port:
+(i) the tank washings shall be discharged to a reception facility and an appropriate entry shall be made in the Cargo Record Book; or
+(ii) the tank washings shall be retained on board the ship and an appropriate entry shall be made in the Cargo Record Book indicating the location and disposition of the tank washings.
+(d) If after unloading a Category C substance within a special area, any residues or tank washings are to be retained on board until the ship is outside the special area, the Master shall so indicate by an appropriate entry in the Cargo Record Book and in this case the procedures set out in Regulation 5(3) of this Annex shall be applicable.
+Category B Substances within Special Areas
+(6) Subject to such surveillance and approval by the authorized or appointed surveyor as may be deemed necessary by the Government of the Party, the Master of a ship shall, with respect to a Category B substance within a special area, ensure compliance with the following:
+(a) If a tank is partially unloaded or unloaded but not cleaned, an appropriate entry shall be made in the Cargo Record Book.
+(b) Until that tank is cleaned every subsequent pumping or transfer operation carried out in connexion with that tank shall also be entered in the Cargo Record Book.
+(c) If the tank is to be washed, the effluent from the tank washing operation, which shall contain a volume of water not less than 0.5 per cent of the total volume of the tank, shall be discharged from the ship to a reception facility until the tank, its pump and piping system are empty. An appropriate entry shall be made in the Cargo Record Book.
+(d) If the tank is to be further cleaned and emptied at sea, the Master shall:
+(i) ensure that the approved procedures referred to in Regulation 5(8)(c) of this Annex are complied with and that the appropriate entries are made in the Cargo Record Book; and
+(ii) ensure that any discharge into the sea is made in accordance with the requirements of Regulation 5(8) of this Annex and an appropriate entry is made in the Cargo Record Book.
+(e) If after unloading a Category B substance within a special area, any residues or tank washings are to be retained on board until the ship is outside the special area, the Master shall so indicate by an appropriate entry in the Cargo Record Book and in this case the procedures set out in Regulation 5(2) of this Annex shall be applicable.
+Category D Substances in all Areas
+(7) The Master of a ship shall, with respect to a .Category D substance, ensure compliance with the following:
+(a) If a tank is partially unloaded or unloaded but not cleaned, an appropriate entry shall be made in the Cargo Record Book.
+(b) If the tank is to be cleaned at sea:
+(i) the cargo piping system serving that tank shall be drained and an appropriate entry made in the Cargo Record Book;
+(ii) where it is intended to discharge the quantity of substance remaining into the sea, the necessary dilution of the substance satisfactory for such a discharge shall be achieved. An appropriate entry shall be made in the Cargo Record Book; or
+(iii) where the tank washings are not discharged into the sea, if any internal transfer of tank washings takes place from that tank an appropriate entry shall be made in the Cargo Record Book; and
+(iv) any subsequent discharge into the sea of such tank washings shall be made in accordance with the requirements of Regulation 5(4) of this Annex.
+(c) If the tank is to be cleaned in port:
+(i) the tank washings shall be discharged to a reception facility and an appropriate entry shall be made in the Cargo Record Book; or
+(ii) the tank washings shall be retained on board the ship and an appropriate entry shall be made in the Cargo Record Book indicating the location and disposition of the tank washings.
+Discharge from a Slop Tank
+(8) Any residues retained on board in a slop tank, including those from pump room bilges, which contain a Category A substance, or within a special area either a Category A or a Category B substance, shall be discharged to a reception facility in accordance with the provisions of,Regulation 5(1), (7) or (8) of this Annex, whichever is applicable. An appropriate entry shall be made in the Cargo Record Book.
+(9) Any residues retained on board in a slop tank, including those from pump room bilges, which contain a quantity of a Category B substance outside a special area or a Category C substance in all areas in excess of the aggregate of the maximum quantities specified in Regulation 5(2)(c), (3)(c) or (9)(c) of this Annex, whichever is applicable, shall be discharged to a reception facility. An appropriate entry shall be made in the Cargo Record Book.
+Regulation 9
+Cargo Record Book
+(1) Every ship to which this Annex applies shall be provided with a Cargo Record Book, whether as part of the ship's official log book or otherwise, in the form specified in Appendix IV to this Annex.
+(2) The Cargo Record Book shall be completed, on a tank-to-tank basis, whenever any of the following operations with respect to a noxious liquid substance take place in the ship:
+(i) loading of cargo;
+(ii) unloading of cargo;
+(iii) transfer of cargo;
+(iv) transfer of cargo, cargo residues or mixtures containing cargo to a slop tank;
+(v) cleaning of cargo tanks;
+(vi) transfer from slop tanks;
+(vii) ballasting of cargo tanks;
+(viii) transfer of dirty ballast water;
+(ix) discharge into the sea in accordance with Regulation 5 of this Annex.
+(3) In the event of any discharge of the kind referred to in Article 7 of the present Convention and Regulation 6 of this Annex of any noxious liquid substance or mixture containing such substance, whether intentional or accidental, an entry shall be made in the Cargo Record Book stating the circumstances of, and the reason for, the discharge.
+(4) When a surveyor appointed or authorized by the Government of the Party to the Convention to supervise any operations under this Annex, has inspected a ship, then that surveyor shall make an appropriate entry in the Cargo Record Book.
+(5) Each operation referred to in paragraphs (2) and (3) of this Regulation shall be fully recorded without delay in the Cargo Record Book so that all the entries in the Book appropriate to that operation are completed. Each entry shall be signed by the officer or officers in charge of the operation concerned and, when the ship is manned, each page shall be signed by the Master of the ship. The entries in the Cargo Record Book shall be in an official language of the State whose flag the ship is entitled to fly, and, for ships holding an International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk (1973) in English or French. The entries in an official national language of the State whose flag the ship is entitled to fly shall prevail in case of a dispute or discrepancy.
+(6) The Cargo Record Book shall be kept in such a place as to be readily available for inspection and, except in the case of unmanned ships under tow, shall be kept on board the ship. It shall be retained for a period of two years after the last entry has been made.
+(7) The competent authority of the Government of a Party may inspect the Cargo Record Book on board any ship to which this Annex applies while the ship is in its port, and may make a copy of any entry in that book and may require the Master of the ship to certify that the copy is a true copy of such entry. Any copy so made which has been certified by the Master of the ship as a true copy of an entry in the ship's Cargo Record Book shall be made admissible in any judicial proceedings as evidence of the facts stated in the entry. The inspection of a Cargo Record Book and the taking of a certified copy by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.
+Regulation 10 Surveys
+(1) Ships which are subject to the provisions of this Annex and which carry noxious liquid substances in bulk shall be surveyed as follows:
+(a) An initial survey before a ship is put into service or before the certificate required by Regulation 11 of this Annex is issued for the first time, which shall include a complete inspection of its structure, equipment, fittings, arrangements and material in so far as the ship is covered by this Annex. The survey shall be such as to ensure full compliance with the applicable requirements of this Annex.
+(b) Periodical surveys at intervals specified by the Administration which shall not exceed five years and which shall be such as to ensure that the structure, equipment, fittings, arrangements and material fully comply with the applicable requirements of this Annex. However, where the duration of the International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk (1973) is extended as specified in Regulation 12(2) or (4) of this Annex, the interval of the periodical survey may be extended correspondingly.
+(c) Intermediate surveys at intervals specified by the Administration which shall not exceed thirty months and which shall be such as to ensure that the equipment and associated pump and piping systems, fully comply with the applicable requirements of this Annex and are in good working order. The survey shall be endorsed on the International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk (1973) issued under Regulation 11 of this Annex.
+(2) Surveys of a ship with respect to the enforcement of the provisions of this Annex shall be carried out by officers of the Administration. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it. In every case the Administration concerned shall fully guarantee the completeness and efficiency of the surveys.
+(3) After any survey of a ship under this Regulation has been completed, no significant change shall be made in the structure, equipment, fittings, arrangements or material, covered by the survey without the sanction of the Administration, except the direct replacement of such equipment and fittings for the purpose of repair or maintenance.
+Regulation 11
+Issue of Certificate
+(1) An International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk (1973) shall be issued to any ship carrying noxious liquid substances which is engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties to the Convention after survey of such ship in accordance with the provisions of Regulation 10 of this Annex.
+(2) Such Certificate shall be issued either by the Administration or by a person or organization duly authorized by it. In every case the Administration shall assume full responsibility for the Certificate.
+(3) (a) The Government of a Party may, at the request of the Administration, cause a ship to be surveyed and if satisfied that the provisions of this Annex are complied with shall issue or authorize the issue of a Certificate to the ship in accordance with this Annex.
+(b) A copy of the Certificate and a copy of the survey report shall be transmitted as soon as possible to the requesting Administration.
+(c) A Certificate so issued shall contain a statement to the effect that it has been issued at the request of the Administration and shall have the same force and receive the same recognition as a certificate issued under paragraph (1) of this Regulation.
+(b)
+(d) No International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk (1973) shall be issued to any ship which is entitled to fly the flag of a State which is not a Party.
+(4) The Certificate shall be drawn up in an official language of the issuing country in a form corresponding to the model given in Appendix V to this Annex. If the language used is neither English nor French, the text shall include a translation into one of these languages.
+Regulation 12 Duration of Certificate
+(1) An International Pollution Prevention Certificate for the Carriage of Noxious Liquid Substances in Bulk (1973) shall be issued for a period specified by the Administration, which shall not exceed five years from the date of issue, except as provided in paragraphs (2) and (4) of this Regulation.
+(2) If a ship at the time when the Certificate expires is not in a port or offshore terminal under the jurisdiction of the Party to the Convention whose flag the ship is entitled to fly, the Certificate may be extended by the Administration, but such extension shall be granted only for the purpose of allowing the ship to complete its voyage to the State whose flag the ship is entitled to fly or in which it is to be surveyed and then only in cases where it appears proper and reasonable to do so.
+(3) No Certificate shall be thus extended for a period longer than five months and a ship to which such extension is granted shall not on its arrival in the State whose flag it is entitled to fly or the port in which it is to be surveyed, be entitled by virtue of such extension to leave that port or State without having obtained a new Certificate.
+(4) A Certificate which has not been extended 'under the provisions of paragraph (2) of this Regulation may be extended by the Administration for a period of grace of up to one month from the date of expiry stated on it.
+(5) A Certificate shall cease to be valid if significant alterations have taken place in the structure, equipment, fittings, arrangements and material required by this Annex without the sanction of the Administration, except the direct replacement of such equipment or fitting for the purpose of repair or maintenance or if inter-mediate surveys as specified by the Administration under Regulation 10(1)(c) of this Annex are not carried out.
+(6) A Certificate issued to a ship shall cease to be valid upon transfer of such a ship to the flag of another State, except as provided in paragraph (7) of this Regulation.
+(7) Upon transfer of a ship to the flag of another Party, the Certificate shall remain in force for a period not exceeding five months provided that it would not have expired before the end of that period, or until the Administration issues a replacement Certificate, whichever is earlier. As soon as possible after the transfer has taken place the Government of the Party whose flag the ship was formerly entitled to fly shall transmit to the Administration a copy of the Certificate carried by the ship before the transfer and, if available, a copy of the relevant survey report.
+Regulation 13
+Requirements for Minimizing accidental Pollution
+(1) The design, construction, equipment and operation of ships carrying noxious liquid substances in bulk which are subject to the provisions of this Annex shall be such as to minimize the uncontrolled discharge into the sea of such substances.
+(2) Pursuant to the provisions of paragraph (1) of this Regulation, the Government of each Party shall issue, or cause to be issued, detailed requirements on the design, construction, equipment and operation of such ships.
+(3) In respect of chemical tankers, the requirements referred to in paragraph (2) of this Regulation shall contain at least all the provisions given in the Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk adopted by the Assembly of the Organization in Resolution A.212(VII) and as may be amended by the Organization, provided that the amendments to that Code are adopted and brought into force in accordance with the provisions of Article 16 of the present Convention for amendment procedures to an Appendix to an Annex.
+Appendix I
+GUIDELINES FOR THE CATEGORIZATION OF
+NOXIOUS LIQUID SUBSTANCES
+Category A Substances which are bioaccumulated and liable to produce a hazard to aquatic life or human health; or which are highly toxic to aquatic life (as expressed by a Hazard Rating 4, defined by a TLm less than 1 ppm); and additionally certain substances which are moderately toxic to aquatic life (as expressed by a Hazard Rating 3, defined by a TLm of 1 or more, but less than 10 ppm) when particular weight is given to additional factors in the hazard profile or to special characteristics of the substance.
+Category B Substances which are bioaccumulated with a short retention of the order of one week or less; or which are liable to produce tainting of the sea food; or which are moderately toxic to aquatic life (as expressed by a Hazard Rating 3, defined by a TLm of 1 ppm or more, but less than 10 ppm); and additionally certain substances which are slightly toxic to aquatic life (as expressed by a Hazard Rating 2, defined by a TLm of 10 ppm or more, but less than 100 ppm) when particular weight is given to additional factors in the hazard profile or to special characteristics of the substance.
+Category C Substances which are slightly toxic to aquatic life (as expressed by a Hazard Rating 2, defined by a TLm of 10 or more, but less than 100 ppm); and additionally certain substances which are practically non-toxic to aquatic life (as expressed by a Hazard Rating 1, defined by a TLm of 100 ppm or more, but less than 1,000 ppm) when particular weight is given to additional factors in the hazard profile or to special characteristics of the substance.
+Category D Substances which are practically non-toxic to aquatic life, (as expressed by a Hazard Rating 1, defined by a TLm of 100 ppm or more, but less than 1,000 ppm); or causing deposits blanketing the seafloor with a high biochemical oxygen demand (BOD); or highly hazardous to human health, with an LD50 of less than 5 mg/kg; or produce moderate reduction of amenities because of persistency, smell or poisonous or irritant characteristics, possibly interfering with use of beaches; or moderately hazardous to human health, with an LD50 of 5 mg/kg or more, but less than 50 mg/kg and produce slight reduction of amenities.
+Other Liquid Substances (for the purposes of Regulation 4 of this Annex) Substances other than those categorized in Categories A, B, C and D above.
+Appendix II
+LIST OF NOXIOUS LIQUID SUBSTANCES
+CARRIED IN BULK
+[TAB]UN
+Number[TAB]Pollution
+Category for
+operational
+discharge[TAB]Residual concentration
+(per cent by weight)
+Substance[TAB][TAB](Regulation 3
+of Annex II)[TAB](Regulation 5(1)
+of Annex II)[TAB](Regulation 5(7)
+of Annex II)
+[TAB]I[TAB]II[TAB]III
+Outside
+special
+areas[TAB]IV
+Within
+special
+areas
+Acetaldehyde[TAB]1089[TAB]C[TAB][TAB]
+Acetic acid[TAB]1842[TAB]C[TAB][TAB]
+Acetic anhydride[TAB]1715[TAB]C[TAB][TAB]
+Acetone[TAB]1090[TAB]D[TAB][TAB]
+Acetone cyanohydrin[TAB]1541[TAB]A[TAB]0.1[TAB]0.05
+Acetyl chloride[TAB]1717[TAB]C[TAB][TAB]
+Acrolein[TAB]1092[TAB]A[TAB]0.1[TAB]0.05
+Acrylic acid*[TAB]-[TAB]C[TAB][TAB]
+Acrylonitrile[TAB]1093[TAB]B[TAB][TAB]
+Adiponitrile[TAB]-[TAB]D[TAB][TAB]
+Alkylbenzene sulfonate[TAB]-[TAB][TAB][TAB]
+(straight chain)[TAB][TAB]C[TAB][TAB]
+(branched chain)[TAB][TAB]B[TAB][TAB]
+Allyl alcohol[TAB]1098[TAB]B[TAB][TAB]
+Allyl chloride[TAB]1100[TAB]C[TAB][TAB]
+Alum (15% solution)[TAB]-[TAB]D[TAB][TAB]
+Aminoethylethanolamine[TAB][TAB][TAB][TAB]
+(Hydroxyethyl-ethylene[TAB][TAB][TAB][TAB]
+diamine)*[TAB]-[TAB]D[TAB][TAB]
+Ammonia (28% aqueous)[TAB]1005[TAB]B[TAB][TAB]
+iso-Amyl acetate[TAB]1104[TAB]C[TAB][TAB]
+n-Amyl acetate[TAB]1104[TAB]C[TAB][TAB]
+n-Amyl alcohol[TAB]-[TAB]D[TAB][TAB]
+Aniline[TAB]1547[TAB]C[TAB][TAB]
+Benzene[TAB]1114[TAB]C[TAB][TAB]
+Benzyl alcohol[TAB]-[TAB]D[TAB][TAB]
+Benzyl chloride[TAB]1738[TAB]B[TAB][TAB]
+n-Butyl acetate[TAB]1123[TAB]D[TAB][TAB]
+sec-Butyl acetate[TAB]1124[TAB]D[TAB][TAB]
+n-Butyl acrylate[TAB]-[TAB]D[TAB][TAB]
+Butyl butyrate*[TAB]-[TAB]B[TAB][TAB]
+Butylene glycol(s)[TAB]-[TAB]D[TAB][TAB]
+Butyl methacrylate[TAB]-[TAB]D[TAB][TAB]
+n-Butyraldehyde[TAB]1129[TAB]B[TAB][TAB]
+Butyric acid[TAB]-[TAB]B[TAB][TAB]
+Calcium hydroxide[TAB][TAB][TAB][TAB]
+(solution)[TAB]-[TAB]D[TAB][TAB]
+Camphor oil[TAB]1130[TAB]B[TAB][TAB]
+Carbon disulphide[TAB]1131[TAB]A[TAB]0.01[TAB]0.005
+Carbon tetrachloride[TAB]1846[TAB]B[TAB][TAB]
+Caustic potash[TAB][TAB][TAB][TAB]
+(Potassium hydroxide)[TAB]1814[TAB]C[TAB][TAB]
+Chloroacetic acid[TAB]1750[TAB]C[TAB][TAB]
+Chloroform[TAB]1888[TAB]B[TAB][TAB]
+Chlorohydrins (crude)*[TAB]-[TAB]D[TAB][TAB]
+Chloroprene*[TAB]1991[TAB]C[TAB][TAB]
+Chlorosulphonic acid[TAB]1754[TAB]C[TAB][TAB]
+para-Chlorotoluene[TAB]-[TAB]B[TAB][TAB]
+Citric acid (10%-25%)[TAB]-[TAB]D[TAB][TAB]
+Creosote[TAB]1334[TAB]A[TAB]0.1[TAB]0.05
+Cresols[TAB]2076[TAB]A[TAB]0.1[TAB]0.05
+Cresylic acid[TAB]2022[TAB]A[TAB]0.1[TAB]0.05
+Crotonaldehyde[TAB]1143[TAB]B[TAB][TAB]
+Cumene[TAB]1918[TAB]C[TAB][TAB]
+Cyclohexane[TAB]1145[TAB]C[TAB][TAB]
+Cyclohexanol[TAB]-[TAB]D[TAB][TAB]
+Cyclohexanone[TAB]1915[TAB]D[TAB][TAB]
+Cyclohexylamine*[TAB]-[TAB]D[TAB][TAB]
+para-Cymene[TAB][TAB][TAB][TAB]
+(Isopropyltoluene)*[TAB]2046[TAB]D[TAB][TAB]
+Decahydronaphthalene[TAB]1147[TAB]D[TAB][TAB]
+Decane*[TAB]-[TAB]D[TAB][TAB]
+Diacetone alcohol*[TAB]1148[TAB]D[TAB][TAB]
+Dibenzyl ether*[TAB]-[TAB]C[TAB][TAB]
+Dichlorobenzenes[TAB]1591[TAB]A[TAB]0.1[TAB]0.05
+Dichloroethyl ether[TAB]1916[TAB]B[TAB][TAB]
+Dichloropropene -[TAB]2047[TAB]B[TAB][TAB]
+Dichloropropane[TAB][TAB][TAB][TAB]
+mixture (D.D. Soil[TAB][TAB][TAB][TAB]
+fumigant)[TAB][TAB][TAB][TAB]
+Diethylamine[TAB]1154[TAB]C[TAB][TAB]
+Diethylbenzene[TAB]2049[TAB]C[TAB][TAB]
+(mixed isomers)[TAB][TAB][TAB][TAB]
+Diethyl ether[TAB]1155[TAB]D[TAB][TAB]
+Diethylenetriamine*[TAB]2079[TAB]C[TAB][TAB]
+Diethylene glycol[TAB]-[TAB]C[TAB][TAB]
+monoethyl ether[TAB][TAB][TAB][TAB]
+Diethylketone[TAB][TAB][TAB][TAB]
+(3-Pentanone)[TAB]1156[TAB]D[TAB][TAB]
+Diisobutylene*[TAB]2050[TAB]D[TAB][TAB]
+Diisobutyl ketone[TAB]1157[TAB]D[TAB][TAB]
+Diisopropanolamine[TAB]-[TAB]C[TAB][TAB]
+Diisopropylamine[TAB]1158[TAB]C[TAB][TAB]
+Diisopropyl ether*[TAB]1159[TAB]D[TAB][TAB]
+Dimethylamine[TAB][TAB][TAB][TAB]
+(40% aqueous)[TAB]1160[TAB]C[TAB][TAB]
+Dimethylethanolamine[TAB]2051[TAB]C[TAB][TAB]
+(2-Dimethylamino[TAB][TAB][TAB][TAB]
+ethanol)*[TAB][TAB][TAB][TAB]
+Dimethylformamide[TAB]-[TAB]D[TAB][TAB]
+1,4-Dioxane*[TAB]1165[TAB]C[TAB][TAB]
+Diphenyl/Diphenyloxide,[TAB][TAB][TAB][TAB]
+mixtures*[TAB]-[TAB]D[TAB][TAB]
+Dodecylbenzene[TAB]-[TAB]C[TAB][TAB]
+Epichlorohydrin[TAB]2023[TAB]B[TAB][TAB]
+2-Ethoxyethyl acetate*[TAB]1172[TAB]D[TAB][TAB]
+Ethyl acetate[TAB]1173[TAB]D[TAB][TAB]
+Ethyl acrylate[TAB]1917[TAB]D[TAB][TAB]
+Ethyl amyl. ketone*[TAB]-[TAB]C[TAB][TAB]
+Ethylbenzene[TAB]1175[TAB]C[TAB][TAB]
+Ethyl cyclohexane[TAB]-[TAB]D[TAB][TAB]
+Ethylene chlorohydrin[TAB][TAB][TAB][TAB]
+(2-Chloro-ethanol)[TAB]1135[TAB]D[TAB][TAB]
+Ethylene cyanohydrin*[TAB]-[TAB]D[TAB][TAB]
+Ethylenediamine[TAB]1604[TAB]C[TAB][TAB]
+Ethylene dibromide[TAB]1605[TAB]B[TAB][TAB]
+Ethylene dichloride[TAB]1184[TAB]B[TAB][TAB]
+Ethylene glycol[TAB][TAB][TAB][TAB]
+monoethyl ether[TAB][TAB][TAB][TAB]
+(Methyl cellosolve)[TAB]1171[TAB]D[TAB][TAB]
+2-Ethylhexyl acrylate*[TAB]-[TAB]D[TAB][TAB]
+2-Ethylhexyl alcohol[TAB]-[TAB]C[TAB][TAB]
+Ethyl lactate*[TAB]1192[TAB]D[TAB][TAB]
+2-Ethyl 3-propyl[TAB][TAB][TAB][TAB]
+acrolein*[TAB]-[TAB]B[TAB][TAB]
+Formaldehyde[TAB][TAB][TAB][TAB]
+(37-50% solution)[TAB]1198[TAB]C[TAB][TAB]
+Formic acid[TAB]1779[TAB]D[TAB][TAB]
+Furfuryl alcohol[TAB]-[TAB]C[TAB][TAB]
+Heptanoic acid*[TAB]-[TAB]D[TAB][TAB]
+Hexamethylenediamine*[TAB]1783[TAB]C[TAB][TAB]
+Hydrochloric acid[TAB]1789[TAB]D[TAB][TAB]
+Hydrofluoric acid[TAB][TAB][TAB][TAB]
+(40% aqueous)[TAB]1790[TAB]B[TAB][TAB]
+Hydrogen peroxide[TAB][TAB][TAB][TAB]
+(greater than 60%)[TAB]2015[TAB]C[TAB][TAB]
+Isobutyl acrylate[TAB]-[TAB]D[TAB][TAB]
+Isobutyl alcohol[TAB]1212[TAB]D[TAB][TAB]
+Isobutyl methacrylate[TAB]-[TAB]D[TAB][TAB]
+Isobutyraldehyde[TAB]2045[TAB]C[TAB][TAB]
+Isooctane*[TAB]-[TAB]D[TAB][TAB]
+Isopentane[TAB]-[TAB]D[TAB][TAB]
+Isophorone[TAB]-[TAB]D[TAB][TAB]
+Isopropylamine[TAB]1221[TAB]C[TAB][TAB]
+Isopropyl cyclohexane[TAB]-[TAB]D[TAB][TAB]
+Isoprene[TAB]1218[TAB]D[TAB][TAB]
+Lactic acid[TAB]-[TAB]D[TAB][TAB]
+Mesityl oxide*[TAB]1229[TAB]C[TAB][TAB]
+Methyl acetate[TAB]1231[TAB]D[TAB][TAB]
+Methyl acrylate[TAB]1919[TAB]C[TAB][TAB]
+Methylamyl alcohol[TAB]-[TAB]D[TAB][TAB]
+Methylene chloride[TAB]1593[TAB]B[TAB][TAB]
+2-Methyl-S-Ethyl[TAB][TAB][TAB][TAB]
+pyridine*[TAB]-[TAB]B[TAB][TAB]
+Methyl methacrylate[TAB]1247[TAB]D[TAB][TAB]
+2-Methylpentene*[TAB]-[TAB]D[TAB][TAB]
+alpha-Methylstyrene*[TAB]-[TAB]D[TAB][TAB]
+Monochlorobenzene[TAB]1134[TAB]B[TAB][TAB]
+Monoethanolamine[TAB]-[TAB]D[TAB][TAB]
+Monoisopropanolamine[TAB]-[TAB]C[TAB][TAB]
+Monomethyl[TAB][TAB][TAB][TAB]
+ethanolamine[TAB]-[TAB]C[TAB][TAB]
+Mononitrobenzene[TAB]-[TAB]C[TAB][TAB]
+Monoisopropylamine[TAB]-[TAB]C[TAB][TAB]
+Morpholine*[TAB]2054[TAB]C[TAB][TAB]
+Naphthalene (molten)[TAB]1334[TAB]A[TAB]0.1[TAB]0.05
+Naphthenic acids*[TAB]-[TAB]A[TAB]0.1[TAB]0.05
+Nitric acid (90%)[TAB]2031/
+2032[TAB]C[TAB][TAB]
+2-Nitropropane[TAB]-[TAB]D[TAB][TAB]
+ortho-Nitrotoluene[TAB]1664[TAB]C[TAB][TAB]
+Nonyl alcohol*[TAB]-[TAB]C[TAB][TAB]
+Nonylphenol[TAB]-[TAB]C[TAB][TAB]
+n-Octanol[TAB]-[TAB]C[TAB][TAB]
+Oleum[TAB]1831[TAB]C[TAB][TAB]
+Oxalic acid (10-25%)[TAB]-[TAB]D[TAB][TAB]
+Pentachloroethane[TAB]1669[TAB]B[TAB][TAB]
+n-Pentane[TAB]1265[TAB]C[TAB][TAB]
+Perchloroethylene[TAB]1897[TAB]B[TAB][TAB]
+(Tetrachloroethylene)[TAB][TAB][TAB][TAB]
+Phenol[TAB]1671[TAB]B[TAB][TAB]
+Phosphoric acid[TAB]1805[TAB]D[TAB][TAB]
+Phosphorus (elemental)[TAB]1338[TAB]A[TAB]0.01[TAB]0.005
+Phthalic anhydride[TAB]-[TAB]C[TAB][TAB]
+(molten)[TAB][TAB][TAB][TAB]
+beta-Propiolactone*[TAB]-[TAB]B[TAB][TAB]
+Propionaldehyde[TAB]1275[TAB]D[TAB][TAB]
+Propionic acid[TAB]1848[TAB]D[TAB][TAB]
+Propionic anhydride[TAB]-[TAB]D[TAB][TAB]
+n-Propyl acetate*[TAB]1276[TAB]C[TAB][TAB]
+n-Propyl alcohol[TAB]1274[TAB]D[TAB][TAB]
+n-Propylamine[TAB]1277[TAB]C[TAB][TAB]
+Pyridine[TAB]1282[TAB]B[TAB][TAB]
+Silicon tetrachloride[TAB]1818[TAB]D[TAB][TAB]
+Sodium bichromate[TAB][TAB][TAB][TAB]
+(solution)[TAB]-[TAB]C[TAB][TAB]
+Sodium hydroxide[TAB]1824[TAB]C[TAB][TAB]
+Sodium pentachloro[TAB][TAB][TAB][TAB]
+phenate (solution)[TAB]-[TAB]A[TAB]0.1[TAB]0.05
+Styrene monomer[TAB]2055[TAB]C[TAB][TAB]
+Sulphuric acid[TAB]1830/
+1831/
+1832[TAB]C[TAB][TAB]
+Tallow[TAB]-[TAB]D[TAB][TAB]
+Tetraethyl lead[TAB]1649[TAB]A[TAB]0.1[TAB]0.05
+Tetrahydrofuran[TAB]2056[TAB]D[TAB][TAB]
+Tetrahydronaphthalene[TAB]1540[TAB]C[TAB][TAB]
+Tetramethylbenzene[TAB]-[TAB]D[TAB][TAB]
+Tetramethyl lead[TAB]1649[TAB]A[TAB]0.1[TAB]0.05
+Titanium tetrachloride[TAB]1838[TAB]D[TAB][TAB]
+Toluene[TAB]1294[TAB]C[TAB][TAB]
+Toluene diisocyanate*[TAB]2078[TAB]B[TAB][TAB]
+Trichloroethane[TAB]-[TAB]C[TAB][TAB]
+Trichloroethylene[TAB]1710[TAB]B[TAB][TAB]
+Triethanolamine[TAB]-[TAB]D[TAB][TAB]
+Triethylamine[TAB]1296[TAB]C[TAB][TAB]
+Trimethylbenzene*[TAB]-[TAB]C[TAB][TAB]
+Tritolyl phosphate[TAB][TAB][TAB][TAB]
+(Tricresyl phosphate)*[TAB]-[TAB]B[TAB][TAB]
+Turpentine (wood)[TAB]1299[TAB]B[TAB][TAB]
+Vinyl acetate[TAB]1301[TAB]C[TAB][TAB]
+Vinylidene chloride*[TAB]1303[TAB]B[TAB][TAB]
+Xylenes (mixed isomers)[TAB]1307[TAB]C[TAB][TAB]
+* Asterisk indicates that the substance has been provisionally included in this list and that further data are necessary in order to complete the evaluation of its environmental hazards, particularly in relation to living resources.
+Appendix III
+LIST OF OTHER LIQUID SUBSTANCES CARRIED IN BULK
+Acetonitrile (Methyl cyanide) tert-Amyl alcohol n-Butyl alcohol Butyrolactone
+Calcium chloride (solution)
+Castor oil
+Citric juices
+Coconut oil
+Cod liver oil
+iso-Decyl alcohol n-Decyl alcohol Decyl octyl alcohol Dibutyl ether Diethanolamine Diethylene glycol Dipentene
+Dipropylene glycol Ethyl alcohol Ethylene glycol
+Fatty alcohols (C12-C20)
+Glycerine
+n-Heptane
+Heptene (mixed isomers)
+n-Hexane
+Ligroin
+Methyl alcohol Methylamyl acetate
+Methyl ethyl ketone (2-butanone) Milk
+Molasses
+Appendix IV
+CARGO RECORD BOOK FOR SHIPS CARRYING
+NOXIOUS LIQUID SUBSTANCES IN BULK
+Name of ship
+Cargo carrying capacity of
+each tank in cubic metres
+Voyage from to
+(a) Loading of cargo
+1. Date and place of loading
+2. Name and category of cargo(es) loaded
+3. Identity of tank(s) loaded
+(b) Transfer of cargo
+4. Date of transfer
+5. Identity of tank(s) (i) From (ii) To
+6. Was(were) tank(s) in 5(i) emptied?
+7. If not, quantity remaining
+(c) Unloading of cargo
+8. Date and place of unloading
+9. Identity of tank(s) unloaded
+10. Was(were) tank(s) emptied?
+11. If not, quantity remaining in tank(s)
+12. Is(are) tank(s) to be cleaned?
+13. Amount transferred to slop tank
+14. Identity of slop tank
+(d) Ballasting of cargo tanks
+15. Identity of tank(s) ballasted
+16. Date and position of ship at start of ballasting
+Signature of Master
+(e) Cleaning of cargo tanks
+Category A substances
+17. Identity of tank(s) cleaned
+18. Date and location of cleaning
+19. Method(s) of cleaning
+20. Location of reception facility used
+21. Concentration of effluent when discharge to reception facility stopped
+22. Quantity remaining in tank
+23. Procedure and amount of water introduced into tank in final cleaning
+24. Location, date of discharge into sea
+25. Procedure and equipment used in discharge into the sea
+Category B, C and D substances
+26. Washing procedure used
+27. Quantity of water used
+28. Date, location of discharge into sea
+29. Procedure and equipment used in discharge into the sea
+(f) Transfer of dirty ballast water
+30. Identity of tank(s)
+31. Date and position of ship at start of discharge into sea
+32. Date and position of ship at finish of discharge into sea
+33. Ship's speed(s) during discharge
+34. Quantity discharged into sea
+35. Quantity of polluted water transferred to slop tank(s) (identify slop tank(s))
+36. Date and port of discharge to shore reception facilities (if applicable)
+Signature of Master
+(g) Transfer from slop tank/disposal of residue
+37. Identity of slop tank(s)
+38. Quantity disposed from each tank
+39. Method of disposal of residue:
+(a) Reception facilities
+(b) Mixed with cargo
+(c) Transferred to another (.other) tank(s) (identify tank(s))
+(d) Other method
+40. Date and port of disposal of residue
+(h) Accidental or other exceptional discharge
+41. Date and time of occurrence
+42. Place or position of ship at time of occurrence
+43. Approximate quantity, name and category of substance
+44. Circumstances of discharge or escape and general remarks.
+Signature of Master
+Appendix V
+FORM OF CERTIFICATE
+INTERNATIONAL POLLUTION PREVENTION CERTIFICATE FOR THE
+CARRIAGE OF NOXIOUS LIQUID SUBSTANCES IN BULK (1973)
+(Note: This Certificate shall be supplemented in the case of a chemical tanker by the certificate required pursuant to the provisions of Regulation 13(3) of Annex II of the Convention)
+(Official Seal)
+Issued under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973, under the authority of the Government of
+.................................................................. (full official designation of the country)
+(full official designation of the competent person or organization authorized under the provisions of the International Convention for the Prevention of Pollution from Ships, 1973)
+Name of Ship[TAB]Distinctive
+Number or
+Letter[TAB]Port of
+Registry[TAB]Gross
+Tonnage
+[TAB][TAB][TAB]
+THIS IS TO CERTIFY:
+1. That the ship has been surveyed in accordance with the provisions of Regulation 10 of Annex II of the Convention.
+2. That the survey showed that the design, construction and equipment of the ship are such as to minimize the uncontrolled discharge into the sea of noxious liquid substances.
+3. That the following arrangements and procedures have been approved by the Administration in connexion with the implementation of Regulation 5 of Annex II of the Convention:
+(Continued on the annexed signed and dated sheet(s))
+This certificate is valid, until
+subject to intermediate survey(s) at intervals of
+Issued at
+(place of issue of Certificate)
+19
+(Signature of duly authorized official issuing the Certificate)
+(Seal or stamp of the issuing Authority, as appropriate)
+Intermediate surveys
+This is to certify that at an intermediate survey required by Regulation 10(1)(c) of Annex II of the Convention, this ship and the condition thereof are found to comply with the relevant provisions of the Convention.
+Signed... (Signature of duly authorized official)
+Place
+Date (Seal or stamp of the Authority, as appropriate)
+Signed (Signature of duly authorized official)
+Place
+Date (Seal or stamp of the Authority, as appropriate)
+Under the provisions of Regulation 12(2) and (4) of Annex Il of the Convention the validity of this Certificate is extended until
+..................................................................
+Signed (Signature of duly authorized official)
+Place
+Date (Seal or stamp of the Authority, as appropriate) 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

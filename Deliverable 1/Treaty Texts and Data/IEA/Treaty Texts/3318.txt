@@ -1,0 +1,82 @@
+
+ Amendment To The Agreement On The Conservation Of Populations of European Bats   
+     Filename: 2000-Amendment-1991-ConservationBatsEurope.EN.txt 
+ Source: http://www.eurobats.org/documents/agreement_text.htm     
+    ﻿Second Amendment to the Agreement on the Conservation of Bats in Europe
+SRC: http://www.eurobats.org/documents/agreement_text.htm, 20040526
+The Meeting of the Parties to the Agreement on the Conservation of Bats in Europe (hereafter "the Agreement"),
+Recognizing the need for conservation measures to protect all populations of Chiroptera species in Europe and in their non-European Range States;
+Guided by a common will to further strengthen the Agreement and its scope;
+Agrees:
+1. To change the title of the Agreement to:
+"The Agreement on the Conservation of Populations of European Bats";
+2. To extend the last paragraph of the preamble with the words:
+"and in their non-European Range States";
+3. To replace Article I (b) with:
+"(b) "Bats" means populations of CHIROPTERA species as listed in Annex 1 to this Agreement occurring in Europe and in their non-European Range States";
+4. To add a new paragraph 5 to Article II to read as follows:
+"5. The Annexes to this Agreement form an integral part thereof. Any reference to the Agreement includes a reference to its Annexes."
+5. To replace Article VII (4) with:
+"4. An Amendment to the Agreement other than an Amendment to its Annexes shall be adopted by a two-thirds majority of the Parties present and voting and shall enter into force for those Parties which have accepted it 60 days after the deposit of the fifth instrument of acceptance of the Amendment with the Depositary. Thereafter, it shall enter into force for a Party 30 days after the date of deposit of its instrument of acceptance of the Amendment with the Depositary."
+6. To add new paragraphs 5 to 7 to Article VII which read as follows:
+"5. Any additional Annexes and any Amendment to an Annex shall be adopted by a two-thirds majority of the Parties present and voting and shall enter into force for all Parties on the sixtieth day after the date of its adoption by the Meeting of the Parties, except for Parties which have entered a reservation in accordance with paragraph 6 of this Article.
+6. During the period of 60 days provided for in paragraph 5 of this Article, any Party may by written notification to the Depositary enter a reservation with respect to an additional Annex or an Amendment to an Annex. Such reservation may be withdrawn at any time by written notification to the Depositary, and thereupon the additional Annex or the Amendment shall enter into force for that Party on the sixtieth day after the date of withdrawal of the reservation.
+7. Any State which becomes a Party to the Agreement after the entry into force of an Amendment shall, failing an expression of a different intention by that State:
+(a) be considered as a Party to the Agreement as amended; and
+(b) be considered as a Party to the unamended Agreement in relation to any Party not bound by the Amendment."
+7. To add the following Annex 1 to the Agreement:
+ANNEX 1 
+Bat species occurring in Europe to which this Agreement applies
+Pteropodidae
+Rousettus egyptiacus (Geoffroy, 1810)
+Emballonuridae
+Taphozous nudiventris (Cretzschmar, 1830)
+Rhinolophidae
+Rhinolophus blasii Peters, 1866
+Rhinolophus euryale Blasius, 1853
+Rhinolophus ferrumequinum (Schreber, 1774)
+Rhinolophus hipposideros (Bechstein, 1800)
+Rhinolophus mehelyi Matschie, 1901
+Vespertilionidae
+Barbastella barbastellus (Schreber, 1774)
+Barbastella leucomelas (Cretzschmar, 1830)
+Eptesicus bottae (Peters, 1869)
+Eptesicus nilssonii (Keyserling &amp; Blasius, 1839)
+Eptesicus serotinus (Schreber, 1774)
+Myotis bechsteinii (Kuhl, 1817)
+Myotis blythii (Tomes, 1857)
+Myotis brandtii (Eversmann, 1845)
+Myotis capaccinii (Bonaparte, 1837)
+Myotis dasycneme (Boie, 1825)
+Myotis daubentonii (Kuhl, 1817)
+Myotis emarginatus (Geoffroy, 1806)
+Myotis myotis (Borkhausen, 1797)
+Myotis mystacinus (Kuhl, 1817)
+Myotis nattereri (Kuhl, 1817)
+Myotis schaubi Kormos, 1934
+Nyctalus lasiopterus (Schreber, 1780)
+Nyctalus leisleri (Kuhl, 1817)
+Nyctalus noctula (Schreber, 1774)
+Otonycteris hemprichii (Peters, 1859)
+Pipistrellus kuhlii (Kuhl, 1817)
+Pipistrellus nathusii (Keyserling &amp; Blasius, 1839)
+Pipistrellus pipistrellus (Schreber, 1774)
+Pipistrellus pygmaeus[1] Leach, 1825
+Pipistrellus savii (Bonaparte, 1837)
+Plecotus auritus (Linnaeus, 1758)
+Plecotus austriacus (Fischer, 1829)
+Vespertilio murinus Linnaeus, 1758
+Miniopterus schreibersii (Kuhl, 1817)
+Molossidae Tadarida teniotis (Rafinesque, 1814)
+[1] The nomenclature is awaiting confirmation from ICZN. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

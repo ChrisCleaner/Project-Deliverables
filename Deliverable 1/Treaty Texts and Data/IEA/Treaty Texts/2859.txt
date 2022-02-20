@@ -1,0 +1,814 @@
+
+ Amendments To Appendices I and II To The Convention On International Trade In Endangered Species Of Wild Fauna And Flora (COP-1, 1976)   
+     Filename: 1976-Amendments-1973-TradeEndangeredSpecies.EN.txt 
+ Source: http://www.cites.org/eng/cop/01/prop/index.shtml     
+    ﻿Convention On International Trade In Endangered Species Of Wild Fauna And Flora, Washington, March 3, 1973 Appendices I And II As At February 4, 1977
+Source: Ruster and Simma, Vol. XXII, p. 389 (original text provided by courtesy of the Secretary General/Convention on International Trade in Endangered Species of Wild Fauna and Flora, Gland, Switzerland)
+Interpretation
+1. Species included in these appendices are referred to:
+(a) by the name of the species; or
+(b) as being all of the species included in a higher taxon or designated part thereof.
+2. The abbreviation "spp." is used to denote all species of a higher taxon.
+3. Other references to taxon higher than species are for the purposes of information or classification only.
+4. An asterisk (*) placed against the name of a species or higher taxon indicates that one or more geographically separate populations, sub-species or species of that taxon are included in Appendix 1 and that these populations, sub-species or species are excluded from Appendix II.
+5. Two asterisks (**) placed against the name of a species or higher taxon indicate that one or more geographically separate populations, sub-species or species of that taxon are included in Appendix II and that these populations, sub-species or species are excluded from Appendix I.
+6. The symbol (&gt;) followed by a number placed against the name of a species or higher taxon designates parts or derivatives which are specified in relation thereto for the purposes of the Convention as follows:
+1 designates roots
+2 designates timber
+3 designates trunks.
+7. The symbol (-) followed by a number placed against the name of a species or higher taxon indicates the exclusion from that species or taxon of designated geographically separate populations, sub-species, species or groups of species as follows:
+101 Panthera tigris altaica (=amurensis)
+102 Australian population
+103 Australian population
+104 All species which are not succulent.
+8. The symbol (4-) followed by a number placed against the name of a species or higher taxon denotes that only designated geographically separate populations, sub-species or species of that species or taxon are included in the appendix in question as follows:
+201 Population of South America
+202 (A) North Pacific stock
+(B) Stock in area from 0 degree longitude to 70 degrees east longitude, from the Equator to the Antarctic Continent
+203 (A) Stock in North Atlantic off Iceland
+(B) Stock in North Atlantic off Newfoundland
+(C) Stock in area from 40 degrees south latitude to Antarctic Continent, from 120 degrees west longitude to 60 degrees west longitude
+204 Italian population
+205 All North American sub-species
+206 Australian population
+207 All New Zealand species
+208 All species of the family in the Americas.
+9. The symbol (0) placed against the name of a species or higher taxon indicates that the species concerned are protected in accordance with the International Whaling Commission's schedule of 1972.
+[TAB] Appendix I [TAB] Appendix II
+FAUNA
+Mammalia
+MONOTREMATA
+Tachyglossidae [TAB] Zaglossus spp.
+MARSUPIALIA
+Macropodidae [TAB] Bettongia lesueur
+[TAB] Bettongia penicillata
+[TAB] Bettongia tropica
+[TAB] Caloprymnus campestris
+[TAB] [TAB] Dendrolagus inustus
+[TAB] [TAB] Dendrolagus ursinus
+[TAB] Lagorchestes hirsutus
+[TAB] Lagostrophus fasciatus
+[TAB] [TAB] Macropus parma
+[TAB] Onychogalea frenata
+[TAB] Onychogalea lunata
+Phalangeridae [TAB] [TAB] Wyulda squamicaudata
+Burramyidae [TAB] [TAB] Burramys parvus
+Vombatidae [TAB] Lasiorhinus gillespiei
+Peramelidae [TAB] Chaeropus ecaudatus
+[TAB] Macrotis lagotis
+[TAB] Macrotis leucura
+[TAB] Perameles bougainville
+Dasyuridae [TAB] [TAB] Antechinomys laniger
+[TAB] Myrmecobius fasciatus rufus
+[TAB] [TAB] Planigale tenuirostris
+[TAB] Sminthopsis longicaudata
+[TAB] Sminthopsis psammophila
+Thylacinidae [TAB] Thylacinus cynocephalus
+INSECTIVORA
+Erinaceidae [TAB] [TAB] Erinaceus frontales
+PRIMATES [TAB] [TAB] PRIMATES spp.*
+Lemuridae [TAB] Allocebus spp.
+[TAB] Cheirogaleus spp.
+[TAB] Hapalemur spp.
+[TAB] Lemur spp.
+[TAB] Lepilemur spp:
+[TAB] Microcebus spp.
+[TAB] Phaner spp.
+Indriidae [TAB] Avahi spp.
+[TAB] Indri spp.
+[TAB] Prophithecus spp.
+Daubentoniidae [TAB] Daubentonia madagascariensis
+Callithricidae [TAB] Callimico goeldii
+[TAB] Callithrix aurita
+[TAB] Callithrix jlaviceps
+[TAB] Cebuella pygmaea
+[TAB] Leontopithecus (Leontideus) spp.
+[TAB] Saguinus bicolor
+[TAB] Saguinus leucopus
+[TAB] Saguinus oedipus
+Cebidae [TAB] Alouatta palliata (villosa)
+[TAB] Ateles geoffroyifrontatus
+[TAB] Ateles geoffroyi panamensis
+[TAB] Brachyteles arachnoides
+[TAB] Cacajao spp.
+[TAB] Chiropotes albinasus
+[TAB] Saimiri oerstedii
+Cercopithecidae [TAB] Cercocebus galeritus galeritus
+[TAB] Colobus badius kirkii
+[TAB] Colobus badius rufomitratus
+[TAB] Macaca silenus
+[TAB] Nasalis larvatus
+[TAB] Presbytis entellus
+[TAB] Presbytis geei
+[TAB] Presbytis pileatus
+[TAB] Presbytis potenziani
+[TAB] Pygathrix nemaus
+[TAB] Simias concolor
+[TAB] I [TAB] II
+Hylobatidae [TAB] Hylobates spp. [TAB]
+[TAB] Symphalangus syndactylus
+Pongidae [TAB] Pongidae spp.
+EDENTATA
+Myrmecophagidae [TAB] [TAB] Myrmecophaga tridáctila
+[TAB] [TAB] Tamandua tetradactyla chapadensis
+Bradypodidae [TAB] Bradypus boliviensis
+Dasypodidae [TAB] Priodontes giganteus (= maximus)
+PHOLIDOTA
+Manidae [TAB] [TAB] Manis crassicaudata
+[TAB] [TAB] Manis javanica
+[TAB] [TAB] Manis pentadactyla
+[TAB] Maids remmincki
+LAGOMORPHA
+Leporidae [TAB] Caprolagus hispidus
+[TAB] [TAB] Nesolagus netscheri
+[TAB] Romerolagus diazi
+RODENTIA
+Sciuridae [TAB] Cynomys mexicanus [TAB]
+[TAB] [TAB] Lariscus hosei
+[TAB] [TAB] Ratufa spp.
+Heteromyidae [TAB] Dipodotnys phillipsii phillipsii
+Castoridae [TAB] Castor fiber birulai [TAB]
+Muridae [TAB] Leporillus conditor [TAB]
+[TAB] Notomys aquilo
+[TAB] Pseudomys field
+[TAB] Pseudomys fumeus
+[TAB] Pseudomys novaehollandiae
+[TAB] Pseudomys occidentalis
+[TAB] Pseudomys praeconis
+[TAB] Pseudomys shortridgei
+[TAB] Xeromys myoides
+[TAB] Zyzomys pedunculatus
+Chinchillidae [TAB] Chinchilla spp. +201
+CETACEA
+Platanistidae [TAB] Platanista gangetica
+Eschrichtidae [TAB] Eschrichtius robustus (glaucus)
+Balaenopteridae [TAB] Balaenoptera borealis +202 [TAB] Balaenoptera boreales*
+[TAB] Balaenoptera musculus
+[TAB] Balaenoptera physalus [TAB] Balaenoptera physalus +203
+[TAB] Megaptera novaeangliae
+Balaenidae [TAB] Balaena mysticetus
+[TAB] Eubalaena spp.
+CARNIVORA
+Canidae [TAB] Canis lupus
+[TAB] [TAB] Chrysocyon brachyurus
+[TAB] [TAB] Cuon alpinus
+[TAB] Speothos venaticus
+[TAB] [TAB] Vulpes cana
+[TAB] Vulpes velox hebes
+Ursidae [TAB] Helarctos malayanus
+[TAB] Selenarctos thibetanusgedrosianus
+[TAB] Tremarctos ornatus
+[TAB] Ursus arctos ** +204 [TAB] Ursus arctos * +205
+[TAB] Ursus arctos nelsoni
+[TAB] Ursus arctos pruinosus
+[TAB] [TAB] Ursus (Thalarctos) maritimus
+Procyonidae [TAB] Ailurus fulgens
+Mustelidae [TAB] Aonyx microdon
+[TAB] Enhydra hails nerds
+[TAB] Lutra felina
+[TAB] Lutra longicaudis (platensis/annectens)
+[TAB] Lutra lutra
+[TAB] Lutra provocax
+[TAB] [TAB] Lutrinae spp.*
+[TAB] Mustela nigripes
+[TAB] Pteronura brasiliensis
+[TAB] I [TAB] II
+Viverridae [TAB] [TAB] Cryptoprocta ferox
+[TAB] [TAB] Cynogale bennetti
+[TAB] [TAB] Eupleres goudotii
+[TAB] [TAB] Eupleres major
+[TAB] [TAB] Fossa fossa
+[TAB] [TAB] Hemigalus derbyanus
+[TAB] [TAB] Prionodon linsang
+[TAB] Prionodon pardicolor
+Hyaenidae [TAB] Hyaena brunnea
+Felidae [TAB] [TAB] Felidae spp.*
+[TAB] Acinonyx jubatus
+[TAB] Fells bengalensis bengalensis
+[TAB] Fells concolor coryi
+[TAB] Fells concolor costaricensis
+[TAB] Fells concolor cougar
+[TAB] Fells jacobita
+[TAB] Fells marmorata
+[TAB] Fells nigripes
+[TAB] Fells pardalis mearnsi
+[TAB] Fells pardalis mitis
+[TAB] Fells planiceps
+[TAB] Felis (Lynx) rufa escuinapae
+[TAB] Fells temmincki
+[TAB] Fells tigrina oncilla
+[TAB] Fells wiedii nicaraguae
+[TAB] Fells wiedii salvinia
+[TAB] Fells yagouaroundi cacomitli
+[TAB] Felis yagouaroundi fossata
+[TAB] Fells yagouaroundi panamensis
+[TAB] Fells yagouaroundi tolteca
+[TAB] Neofelis nebulosa
+[TAB] Panthera leo persica
+[TAB] Panthera onca
+[TAB] Panthera pardus
+[TAB] Panthers tigris -101
+[TAB] Panthera uncia
+PINNIPEDIA
+Otariidae [TAB] [TAB] Arctocephalus spp.
+Phocidae [TAB] Mirounga angustirostris
+[TAB] [TAB] Mirounga leonina
+[TAB] Monachus spp.
+TUBULIDENTATA
+Orycteropodidae [TAB] [TAB] Orycteropus afer
+PROBOSCIDEA
+Elephantidae [TAB] Elephas maximus
+[TAB] [TAB] Loxodonta africana
+SIRENIA
+Dugongidae [TAB] Dugong dugon * 102 [TAB] Dugong dugon * +206
+Trichechidae [TAB] Trichechus inunguis
+[TAB] Trichechus manatus
+[TAB] [TAB] Trichechus senegalensis
+PERISSODACTYLA
+Equidad [TAB] [TAB] Equus hemionus
+[TAB] Equus hemionus hemionus
+[TAB] Equus hemionus khur
+[TAB] Equus przewalskii
+[TAB] Equus zebra zebra
+Tapiridae [TAB] Tapirus bairdii
+[TAB] Tapirus indicus
+[TAB] Tapirus pinchaque
+[TAB] [TAB] Tapirus terrestris
+Rhinocerotidae [TAB] Rhinocerotidae spp.
+ARTIODACTYLA
+Suidae [TAB] Babyrousa babyrussa
+[TAB] Sus salvanius
+[TAB] I [TAB] II
+Hippopotamidae [TAB] [TAB] Choeropsis liberiensis
+Camelidae [TAB] Camelus bactrianus
+[TAB] Vicugna vicugna
+Cervidae [TAB] Axis (Hyelaphus) calamianensis
+[TAB] Axis (Hyelaphus) kuhli
+[TAB] Axis (Hyelaphus) porcinus annamiticus
+[TAB] Blastocerus dichotomus
+[TAB] Cervus duvauceli
+[TAB] [TAB] Cervus elaphus bactrianus
+[TAB] Cervus elaphus hanglu
+[TAB] Cervus eldi
+[TAB] Dama mesopotamica
+[TAB] Hippocamelus anlisensis
+[TAB] Hippocamelus bisulcus
+[TAB] Moschus moschiferus moschiferus
+[TAB] Ozotoceros bezoarticus
+[TAB] [TAB] Pudu mephistophiles
+[TAB] Pudu pudu
+Antilocapridae [TAB] [TAB] Antilocapra americana mexicana
+[TAB] Antilocapra americana peninsulares
+[TAB] Antilocapra americana sonoriensis
+Bovidae [TAB] [TAB] Addax nasomaculatus
+[TAB] Bison bison athabascae
+[TAB] Bos gaurus
+[TAB] Bos (grunniens) mutes
+[TAB] Bubalus (Anoa) depressicornis
+[TAB] Bubalus (Anoa) mindorensis
+[TAB] Bubalus (Anoa) quarlegi
+[TAB] [TAB] Capra falconeri
+[TAB] Capra falconeri chiltanensis
+[TAB] Capra falconeri jerdoni
+[TAB] Capra falconeri megaceros
+[TAB] Capricornis sumatraensis
+[TAB] [TAB] Cephalophus monticola
+[TAB] Damaliscus dorcas dorcas
+[TAB] Hippotragusniger variani
+[TAB] Kobus leche
+[TAB] Nemorhaedus goral
+[TAB] Novibos (Bos) sauveli
+[TAB] [TAB] Oryx (tao) dammah
+[TAB] Oryx leucoryx
+[TAB] [TAB] Ovis ammon *
+[TAB] this ammon hodgsoni
+[TAB] [TAB] Ovis Canadensis
+[TAB] Ovis orientalis ophion
+[TAB] Ovis vignei
+[TAB] [TAB] Pantholops hodgsoni
+[TAB] Rupicapra rupicapra ornata
+[TAB] Saiga tatarica mongolica
+Aves
+RHEIFORMES
+Rheidae [TAB] [TAB] Pterocnemia pennata garleppi
+[TAB] [TAB] Pterocnemia pennata pennata
+[TAB] [TAB] Rhea americana albescens
+TINAMIFORMES
+Tinamidae [TAB] [TAB] Rhynchotus rufescens rrwculicoiis
+[TAB] [TAB] Rhynchotus rufescens pablescens
+[TAB] [TAB] Rhynchotus rufescens rufescens
+[TAB] finamus solitarius
+SPHENISCIFORMES
+Spheniscidae [TAB] [TAB] Spheniscus demersus
+PODICIPEDIFORMES
+Podicipedidae [TAB] Podilymbus gigas
+PROCELLARIIFORMES
+Diomedeidae [TAB] Diomedea albatros
+[TAB] I [TAB] II [TAB]
+PELECANIFORMES
+Pelecanidae [TAB] [TAB] Pelecanus crispus
+Sulidae [TAB] Sula abbotti
+Fregatidae [TAB] Fregata andrewsi
+CICONIFORMES
+Ciconiidae [TAB] Ciconia ciconia boyciana
+[TAB] [TAB] Ciconia nigra
+Threskiornithidae [TAB] [TAB] Geronticus calvus
+[TAB] Nipponia nipón
+[TAB] [TAB] Platalea leucorodia
+Phoenicopteridae [TAB] [TAB] Phoenicoparrus andinus
+[TAB] [TAB] Phoenicoparrus jamesi
+[TAB] [TAB] Phoenicopterus ruber chilensis
+ANSERIFORMES
+Anatidae [TAB] [TAB] Anas aucklandica aucklandica
+[TAB] [TAB] Anas aucklandica chlorotis
+[TAB] Anas aucklandica nesiotis
+[TAB] [TAB] Anas bernieri
+[TAB] Anas diazi
+[TAB] Anas laysanensis
+[TAB] Anas oustaleti
+[TAB] [TAB] Anser albifrons gambelli
+[TAB] Branta canadensis leucopareia
+[TAB] [TAB] Branta ruficollis
+[TAB] Branta sandvicensis
+[TAB] Cairina scutulata
+[TAB] [TAB] Coscoroba coscoroba
+[TAB] [TAB] Cygnus bewickii jankowskii
+[TAB] [TAB] Cygnus melancoryphus
+[TAB] [TAB] Dendrocygna arborea
+[TAB] Rhodonessa caryophyllacea
+[TAB] [TAB] Sarkidiornis melanotos
+FALCONIFORMES
+Cathartidae [TAB] Gymnogyps californianus
+[TAB] Vultur gryphus
+Accipitridae [TAB] [TAB] Accipiter gentilis
+[TAB] [TAB] Accipiter gundlachi
+[TAB] [TAB] Accipiter nisus
+[TAB] [TAB] Aegypius monachus
+[TAB] [TAB] Aquila spp.*
+[TAB] Aquila heliaca
+[TAB] Chondrohierax wilsonii
+[TAB] [TAB] Circaetus spp.
+[TAB] [TAB] Circus spp.
+[TAB] [TAB] Gypaetus barbatus
+[TAB] [TAB] Gyps fulvus
+[TAB] [TAB] Haliaeetus spp.*
+[TAB] Haliaeetus albicilla
+[TAB] Haliaeetus leucocephalus
+[TAB] Harpia harpyja
+[TAB] [TAB] Harpyopsis novaeguineae
+[TAB] [TAB] Milvus milvus
+[TAB] Pithecophaga jejjeryi
+Pandionidae [TAB] [TAB] Pandion haliaetus
+Falconidae [TAB] [TAB] Falconidae spp.*
+[TAB] Falco araea
+[TAB] Falco newton aldabranus
+[TAB] Falco peregrinus (pelegrinoides/babylonicus)
+[TAB] Falco punctatus
+GALLIFORMES
+Megapodiidae [TAB] Macrocephalon maleo
+[TAB] [TAB] Megapodius freycinet abbotti
+[TAB] [TAB] Megapodiusfreycinet nicobariensis
+Cracidae [TAB] Crax blumenbachii
+[TAB] Mitu mitu mitu
+[TAB] Oreophasis derbianus
+[TAB] Pipile jacutinga
+[TAB] Pipile pipile pipile
+[TAB] I [TAB] II
+Tetraonidae [TAB] [TAB] Lyrurus mlokosiewiczi
+[TAB] Tympanuchus cupido attwateri
+[TAB] [TAB] Tympanuchus cupido pinnatus
+Phasianidae [TAB] [TAB] Argusianus argus
+[TAB] [TAB] Catreus wallichii
+[TAB] Colinus virginianus ridgwayi
+[TAB] Crossoptilon crossoptilon
+[TAB] Crossoptilon mantchuricum
+[TAB] [TAB] Cyrtonyx montezumae mearnsi
+[TAB] Cyrtonyx montezumae rnerriami
+[TAB] [TAB] Cyrtonyx montezumae montezumae
+[TAB] [TAB] Francolinus ochropectus
+[TAB] [TAB] Francolinus swierstrai
+[TAB] [TAB] Gallus sonneratii
+[TAB] [TAB] lthaginis cruentus
+[TAB] Lophophorus impejanus
+[TAB] Lophophorus lhuysii
+[TAB] Lophophorus sclateri
+[TAB] Lophura edwardsi
+[TAB] Lophura imperiales
+[TAB] Lophura swinhoii
+[TAB] [TAB] Pavo muticus
+[TAB] [TAB] Polyplectron bicalcaratum
+[TAB] Polyplectron emphanum
+[TAB] [TAB] Polyplectron germaini
+[TAB] [TAB] Polyplectron malacense
+[TAB] Syrmaticus ellioti
+[TAB] Syrmaticus humiae
+[TAB] Syrmaticus Mikado
+[TAB] Tetraogallus caspius
+[TAB] Tetraogallus tibetanus
+[TAB] Tragopan blythii
+[TAB] Tragopan caboti
+[TAB] Tragopan melanocephalus
+GRUIFORMES
+Gruidae [TAB] [TAB] Balearica regulorum
+[TAB] Grus americana
+[TAB] Grus canadensis nesiotes
+[TAB] [TAB] Gras canadensis pratensis
+[TAB] Grus canadensis pulla
+[TAB] Grus japonensis
+[TAB] Grus leucogeranus
+[TAB] Crus monacha
+[TAB] Grus nigricollis
+[TAB] Grus vipio
+Rallidae [TAB] [TAB] Gallirallus australis hectori
+[TAB] Tricholimnas sylvestris
+Rhynochetidae [TAB] Rhynochetos jubatus
+Otididae [TAB] [TAB] Chlamydotis undulada
+[TAB] Eupodotis bengalensis [TAB] Choriotis nigriceps
+[TAB] [TAB] Otis fordo
+CHARADRIIFORMES
+Scolopacidae [TAB] Numenius borealis
+[TAB] [TAB] Numenius minutes
+[TAB] [TAB] Numenius tenuirostris
+[TAB] Tringa guttifer
+Laridae [TAB] [TAB] Larus brunneicephalus
+[TAB] Larus relictus
+COLUMBIFORMES
+Columbidae [TAB] [TAB] Caloenas nicobarica pelewensis
+[TAB] Ducula mindorensis
+[TAB] [TAB] Gallicolumba luzonica
+[TAB] [TAB] Goura cristata
+[TAB] [TAB] Goura scheepmakeri
+[TAB] [TAB] Goura victoria
+[TAB] I [TAB] II
+PSITTACIFORMES
+Psittacidae [TAB] Amazona guildingii
+[TAB] Amazona imperialis
+[TAB] Amazona leucocephala
+[TAB] Amazon pretrei pretrei
+[TAB] Amazona rhodocorytha
+[TAB] Amazona versicolor
+[TAB] Amazona vinacea
+[TAB] Amazon vittata
+[TAB] Anodorhynchus glaucus
+[TAB] Anodorhynchus leari
+[TAB] Aratinga guaruba
+[TAB] [TAB] Cacatua (Kakatoe) tenuirostris
+[TAB] [TAB] Calyptorhynchus lathami
+[TAB] [TAB] Coracopsis nigra barklyi
+[TAB] Cyanopsitta spixii
+[TAB] Cyanoramphus auriceps forbesi
+[TAB] [TAB] Cyanoramphus malherbi
+[TAB] Cyanoramphus novaezelandiae
+[TAB] [TAB] Cyanoramphus unicolor
+[TAB] [TAB] Eunymphicus cornutus
+[TAB] Geopsittacus occidentalis
+[TAB] Neophema chrysogaster
+[TAB] [TAB] Neophema splendida
+[TAB] [TAB] Opopsitta diophtalma coxeni
+[TAB] Pezoporus wallicus
+[TAB] Pionopsitta pileata
+[TAB] [TAB] Poicephalus robustus
+[TAB] [TAB] Polytelis alexandrae
+[TAB] [TAB] Probosciger aterrimus
+[TAB] [TAB] Prosopeia personata
+[TAB] Psephotus chrysopterygius
+[TAB] [TAB] Psephotus (Northiella) hamaetogaster narethae
+[TAB] Psephotus pulcherrimus
+[TAB] Psittacula krameri echo
+[TAB] Psittacus erithacus princeps
+[TAB] Pyrrhura cruentata
+[TAB] Rhynchopsitta pachyrhyncha
+[TAB] Strigops habroptilus [TAB] Tanygnthus lucionensis
+CUCULIFORMES
+Musophagidae [TAB] [TAB] Gallirex porphyreolophus
+[TAB] [TAB] Tauraco corythaix
+STRIGIFORMES
+Tytonidae [TAB] Tyto soumagnei
+Strigidae [TAB] [TAB] Bubo bubo
+[TAB] Ninox novaeseelandiae royana
+[TAB] Ninox squamipila natalis
+[TAB] [TAB] Nyctea scandiaca
+[TAB] Otus gurneyi
+[TAB] [TAB] Otus nudipes newton
+[TAB] [TAB] Strix butlerl
+APODIFORMES
+Trochilidae [TAB] Ramphodon dohrnii
+TROGONIFORMES
+Trogonidae [TAB] Pharomachrus mocinno costaricensis
+[TAB] Pharomachrus mocinno mocinno
+CORACIIFORMES
+Bucerotidae [TAB] [TAB] Aceros narcondami
+[TAB] [TAB] Buceros blcornis
+[TAB] [TAB] Buceros hydrocorax hydrocorax
+[TAB] [TAB] Buceros rhinoceros rhinoceros
+[TAB] Rhinoplax vigil
+PICIFORMES
+Picidae [TAB] Campephilus imperialis
+[TAB] Dryocopus javensis richardsi
+[TAB] [TAB] Picus squamatus flavirostris
+[TAB] I [TAB] II
+PASSERIFORMES
+Pittidae [TAB] [TAB] Pitta brachyura nympha
+[TAB] Pitta kochi
+Cotingidae [TAB] Cotinga maculata
+[TAB] [TAB] Rupicola peruviana
+[TAB] [TAB] Rupicola rupícola
+[TAB] Xipholena atro-purpurea
+Atrichornithidae [TAB] Atrichornis calmosa
+Hirundinidae [TAB] [TAB] Pseudochelidon sirintarae
+Muscicapidae [TAB] Amytornis goyderi
+[TAB] Dasyornis brachypterus longirostris
+[TAB] Dasyornis broadbenti littoralis
+[TAB] [TAB] Muscicapa ruecki
+[TAB] Picathartes gymnocephalus
+[TAB] Picathartes oreas
+[TAB] Psophodes nigrogularis
+Zosteropidae [TAB] Zosterops albogularis
+Meliphagidae [TAB] Meliphaga cassidix
+Fringillidae [TAB] Spinus cued/at us
+[TAB] [TAB] Spinus yarrellii
+Sturnidae [TAB] Leucopsar rothschildi
+Paradisaeidae [TAB] [TAB] Paradisaeidae spp.
+Amphibia
+URODELA
+Cryptobranchidae [TAB] Andrias (= Megalobatrachus) davidianus
+[TAB] Andrias (= Megalobatrachus) japonicus
+Ambystomidae [TAB] [TAB] Ambystoma dumerilii
+[TAB] [TAB] Ambystoma lermaensis
+[TAB] [TAB] Ambystoma mexicanum
+SALIENTIA
+Bufonidae [TAB] Bufo periglenes
+[TAB] [TAB] Bufo retiformis
+[TAB] Bufo superciliaris
+[TAB] Nectophrynoides spp.
+Atelopodidae [TAB] Ate%pus varius zeteki
+Reptilia
+TESTUDINATA
+Emydidae [TAB] Batagur baska
+[TAB] [TAB] Clemmys muhlenbergi
+[TAB] Geoclemys (= Damonia) hamiltonii
+[TAB] Geoemyda (= Nicoria) tricarinata
+[TAB] Kachuga tecta tecta
+[TAB] Morenia ocellata
+[TAB] Terrapene coahuila
+Testudinidae [TAB] [TAB] Testudinidae spp.*
+[TAB] Geochelone (= Testudo) elephantopus
+[TAB] Geochelone (= Testudo) radiata
+[TAB] Geochelone (= Testudo) yniphora
+[TAB] Psammobates geometrica
+Cheloniidae [TAB] [TAB] Cheloniidae spp.
+[TAB] Caretta caretta
+[TAB] Chelonia mydas -103
+[TAB] Eretmochelys imbricate
+[TAB] Lepidochelys kempii
+[TAB] Lepidochelys olivacea
+Dermochelyidae [TAB] Dermochelys coriacea
+Trionychidae [TAB] Lissemys punctata punctata
+[TAB] Trionyx ater
+[TAB] Trionyx gangeticus
+[TAB] Trionyx hurum
+[TAB] Trionyx nigricans
+Pelomedusidae [TAB] [TAB] Podocnemis spp.
+Chelidae [TAB] Pseudemydura umbrina
+[TAB] I [TAB] II
+CROCODYLIA
+Alligatoridae [TAB] [TAB] Alligatoridae spp.*
+[TAB] Alligator mississippiensis
+[TAB] Alligator sinensis
+[TAB] Caiman crocodilus apaporiensis
+[TAB] Caiman latirostris
+[TAB] Melanosuchus niger
+Crocodylidae [TAB] [TAB] Crocodylidae spp.*
+[TAB] Crocodylus cataphractus
+[TAB] Crocodylus intermedius
+[TAB] Crocodylus moreletli
+[TAB] Crocodylus niloticus
+[TAB] Crocodylus novaeguineae mindorensis
+[TAB] Crocodylus palustris
+[TAB] Crocodylus rhombifer
+[TAB] Crocodylus siamensis
+[TAB] Osteolaemus tetraspis
+[TAB] Tomisloma schlegelii
+Gavialidae [TAB] Gavialis gangeticus
+RHYNCHOCEPHALIA
+Sphenodontidae [TAB] Sphenodon punctatus
+SAURIA
+Gekkonidae [TAB] [TAB] Cyrtodactylus serpensinsula
+[TAB] [TAB] Phelsuma spp.
+Pygopodidae [TAB] [TAB] Paradelma orientalis
+Agamidae [TAB] [TAB] Uromastyx spp.
+Chamaeleonidae [TAB] [TAB] Chamaeleo spp.
+Iguanidae [TAB] [TAB] Amblyrhynchus cristatus
+[TAB] [TAB] Conolophus spp.
+[TAB] [TAB] Cyclura spp.
+[TAB] [TAB] Iguana spp.
+[TAB] [TAB] Phrynosoma coronatum blainvillei
+Teiidae [TAB] [TAB] Cnemidophorus hyperythrus
+[TAB] [TAB] Crocodilurus lacertinus
+[TAB] [TAB] Dracaena guianensis
+[TAB] [TAB] Tupinambis spp.
+Helodermatidae [TAB] [TAB] Heloderma spp.
+Varanidae [TAB] [TAB] Varanus spp.*
+[TAB] Varanus bengalensis
+[TAB] Varanus flavescens
+[TAB] Varanus griseus
+[TAB] Varanus komodoensis
+SERPENTES
+Boidae [TAB] [TAB] Boidae spp.
+[TAB] Acrantophis spp.
+[TAB] Bolyeria spp.
+[TAB] Casarea spp.
+[TAB] Epicrates inornatus
+[TAB] Epicrates sub/lams
+[TAB] Python molurus molurus
+[TAB] Sanzinia madagascariensis
+Colubridae [TAB] [TAB] Cyclagras gigas
+[TAB] [TAB] Elachistodon westermanni
+[TAB] [TAB] Pseudoboa cloelia
+[TAB] [TAB] Thamnophis elegans hammondi
+Pises
+ACIPENSERIFORMES
+Acipenseridae [TAB] Acipenser brevirostrum
+[TAB] [TAB] Acipenser fulvescens
+[TAB] Acipenser osyrhynchus
+[TAB] [TAB] Acipenser sturio
+JSTEOGLOSSIFORMES
+Dsteoglossidae [TAB] [TAB] Arapaima gigas
+[TAB] Scleropages formosus
+[TAB] I [TAB] II
+SALMONIFORMES
+Salmonidae [TAB] Coregonus alpenae
+[TAB] [TAB] Salmo chrysogaster
+[TAB] [TAB] Stenodus leucichthys leucichthys
+CYPRINIFORMES
+Catostomidae [TAB] Chamistes cujus
+Cyprinidae [TAB] [TAB] Plagopterus argentissimus
+[TAB] Probarbus jullieni
+[TAB] [TAB] Ptychocheilus lucius
+SILURIFORMES
+Schilbeidae [TAB] Pangasianodon gigas
+ATHERINIFORMES
+Cyprinodontidae [TAB] [TAB] Cynolebias constanciae
+[TAB] [TAB] Cynolebias marmoratus
+[TAB] [TAB] Cynolebias minimus
+[TAB] [TAB] Cynolebias opalescens
+[TAB] [TAB] Cynolebias splendens
+Poeciliidae [TAB] [TAB] Xiphophorus couchianus
+PERCIFORMES
+Percidae [TAB] Sti:ostedion vitreum glaucum
+Sciaenidae [TAB] Cynoscion macdonaldi
+COELACANTHIFORMES
+Coelacanthidae [TAB] [TAB] Latimeria chalumnae
+CERATODIFORMES
+Ceratodidae [TAB] [TAB] Neoceratodus forsteri
+Mollusca
+NAIADOIDA
+Unionidae [TAB] Conradilla caelata
+[TAB] [TAB] Cyprogenia aberti
+[TAB] Dromus dromas
+[TAB] Epioblasma (= Dysnomia) florentina curtisi
+[TAB] Epioblasma (= Dysnomia) florentina florentina
+[TAB] Epioblasma (= Dysnomia) sampsoni
+[TAB] Epioblasma (= Dysnomia) sulcata perobliqua
+[TAB] Epioblasma (= Dysnomia) torulosa gubernaculum
+[TAB] [TAB] Epioblasma (= Dysnomia) torulosa rangiana
+[TAB] Epioblasma (Dysnomia) torulosa torulosa
+[TAB] Epioblasma (= Dysnomia) turgidula
+[TAB] Epioblasma (=Dysnomia) walkeri
+[TAB] Fusconaia cuneolus
+[TAB] Fusconaia edgariana
+[TAB] [TAB] Fusconaia subrotunda
+[TAB] [TAB] Lampsilis brevicula
+[TAB] Lampsilis higginsi
+[TAB] Lampsilis orbiculata orbiculata
+[TAB] Lampsilis satura
+[TAB] Lampsilis virescens
+[TAB] [TAB] Lexingtonia dolabelloides
+[TAB] [TAB] Pleorobema clava
+[TAB] Plethobasis cicatricosus
+[TAB] Plethobasis cooperianus
+[TAB] Pleurobema plenum
+[TAB] Potamilus (=Proptera) capax
+[TAB] Quadrula intermedia
+[TAB] Quadrula sparsa
+[TAB] Toxolasma (= Carunculina) cylindrella
+[TAB] Unio (Megalonaias/?/) nickliniana
+[TAB] Unio (Lampsilis/?/) tampicoensis tecomatensis
+[TAB] Villosa (= Micromya) trabalis
+STYLOMMATOPHORA
+Camaenidae [TAB] [TAB] Papustyla (=Papuina) pulcherrima
+Paraphantidae [TAB] [TAB] Paraphanta spp. +207
+[TAB] I [TAB] II
+PROSOBRANCHIA
+Hydrobiidae [TAB] [TAB] Coahuilix hubbsi
+[TAB] [TAB] Cochliopina milleri
+[TAB] [TAB] Durangonella coahullae
+[TAB] [TAB] Mexipyrgus carranzae
+[TAB] [TAB] Mexipyrgus churinceanus
+[TAB] [TAB] Mexipyrgus escobedae
+[TAB] [TAB] Mexipyrgus lugoi
+[TAB] [TAB] Mexipyrgus mojarralis
+[TAB] [TAB] Mexipyrgus mu/tilineatus
+[TAB] [TAB] Mexithauma quadripaludium
+[TAB] [TAB] Nymphophilus minckleyi
+[TAB] [TAB] Paludiscala caramba
+Insecta
+LEPIDOPTERA
+Papilionidae [TAB] [TAB] Ornithoptera alexandrae
+[TAB] [TAB] Ornithoptera allotei
+[TAB] [TAB] Ornithoptera chimaera
+[TAB] [TAB] Ornithoptera goliath
+[TAB] [TAB] Ornithoptera meridionalis
+[TAB] [TAB] Ornithoptera paradisea
+[TAB] [TAB] Ornithoptera victoriae
+[TAB] [TAB] Parnassius apollo
+FLORA
+APOCYNACEAE [TAB] [TAB] Pachypodium spp.
+ARACEAE [TAB] Alocasia sanderana
+[TAB] Alocasia zebrina
+ARALIACEAE [TAB] [TAB] Panax quinquefolius &gt;1
+ARAUCARIACEAE [TAB] [TAB] Araucaria araucana &gt;2
+CACTACEAE [TAB] [TAB] CACTACEAE spp. +208
+[TAB] [TAB] Rhipsalis spp.
+CARYOCARACEAE [TAB] Caryocar costarricense
+CARYOPHYLLACEAE [TAB] Gymnocarpos przewalskii
+[TAB] Melandrium mongolicus
+[TAB] Silene mongolica
+[TAB] Stellaria pulvinata
+COMPOSITAE [TAB] [TAB] Saussurea lappa &gt;1
+CUPRESSACEAE [TAB] Fitzroya cupressoides
+[TAB] Pilgerodendron uviferum
+CYATHEACEAE [TAB] [TAB] CYATHEACEAE spp. &gt; 3
+CYCADACEAE [TAB] [TAB] CYCADACEAE spp.*
+[TAB] Microcycas calocoma
+DICKSONIACEAE [TAB] [TAB] DICKSONIACEAE spp. &gt; [TAB] 3
+DIDIEREACEAE [TAB] [TAB] DIDIEREACEAE spp.
+DIOSCOREACEAE [TAB] [TAB] Dioscorea deltoidea &gt; 1
+EUPHORBIACEAE [TAB] [TAB] Euphorbia spp. -104
+FAGACEAE [TAB] [TAB] Quercus copeyensis &gt;2
+GENTIANACEAE [TAB] Prepusa hookeriana
+HUMIRIACEAE [TAB] Vantanea barbourii
+JUGLANDACEAE [TAB] Engelhardlia pterocarpa
+LEGUMINOSAE [TAB] Ammoplptanthus mongolicum
+[TAB] Cynometra hemitomophylla
+[TAB] Platymiscium pleiostachyum
+[TAB] Tachigalia versicolor
+[TAB] [TAB] Thermopsis mongolica
+LILIACEAE [TAB] [TAB] Aloe spp.*
+[TAB] Aloe albida
+[TAB] Aloe pillansil
+[TAB] Aloe polyphylla
+[TAB] Aloe thorncropftii
+[TAB] Aloe vossii
+MELASTOMATACEAE [TAB] Lavoisiera itambana
+[TAB] I [TAB] II
+MELIACEAE [TAB] Guarea longipetiola
+[TAB] [TAB] Swietenia humilis &gt;2
+MORACEAE [TAB] Batocarpus costaricensis
+ORCHIDACEAE [TAB] [TAB] ORCHIDACEAE spp.*
+[TAB] Cattleya skinneri
+[TAB] Cattleya trianae
+[TAB] Didiciea cunninghamii
+[TAB] Laelia jongheana
+[TAB] Laelia lobata
+[TAB] Lycaste virginalis var. alba
+[TAB] Peristeria elata
+PALMAE [TAB] [TAB] Areca ipot
+[TAB] [TAB] Chrysalidocarpus decipiens
+[TAB] [TAB] Chrysalidocarpus lutescens
+[TAB] [TAB] Neodypsis decaryi
+[TAB] [TAB] Phoenix hanceana var. philippinensis
+[TAB] [TAB] Zalacca clemensiana
+PINACEAE [TAB] Abies guatemalensis
+[TAB] Abies nebrodensis
+PODOCARPACEAE [TAB] Podocarpus cbstalis
+[TAB] Podocarpus parlatorei
+PORTULACACEAE [TAB] [TAB] Anacampseros spp.
+PRIMULACEAE [TAB] [TAB] Cyclamen spp.
+PROTEACEAE [TAB] Orotharnnus zeyheri
+[TAB] Protea odorata
+RUBIACEAE [TAB] Balmea stormae
+SAXIFRAGACEAE (GROSSULARIACEAE) Ribes sardoum
+SOLANACEAE [TAB] [TAB] Solanum sylvestre
+STANGERIACEAE [TAB] [TAB] STANGERIACEAE spp.*
+[TAB] Stangeria eriopus
+STERCULIACEAE [TAB] [TAB] Basiloxylon excelsum &gt;2
+ULMACEAE [TAB] Celtis aetnensis
+VERBENACEAE [TAB] [TAB] Caryopteris mongolica
+WELWITSCHIACEAE [TAB] [TAB] WELWITSCHIACEAE spp.
+[TAB] Welwitschia bainesii
+ZAMIACEAE [TAB] [TAB] ZAMIACEAE spp.*
+[TAB] Encephalartos spp.
+ZINGIBERACEAE [TAB] Hedychium philippinense
+ZYGOPHYLLACEAE [TAB] [TAB] Guaiacum sanctum &gt;2 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

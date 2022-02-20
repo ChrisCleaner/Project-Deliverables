@@ -1,0 +1,160 @@
+
+ Amendments of 1993 To The Technical Annex Of The Protocol To The Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Nitrogen Oxides Or Their Transboundary Fluxes   
+     Filename: 1993-AmendmentTechnicalAnnex-1988-ProtocolNitrogenOxides-1979-EuropeanTransboundaryAirPollution.SP.txt 
+ Source: http://www.glin.gov/view.action?glinID=47423     
+    ﻿ Amendments of 1993 To The Technical Annex Of The Protocol To The Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Nitrogen Oxides Or Their Transboundary Fluxes
+ Source: http://www.glin.gov/view.action?glinID=47423, downloaded 20120503
+ ORGANO EJECUTIVO DEL CONVENIO SOBRE CONTAMINACION ATMOSFERICA TRANSFRONTERIZA A GRAN DISTANCIA
+ (Undécima sesión, Ginebra, 30 de noviembre-3 de diciembre de 1993)
+ Punto 4 del orden del día provisional
+ ANEXO TECNICO AL PROTOCOLO DE SOFIA DE 1988
+ Introducción y primera parte: Técnicas de lucha contra las emisiones de óxidos de nitrógeno provenientes de fuentes fijas
+ Introducción
+ 1. El anexo tiene por objeto proporcionar orientaciones a las Partes en el Convenio, con vistas a determinar las opciones y técnicas de lucha contra la emisión de óxidos de nitrógeno que les permitan cumplir con sus obligaciones en concepto del Protocolo.
+ 2. El anexo se basa en la información referente a las opciones y técnicas relativas a la reducción de las emisiones de NOx, así como en los resultados y costes de dichas opciones y técnicas, que figuran en la documentación oficial del órgano ejecutivo del Convenio y del Comité de Transportes Interiores de la Comunidad Económica Europea y de sus órganos subsidiarios.
+ 3. El anexo contempla la lucha contra las emisiones de NOx consideradas como el total de óxido de nitrógeno (NO) y de dióxido de nitrógeno (NO2) expresado en NO2, y presenta algunas medidas y técnicas de reducción que engloban una amplia gama de costes y de grados de eficacia. Salvo indicación en contrario, éstas serán consideradas como técnicas bien establecidas, ya que se basan en una importante experiencia práctica adquirida, en la mayoría de los casos, a lo largo de cinco años o más. No se trata, sin embargo, de una exposición exhaustiva de los medios de lucha posibles; el objetivo es ayudar a las Partes a identificar las mejores técnicas disponibles que sean económicamente aplicables en tanto que base para unas normas nacionales de emisión, y a introducir medidas anticontaminación.
+ 4. La selección de las medidas a aplicar en tal o cual caso depende de diversos factores, fundamentalmente la legislación y las disposiciones reglamentarias pertinentes, la composición de las energías primarias, la infraestructura industrial y la coyuntura económica de la Parte afectada y, en el caso de las fuentes fijas, el estado de la instalación. Conviene recordar que, con frecuencia, las fuentes de NOx son también fuentes de otros contaminantes, como por ejemplo los óxidos de azufre (SOx), determinados compuestos volátiles (COV) y partículas. En el diseño de los medios de lucha posibles, todas las emisiones de contaminantes deben ser tenidas en cuenta, con objeto de que el efecto global de reducción sea máximo y los daños producidos en el medio ambiente por la fuente en cuestión sean mínimos.
+ 5. El anexo tendrá en cuenta el estado de los conocimientos y de los datos experimentales sobre las medidas de lucha contra los NOx, incluida la adaptación a posteriori, en 1992, en el caso de fuentes fijas y, en 1991, en el de las fuentes móviles. Con estos conocimientos y estos datos experimentales se desarrollan constantemente, el anexo debe ser actualizado y modificado regularmente.
+ Técnicas de lucha contra las emisiones de NOx proveniente de fuentes fijas
+ 6. La combustión de combustibles fósiles es la principal fuente de origen humano de emisiones de NOx proveniente de fuentes fijas. Además, algunas operaciones diferentes de la combustión pueden contribuir considerablemente a estas emisiones, Según el EMEP/CORINAIR '90, las grandes categorías de fuentes fijas de emisión de NO son la siguientes:
+ a) Centrales eléctricas públicas, instalaciones mixtas e instalaciones de calefacción urbana:
+ i) calderas;
+ ii) turbinas fijas y motores de combustión interna.
+ b) Instalaciones de combustión comerciales, institucionales y residenciales:
+ i) calderas comerciales;
+ ii) aparatos de calefacción doméstica.
+ c) Instalaciones de combustión industriales y procedimientos de combustión:
+ i) calderas y hornos de calentamiento (no hay contacto directo entre los gases de conductos y los productos);
+ ii) procedimientos (contacto directo) (calcinación en horno rotativo, fabricación de cemento, cal, vidrio, pasta de papel, etc., metalurgia).
+ d) Operaciones distintas de la combustión, por ejemplo, producción de ácido nítrico.
+ e) Extracción, transformación y distribución de combustibles fósiles.
+ f) Tratamiento y eliminación de residuos (incineración de basura doméstica y desechos industriales, etc.).
+ 7. En la región de la Comunidad Económica Europea, los procedimientos de combustión (categorías a), b), c) y d)) representan el 85 por 100 de las emisiones de NOx provenientes de fuentes fijas; las operaciones distintas de la combustión, como por ejemplo los procedimientos de fabricación, el 12 por 100, y la extracción, la transformación y la distribución de combustibles fósiles, el 3 por 100. Si bien en muchos países miembros de la Comunidad Económica Europea/Organización de Naciones Unidas, son las centrales eléctricas [categoría a)] las que más contribuyen a las emisiones de NOx provenientes de fuentes fijas, la principal fuente de emisión de óxidos de nitrógeno es, por lo general, la circulación vial, aunque la importancia relativa de estas diferentes fuentes varía según las Partes en el Convenio. Es necesario tener en cuenta también las fuentes industriales.
+ Medios generales para reducir las emisiones de NOx debidas a la combustión
+ 8. Los medios generales para reducir los NOx son (1):
+ a) Medidas de gestión de la energía:
+ i) ahorros de energía;
+ ii) combinación de energías.
+ b) Medios técnicos:
+ i) sustitución/depuración de los combustibles;
+ ii) otras técnicas de combustión;
+ iii) modificación de los procedimientos y del modo de combustión;
+ iv) tratamiento de los gases de conductos.
+ 9. Para realizar el programa más eficaz posible de reducción de NOx, aparte de las medidas enumeradas en a), conviene prever una combinación de los medios técnicos indicados en b). La combinación de la modificación del modo de combustión y del tratamiento de los gases de conductos requiere una evaluación particular in situ.
+ 10. En ciertos casos, reduciendo las emisiones de NOx, se consigue también reducir las de CO2, SO2 y demás contaminantes.
+ Ahorros de energía
+ 11. La utilización racional de la energía (mejora de la eficacia energética y de los procedimientos, producción combinada calor-electricidad y/o gestión de la demanda) implica generalmente una reducción de las emisiones de NOx.
+ Combinación de energías
+ 12. En general, se pueden reducir las emisiones de NOx aumentando la parte de las energías que no requieren combustión (hidráulica, nuclear, eólica, etc.). Pero hay que tener en cuenta que se pueden producir otros daños en el medio ambiente.
+ Sustitución/depuración de los combustibles
+ 13. El cuadro 1 resume los volúmenes de emisiones de NOx sin descontaminación que pueden esperarse de la combustión de combustibles fósiles en los diferentes sectores.
+ 14. La sustitución de combustibles (por ejemplo, combustibles ricos en nitrógeno por combustibles pobres en nitrógeno, o carbón por gas) puede provocar una disminución de las emisiones de NOx, pero puede encontrarse con ciertas dificultades, como por ejemplo la de obtener combustibles que emitan poco NOx (gas natural en las fábricas, etc.) o la adaptabilidad de los hornos existentes a otros combustibles. En muchos países de la Comunidad Económica Europea/Organización de las Naciones Unidas, se están sustituyendo instalaciones que funcionan con carbón o con hidrocarburos por instalaciones de gas.
+ 15. La extracción de nitrógeno contenido en los combustibles no es rentable. Sin embargo, la creciente utilización de la tecnología del craqueo en las refinerías permite reducir también el porcentaje de nitrógeno en los productos finales.
+ Otras técnicas de combustión
+ 16. Se trata de técnicas de combustión cuyo rendimiento térmico ha sido mejorado y que emiten menos NOx:
+ a) Producción combinada de calor-electricidad por medio de turbinas y de motores de gas.
+ b) Combustión en lecho fluidizado (CLF), lecho en ebullición (CLFB) y lecho circulante (CLFC).
+ c) Ciclo combinado con gasificación integrada (CCGI).
+ d) Turbinas de gas para ciclo combinado (TGCC).
+ 17. Los volúmenes de las emisiones correspondientes a estas técnicas vienen resumidos en le cuadro 1.
+ 18. También es posible integrar las turbinas de combustión fijas en las centrales eléctricas tradicionales (fraccionamiento), lo que permite mejorar el rendimiento general entre un 5 y un 6 por 100, pero la reducción de NOx realizable depende de las características de la planta y del combustible. Las turbinas y los motores de gas se utilizan ampliamente para la producción mixta. Por regla general, la economía de energía puede alcanzar un 30 por 100 aproximadamente. En ambos casos, la aplicación de nuevos conceptos en cuanto a técnicas de combustión y la tecnología de los sistemas han permitido reducir sensiblemente las emisiones de NOx. Esta integración requiere, sin embargo, una modificación profunda del sistema de calderas.
+ 19. La CLF es una técnica de combustión adaptada a la hulla y al lignito, pero también puede funcionar con otros combustibles sólidos, como son el coque de petróleo y con combustibles pobres (residuos, turba y madera). Además, se pueden reducir las emisiones integrando en el sistema un dispositivo de regulación de la combustión. Una forma de CLF más moderna es la combustión en lecho fluidizado bajo presión (CLFP) que se comercializa actualmente para la producción de electricidad y de calor. La potencia instalada total en CLF es de cerca de 30.000 MWth (250 a 350 instalaciones), de los cuales 8.000 MWth se encuentran en el tramo de los más de 50 MWth.
+ 20. El CCGI comprende la gasificación del carbón y la producción de electricidad en ciclo combinado en una turbina de gas y de vapor. El carbón gasificado se quema en la cámara de combustión de la turbina de gas. Esta técnica se aplica también a los residuos de aceite pesado y a la emulsión de betún. La potencia instalada es actualmente de unos 1.000 MWel (cinco instalaciones).
+ 21. Se están estudiando actualmente centrales de gas de ciclo combinado que funcionan por medio de turbinas de gas perfeccionadas, y tienen un rendimiento energético de un 48-52 por 100 y una menor emisión de NOx.
+ Modificación de los procedimientos y del modo de combustión
+ 22. Se trata de medidas aplicables durante la combustión para reducir la formación de NOx: Ajuste de la tasa de aire de combustión, de la temperatura de la llama, de la relación combustible/aire, etc. Es posible aplicar las técnicas de combustión enumeradas a continuación, de manera individual o colectiva, tanto en instalaciones nuevas como en instalaciones existentes. Están muy extendidas en el sector de las centrales eléctricas y en ciertos ámbitos del sector industrial:
+ a) Combustión con reducido exceso de aire (2).
+ b) Precalentamiento de aire reducido (2).
+ c) Quemador fuera de servicio (2).
+ d) Encendido polarizado del quemador (2).
+ e) Quemadores de baja emisión de NOx (2) y (3).
+ f) Recirculación de los gases de combustión (3).
+ g) Combustión de aire adicional (2) y (3).
+ h) Recombustión por reducción de los NOx en el horno (4).
+ i) Inyección de agua/vapor y utilización combinada de combustibles pobres previamente mezclados (5).
+ 23. Los volúmenes de las emisiones resultantes de la aplicación de estas técnicas (calculados sobre todo a partir de la experiencia de las centrales eléctricas) están resumidos en el cuadro 1.
+ 24. Las modificaciones del modo de combustión son objeto permanente de estudios y medidas de optimización. La reducción de los NOx en el horno está siendo ensayada en algunas grandes instalaciones de demostración, y las modificaciones básicas del modo de combustión son incorporadas principalmente en el diseño de las calderas y de los quemadores. Por ejemplo, los modelos de hornos modernos comprenden unos orificios para la combustión de aire adicional, y los quemadores de gas/aceite están equipados con un sistema de recirculación de los gases de conductos. La última generación de quemadores de baja emisión de NOx combina el escalonamiento del aire y el escalonamiento del combustible. Estos últimos años, la readaptación completa de las instalaciones para la incorporación de las modificaciones aportadas al modo de combustión se ha incrementado mucho en los países miembros de la Comunidad Económica Europea/Organización de las Naciones Unidas. En 1992, la capacidad instalada totalizaba alrededor de 150.000 MW.
+ Tratamiento de los gases de conducto
+ 25. Los procedimientos de tratamiento de los gases de conducto tienen por objeto la extracción de los NOx que ya se han formado; por esto es por lo que, a este respecto, se habla también de medidas secundarias. Normalmente, para reducir las emisiones de NOx, se empieza, todas las veces que sea posible, por adoptar medidas primarias antes de proceder al tratamiento de los gases de conducto. Todos los conocimientos actuales en materia de tratamiento de gases de conducto se basan en la extracción de NOx mediante procedimientos químicos vía seca.
+ 26. Se trata de los siguientes procedimientos:
+ a) Reducción catalítica selectiva.
+ b) Reducción no catalítica selectiva.
+ c) Extracción combinada de NOx y de SOx:
+ i) carbón activo;
+ ii) extracción catalítica combinada de NO y de SO.
+ 27. Las emisiones resultantes de la aplicación de las técnicas de reducción catalítica y no catalítica selectiva vienen resumidas en el cuadro 1. Los valores proceden de la experiencia práctica adquirida en un gran número de instalaciones en funcionamiento. En 1991, en la parte europea de la Comunidad Económica Europea/Organización de las Naciones Unidas, se han montado unas 130 instalaciones de reducción catalítica selectiva que totalizan 50.000 MWel, 12 instalaciones de reducción no catalítica selectiva (2.000 MWel), una instalación de carbón activado (250 MWel) y dos procedimientos catalíticos combinados (400 MWel). El rendimiento de depuración de NO del carbón activo y de los procedimientos catalíticos combinados es comparable al de la reducción catalítica selectiva.
+ 28. El cuadro 1 resume también los costes de la aplicación de las técnicas de reducción de los NOx.
+ Técnicas de lucha para otros sectores
+ 29. Contrariamente a la mayoría de los procedimientos de combustión, la introducción en el sector industrial de modificaciones aportadas al modo de combustión y/o a los procedimientos se enfrenta a numerosas limitaciones. En los hornos de cemento y en los hornos de fusión del vidrio, por ejemplo, son necesarias altas temperaturas para garantizar la calidad del producto. Las modificaciones corrientes del modo de combustión son la introducción de quemadores de combustión escalonada que desprenden poco NOx, la recirculación de los gases de conducto y la optimización del procedimiento (precalcinación en los hornos de cemento, etc.).
+ 30. El cuadro 1 presenta algunos ejemplos.
+ Efectos secundarios/subproductos
+ 31. Los efectos secundarios que se enumeran a continuación no impiden la aplicación de ninguna técnica o método, pero han de ser tenidos en cuenta cuando varios medios de reducción de NOx son posibles. Sin embargo, un buen diseño y un funcionamiento apropiado permiten generalmente limitarlos:
+ a) Modificaciones del modo de combustión:
+ eventual disminución del rendimiento general;
+ aumento de CO y de emisiones de hidrocarburos;
+ corrosión causada por la atmósfera reductora;
+ posible formación de N2O en los sistemas CLF;
+ posible incremento de cenizas volantes carbonadas.
+ b) Reducción catalítica selectiva:
+ presencia de NH3 en las cenizas volantes;
+ formación de sales de amonio en las instalaciones situadas río arriba;
+ desactivación del catalizador;
+ incremento de la conversión de SO2 en SO3.
+ c) Reducción no catalítica selectiva:
+ presencia de NH3;
+ formación de sales de amonio en las instalaciones situadas río arriba;
+ posible formación de N2O.
+ 32. En cuanto a los subproductos, los únicos que han de ser tenidos en cuenta son los catalizadores desactivados del procedimiento de reducción catalítica selectiva. En razón de su clasificación como residuos, la evacuación simple queda excluida; existen, no obstante, posibilidades de reciclarlos.
+ 33. La producción de reactivos (amoniaco, urea) para los procedimientos de tratamiento de los gases de conducto implica varias operaciones distintas que requieren energía y sustancias que entran en reacción. Los sistemas de almacenamiento del amoniaco están sometidos a una reglamentación de seguridad y están diseñados para un funcionamiento en circuito cerrado, lo que reduce al mínimo las emisiones de amoniaco. La utilización de NH3, sin embargo, no está incluida, aun teniendo en cuenta las emisiones indirectas ligadas a su producción y a su transporte.
+ Control y comunicación de los datos
+ 34. Las medidas adoptadas por los países para implantar sus estrategias y políticas de reducción de la contaminación atmosférica comprenden leyes y normativas, medidas económicas de fomento y de disuasión, así como requisitos técnicos (mejores técnicas disponibles).
+ 35. En general, se pueden establecer las normas de limitación de las emisiones por fuente de emisión en función del tamaño de la instalación, del modo operativo, de la técnica de combustión, del tipo de combustión y del hecho de que la instalación sea nueva o exista ya. Otra solución aplicada consiste en fijar un objetivo de reducción global de las emisiones de NOx de un grupo de fuentes y permitir a las partes elegir el sector de intervención apropiado para alcanzarlo (principio de la burbuja).
+ 36. La limitación de las emisiones de NOx a los niveles fijados por la legislación nacional debe ser sometida a un sistema permanente de control y de comunicación de datos, y los resultados deben ser notificados a las autoridades de vigilancia.
+ 37. Existen actualmente varios sistemas de control, basados en métodos de medición continua o discontinua. Las normas de calidad varían, sin embargo, de una Parte a otra. Las mediciones deben ser efectuadas por institutos cualificados y mediante sistemas de medición/control homologados. Con este fin, un sistema de homologación puede constituir la mejor garantía.
+ 38. Con los actuales sistemas de control automático y material de control, la comunicación de los datos no plantea problemas. Para su recogida con vistas a una utilización posterior, se utilizan las técnicas modernas. Sin embargo, los datos que se han de comunicar a las autoridades varían de una Parte a otra. Para mejorar la comparabilidad de los datos, deberían armonizarse las series y las normativas. La armonización serviría también para garantizar la calidad de los sistemas de medición/control. Esta necesidad debe ser tenida en cuenta cuando se comparan datos procedentes de las diferentes Partes.
+ 39. Para evitar las disparidades y los datos no comparables, es necesario definir correctamente los elementos y los parámetros esenciales, destacándose los siguientes puntos:
+ Las normas deben expresarse en ppmv, mg/m3, g/GJ, kg/t, de los productos. La mayoría de estas unidades deben calcularse y especificarse para la temperatura del gas, la humedad, la presión, el porcentaje de oxígeno y el valor de la aportación térmica.
+ Es importante definir el intervalo de tiempo que se va a considerar para expresar las normas en valores medios (horarios, mensuales, anuales).
+ Es necesario indicar la duración de las averías y la normativa aplicable para sortear los sistemas de vigilancia o prevenir la parada de una instalación.
+ Es necesario definir los métodos que permiten restituir los datos falsos o perdidos como consecuencia de una avería del material.
+ Es importante definir la serie de parámetros que se van a medir. Los datos requeridos pueden variar según el tipo de procedimiento industrial, lo que implica la necesidad de situar el punto de medición en el sistema.
+ 40. El control de calidad de las mediciones debe estar garantizado.
+ Notas:
+ (1) Los medios i), a) y b) están integrados en la estructura política energética de una Parte. Su grado de implantación, su eficacia y sus costes por sector no se examinan aquí.
+ (2) Medidas de readaptación típicas, de bajo rendimiento y de aplicabilidad limitada.
+ (3) Estado de los conocimientos en las instalaciones nuevas.
+ (4) Aplicación en grandes instalaciones industriales; experiencia práctica limitada por ahora.
+ (5) Para turbinas de combustión.
+ Notas al cuadro 1
+ 1. Emisiones en mg NO2/m3 (PTN seco) o en g/GJ de aportación térmica. Coeficientes de conversión (de mg/m3 a g/GJ) para las emisiones de NOx producidas por los siguientes combustibles: Carbón (hulla): 0,35; carbón (lignito): 0,42; aceite/gas: 0,277; turba: 0,5; madera con corteza: 0,588 (1 g/GJ = 3,6 mg/kWh).
+ 2. Inversiones totales: 1 ECU = 2 DM.
+ 3. Reducción conseguida generalmente en combinación con medidas primarias. Rendimiento de reducción del 80 al 95 por 100.
+ 4. Al 5 por 100 de O2.
+ 5. Al 6 por 100 de O2.
+ 6. Al 3 por 100 de O2.
+ 7. Incluidos los costes relacionados con la caldera.
+ 8. Al 7 por 100 de O2.
+ 9. Las emisiones de los procedimientos industriales se expresan generalmente en kg/t de producto.
+ 10. g/m2 de superficie.
+ 11. Al 11 por 100 de O2.
+ 12. Configuración gas de escape-reducción catalítica selectiva por oposiciones a un polvo concentrado.
+ 13. Al 15 por 100 de O2.
+ 14. Emulsión de betún.
+ 15. Sólo madera no tratada.
+ 16. Recuperación de calor y recirculación de gases.
+ 17. Materia seca: &lt; 75 por 100
+ 18. Con combustión suplementaria; NO térmico suplementario del orden de 0-20 g/GJ.
+ SO: Sin objeto.
+ X: Datos que carecen de utilidad, ya que las normas pueden respetarse sin que éstos se conozcan.
+ NC: Datos no conocidos (técnica aplicada, pero sin datos disponibles). 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

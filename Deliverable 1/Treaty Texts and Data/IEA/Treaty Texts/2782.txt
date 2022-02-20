@@ -1,0 +1,186 @@
+
+ Amendments To The International Convention For The Prevention Of Pollution Of The Sea By Oil   
+     Filename: 1969-Amendment-1954-OilPollution.EN.txt 
+ Source: http://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/treaties/ATS/1978/7.htm…     
+    ﻿Amendments to the International Convention for the Prevention of Pollution of the Sea by Oil
+Source: http://www.austlii.edu.au/au/other/dfat/treaties/1969/38.html and http://www.admiraltylawguide.com/conven/oilpolamend1969.html
+THE ASSEMBLY,
+RECALLING its Resolution A. 142(V) adopted on 26 October 1967 which it approved the work programme of the Organization in particular with respect to the possible need for amending the International Convention for the Prevention of Pollution of the Sea by Oil, 1954 in accordance with the conclusions of the third extraordinary session of the Council,
+RECALLING FURTHER its Resolution A.151(ES.IV) concerning proposals for amending Article X , Resolution A.153(ES.IV) concerning proposals for amending Articles IX and X, and Resolution A.155(ES.IV) concerning proposals for amending Article III of the Convention in sufficient time to permit their consideration by the Assembly at its next regular session,
+NOTING Article 16(i) of the Convention on the Inter-Governmental Maritime Consultative Organization, concerning the functions of the Assembly,
+NOTING FURTHER that Article XVI of the International Convention for the Prevention of Pollution of the Sea by Oil, 1954, provides for procedures of amendment involving participation by the Organization,
+HAVING CONSIDERED certain amendments to the International Convention for the Prevention of Pollution of the Sea by Oil, 1954, and the Annexes thereto, forming the subject of a recommendation adopted by the Maritime Safety Committee at its nineteenth session in accordance with Article XVI of that Convention with a view to preventing and controlling deliberate pollution of the sea by oil,
+RECALLING Resolution 1 of the International Conference on Prevention of Pollution of the Sea by Oil, 1962, concerning the complete avoidance, as soon as practicable, of the discharge of persistent oils into the sea and considering that the amendments to the Convention, as recommended by the Maritime Safety Committee, will enable significant progress to be made towards the ultimate achievement of complete avoidance of discharge,
+ADOPTS the following Amendments to the Articles and the Annexes to the Convention the texts of which are attached to this Resolution:
+(a) The replacement of paragraph ( 1) of Article I by a new paragraph;
+(b) the replacement of Article III, by a new Article;
+(c) the deletion of paragraph (c) of Article IV;
+(d) the replacement of Article V by a new Article;
+(e) the replacement of Article VII by a new Article;
+(f) the replacement of paragraphs (1) and (2) of Article IX by new paragraphs;
+(g) the replacement of paragraph (2) of Article X by a new paragraph;
+(h) the deletion of Annex A;
+(i) the replacement of Annex B by a new Annex;
+REQUESTS the Secretary-General of the Organization, in conformity with Article XVI(2)(a), to communicate, for consideration and acceptance, certified copies of this Resolution and its attachment, to all Contracting Governments to the International Convention for the Prevention of Pollution of the Sea by Oil, 1954, together with copies to all Members of the Organization, and
+INVITES all Governments concerned to accept the Amendments at the earliest possible date.
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION OF THE SEA BY OIL, 1954 AND ITS ANNEXES
+Article I
+The existing text of paragraph (1) is replaced by the following:
+(1) For the purposes of the present Convention, the following expressions shall (unless the context otherwise requires) have the meanings hereby respectively assigned to them that is to say: 'The Bureau' has the meaning assigned to it by Article XXI;
+'Discharge' in relation to oil or to oily mixture means any discharge or escape howsoever caused;
+'Heavy diesel oil' means diesel oil, other than those distillates of which more than 50 per cent by volume distils at a temperature not exceeding 340 degrees C. when tested by A.S.T.M. Standard Method D.86/59;
+'Instantaneous rate of discharge of oil content' means the rate of discharge of oil in litres per hour at any instant divided by the speed of the ship in knots at the same instant;
+'Mile' means a nautical mile of 6,080 feet or 1,852 metres;
+'Nearest land'. The term 'from the nearest land' means 'from the base-line from which the territorial sea of the territory in question is established in accordance with the Geneva Convention on the Territorial Sea and the Contiguous Zone, 1958';
+'Oil' means crude oil, fuel oil, heavy diesel oil and lubricating oil, and 'oily' shall be construed accordingly;
+'Oily mixture' means a mixture with any oil content;
+'Organization' means the Inter-Governmental Maritime Consultative Organization;
+'Ship' means any sea-going vessel of any type whatsoever, including floating craft, whether self-propelled or towed by another vessel, making a sea voyage; and 'tanker' means a ship in which the greater part of the cargo space is constructed or adapted for the carriage of liquid cargoes in bulk and which is not, for the time being, carrying a cargo other than oil in that part of its cargo space.
+Article III
+The existing text of Article III is replaced by the following:
+Subject to the provisions of Articles IV and V:
+(a) the discharge from a ship to which the present Convention applies, other than a tanker, of oil or oily mixture shall be prohibited except when the following conditions are all satisfied:
+(i) the ship is proceeding en route; (ii) the instantaneous rate of discharge of oil content does not exceed 60 litres per mile; (iii) the oil content of the discharge is less than 100 parts per 1,000,000 parts of the mixture; (iv) the discharge is made as far as practicable from land;
+(b) the discharge from a tanker to which the present Convention applies of oil or oily mixture shall be prohibited except when the following conditions are all satisfied:
+(i) the tanker is proceeding en route; (ii) the instantaneous rate of discharge of oil content does not exceed 60 litres per mile; (iii) the total quantity of oil discharged on a ballast voyage does not exceed 1/15,000 of the total cargo carrying capacity; (iv) the tanker is more than 50 miles from the nearest land;
+(c) the provisions of sub-paragraph (b) of this Article shall not apply to:
+(i) the discharge of ballast from a cargo tank which, since the cargo was last carried therein, has been so cleaned that any effluent therefrom, if it were discharged from a stationary tanker into clean calm water on a clear day, would produce no visible traces of oil on the surface of the water; or (ii) the discharge of oil or oily mixture from machinery space bilges, which shall be governed by the provisions of subparagraph (a) of this Article.
+Article IV
+Paragraph (c) is deleted.
+Article V
+The existing text of Article V is replaced by the following:
+Article III shall not apply to the discharge of oily mixture from the bilges of a ship during the period of twelve months following the date on which the present Convention comes into force for the relevant territory in accordance with paragraph (1) of Article II.
+Article VII
+The existing text of Article VII is replaced by the following:
+(1) As from a date twelve months after the present Convention comes into force for the relevant territory in respect of a ship in accordance with paragraph ( 1) of Article II, such a ship shall be required to be so fitted as to prevent, as far as reasonable and practicable, the escape of oil into bilges, unless effective means are provided to ensure that the oil in the bilges is not discharged in contravention of this Convention.
+(2) Carrying water ballast in oil fuel tanks shall be avoided if possible.
+Article IX
+The existing texts of paragraphs (1) and (2) are replaced by the following:
+(1) Of the ships to which the present Convention applies, every ship which uses oil fuel and every tanker shall be provided with an oil record book, whether as part of the ship's official log book or otherwise, in the form specified in the Annex to this Convention.
+(2) The oil record book shall be completed on each occasion, on n tank-to-tank basis, whenever any of the following operations take place in the ship:
+(a) for tankers:
+(i) loading of oil cargo; (ii) transfer of oil cargo during voyage; (iii) discharge of oil cargo; (iv) ballasting of cargo tanks; (v) cleaning of cargo tanks; (vi) discharge of dirty ballast; (vii) discharge of water from slop-tanks; (viii) disposal of residues; (ix) discharge overboard of bilge water containing oil which has accumulated in machinery spaces whilst in port, and the routine discharge at sea of bilge water containing oil unless the latter has been entered in the appropriate log book;
+(b) for ships other than tankers:
+(i) ballasting or cleaning of bunker fuel tanks; (ii) discharge of dirty ballast or cleaning water from tanks referred to under (i) of this sub-paragraph; (iii) disposal of residues; (iv) discharge overboard of bilge water containing oil which has accumulated in machinery spaces whilst in port, and the routine discharge at sea of bilge water containing oil unless the latter has been entered in the appropriate log book.
+In the event of such discharge or escape of oil or oily mixture as is referred to in Article IV, a statement shall be made in the oil record book of the circumstances of, and the reason for, the discharge or escape.
+Article X
+The existing text of paragraph (2) is replaced by the following:
+(2) Upon receiving such particulars, the Government so informed shall investigate the matter, and may request the other Government to furnish further or better particulars of the alleged contravention. If the Government so informed is satisfied that sufficient evidence is available in the form required by its law to enable proceedings against the owner or master of the ship to be taken in respect of the alleged contravention, it shall cause such proceedings to be taken as soon as possible. That Government shall promptly inform the Government whose official has reported the alleged contravention, as well as the Organization, of the action taken as a consequence of the information communicated.
+Annex A is deleted.
+Annex B is deleted and replaced by the following:
+ANNEX
+FORM OF OIL RECORD BOOK
+I - FOR TANKERS
+Name of ship ..................................
+Total cargo carrying capacity of ship in cubic metres ....................................
+(a) Loading of oil cargo
+1. Date and place of loading
+2. Types of oil loaded
+3. Identity of tank(s) loaded
+(b) Transfer of oil cargo during voyage
+4. Date of transfer
+5. Identity of tank(s)
+iFrom
+iiTo
+6. Was (were) tank(s) in 5(i) emptied?
+(c) Discharge of oil cargo
+7. Date and place of discharge
+8. Identity of tank(s) discharged
+9. Was (were) tank(s) emptied?
+(d) Ballasting of cargo tanks
+10. Identity of tank(s) ballasted
+11. Date and position of ship at start of ballasting
+(e) Cleaning of cargo tanks
+12. Identity of tank(s) cleaned
+13. Date and duration of cleaning
+14. Methods of cleaning*
+* Hand hosing, machine washing or chemical cleaning. Where chemically cleaned, the chemical concerned and the amount used should be stated.
+(f) Discharge of dirty ballast
+15. Identity of tank(s)
+16. Date and position of ship at start of discharge to sea
+17. Date and position of ship at finish of discharge to sea
+18. Ship's speed(s) during discharge
+19. Quantity discharged to sea
+20. Quantity of polluted water transferred to slop tank(s) (identify slop tank(s))
+21. Date and port of discharge into shore reception facilities (if applicable)
+(g) Discharge of water from slop tank(s)
+22. Identity of slop tank(s)
+23.Time of settling from last entry of residues, or
+24. Time of settling from last discharge
+25. Date, time and position of ship at start of discharge
+26. Sounding of total contents at start of discharge
+27. Sounding of interface at start of discharge
+28. Bulk quantity discharged and rate of discharge
+29. Final quantity discharged and rate of discharge
+30. Date, time and position of ship at end of discharge
+31. Ship's speed(s) during discharge
+32. Sounding of interface at end of discharge
+(h) Disposal of residues
+33. Identity of tank(s)
+34. Quantity disposed from each tank
+35. Method of disposal of residue:
+(a) Reception facilities
+(b) Mixed with cargo
+(c) Transferred to another (other) tank(s) (identify tank(s))
+(d) Other method
+36. Date and port of disposal of residue
+(i) Discharge overboard of bilge water containing oil which has accumulated in machinery spaces (including pump rooms) whilst in port*
+37. Port
+38. Duration of stay
+39. Quantity disposed
+40. Date and place of disposal
+41. Method of disposal (state whether a separator was used)
+* The routine discharge at sea of bilge water containing any oil from machinery spaces including pump room bilges need not be entered in the oil record book but, if not, it must be entered in the appropriate log book, stating whether or not the discharge was made through a separator. Where the pump starts automatically and discharges through a separator at all times it will be sufficient to enter each day "Automatic discharge from bilges through separator".
+(j) Accidental or other exceptional discharges of oil
+42. Date and time of occurrence
+43. Place or position of ship at time of occurrence
+44. Approximate quantity and type of oil
+45. Circumstances of discharge or escape and general remarks
+Signature of Officer or Officers in charge of operation concerned
+Signature of Master
+II - FOR SHIPS OTHER THAN TANKERS
+Name of ship ....................................
+(a) Ballasting or cleaning of bunker fuel tanks
+1. Identity of tank(s) ballasted
+2. Whether cleaned since they last contained oil and, if not, type of oil previously carried
+3. Date and position of ship at start of cleaning
+4. Date and position of ship at start of ballasting
+(b) Discharge of dirty ballast or cleaning water from tanks referred to under (a)
+5. Identity of tank(s)
+6. Date and position of ship at start of discharge
+7. Date and position of ship at finish of discharge
+8. Ship's speed(s) during discharge
+9. Method of discharge (state whether separator used)
+10. Quantity discharged
+(c) Disposal of residues
+11. Quantity of residue retained on board
+12. Methods of disposal of residue:
+(a) reception facilities
+(b) mixed with next bunkering
+(c) transferred to another (other) tank(s)
+13. Date and port of disposal of residue
+(d) Discharge overboard of bilge water containing oil which has accumulated in machinery spaces whilst in port*
+14. Port
+15. Duration of stay
+16. Quantity disposed
+17. Date and place of disposal
+18. Method of disposal (state whether separator used)
+* The routine discharge at sea of bilge water containing any oil from machinery spaces need not be entered in the oil record book but if not, it must be entered in the appropriate log book, stating whether or not the discharge was made through a separator. Where the pump starts automatically and discharges through a separator at all times it will be sufficient to enter each day "Automatic discharge from bilges through a separator".
+(e) Accidental or other exceptional discharges of oil
+19. Date and time of occurrence
+20. Date or position of ship at time of occurrence
+21. Approximate quantity and type of oil
+22. Circumstances of discharge or escape and general remarks
+Signature of Officer or Officers in charge of operations concerned
+Signature of Master 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

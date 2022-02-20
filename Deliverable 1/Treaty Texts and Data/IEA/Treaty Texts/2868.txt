@@ -1,0 +1,587 @@
+
+ Amendments To The Schedule To The International Convention For The Regulation Of Whaling, Twenty-Ninth Meeting   
+     Filename: 1977-AmendmentsScheduleM29-1946-Whaling.EN.txt 
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/1977/36.html     
+    ﻿Amendments To The Schedule To The International Convention For The Regulation Of Whaling Of 2 December 1946
+Source: AUSTRALIAN TREATY SERIES 1977 No. 36 (electronic)
+The amendments read as follows:
+A. New layout for section III, Capture
+The new layout adopted is shown in Appendix 1.
+Some resulting necessary changes of wording are shown in italic type.
+The existing paragraphs numbered 16 to 23 will be renumbered 18 to 25.
+Consequential changes in paragraph 18(a) in the new numbering (paragraph 16(a) in the old numbering) result from the renumbering of some of the paragraphs referenced therein. These do not change the substance of the text, which now reads:
+"18. (a) It is forbidden to use a factory ship or a land station for the purpose of treating any whales (whether or not taken by whale catchers under the jurisdiction of a Contracting Government) which are classified as Protection Stocks in paragraph 8 or are taken by whale catchers under the jurisdiction of a Contracting Government in contravention of paragraphs 2, 3, 5, 9, 10, 14 and 15 of this Schedule."
+B. Substantive amendments
+(i) Paragraph 1
+Amend the final definition of section I. Interpretation as follows:
+" "Small-type whaling" means catching operations using powered vessels with mounted harpoon guns hunting exclusively for minke, bottlenose, beaked, pilot or killer whales.
+"Bottlenose whale" means any whale known by the name Baird's beaked whale (Berardius bairdii), Arnoux's whale (Berardius arnuxii), Southern bottlenose whale (Hyperoodon planifrons), or Northern bottlenose whale (Hyperoodon ampullatus).
+"Beaked whale" means any whale belonging to the genus Mesoplodon, or any whale known by the name of Cuvier's beaked whale (Ziphius cavirostris), or Shepherd's beaked whale (Tasmacetus shepherdi).
+"Pilot whale" means any whale known by the name of long-finned pilot whale (Globicephala melaena) or short-finned pilot whale (Globicephala macrorhynchus).
+"Killer whale" means any whale known by the name of killer whale or orca (Orcinus orca)."
+(ii) Paragraph 7, (new numbering)
+Add new sub-paragraph (c), to define North Atlantic whale stock boundaries (shown in Appendix 1, in bold type).
+(iii) Paragraph 11 (new numbering, old paragraph 7)
+Delete the words "or right".
+(iv) Paragraph 2(e), last sentence
+Delete "eight" and substitute "nine", so that the sentence reads:
+"Notwithstanding this paragraph one continuous open season not to exceed nine months may be implemented so far as Greenland is concerned."
+(v) Section VI, information required.
+Add the following new paragraph 26 before existing final paragraph, which is renumbered 27:
+"26. (a) Where possible all factory ships and land stations shall collect from each whale taken:
+(1) The combined weight of both testes, and tissue samples from one testis; or both ovaries
+(2) At least one ear plug, or one tooth (preferably first mandibular).
+(b) Where possible similar collections to those described in sub-paragraph (a) of this paragraph shall be undertaken by small-type whaling operations conducted from shore or by pelagic fleets.
+(c) All specimens collected under sub-paragraphs (a) and (b) shall be properly labelled with the platform or other identification number of the whale and be appropriately preserved."
+C. Miscellaneous provisions
+(i) Paragraph 7 (new numbering, old paragraph 5)
+Change "parallels of longitude" to "meridians of longitude" in two places (shown in Appendix 1, in italic).
+Delete "40° South Latitude" and "except that for sei and Bryde's whales combined and minke whales they shall extend to".
+First sentence then to read as shown in Appendix 1.
+(ii) Paragraph 8(a) (new numbering, old paragraph 6(a))
+Second sentence, insert "a" before Sustained Management Stock (shown in Appendix 1, in italic).
+(iii) Paragraph 13(a) (new numbering, old paragraph 15(a))
+Insert "in length" after 40 feet (12.2 metres).
+Delete "in length" after 35 feet (10.7 metres) (shown in Appendix 1, in italic).
+(iv) Paragraph 24(a) (new numbering, old paragraph 22(a))
+Line 3, delete "fin".
+APPENDIX 1
+III. CAPTURE
+AREA LIMITS FOR FACTORY SHIPS
+5. It is forbidden to use a factory ship or whale catcher attached thereto for the purpose of taking or treating baleen whales, except minke whales, in any of the following areas:
+(a) In the waters north of 66° North Latitude except that from 150° East Longitude eastwards as far as 140° West Longitude the taking or killing of baleen whales by a factory ship or whale catcher shall be permitted between 66° North Latitude and 72° North Latitude;
+(b) In the Atlantic Ocean and its dependent waters north of 40° South Latitude;
+(c) In the Pacific Ocean and its dependent waters east of 150° West Longitude between 40° South Latitude and 35° North Latitude;
+(d) In the Pacific Ocean and its dependent waters west of 150° West Longitude between 40° South Latitude and 20° North Latitude;
+(e) In the Indian Ocean and its dependent waters north of 40° South Latitude.
+6. (a) A factory ship which operates solely within territorial waters in one of the areas specified in sub-paragraph (c) of this paragraph, by permission of the Government having jurisdiction over those waters, and which flies the flag of that Government shall, while so operating, be subject to the regulations governing the operation of land stations and not to the regulations governing the operation of factory ships.
+(b) Such factory ships shall not, within a period of one year from the termination of the season in which she so operated, be used for the purpose of treating baleen whales in any of the other areas specified in sub-paragraph (c) of this paragraph or south of 40° South Latitude.
+(c) The areas referred to in sub-paragraphs (a) and (b) are:
+(1) On the coasts of Australia, namely on the whole east coast and on the west coast in the area known as Shark Bay and northward to North-west Cape and including Exmouth Gulf and King George's Sound, including the Port of Albany;
+(2) On the Pacific coast of the United States of America between 35° North Latitude and 49° North Latitude.
+CLASSIFICATION OF AREAS AND DIVISIONS
+7. (a) Classification of areas
+Areas in the Southern Hemisphere are those waters between the ice-edge and the equator and lying between the meridians of longitude listed in Table 1.
+(b) Classification of divisions
+Divisions relating to the catch limits for Southern Hemisphere sperm whales are those waters lying between the ice-edge and the equator and between the meridians of longitude listed in Table 2.
+(c) Geographical boundaries in the North Atlantic
+The geographical boundaries for the fin, sei and minke whale stocks in the North Atlantic are:
+- Fin whale stocks
+1. Nova Scotia
+- South and West of a line through 47°N 54°W, 46°N 54°30'W, 46°N 42°W, 20°N 42°W.
+2. Newfoundland-Labrador
+- West of a line through 75°N 73°30'W, 69°N 59°W, 61°N 59°W, 52°20'N 42°W, 46°N 42°W; and
+- North of a line through 46°N 42°W, 46°N 54°30'W, 47°N 54°W.
+3. West Greenland
+- East of line through 75°N 73°30'W, 69°N 59°W, 61°N 59°W, 52°20'N 42°W; and
+- West of a line through 52°20'N 42°W, 59°N 42°W, 59°N 44°W, Kap Farvel.
+4. East Greenland-Iceland
+- East of a line through Kap Farvel (South Greenland), 59°N 44°W, 59°N 42°W, 20°N 42°W; and
+- West of a line through 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E; and
+- South of 74°N latitude.
+5. North Norway
+- North and East of a line through 74°N 22°W, 74°N 3°E, 68°N 3°E, 67°N 0°, 67°N 14°E.
+6. West Norway and Faroe Islands
+- South of a line through 67°N 14°E, 67°N 0°, 60°N 18°W; and
+- North of a line through 61°N 16°W, 61°N 0°, Thyborøn (western entrance to Limfjorden, Denmark).
+7. British Isles-Spain and Portugal
+- South of a line through Thyborøn (Denmark), 61°N 0°, 61°N 16°W; and
+- East of a line through 63°N 11°W, 60°N 18°W, 20°N 18°W.
+- Minke whale stock
+1. Canadian East Coast
+- West of a line through 75°N 73°30'W, 69°N 59°W, 61°N 59°W, 52°20'N 42°W, 20°N 42°W.
+2. West Greenland
+- East of a line through 75°N 73°30'W, 69°N 59°W, 61°N 59°W, 52°20'N 42°W; and
+- West of a line through 52°20'N 42°W, 59°N 42°W, 59°N 44°W, Kap Farvel.
+3. East Greenland-Iceland-Jan Mayen
+- East of a line through Kap Farvel (South Greenland), 59°N 44°W, 59°N 42°W, 20°N 42°W; and
+- West of a line through 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E, and South of 74°N latitude.
+4. Svalbard-Norway-British Isles
+- East of a line through 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E; and
+- North of a line through 74°N 3°E, 74°N 22°W.
+- Sei whale stock
+1. Nova Scotia
+- South and West of a line through 47°N 54°W, 46°N 54°30'W, 46°N 42°W, 20°N 42°W.
+2. Iceland-Denmark Strait
+- East of a line through Kap Farvel (South Greenland), 59°N 44°W, 59°N 42°W, 20°N 42°W; and
+- West of a line through 20°N 18°W, 60°N 18°W, 68°N 3°E, 74°N 3°E; and
+- South of 74°N latitude.
+CLASSIFICATION OF STOCKS
+8. All stocks of whales shall be classified in one of three categories according to the advice of the Scientific Committee as follows:
+(a) A Sustained Management Stock (SMS) is a stock which is not more than 10 per cent of Maximum Sustainable Yield (hereinafter referred to as MSY) stock level below MSY stock level, and not more than 20 per cent above that level, MSY being determined on the basis of the number of whales.
+When a stock has remained at a stable level for a considerable period under a regime of approximately constant catches, it shall be classified as a Sustained Management Stock in the absence of any positive evidence that it should be otherwise classified.
+Commercial whaling shall be permitted on Sustained Management Stocks according to the advice of the Scientific Committee. These stocks are listed in Tables 1 and 2 of this Schedule.
+For the 1977/78 pelagic season and the 1978 coastal season in the Southern Hemisphere and for the 1977 season in all other areas for stocks between the MSY stock level and 10 per cent below that level, the permitted catch shall not exceed the number of whales obtained by taking 90 per cent of the MSY and reducing that number by 10 per cent for every 1 per cent by which the stock falls short of the MSY stock level. For stocks at or above the MSY stock level, the permitted catch shall not exceed 90 per cent of the MSY.
+(b) An Initial Management Stock (IMS) is a stock more than 20 per cent of MSY stock level above MSY stock level. Commercial whaling shall be permitted on Initial Management Stocks according to the advice of the Scientific Committee as to measures necessary to bring the stocks to the MSY stock level and then optimum level in an efficient manner and without risk of reducing them below this level. The permitted catch for such stocks will not be more than 90 per cent of MSY as far as this is known, or, where it will be more appropriate, catching effort shall be limited to that which will take 90 per cent of MSY in a stock at MSY stock level.
+In the absence of any positive evidence that a continuing higher percentage will not reduce the stock below the MSY stock level no more than 5 per cent of the estimated initial exploitable stock shall be taken in any one year. Exploitation should not commence until an estimate of stock size has been obtained which is satisfactory in the view of the Scientific Committee. Stocks classified as Initial Management Stock are listed in Tables 1 and 2 of this Schedule.
+(c) A Protection Stock (PS) is a stock which is below 10 per cent of MSY stock level below MSY stock level.
+There shall be no commercial whaling on species or stocks whilst they are classified as Protection Stocks. Species and stocks so classified are listed in Tables 1 and 2 of this Schedule.
+AREAS, REGIONS, DIVISIONS, STOCK CLASSIFICATIONS AND QUOTAS
+BALEEN WHALES; CATCH LIMITS
+9. The number of baleen whales taken during the open season in the Southern Hemisphere by factory ships, land stations or whale catchers attached thereto under the jurisdiction of the Contracting Governments shall not exceed 771 sei whales and 5,690 minke whales and 0 Bryde's whales (pending a satisfactory estimate of stock size), in the 1977/78 pelagic season and the 1978 coastal season. The total catches taken in any of the Areas I to VI shall not exceed the limits shown in Table 1. However, in no circumstances shall the sum of the Area catches exceed the total quotas for each species.
+10. The number of baleen whales taken in the North Pacific Ocean and dependent waters in 1978 and in the North Atlantic Ocean in 1978 shall not exceed the limits shown in Table 1.
+11. Notwithstanding the provisions of paragraph 8 the taking of 10 humpback whales not below 35 feet (10.7 metres) in length, per year is permitted in Greenland waters provided that whale catchers of less than 50 gross register tonnage are used for this purpose, and the taking of gray whales by aborigines or a Contracting Government on behalf of aborigines is permitted but only when the meat and products of such whales are to be used exclusively for local consumption by the aborigines.
+12. It is forbidden to take or kill suckling calves or female whales accompanied by calves.
+SIZE LIMITS
+13. (a) It is forbidden to take or kill any sei or Bryde's whales below 40 feet (12.2 metres) in length except that sei and Bryde's whales of not less than 35 feet (10.7 metres) may be taken for delivery to land stations, provided that, the meat of such whales is to be used for local consumption as human or animal food.
+(b) It is forbidden to take or kill any fin whales below 57 feet (17.4 metres) in length in the Southern Hemisphere, and it is forbidden to take or kill fin whales below 55 feet (16.8 metres) in the Northern Hemisphere; except that fin whales of not less than 55 feet (16.8 metres) may be taken for delivery to land stations in the Southern Hemisphere and fin whales of not less than 50 feet (15.2 metres) may be taken for delivery to land stations in the Northern Hemisphere, provided that, in each case the meat of such whales is to be used for local consumption as human or animal food.
+SPERM WHALES; CATCH LIMITS
+14. The number of sperm whales taken in the Southern Hemisphere in the 1977/78 pelagic season and the 1978 coastal season shall not exceed 4,538 males and 1,370 females. The total catch in any of the Divisions 1 to 9 shall not exceed the limits shown in Table 2. However, in no circumstances shall the sum of the Division catches exceed total quotas.
+15. The number of sperm whales taken in the North Pacific Ocean and dependent waters in 1978 and in the North Atlantic Ocean in 1978 shall not exceed the limits shown in Table 2.
+16. It is forbidden to take or kill suckling calves or female whales accompanied by calves.
+SIZE LIMITS
+17. (a) It is forbidden to take or kill any sperm whales below 30 feet (9.2 metres) in length except in the North Atlantic Ocean where it is forbidden to take or kill any sperm whales below 35 feet (10.7 metres).
+(b) It is forbidden to take or kill any sperm whale over 45 feet (13.7 metres) in length in the Southern Hemisphere north of 40° South Latitude during the months of October to January inclusive.
+TABLE 1
+BALEEN WHALE STOCK CLASSIFICATIONS AND CATCH LIMITS: SOUTHERN HEMISPHERE
+1977/78 PELAGIC SEASON AND 1978 COASTAL SEASON
+Sei
+Minke
+Bryde's
+Fin
+Blue
+Hump-back
+Right
+Gray
+Bottle-nose
+Area
+Longitudes
+Classi-fication
+Catch limit 
+Classi-fication
+Catch limit 
+Classi-fication
+Catch limit 
+Classi-fication
+Catch limit 
+Classi-fication
+Classi-fication
+Classi-fication
+Classi-fication
+Classi-fication
+I
+120°W-60°W
+SMS
+388
+-
+704
+IMS
+0
+PS
+0
+PS
+PS
+PS
+PS
+-
+II
+60°W-0°
+PS
+0
+-
+1,150
+IMS
+0
+PS
+0
+PS
+PS
+PS
+PS
+-
+III
+0°-70°E
+PS
+0
+-
+1,826
+IMS
+0
+PS
+0
+PS
+PS
+PS
+PS
+-
+IV
+70°E-130°E
+SMS
+460
+-
+963
+IMS
+0
+PS
+0
+PS
+PS
+PS
+PS
+-
+V
+130°E-170°W
+PS
+0
+-
+930
+IMS
+0
+PS
+0
+PS
+PS
+PS
+PS
+-
+VI
+170°W-120°W
+PS
+0
+-
+688
+IMS
+0
+PS
+0
+PS
+PS
+PS
+PS
+-
+Total catch not to exceed 
+771
+5,690
+0*
+0
+0
+0
+0
+0
+-
+Northern Hemisphere, 1978 season 
+North Pacific 
+Whole region 
+PS
+0
+-
+-
+IMS
+524
+PS
+0
+PS
+PS
+PS
+PS
+-
+Okhotsk Sea-West Pacific Stock 
+-
+-
+SMS
+400
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Sea of Japan Stock 
+-
+-
+SMS
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Remainder
+-
+-
+IMS
+0*
+-
+-
+-
+-
+-
+-
+-
+-
+-
+North Atlantic 
+Whole region 
+-
+-
+-
+-
+-
+-
+-
+-
+PS
+PS
+PS
+PS
+PS[daggerdbl]
+West Greenland Stock 
+-
+-
+SMS
+397***
+-
+-
+SMS***
+4
+-
+-
+-
+-
+-
+Newfoundland-Labrador Stock 
+-
+-
+-
+-
+-
+-
+IMS
+90
+-
+-
+-
+-
+-
+Canadian East Coast Stock 
+-
+-
+SMS
+48
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Nova Scotia Stock 
+PS
+0
+-
+-
+-
+-
+PS
+0
+-
+-
+-
+-
+-
+East Greenland-Iceland-Jan Mayen Stock 
+-
+-
+SMS
+320
+-
+-
+-
+-
+-
+-
+-
+-
+-
+East Greenland-Iceland Stock 
+-
+-
+-
+-
+-
+-
+SMS
+304**
+-
+-
+-
+-
+-
+Iceland-Denmark Strait Stock 
+SMS
+84
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Spain-Portugal-British Isles Stock 
+-
+-
+-
+-
+-
+-
+SMS[dagger]
+-
+-
+-
+-
+-
+-
+Svalbard-Norway-British Isles Stock 
+-
+-
+SMS
+1,790
+-
+-
+-
+-
+-
+-
+-
+-
+-
+West Norway-Faroe Islands Stock 
+-
+-
+-
+-
+-
+-
+PS
+0
+North Norway Stock 
+-
+-
+-
+-
+-
+-
+SMS***
+61
+* Pending a satisfactory estimate of stock size.
+** The total catch of fin whales shall not exceed 1,524 in the six years 1977 to 1982 inclusive.
+*** Provisionally listed as SMS for 1978, pending the accumulation of sufficient information for classification.
+[dagger] Provisionally listed as SMS for 1978, catches not to exceed present catch levels.
+[daggerdbl] Provisionally listed as PS for 1978, pending the accumulation of sufficient information for classification.
+TABLE 2
+SPERM WHALE STOCK CLASSIFICATIONS AND CATCH LIMITS: SOUTHERN HEMISPHERE
+1977/78 PELAGIC SEASON AND 1978 COASTAL SEASON
+Males
+Females
+Divisions
+Longitudes
+Classification
+Catch limit 
+Classification
+Catch limit 
+1
+60°W-30°W
+SMS
+333
+SMS
+111
+2
+30°W-20°E
+IMS
+889
+IMS
+295
+3
+20°E-60°E
+SMS
+1,035
+SMS
+343
+4
+60°E-90°E
+IMS
+623
+PS
+0
+5
+90°E-130°E
+SMS
+590
+IMS
+195
+6
+130°E-160°E
+IMS
+304
+IMS
+101
+7
+160°E-170°W
+SMS
+257
+SMS
+143
+8
+170°W-100°W
+IMS
+961
+IMS
+319
+9
+100°W-60°W
+PS
+0
+PS
+0
+Total quota not to exceed 
+4,538
+1,370
+Northern Hemisphere 
+North Pacific 
+PS
+0
+SMS
+763
+Total
+Classification
+Catch limit 
+North Atlantic 
+SMS
+685
+FURTHER CONSEQUENTIAL CHANGES
+[as indicated by Japan]
+In paragraph 23(a)(3) in the new numbering (paragraph 21(a)(3) in the old numbering), "sub-paragraph 17(b)" should be "sub-paragraph 19(b)".
+In paragraph 23(b)(2) in the new numbering (paragraph 21(b)(2) in the old numbering), "paragraph 20" should be "paragraph 22".
+In paragraph 24(b) in the new numbering (paragraph 22(b) in the old numbering), "paragraph 11" should be "paragraph 9".
+Sub-paragraph 4 of paragraph 8(a) of the re-numbered Schedule (paragraph 6(a) in the old numbering) reads:
+"For the 1977/78 pelagic season and the 1978 coastal season in the Southern Hemisphere and for the 1978 season in all other areas for stocks between the MSY stock level and 10 per cent below that level ...".
+[as indicated by the Secretariat]
+In paragraph 1 (new and old numbering) the second set of inverted commas has been removed from the definition of "Bryde's whale".
+In paragraph 3(e) (new and old numbering) "paragraph 10" should be "paragraph 6".
+In paragraph 4 (new and old numbering) "paragraph 12" should be "paragraphs 10 and 15" and "this paragraph" should be "these paragraphs" so that the second part of paragraph 4 reads:
+"... provided that catch limits in the North Pacific Ocean and dependent waters are established as provided in paragraphs 10 and 15 of this Schedule and provided that these paragraphs shall not apply to a ship which has been used during the season solely for freezing or salting the meat and entrails of whales intended for human food or feeding animals."
+In paragraph 7(c) in the new numbering "Minke whale stock" should read "Minke whale stocks" and similarly "Sei whale stock" should read "Sei whale stocks". 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

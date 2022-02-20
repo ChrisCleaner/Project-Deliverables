@@ -1,0 +1,67 @@
+
+ Amendments to Annex III of the Convention On The Prior Informed Consent Procedure For Certain Hazardous Chemicals And Pesticides In International Trade   
+     Filename: 2004-Amendments-1998-PriorInformedConsentHazardousChemicalsPesticides.EN.txt 
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/2005/9.html     
+    ﻿ Amendments To Annex III To The Rotterdam Convention On The Prior Informed Consent Procedure For Certain Hazardous Chemicals And Pesticides In International Trade
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/2005/9.html, downloaded 20070610
+ Decisions adopted by the Conference of the Parties at its first meeting, held in Geneva from 20-24 September 2004
+ RC-1/3: Amendments to Annex III 
+ The Conference of the Parties, 
+ Noting with appreciation the work of the Intergovernmental Negotiating Committee and the interim Chemical Review Committee, 
+ 1. Decides to adopt, in accordance with the procedure laid down in article 8 and paragraph 5 of article 22 of the Rotterdam Convention, the amendments to Annex III set out in the annex to the present decision;
+ 2. Decides that all the amendments shall enter into force on 1 February 2005, except for the amendments made by paragraph 1 (a) and (b) of the annex to the present decision, which shall enter into force on 1 January 2006. 
+ Annex 
+ Amendments to Annex III to the Rotterdam Convention
+ 1. The following existing entries shall be deleted: 
+ (a) Monocrotophos 
+ (Soluble liquid formulations of the substance that exceed 600 g active ingredient/l) 6923-22-4 Severely hazardous pesticide formulation
+ (b) Parathion (all formulations - aerosols, dustable powder (DP), emulsifiable concentrate (EC), granules (GR) and wettable powders (WP) - of this substance are included, except capsule suspensions (CS)) 56-38-2 Severely hazardous pesticide formulation
+ (c) Crocidolite 12001-28-4 Industrial
+ 2. In the first column, the entry for "2,4,5-T" shall be replaced by "2,4,5-T and its salts and esters". 
+ 3. The following entry shall be listed in the three columns after the entry for "Aldrin": 
+ Binapacryl 485-31-4 Pesticide 
+ 4. The following entry shall be listed in the three columns after the entry for "Dieldrin": 
+ Dinitro-ortho-cresol (DNOC) 534-52-1 Pesticide
+ and its salts (such as ammonium 2980-64-5 
+ salt, potassium salt and sodium salt) 5787-96-2
+ 2312-76-7 
+ 5. In the first column, the entry for "Dinoseb and dinoseb salts" shall be replaced by "Dinoseb and its salts and esters".
+ 6. The following entries shall be listed in the three columns after the entry for "1,2-dibromoethane": 
+ Ethylene dichloride 107-06-2 Pesticide 
+ Ethylene oxide 75-21-8 Pesticide 
+ 7. The following entries shall be listed in the three columns after the entry for "Mercury compounds": 
+ Monocrotophos 6923-22-4 Pesticide 
+ Parathion 56-38-2 Pesticide 
+ 8. In the first column, the entry for "Pentachlorophenol" shall be replaced by "Pentachlorophenol and its salts and esters".
+ 9. The following entries shall be listed in the three columns after the entry for "Pentachlorophenol": 
+ Toxaphene 8001-35-2 Pesticide 
+ Dustable powder formulations Severely
+ containing a combination of: hazardous
+ - Benomyl at or above 7 per cent, 17804-35-2 pesticide
+ - Carbofuran at or above 1563-66-2 formulation
+ 10 per cent, and 
+ - Thiram at or above 15 per cent 137-26-8 
+ 10. In the first column, the entry for "Methyl-parathion (emulsifiable concentrates (EC) with 19.5%, 40%, 50%, 60% active ingredient and dusts containing 1.5%,2% and 3% active ingredient)" shall be replaced by "Methyl-parathion (emulsifiable concentrates (EC) at or above 19.5% active ingredient and dusts at or above 1.5% active ingredient)". 
+ 11. The following entry shall be listed in the three columns after the entry for "Methyl-parathion":
+ Asbestos:
+ - Actinolite 77536-66-4 Industrial
+ - Anthophyllite 77536-67-5 Industrial
+ - Amosite 12172-73-5 Industrial
+ - Crocidolite 12001-28-4 Industrial
+ - Tremolite 77536-68-6 Industrial
+ 12. The following entries shall be listed in the three columns after the entry for "Polychlorinated terphenyls":
+ Tetraethyl lead 78-00-2 Industrial 
+ Tetramethyl lead 75-74-1 Industrial 
+ 13. In the second column of the entry for "2,4,5-T", "93-76-5" shall be replaced by "93-76-5*"; in the second column of the entry for "Dinoseb and dinoseb salts", "88-85-7" shall be replaced by "88-85-7*"; in the second column of the entry for "Pentachlorophenol", "87-86-5" shall be replaced by "87-86-5*"; and the following footnote shall be inserted at the end of Annex III:
+ * Only the CAS numbers of parent compounds are listed. For a list of other relevant CAS numbers, reference may be made to the relevant decision guidance document. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

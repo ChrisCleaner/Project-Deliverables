@@ -1,0 +1,292 @@
+
+ Amendments to the Protocol Adopting Annex VI - Regulations For The Prevention Of Air Pollution From Ships To The International Convention For The Prevention Of Pollution From Ships (Amendments to Annex VI regulations 2, 13, 19, 20 and the Supplement to the IAPP Certificate and certification of dual-fuel engines under the NOx Technical Code 2008)   
+     Filename: 2014-AmendmentAnnexVIa-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/MEPC%20Resolutions/M…     
+    AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO Amendments to MARPOL Annex VI and the NOX Technical Code 2008 (Amendments to regulations 2, 13, 19, 20 and 21 and the Supplement to the IAPP Certificate under MARPOL Annex VI and certification of dual-fuel engines under the NOX Technical Code 2008)
+RESOLUTION MEPC.251(66) Adopted on 4 April 2014
+http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/MEPC%20Resol...
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee conferred upon it by international conventions for the prevention and control of marine pollution from ships,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention"), article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") and article 4 of the Protocol of 1997 to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (hereinafter referred to as the "1997 Protocol"), which together specify the amendment procedure of the 1997 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 and 1997 Protocols,
+NOTING that, by the 1997 Protocol, Annex VI entitled Regulations for the Prevention of Air Pollution from Ships was added to the 1973 Convention (hereinafter referred to as "Annex VI"),
+NOTING FURTHER regulation 13 of MARPOL Annex VI which makes the Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines (NOX Technical Code 2008) mandatory under that Annex,
+NOTING ALSO that both the revised Annex VI, adopted by resolution MEPC.176(58) and the NOX Technical Code 2008, adopted by resolution MEPC.177(58) entered into force on 1 July 2010,
+HAVING CONSIDERED draft amendments to the revised Annex VI and the NOX Technical Code 2008,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the amendments to Annex VI and the NOX Technical Code 2008, the text of which is set out in the annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 March 2015, unless prior to that date, not less than one third of the Parties or Parties the combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 September 2015 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1973 Convention, as modified by the 1978 and 1997 Protocols, certified copies of the present resolution and the text of the amendments contained in the annex;
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1973 Convention, as modified by the 1978 and 1997 Protocols, copies of the present resolution and its annex.
+ANNEX
+AMENDMENTS TO MARPOL ANNEX VI AND THE NOX TECHNICAL CODE 2008
+AMENDMENTS TO MARPOL ANNEX VI
+Chapter 1 – General Regulation 2 – Definitions
+1 Paragraph 26 is amended to read as follows:
+"26 Gas carrier in relation to chapter 4 of this Annex means a cargo ship, other than an LNG carrier as defined in paragraph 38 of this regulation, constructed or adapted and used for the carriage in bulk of any liquefied gas."
+2 New paragraphs 38 to 43 are added after existing paragraph 37 as follows:
+"38 LNG carrier in relation to chapter 4 of this Annex means a cargo ship constructed or adapted and used for the carriage in bulk of liquefied natural gas (LNG).
+39 Cruise passenger ship in relation to chapter 4 of this Annex means a passenger ship not having a cargo deck, designed exclusively for commercial transportation of passengers in overnight accommodations on a sea voyage.
+40 Conventional propulsion in relation to chapter 4 of this Annex means a method of propulsion where a main reciprocating internal combustion engine(s) is the prime mover and coupled to a propulsion shaft either directly or through a gear box.
+41 Non-conventional propulsion in relation to chapter 4 of this Annex means a method of propulsion, other than conventional propulsion, including diesel-electric propulsion, turbine propulsion, and hybrid propulsion systems.
+42 Cargo ship having ice-breaking capability in relation to chapter 4 of this Annex means a cargo ship which is designed to break level ice independently with a speed of at least 2 knots when the level ice thickness is 1.0 m or more having ice bending strength of at least 500 kPa.
+43 A ship delivered on or after 1 September 2019 means a ship:
+.1 for which the building contract is placed on or after 1 September 2015; or
+.2 in the absence of a building contract, the keel of which is laid, or which is at a similar stage of construction, on or after 1 March 2016; or
+.3 the delivery of which is on or after 1 September 2019."
+Chapter 2 – Survey, certification and means of control Regulation 5 – Surveys
+3 In the first sentence of paragraph 4.2, the words "a ship" are replaced with the words "a new ship".
+Chapter 3 – Requirements for control of emissions from ships Regulation 13 – Nitrogen oxides (NOx)
+4 Paragraph 2.2 is amended to read as follows:
+"2.2 For a major conversion involving the replacement of a marine diesel engine with a non-identical marine diesel engine, or the installation of an additional marine diesel engine, the standards in this regulation at the time of the replacement or addition of the engine shall apply. In the case of replacement engines only, if it is not possible for such a replacement engine to meet the standards set forth in paragraph
+5.1.1 of this regulation (Tier III, as applicable), then that replacement engine shall meet the standards set forth in paragraph 4 of this regulation (Tier II), taking into account guidelines developed by the Organization*.
+* Refer to the 2013 Guidelines as required by regulation 13.2.2 of MARPOL Annex VI in respect of non-identical replacement engines not required to meet the Tier III limit, adopted by the MEPC by resolution MEPC.230(65)."
+5 Paragraphs 5.1 and 5.2 are amended to read as follows:
+"Tier III
+5.1 Subject to regulation 3 of this Annex, in an emission control area designated for Tier III NOX control under paragraph 6 of this regulation, the operation of a marine diesel engine that is installed on a ship:
+.1 is prohibited except when the emission of nitrogen oxides (calculated as the total weighted emission of NOX) from the engine is within the following limits, where n = rated engine speed (crankshaft revolutions per minute):
+when:
+.1 3.4 g/kWh when n is less than 130 rpm;
+.2 9 · n(–0.2) g/kWh when n is 130 or more but less than 2,000 rpm;
+.3 2.0 g/kWh when n is 2,000 rpm or more;
+.2 that ship is constructed on or after 1 January 2016 and is operating in the North American Emission Control Area or the United States Caribbean Sea Emission Control Area;
+when:
+.3 that ship is operating in an emission control area designated for Tier III NOX control under paragraph 6 of this regulation, other than an emission control area described in paragraph 5.1.2 of this regulation, and is constructed on or after the date of adoption of such an emission control area, or a later date as may be specified in the amendment designating the NOX Tier III emission control area, whichever is later.
+5.2 The standards set forth in paragraph 5.1.1 of this regulation shall not apply to:
+.1 a marine diesel engine installed on a ship with a length (L), as defined in regulation 1.19 of Annex I to the present Convention, of less than 24 metres when it has been specifically designed, and is used solely, for recreational purposes; or
+.2 a marine diesel engine installed on a ship with a combined nameplate diesel engine propulsion power of less than 750 kW if it is demonstrated, to the satisfaction of the Administration, that the ship cannot comply with the standards set forth in paragraph 5.1.1 of this regulation because of design or construction limitations of the ship; or
+.3 a marine diesel engine installed on a ship constructed prior to 1 January 2021 of less than 500 gross tonnage, with a length (L), as defined in regulation 1.19 of Annex I to the present convention, of 24 m or over when it has been specifically designed, and is used solely, for recreational purposes."
+6 Paragraph 10 is deleted.
+Chapter 4 – Regulations for energy efficiency of ships Regulation 19 – Application
+7 A new subparagraph 2.2 is added as follows:
+".2 ships not propelled by mechanical means, and platforms including FPSOs and FSUs and drilling rigs, regardless of their propulsion."
+8 Paragraph 3 is amended to read as follows:
+"3 Regulations 20 and 21 of this Annex shall not apply to ships which have non-conventional propulsion, except that regulations 20 and 21 shall apply to cruise passenger ships having non-conventional propulsion and LNG carriers having conventional or non-conventional propulsion, delivered on or after 1 September 2019, as defined in paragraph 43 of regulation 2. Regulations 20 and 21 shall not apply to cargo ships having ice-breaking capability."
+Regulation 20 – Attained Energy Efficiency Design Index (attained EEDI)
+9 Paragraph 1 is replaced with the following:
+"1 The attained EEDI shall be calculated for:
+.1 each new ship;
+.2 each new ship which has undergone a major conversion; and
+.3 each new or existing ship which has undergone a major conversion, that is so extensive that the ship is regarded by the Administration as a newly-constructed ship, which falls into one or more of the categories in regulations 2.25 to 2.35, 2.38 and 2.39 of this Annex. The attained EEDI shall be specific to each ship and shall indicate the estimated performance of the ship in terms of energy efficiency, and be accompanied by the EEDI technical file that contains the information necessary for the calculation of the attained EEDI and that shows the process of calculation. The attained EEDI shall be verified, based on the EEDI technical file, either by the Administration or by any organization duly authorized by it*.
+ Refer to Code for Recognized Organizations (RO Code), adopted by the MEPC by resolution MEPC.237(65), as may be amended."
+Regulation 21 – Required EEDI
+10 Paragraph 1 is replaced with the following: "1 For each:
+.1 new ship;
+.2 new ship which has undergone a major conversion; and
+.3 new or existing ship which has undergone a major conversion that is so extensive that the ship is regarded by the Administration as a newly-constructed ship, which falls into one of the categories in regulations 2.25 to 2.31, 2.33 to 2.35, 2.38 and 2.39 and to which this chapter is applicable, the attained EEDI shall be as follows:
+Attained EEDI ≤ Required EEDI = (1-X/100) x reference line value
+where X is the reduction factor specified in table 1 for the required EEDI compared to the EEDI reference line."
+11 New rows are added to table 1 in regulation 2 for ro-ro cargo ships (vehicle carrier), LNG carrier, cruise passenger ship having non-conventional propulsion, ro-ro cargo ships and ro-ro passenger ships, and marks ** and *** and their explanations are added, as follows:
+"
+Ship Type
+Size Phase 0
+1 Jan 2013 –
+31 Dec 2014 Phase 1
+1 Jan 2015 –
+31 Dec 2019 Phase 2
+1 Jan 2020 –
+31 Dec 2024 Phase 3
+1 Jan 2025 and onwards
+LNG carrier*** 10,000 DWT and
+above
+n/a
+10**
+20
+30
+Ro-ro cargo ship (vehicle carrier)*** 10,000 DWT and
+above
+n/a
+5**
+15
+30
+Ro-ro cargo ship*** 2,000 DWT and
+above
+n/a
+5**
+20
+30
+1,000 –
+2,000 DWT
+n/a
+0-5***
+0-20*
+0-30*
+Ro-ro passenger ship*** 1000 DWT and above
+n/a
+5**
+20
+30
+250 –
+1,000 DWT
+n/a
+0-5***
+0-20*
+0-30*
+Cruise passenger ship*** having non-conventional propulsion 85,000 GT
+and above
+n/a
+5**
+20
+30
+25,000 –
+85,000 GT
+n/a
+0-5***
+0-20*
+0-30*
+* Reduction factor to be linearly interpolated between the two values dependent upon ship size. The lower value of the reduction factor is to be applied to the smaller ship size.
+** Phase 1 commences for those ships on 1 September 2015.
+*** Reduction factor applies to those ships delivered on or after 1 September 2019, as defined in paragraph 43 of regulation 2.
+Note: n/a means that no required EEDI applies."
+12 New rows are added to table 2 in paragraph 3 for ro-ro cargo ship (vehicle carrier), LNG carrier, cruise passenger ship having non-conventional propulsion, ro-ro cargo ships and ro-ro passenger ships as follows:
+"
+Ship type defined in regulation 2 a b c
+2.33 Ro-ro cargo ship (vehicle carrier) (DWT/GT)-0.7・780.36
+where DWT/GT&lt;0.3
+DWT of the ship
+0.471
+1812.63
+where DWT/GT≥0.3 
+2.34 Ro-ro cargo ship 1405.15 DWT of the ship 0.498
+2.35 Ro-ro passenger ship 752.16 DWT of the ship 0.381
+2.38 LNG carrier 2253.7 DWT of the ship 0.474
+2.39 Cruise passenger ship having non-conventional propulsion 170.84 GT of the ship 0.214
+"
+Appendix I – Form of International Air Pollution Prevention (IAPP) Certificate (regulation 8)
+13 The footnote in the Supplement to International Air Pollution Prevention Certificate (IAPP Certificate) is amended to read as follows:
+"* Completed only in respect of ships constructed on or after 1 January 2016 that are specially designed, and used solely, for recreational purposes and to which, in accordance with regulation 13.5.2.1 and regulation 13.5.2.3, the NOx emission limit as given by regulation 13.5.1.1 will not apply."
+AMENDMENTS TO THE NOX TECHNICAL CODE 2008
+Abbreviations, subscripts and symbols
+14 Table 4 is replaced by the following:
+"Table 4 – Symbols for fuel composition
+Symbol Definition Unit
+* H content of fuel % m/m
+* C content of fuel % m/m
+S content of fuel % m/m
+* N content of fuel % m/m
+* O content of fuel % m/m
+Molar ratio (H/C) 1
+* Subscripts "_G" denotes gas-fuel fraction.
+"_L" denotes liquid-fuel fraction."
+Chapter 1 – General
+15 Paragraph 1.3.10 is replaced by the following:
+"1.3.10 Marine diesel engine means any reciprocating internal combustion engine operating on liquid or dual fuel, to which regulation 13 applies, including booster/compound systems, if applied.
+Where an engine is intended to be operated normally in the gas mode, i.e. with the gas fuel as the main fuel and with liquid fuel as the pilot or balance fuel, the requirements of regulation 13 have to be met only for this operation mode. Operation on pure liquid fuel resulting from restricted gas supply in cases of failures shall be exempted for the voyage to the next appropriate port for the repair of the failure."
+Chapter 5 – Procedures for NOx emission measurements on a test bed
+16 Existing paragraph 5.3.4 is deleted and new paragraphs 5.3.4, 5.3.5 and 5.3.6 are added after existing paragraph 5.3.3 as follows:
+"5.3.4 The selection of gas fuel for testing for dual fuel depends on the aim of tests. In case where an appropriate standard gas fuel is not available, other gas fuels shall be used with the approval of the Administration. A gas fuel sample shall be collected during the test of the parent engine. The gas fuel shall be analysed to give fuel composition and fuel specification.
+5.3.5 fuel temperature shall be measured and recorded together with the measurement point position.
+5.3.6 mode operation of dual fuel engines using liquid fuel as pilot or balance fuel shall be tested using maximum liquid-to-gas fuel ratio, such maximum ratio means for the different test cycle modes the maximum liquid-to-gas setting certified. The liquid fraction of the fuel shall comply with 5.3.1, 5.3.2 and 5.3.3."
+17 A new sentence is added at the end of existing paragraph 5.12.3.3, as follows:
+"In case of the use of dual fuel, the calculation shall be in accordance with paragraphs 5.12.3.1 to 5.12.3.3. However, qmf, wALF, wBET, wDEL, wEPS, ffw values shall be calculated in accordance with the following table:
+Factors in the formula (6) (7) (8) Formula for factors
+qmf = qmf_G + qmf_L
+wALF
+= qmf G wALF G qmf L wALF L
+qmf G qmf L
+wBET
+= qmf G wBET G qmf L wBET L
+qmf G qmf L
+wDEL
+= qmf G wDEL G qmf L wDEL L
+qmf G qmf L
+wEPS
+= qmf G wEPS G qmf L wEPS L
+qmf G qmf L
+"
+18 In paragraph 5.12.5.1, table 5 is replaced by the following:
+"Table 5 – Coefficient ugas and fuel-specific parameters for raw exhaust gas
+Gas NOX CO HC CO2 O2
+gas kg/m3 2.053 1.250 * 1.9636 1.4277
+e † Coefficient ugas‡
+Liquid fuel** 1.2943 0.001586 0.000966 0.000479 0.001517 0.001103
+Rapeseed Methyl Ester
+1.2950
+0.001585
+0.000965
+0.000536
+0.001516
+0.001102
+Methanol 1.2610 0.001628 0.000991 0.001133 0.001557 0.001132
+Ethanol 1.2757 0.001609 0.000980 0.000805 0.001539 0.001119
+Natural gas 1.2661 0.001621 0.000987 0.000558 0.001551 0.001128
+Propane 1.2805 0.001603 0.000976 0.000512 0.001533 0.001115
+Butane 1.2832 0.001600 0.000974 0.000505 0.001530 0.001113
+* Depending on fuel.
+** Petroleum derived.
+† is the nominal density of the exhaust gas.
+‡ At = 2, wet air, 273 K, 101.3 kPa.
+Values for u given in table 5 are based on ideal gas properties.
+In multiple fuel type operation, the ugas value used shall be determined from the values applicable to those fuels in the table set out above proportioned in accordance with the fuel ratio used."
+Chapter 6 – Procedures for demonstrating compliance with NOx emission limits on board
+19 Paragraph 6.3.1.4 is replaced by the following:
+"6.3.1.4 In practical cases, it is often impossible to measure the fuel oil consumption once an engine has been installed on board a ship. To simplify the procedure on board, the results of the measurement of the fuel oil consumption from an engine's pre-certification test-bed testing may be accepted. In such cases, especially concerning residual fuel oil operation (RM-grade fuel oil according to ISO 8217:2005) and dual fuel operation, an estimation with a corresponding estimated error shall be made. Since the fuel oil flow rate used in the calculation ( ) must relate to the fuel oil composition determined in respect of the fuel sample drawn during the test, the measurement of from the test-bed testing shall be corrected for any difference in net calorific values between the test bed and test fuel oils and gases. The consequences of such an error on the final emissions shall be calculated and reported with the results of the emission measurement."
+20 In paragraph 6.3.2.1, table 6 is replaced by the following:
+"Table 6 – Engine parameters to be measured and recorded
+Symbol Term Unit
+Absolute humidity (mass of engine intake air water content related to mass of dry air) g/kg
+Engine speed (at the mode during the cycle) min–1
+Turbocharger speed (if applicable) (at the mode during the cycle) min–1
+Total barometric pressure (in ISO 3046-1:1995: = = site ambient total pressure) kPa
+Charge air pressure after the charge air cooler (at the mode during the cycle) kPa
+Brake power (at the mode during the cycle) kW
+Fuel oil (in case of dual fuel engine, it would be fuel oil and gas) (at the mode during the cycle) kg/h
+Fuel rack position (of each cylinder, if applicable) (at the mode during the cycle)
+Intake air temperature at air inlet (in ISO 3046-1:1995: Tx = TTx = site ambient thermodynamic air temperature) K
+Charge air temperature after the charge air cooler (if applicable) (at the mode during the cycle) K
+Charge air cooler, coolant inlet temperature °C
+Charge air cooler, coolant outlet temperature °C
+Exhaust gas temperature at the sampling point (at the mode during the cycle) °C
+_L Fuel oil temperature before the engine °C
+Seawater temperature °C
+* Gas fuel temperature before the engine °C
+* Only for dual-fuel engine."
+21 A new paragraph 6.3.4.3 is added after existing paragraph 6.3.4.2 as follows:
+"6.3.4.3 In case of a dual fuel engine, the gas fuel used shall be the gas fuel available on board."
+22 Paragraph 6.3.11.2 is replaced by the following:
+"6.3.11.2 The NOX emission of an engine may vary depending on the ignition quality of the fuel oil and the fuel-bound nitrogen. If there is insufficient information available on the influence of the ignition quality on the NOX formation during the combustion process and the fuel-bound nitrogen conversion rate also depends on the engine efficiency, an allowance of 10% may be granted for an on board test run carried out on an RM-grade fuel oil (ISO 8217:2005), except that there will be no allowance for the pre-certification test on board. The fuel oil and gas fuel used shall be analysed for its composition of carbon, hydrogen, nitrogen, sulphur and, to the extent given in (ISO 8217:2005) and (ISO 8178-5:2008), any additional components necessary for a specification of the fuel oil and gas fuel."
+23 In paragraph 6.4.11.1, table 9 is replaced by the following:
+"Table 9 – Default fuel oil parameters
+Carbon Hydrogen Nitrogen Oxygen
+Distillate fuel oil (ISO 8217:2005,
+DM grade)
+86.2%
+13.6%
+0.0%
+0.0%
+Residual fuel oil (ISO 8217:2005,
+RM grade)
+86.1%
+10.9%
+0.4%
+0.0%
+Natural gas 75.0% 25.0% 0.0% 0.0%
+For other fuel oils, default value as approved by the Administration."
+Appendix VI – Calculation of exhaust gas mass flow (carbon balance method)
+24 A new paragraph 2.5 is added after existing paragraph 2.4 as follows:
+"2.5 qmf, wALF, wBET, wDEL, wEPS, ffd parameters, in formula (1), in case of gas mode operation of dual-fuel engine, shall be calculated as follows:
+Factors in formula (1) Formula of factors
+qmf = qmf_G+qmf_L
+wALF
+= qmf G wALF G qmf L wALF L
+qmf G qmf L
+wBET
+= qmf G wBET G qmf L wBET L
+qmf G qmf L
+wDEL
+= qmf _ G wDEL _ G qmf _ L wDEL _ L
+qmf _ G qmf _ L
+wEPS
+= qmf G wEPS G qmf L wEPS L
+qmf G qmf L
+" 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

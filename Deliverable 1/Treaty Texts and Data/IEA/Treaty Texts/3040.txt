@@ -1,0 +1,677 @@
+
+ Amendments To IBC Code Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1989-AmendmentsIBCCode-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=6952/32(27).pdf     
+    ﻿Adoption Of Amendments To The Annex Of The Protocol Of 1978 Relating To The International Convention For The Prevention Of Pollution From Ships, 1973
+Source: http://www.imo.org/includes/blastData.asp/doc_id=6952/32(27).pdf
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the function of the Committee conferred upon it by International Convention for the Prevention and Control of Marine Pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol"), which together specify the amendment procedure of the 1978 Protocol and confers upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+BEING DESIROUS of keeping appendices II and III of Annex II of
+MARPOL 73/78 up to date and compatible with the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC Code) and the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (BCH Code),
+NOTING FURTHER resolution MEPC.32(27) by which the Committee adopted amendments to the IBC Code,
+RECOGNIZING the need to bring the corresponding amendments to appendices II and III of Annex II of MARPOL 73/78 into force on the date on which the amendments to the IBC Code enter into force,
+HAVING CONSIDERED, at its twenty-seventh session, the amendments to appendices II and III of Annex II of MARPOL 73/78 proposed by the Sub-Committee on Bulk Chemicals at its eighteenth session and circulated in accordance with article 16(2)(a) of the 1973 Convention,
+ADOPTS in accordance with article 16(2)(d) of the 1973 Convention amendments to appendices II and III of Annex II of MARPOL 73/78, the text of which is set out in the Annex to the present resolution;
+DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on the date on which the conditions for the entry into force of the amendments to the IBC Code adopted by the Committee by resolution MEPC.32(27) are met, unless prior to that date, not less than one third of the Parties or the Parties, the combined merchant fleets of which constitute not lees than fifty per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments;
+INVITES the Parties to note that in accordance with article 16(2)(g)(ii) of the 1973 Convention the amendments shall enter into force six months after their acceptance in accordance with paragraph 2 above;
+REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1978 Protocol certified copies of the present resolution and the text of the amendments contained in the Annex;
+REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the resolution and its Annex.
+ANNEX
+AMENDMENTS TO APPENDICES II AND III
+OF ANNEX II OF MARPOL 73/78
+The lists contained in Appendices II and III of Annex II of MARPOL 73/78 are replaced by the following:
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Acetaldehyde[TAB]1089[TAB]C[TAB][TAB]
+Acetic acid[TAB]2789[TAB]D[TAB][TAB]
+Acetic anhydride[TAB][TAB]D[TAB][TAB]
+Acetone cyanohydrin[TAB]1541[TAB]A[TAB]0.1[TAB]0.05
+Acrylamide solution (50% or less)[TAB]2074[TAB]D[TAB][TAB]
+Acrylic acid[TAB]2218[TAB]D[TAB][TAB]
+Acrylonitrile[TAB]1093[TAB]B[TAB][TAB]
+Adiponitrile[TAB]2205[TAB]D[TAB][TAB]
+Alcohol (C12-C15) poly(1-3) ethoxylates[TAB][TAB]A[TAB]0.1[TAB]0.05
+Alcohol (C12-C15) poly(3-11) ethoxylates[TAB][TAB]A[TAB]0.1[TAB]0.05
+Alcohol (C6-C17)(secondary) poly(3-6) ethoxylates[TAB][TAB]A[TAB]0.1[TAB]0.05
+Alcohol (C6-C17)(secondary) poly(7-12) ethoxylates[TAB][TAB]B[TAB][TAB]
+Alkyl acrylate-Vinyl pyridine copolymer in toluene[TAB][TAB]C[TAB][TAB]
+Alkyl (C9-C17) benzenes[TAB][TAB](D)[TAB][TAB]
+Alkyl benzene sulphonic acid[TAB]2584, 2586[TAB]C[TAB][TAB]
+Alkyl benzene sulphonic acid, sodium salt solution[TAB][TAB]C[TAB][TAB]
+Allyl alcohol[TAB]1098[TAB]B[TAB][TAB]
+Allyl chloride[TAB]1100[TAB]B[TAB][TAB]
+Aluminium chloride (30% or less)/Hydrochloric acid
+(20% or less) solution[TAB][TAB]D[TAB][TAB]
+Aluminium sulphate solution[TAB][TAB]D[TAB][TAB]
+2-(2-Aminoethoxy) ethanol[TAB]3055[TAB]D[TAB][TAB]
+Aminoethyl ethanolamine[TAB][TAB](D)[TAB][TAB]
+N-Aminoethylpiperazine[TAB]2815[TAB]D[TAB][TAB]
+2-Amino-2-methyl-l-propanol. (90% or less)[TAB][TAB]D[TAB][TAB]
+Ammonia aqueous (28% or less)[TAB]2672*[TAB]C[TAB][TAB]
+Ammonium nitrate solution (93% or less)[TAB][TAB]D[TAB][TAB]
+Ammonium sulphate solution[TAB][TAB]D[TAB][TAB]
+Ammonium sulphide solution (4S% or less)[TAB]2683[TAB]B[TAB][TAB]
+Ammonium thiocyanate (25% or less)/Ammonium
+thiosulphate (20% or less) solution[TAB][TAB](C)[TAB][TAB]
+Ammonium thiosulphate solution (60% or less)[TAB][TAB](C)[TAB][TAB]
+n-Amyl acetate[TAB]1104[TAB]C[TAB][TAB]
+sec-Amyl acetate[TAB]1104[TAB]C[TAB][TAB]
+Amyl acetate, commercial '[TAB]1104[TAB]C[TAB][TAB]
+n-Amyl alcohol[TAB]1105[TAB]D[TAB][TAB]
+sec-Amyl alcohol[TAB]1105[TAB]D[TAB][TAB]
+Amyl alcohol, primary[TAB]1105[TAB]D[TAB][TAB]
+Aniline[TAB]1547[TAB]C[TAB][TAB]
+Animal and fish oils, n.o.s. including:
+Cod liver oil
+Sperm oil[TAB][TAB]D[TAB][TAB]
+Aviation alkylates (C8 paraffins and iso-paraffins
+BPT 95 - 120°C)[TAB][TAB](C)[TAB][TAB]
+Benzene and mixtures having 10% benzene or more[TAB]1114**[TAB]C[TAB][TAB]
+Benzene sulphonyl chloride[TAB]2225[TAB]D[TAB][TAB]
+Benzyl acetate[TAB][TAB]C[TAB][TAB]
+Pollution Category in brackets indicates that the substance has been provisionally included in this list and that further data arc necessary in order to complete the evaluation of its environmental hazards, particularly in relation to living resources. Until the hazard evaluation is completed the Pollution Category assigned shall he used.
+* UN number refers to 10-35%.
+** UN number 1114 applies to Benzene
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Benzyl alcohol[TAB][TAB]C[TAB][TAB]
+Benzyl chloride[TAB]1738[TAB]B[TAB][TAB]
+Brake fluid base mix: (Poly(2-8) alkylene(C2-C3)
+glycols/Polyalkylene(C2-C10) glycols
+monoalkyl(C1-C4) ethers and their borate esters)[TAB][TAB]D[TAB][TAB]
+Butene oligomer[TAB][TAB]B[TAB][TAB]
+n-Butyl acetate[TAB]1123[TAB]C[TAB][TAB]
+sec-Butyl acetate[TAB]1123[TAB]D[TAB][TAB]
+n-Butyl acrylate[TAB]2348[TAB]B[TAB][TAB]
+Butylamine (all isomers)[TAB][TAB]C[TAB][TAB]
+Butylbenzenes (all isomers)[TAB]2709[TAB](A)[TAB]0.1[TAB]0.05
+Butyl benzyl phthalate[TAB][TAB]A[TAB]0.1[TAB]0.05
+n-Butyl butyrate[TAB][TAB](C)[TAB][TAB]
+Butyl/Decyl/Cetyl/Eicosyl methacrylate mixture[TAB][TAB]D[TAB][TAB]
+Butylene glycol[TAB][TAB]D[TAB][TAB]
+1,2-Butylene oxide[TAB]3022[TAB]C[TAB][TAB]
+n-Butyl ether[TAB]1149[TAB]C[TAB][TAB]
+Butyl lactate[TAB][TAB]D[TAB][TAB]
+Butyl methacrylate[TAB][TAB]D[TAB][TAB]
+n-Butyraldehyde[TAB]1129[TAB]B[TAB][TAB]
+Butyric acid[TAB]2820[TAB]D[TAB][TAB]
+gamma-Butyrolactone[TAB][TAB]D[TAB][TAB]
+Calcium alkyl salicylate[TAB][TAB]C[TAB][TAB]
+Calcium hydroxide slurry[TAB][TAB]D[TAB][TAB]
+Calcium hypochlorite solution (15% or less)[TAB][TAB]C[TAB][TAB]
+Calcium hypochlorite solution (more than 15%)[TAB][TAB]. B[TAB][TAB]
+Calcium naphthenate in mineral oil[TAB][TAB]A[TAB]0.1[TAB]0.05
+Camphor oil[TAB]1130[TAB]B[TAB][TAB]
+epsilon-Caprolactam (molten or aqueous solutions)[TAB][TAB]D[TAB][TAB]
+Carbolic oil[TAB][TAB]A[TAB]0.1[TAB]0.05
+Carbon disulphide[TAB]1131[TAB]B[TAB][TAB]
+Carbon tetrachloride[TAB]1846[TAB]B[TAB][TAB]
+Cashew nut shell oil (untreated)[TAB][TAB]D[TAB][TAB]
+Chlorinated paraffins (C10-C13)[TAB][TAB]A[TAB]0.1[TAB]0.05
+Chloroacetic acid (80% or less)[TAB]1750[TAB]C[TAB][TAB]
+Chlorobenzene[TAB]1134[TAB]B[TAB][TAB]
+Chloroform[TAB]1888[TAB]B[TAB][TAB]
+Chlorohydrins (crude)[TAB][TAB](D)[TAB][TAB]
+o-Chloronitrobenzene[TAB]1578[TAB]B[TAB][TAB]
+2- or 3-Chloropropionic acid[TAB][TAB](C)[TAB][TAB]
+Chlorosulphonic acid[TAB]1754[TAB]C[TAB][TAB]
+m-Chlorotoluene[TAB]2238[TAB]B[TAB][TAB]
+o-Chlorotoluene[TAB]2238[TAB]A[TAB]0.1[TAB]0.05
+p-Chlorotoluene[TAB]2238[TAB]B[TAB][TAB]
+Chlorotoluenes (mixed isomers)[TAB]2238[TAB]A[TAB]0.1[TAB]0.05
+Choline chloride solutions[TAB][TAB]D[TAB][TAB]
+Citric acid[TAB][TAB]D[TAB][TAB]
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Coal tar[TAB][TAB]A[TAB]0.1[TAB]0.05
+Coal tar naphtha solvent[TAB][TAB]B[TAB][TAB]
+Coal tar pitch (molten)[TAB][TAB]D[TAB][TAB]
+Cobalt naphthenate in solvent naphtha[TAB][TAB]A[TAB]0.1[TAB]0.05
+Coconut oil fatty acid[TAB][TAB]C[TAB][TAB]
+Coconut oil fatty acid methyl ester[TAB][TAB]D[TAB][TAB]
+Creosote (coal tar)[TAB][TAB]A[TAB]0.1[TAB]0.05
+Creosote (wood)[TAB][TAB]A[TAB]0.1[TAB]0.05
+Cresols (all isomers)[TAB]2076[TAB]A[TAB]0.1[TAB]0.05
+Cresylic acid, sodium salt solution[TAB][TAB]A[TAB]0.1[TAB]0.05
+Crotonaldehyde[TAB]1143[TAB]B[TAB][TAB]
+Cycloheptane[TAB]2241[TAB](C)[TAB][TAB]
+Cyclohexane[TAB]1145[TAB]C[TAB][TAB]
+Cyclohexanol[TAB][TAB]C[TAB][TAB]
+Cyclohexanone[TAB]1915[TAB]D[TAB][TAB]
+Cyclohexyl acetate[TAB][TAB](B)[TAB][TAB]
+Cyclohexylamine[TAB]2357[TAB]C[TAB][TAB]
+1,3-Cyclopentadiene dimer (molten)[TAB][TAB]B[TAB][TAB]
+Cyclopentane[TAB]1146[TAB](C)[TAB][TAB]
+Cyclopentene[TAB][TAB](B)[TAB][TAB]
+p-Cymene[TAB]2046[TAB]C[TAB][TAB]
+Decahydronaphthalene[TAB]1147[TAB](D)[TAB][TAB]
+Decanoic acid[TAB][TAB]C[TAB][TAB]
+Decene[TAB][TAB]B[TAB][TAB]
+Decyl acrylate[TAB][TAB]A[TAB]0.1[TAB]0.05
+Decyl alcohol (all isomers)[TAB][TAB]B[TAB][TAB]
+Decylbenzene[TAB][TAB]D[TAB][TAB]
+Diacetone alcohol[TAB]1148[TAB]D[TAB][TAB]
+Dialkyl (C7-C13) phthalates[TAB][TAB]D[TAB][TAB]
+Dibutylamine[TAB][TAB]C[TAB][TAB]
+Dibutyl phthalate[TAB][TAB]A[TAB]0.1[TAB]0.05
+Dichlorobenzenes (all isomers)[TAB]1592[TAB]B[TAB][TAB]
+1,1-Dichloroethane[TAB]2362[TAB]B[TAB][TAB]
+Dichloroethyl ether[TAB]1916[TAB]B[TAB][TAB]
+1,6-Dichlorohexane[TAB][TAB]B[TAB][TAB]
+2,2-Dichloroisopropyl ether[TAB]2490[TAB]C[TAB][TAB]
+Dichloromethane[TAB]1593[TAB]D[TAB][TAB]
+2,4-Dichlorophenol[TAB]2021[TAB]A[TAB]0.1[TAB]0.05
+2,4-Dichlorophenoxyacetic acid, diethanolamine
+salt solution[TAB][TAB]A[TAB]0.1[TAB]0.05
+2,4-Dichlorophenoxyacetic acid, dimethylamine salt
+solution (70% or less)[TAB][TAB]A[TAB]0.1[TAB]0.05
+2,4-Dichlorophenoxyacetic acid,
+triisopropanolamine salt solution[TAB][TAB]A[TAB]0.1[TAB]0.05
+1,1-Dichloropropane[TAB][TAB]B[TAB][TAB]
+1,2-Dichloropropane[TAB]1279[TAB]B[TAB][TAB]
+1,3-Dichloropropane[TAB][TAB]B[TAB][TAB]
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+1,3-Dichloropropene[TAB]2047[TAB]B[TAB][TAB]
+Dichloropropene/Dichloropropane mixtures[TAB][TAB]B[TAB][TAB]
+2,2-Dichloropropionic acid[TAB][TAB]D[TAB][TAB]
+Diethylamine[TAB]1154[TAB]C[TAB][TAB]
+Diethylaminoethanol[TAB]2686[TAB]C[TAB][TAB]
+Diethylbenzene[TAB]2049[TAB]C[TAB][TAB]
+Diethylene glycol butyl ether acetate[TAB][TAB](D)[TAB][TAB]
+Diethylene glycol dibutyl ether[TAB][TAB]D[TAB][TAB]
+Diethylene glycol ethyl ether acetate[TAB][TAB](D)[TAB][TAB]
+Diethylene glycol methyl ether[TAB][TAB]C[TAB][TAB]
+Diethylene glycol methyl ether acetate[TAB][TAB](D)[TAB][TAB]
+Diethylenetriamine[TAB]2079[TAB]D[TAB][TAB]
+Di-(2-ethylhexyl) adipate[TAB][TAB]D[TAB][TAB]
+Di-(2-ethylhexyl) phosphoric acid[TAB]1902[TAB]C[TAB][TAB]
+Diethyl phthalate[TAB][TAB]C[TAB][TAB]
+Diethyl sulphate[TAB]1594[TAB](B)[TAB][TAB]
+Diglycidyl ether of bisphenol A[TAB][TAB]B[TAB][TAB]
+Diglycidyl ether of bisphenol F[TAB][TAB]B[TAB][TAB]
+Di-n-hexyl adipate[TAB][TAB]B[TAB][TAB]
+1,4-Dihydro-9,10-dihydroxy anthracene, disodium
+salt solution[TAB][TAB]D[TAB][TAB]
+Diisobutylamine[TAB]2361[TAB](C)[TAB][TAB]
+Diisobutylene[TAB]2050[TAB]B[TAB][TAB]
+Diisobutyl ketone[TAB]1157[TAB]D[TAB][TAB]
+Diisobutyl phthalate[TAB][TAB]B[TAB][TAB]
+Diisodecyl phthalate[TAB][TAB]D[TAB][TAB]
+Diisononyl adipate[TAB][TAB]D[TAB][TAB]
+Diisopropanolamine[TAB][TAB]C[TAB][TAB]
+Diisopropylamine[TAB]1158[TAB]C[TAB][TAB]
+Diisopropylbenzene (all isomers)[TAB][TAB]A[TAB]0.1[TAB]0.05
+Diisopropyl naphthalene[TAB][TAB]D[TAB][TAB]
+N,N-Dimethylacetamide solution (40% or less)[TAB][TAB]D[TAB][TAB]
+Dimethyl adipate[TAB][TAB]B[TAB][TAB]
+Dimethylamine solution (45% or less)[TAB]1160[TAB]C[TAB][TAB]
+Dimethylamine solution (greater than 45% but not
+greater than 55%)[TAB]1160[TAB]C[TAB][TAB]
+Dimethylamine solution (greater than 55% but not
+greater than 65%)[TAB]1160[TAB]C[TAB][TAB]
+N,N-Dimethylcyclohexylamine[TAB]2264[TAB]C[TAB][TAB]
+Dimethylethanolamine[TAB]2051[TAB]D[TAB][TAB]
+Dimethylformamide[TAB]2265[TAB]D[TAB][TAB]
+Dimethyl glutarate[TAB][TAB]C[TAB][TAB]
+Dimethyl octanoic acid[TAB][TAB](C)[TAB][TAB]
+Dimethyl phthalate[TAB][TAB]C[TAB][TAB]
+2,2-Dimethylpropane-l,3-diol[TAB][TAB](D)[TAB][TAB]
+Dimethyl succinate[TAB][TAB]C[TAB][TAB]
+Dinitrotoluene (molten)[TAB]1600[TAB]B[TAB][TAB]
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Dinonyl phthalate[TAB][TAB]D[TAB][TAB]
+1,4-Dioxane[TAB]1165[TAB]D[TAB][TAB]
+Dipentene[TAB]2052[TAB]C[TAB][TAB]
+Diphenyl[TAB][TAB]A[TAB]0.1[TAB]0.05
+Diphenyl/Diphenyl ether mixtures[TAB][TAB]A[TAB]0.1[TAB]0.05
+Diphenyl ether[TAB][TAB]A[TAB]0.1[TAB]0.05
+Diphenyl ether/Diphenyl phenyl ether mixture[TAB][TAB]A[TAB]0.1[TAB]0.05
+Diphenylmethane diisocyanate[TAB]2489[TAB](B)[TAB][TAB]
+Diphenylol propane-epichlorohydrin resins[TAB][TAB]B[TAB][TAB]
+Di-n-propylamine[TAB]2383[TAB]C[TAB][TAB]
+Dipropylene glycol methyl ether[TAB][TAB](D)[TAB][TAB]
+Ditridecyl phthalate[TAB][TAB]D[TAB][TAB]
+Diundecyl phthalate[TAB][TAB]D[TAB][TAB]
+Dodecene (all isomers)[TAB][TAB](B)[TAB][TAB]
+Dodecenyl succinic acid, dipotassium salt solution[TAB][TAB](D)[TAB][TAB]
+Dodecyl alcohol[TAB][TAB]B[TAB][TAB]
+Dodecyl diphenyl ether disulphonate solution[TAB][TAB]B[TAB][TAB]
+Dodecyl phenol[TAB][TAB]A[TAB]0.1[TAB]0.05
+Drilling brines, containing Zinc salts[TAB][TAB](A)[TAB]0.1[TAB]0.05
+Epichlorohydrin[TAB]2023[TAB]C[TAB][TAB]
+Ethanolamine[TAB]2491[TAB]D[TAB][TAB]
+2-Ethoxyethanol[TAB]1171[TAB]D[TAB][TAB]
+2-Ethoxyethyl acetate[TAB]1172[TAB]C[TAB][TAB]
+Ethyl acetate[TAB]1173[TAB]D[TAB][TAB]
+Ethyl acetoacetate[TAB][TAB](D)[TAB][TAB]
+Ethyl acrylate[TAB]1917[TAB]A[TAB]0.1[TAB]0.05
+Ethylamine[TAB]1036[TAB](C)[TAB][TAB]
+Ethylamine solutions (72% or less)[TAB]2270[TAB](C)[TAB][TAB]
+Ethyl amyl ketone[TAB]2271[TAB]C[TAB][TAB]
+Ethylbenzene[TAB]1175[TAB]C[TAB][TAB]
+N-Ethylbutylamine[TAB][TAB](C)[TAB][TAB]
+Ethyl butyrate[TAB]1180[TAB]C[TAB][TAB]
+Ethylcyclohexane[TAB][TAB](C)[TAB][TAB]
+N-Ethylcyclohexylamine[TAB][TAB]D[TAB][TAB]
+Ethylene chlorohydrin[TAB]1135[TAB]C[TAB][TAB]
+Ethylene cyanohydrin[TAB][TAB](b)[TAB][TAB]
+Ethylenediamine[TAB]1604[TAB]C[TAB][TAB]
+Ethylenediamine, Tetraacetic acid, Tetrasodium
+salt solution[TAB][TAB]D[TAB][TAB]
+Ethylene dibromide[TAB]1605[TAB]B[TAB][TAB]
+Ethylene dichloride[TAB]1184[TAB]B[TAB][TAB]
+Ethylene glycol[TAB][TAB]D[TAB][TAB]
+Ethylene glycol acetate[TAB][TAB](D)[TAB][TAB]
+Ethylene glycol butyl ether acetate[TAB][TAB](C)[TAB][TAB]
+Ethylene glycol diacetate[TAB][TAB]C[TAB][TAB]
+Ethylene glycol isopropyl ether[TAB][TAB]D[TAB][TAB]
+Ethylene glycol methyl butyl ether[TAB][TAB]D[TAB][TAB]
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Ethylene glycol methyl ether[TAB]1188[TAB]D[TAB][TAB]
+Ethylene glycol methyl ether acetate[TAB]1189[TAB]D[TAB][TAB]
+Ethylene glycol phenyl ether[TAB][TAB]D[TAB][TAB]
+Ethylene glycol phenyl ether/Diethylene glycol
+phenyl ether mixture[TAB][TAB]D[TAB][TAB]
+Ethylene oxide/Propylene oxide mixture with an
+Ethylene oxide content of not more than 30%
+in weight[TAB]2983[TAB]D[TAB][TAB]
+2-Ethylhexanoic acid[TAB][TAB]D[TAB][TAB]
+2-Ethylhexyl acrylate[TAB][TAB]B[TAB][TAB]
+2-Ethylhexylamine[TAB]2276[TAB]B[TAB][TAB]
+Ethylidene norbornene[TAB][TAB]B[TAB][TAB]
+' Ethyl methacrylate[TAB]2277[TAB](D)[TAB][TAB]
+o-Ethylphenol[TAB][TAB](A)[TAB]0.1[TAB]0.05
+Ethyl propionate[TAB]1195[TAB]D[TAB][TAB]
+2-Ethyl-3-propylacrolein[TAB][TAB](B)[TAB][TAB]
+Ethyltoluene[TAB][TAB](B)[TAB][TAB]
+Ferric chloride solutions[TAB]2582[TAB]C[TAB][TAB]
+Ferric hydroxyethyl ethylenediamine triacetic
+acid, trisodium salt solution[TAB][TAB]D[TAB][TAB]
+Ferric nitrate/Nitric acid solution[TAB][TAB]C[TAB][TAB]
+Formaldehyde solutions (45% or less)[TAB]1198,[TAB]2209 C[TAB][TAB]
+Formamide[TAB][TAB]D[TAB][TAB]
+Formic acid[TAB]1779[TAB]D[TAB][TAB]
+Fumaric adduct of rosin, water dispersion[TAB][TAB]B[TAB][TAB]
+Furfural[TAB]1199[TAB]C[TAB][TAB]
+Furfuryl alcohol[TAB]2874[TAB]C[TAB][TAB]
+Glutaraldehyde solutions (50% or less)[TAB][TAB]D[TAB][TAB]
+Glycidyl ester of C10 trialkylacetic acid[TAB][TAB]B[TAB][TAB]
+Glyoxal solution (40% or less)[TAB][TAB]D[TAB][TAB]
+Heptane (all isomers)[TAB]1206[TAB](C)[TAB][TAB]
+n-Heptanoic acid[TAB][TAB](D)[TAB][TAB]
+Heptanol (all isomers)[TAB][TAB]C[TAB][TAB]
+Heptene (all isomers)[TAB][TAB]C[TAB][TAB]
+Heptyl acetate[TAB][TAB](B)[TAB][TAB]
+Hexamethylenediamine adipate (50% in water)[TAB][TAB]D[TAB][TAB]
+Hexamethylenediamine solution[TAB]1783[TAB]C[TAB][TAB]
+Hexamethyleneimine[TAB]2493[TAB]C[TAB][TAB]
+Hexamethylenetetramine solutions[TAB][TAB]D[TAB][TAB]
+Hexane (all isomers)[TAB]1208[TAB](C)[TAB][TAB]
+Hexanoic acid[TAB][TAB]D[TAB][TAB]
+Hexanol[TAB]2282[TAB]D[TAB][TAB]
+Hexane (all isomers)[TAB][TAB](C)[TAB][TAB]
+Hexyl acetate[TAB]1233[TAB]B[TAB][TAB]
+Hydrochloric acid[TAB]1789[TAB]D[TAB][TAB]
+Hydrogen peroxide solutions (over 8% but not[TAB]2014,[TAB]2984 C[TAB][TAB]
+over 60%)[TAB][TAB][TAB][TAB]
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Hydrogen peroxide solutions (over 60% but not
+over 70%)[TAB]2015[TAB]C[TAB][TAB]
+2-Hydroxyethyl acrylate[TAB][TAB]B[TAB][TAB]
+N-(Hydroxyethyl) ethylenediamine triacetic acid,
+trisodium salt solution[TAB][TAB]D[TAB][TAB]
+Isoamyl acetate[TAB]1104[TAB]C[TAB][TAB]
+Isoamyl alcohol[TAB]1105[TAB]D[TAB][TAB]
+Isobutyl acetate[TAB]1213[TAB]C[TAB][TAB]
+Isobutyl acrylate[TAB]2527[TAB]B[TAB][TAB]
+Isobutyl formate[TAB]2393[TAB]D[TAB][TAB]
+Isobutyraldehyde[TAB]2045[TAB]C[TAB][TAB]
+Isophorone[TAB][TAB]D[TAB][TAB]
+Isophoronediamine[TAB]2289[TAB]D[TAB][TAB]
+Isophorone diisocyanate[TAB]2290[TAB]B[TAB][TAB]
+Isoprene[TAB]1218[TAB]C[TAB][TAB]
+Isopropanolasine[TAB][TAB]- C[TAB][TAB]
+Isopropylamine[TAB]1221[TAB]C[TAB][TAB]
+Isopropylbenzene[TAB]1918[TAB]B[TAB][TAB]
+Isopropylcyclohexane[TAB][TAB](C)[TAB][TAB]
+Isopropyl ether[TAB]1159[TAB]D[TAB][TAB]
+Isovaleraldehyde[TAB]2058[TAB]C[TAB][TAB]
+Lactic acid[TAB][TAB]D[TAB][TAB]
+Lactonitrile solution (80% or less)[TAB][TAB]B[TAB][TAB]
+Latex (ammonia inhibited)[TAB][TAB]D[TAB][TAB]
+Lauric acid[TAB][TAB]B[TAB][TAB]
+Maleic anhydride[TAB]2215[TAB]D[TAB][TAB]
+Mercaptobenzothiazol, sodium salt solution[TAB][TAB]B[TAB][TAB]
+Mesityl oxide[TAB]1229[TAB]D[TAB][TAB]
+Metam sodium solution[TAB][TAB]A[TAB]0.1[TAB]0.05
+Methacrylic acid[TAB]2531[TAB]D[TAB][TAB]
+Methacrylic resin in 1,2-Dichloroethane solution[TAB][TAB]B[TAB][TAB]
+Methacrylonitrile[TAB]3079[TAB](B)[TAB][TAB]
+3-Methoxybutyl acetate[TAB]2708[TAB]D[TAB][TAB]
+Methyl acetoacetate[TAB][TAB]D[TAB][TAB]
+Methyl acrylate[TAB]1919[TAB]B[TAB][TAB]
+Methylamine solutions (42% or less)[TAB]1235[TAB]C[TAB][TAB]
+Methylamyl acetate[TAB]1233[TAB](C)[TAB][TAB]
+Methylamyl alcohol[TAB]2053[TAB](C)[TAB][TAB]
+Methyl amyl ketone[TAB]1110[TAB](C)[TAB][TAB]
+Methyl butenol[TAB][TAB](D)[TAB][TAB]
+Methyl tert-butyl ether[TAB]2398[TAB]D[TAB][TAB]
+Methyl butyl ketone[TAB][TAB]D[TAB][TAB]
+Methyl butynol[TAB][TAB]D[TAB][TAB]
+Methyl butyrate[TAB]1237[TAB](C)[TAB][TAB]
+Methylcyclohexane[TAB]2296[TAB](C)[TAB][TAB]
+Methylcyclopentadiene dieter[TAB][TAB](B)[TAB][TAB]
+2-Methyl-6-ethyl aniline[TAB][TAB]C[TAB][TAB]
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+2-Methyl-S-ethyl pyridine[TAB]2300[TAB](B)[TAB][TAB]
+Methyl formate[TAB]1243[TAB]D[TAB][TAB]
+Methyl heptyl ketone[TAB][TAB]B[TAB][TAB]
+Methyl isobutyl ketone[TAB]1245[TAB]D[TAB][TAB]
+Methyl methacrylate[TAB]1247[TAB]D[TAB][TAB]
+Methylnaphthalene[TAB][TAB]A[TAB]0.1[TAB]0.05
+2-Methyl-l-pentene[TAB]2288[TAB]C[TAB][TAB]
+Methyl propyl ketone[TAB][TAB]D[TAB][TAB]
+2-Methylpyridine[TAB]2313[TAB]B[TAB][TAB]
+4-Methylpyridine[TAB]2313[TAB]B[TAB][TAB]
+N-Methyl-2-pyrrolidone[TAB][TAB]B[TAB][TAB]
+Methyl salicylate[TAB][TAB](B)[TAB][TAB]
+alpha-Methylstyrene[TAB]2303[TAB]A[TAB]0.1[TAB]0.05
+Morpholine[TAB]2054[TAB]D[TAB][TAB]
+Motor fuel anti-knock compounds[TAB]1649[TAB]A[TAB]0.1[TAB]0.05
+Naphthalene (molten)[TAB]2304[TAB]A[TAB]0.1[TAB]0.05
+Naphthalene sulphonic acid-formaldehyde copolymer,
+sodium salt solution[TAB][TAB]D[TAB][TAB]
+Naphthenic acids[TAB][TAB]A[TAB]0.1[TAB]0.05
+Neodecanoic acid[TAB][TAB]C[TAB][TAB]
+Nitrating acid (mixture of sulphuric and nitric
+acids)[TAB]1796[TAB](C)[TAB][TAB]
+Nitric acid (less than 70%)[TAB]2031[TAB]C[TAB][TAB]
+Nitric acid (70% and over)[TAB]2031,[TAB]2032 C[TAB][TAB]
+Nitrilotriacetic acid, trisodium salt solution[TAB][TAB]D[TAB][TAB]
+Nitrobenzene[TAB]1662[TAB]B[TAB][TAB]
+o-Nitrophenol (molten)[TAB]1663[TAB]B[TAB][TAB]
+1- or 2-Nitropropane[TAB]2608[TAB]D[TAB][TAB]
+Nitropropane (60%)/Nitroethane (40%) mixture[TAB]1993[TAB]D[TAB][TAB]
+o- or p-Nitrotoluenes[TAB]1664[TAB]C[TAB][TAB]
+Nonane (all isomers)[TAB]1920[TAB](C)[TAB][TAB]
+Nonanoic acid (all isomers)[TAB][TAB]D[TAB][TAB]
+Nonene[TAB][TAB]B[TAB][TAB]
+Nonyl alcohol (all isomers)[TAB][TAB]C[TAB][TAB]
+Nonyl methacrylate monomer[TAB][TAB](D)[TAB][TAB]
+Nonylphenol[TAB][TAB]A[TAB]0.1[TAB]0.05
+Nonyl phenol poly(4-12) ethoxylates[TAB][TAB]B[TAB][TAB]
+Octane (all isomers)[TAB]1262[TAB](C)[TAB][TAB]
+Octanoic acid (all isomers)[TAB][TAB]D[TAB][TAB]
+Octanol (all isomers)[TAB][TAB]C[TAB][TAB]
+Octene (all isomers)[TAB][TAB]B[TAB][TAB]
+n-Octyl acetate[TAB][TAB]D[TAB][TAB]
+Octyl aldehydes[TAB][TAB](B)[TAB][TAB]
+Octyl nitrates (all isomers)[TAB][TAB]A[TAB]0.1[TAB]0.05
+Olefin mixtures (C5-C7)[TAB][TAB]C[TAB][TAB]
+Olefin mixtures (C5-C15)[TAB][TAB]B[TAB][TAB]
+alpha-Olefins (C6-C18) mixtures[TAB][TAB]B[TAB][TAB]
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Oleic acid[TAB][TAB]D[TAB][TAB]
+Oleum[TAB]1831[TAB]C[TAB][TAB]
+Palm nut oil fatty acid[TAB][TAB](C)[TAB][TAB]
+Palm oil fatty acid methyl ester[TAB][TAB]D[TAB][TAB]
+Palm stearin[TAB][TAB]D[TAB][TAB]
+Paraldehyde[TAB]1264[TAB]C[TAB][TAB]
+Pentachloroethane[TAB]1669[TAB]B[TAB][TAB]
+1,3-Pentadiene[TAB][TAB]C[TAB][TAB]
+Pentaethylenehexamine[TAB][TAB]D[TAB][TAB]
+Pentane (all isomers)[TAB]1265[TAB](C)[TAB][TAB]
+Pentanoic acid[TAB][TAB]D[TAB][TAB]
+Pentane (all isomers)[TAB][TAB]C[TAB][TAB]
+Perchloroethylene[TAB]1897[TAB]B[TAB][TAB]
+Phenol[TAB]2312[TAB]B[TAB][TAB]
+1-Phenyl-l-xylyl ethane[TAB][TAB]C[TAB][TAB]
+Phosphoric acid[TAB]1805[TAB]D[TAB][TAB]
+Phosphorus, yellow or white[TAB]1381,[TAB]2447 A[TAB]0.01[TAB]0.005
+Phthalic anhydride (molten)[TAB]2214[TAB]C[TAB][TAB]
+Pinene[TAB]2368[TAB]B[TAB][TAB]
+Polyalkylene glycol butyl ether[TAB][TAB]D[TAB][TAB]
+Polyethylene polyamines[TAB]2734,[TAB]2735 (C)[TAB][TAB]
+Polyferric sulphate solution[TAB][TAB](C)[TAB][TAB]
+Polymethylene polyphenyl isocyanate[TAB]2207[TAB]D[TAB][TAB]
+Polypropylene glycol[TAB][TAB]D[TAB][TAB]
+Potassium hydroxide solution[TAB]1814[TAB]C[TAB][TAB]
+n-Propanolamine[TAB][TAB]C[TAB][TAB]
+beta-Propiolactone[TAB][TAB]D[TAB][TAB]
+Propinnaldehyde[TAB]1275[TAB]D[TAB][TAB]
+Propionic acid[TAB]1848[TAB]D[TAB][TAB]
+Propionic anhydride[TAB]2496[TAB]C[TAB][TAB]
+Propionitrile[TAB]2404[TAB]C[TAB][TAB]
+n-Propyl acetate[TAB]1276[TAB]D[TAB][TAB]
+n-Propylamine[TAB]1277[TAB]C[TAB][TAB]
+n-Propylbenzene[TAB]2364[TAB](C)[TAB][TAB]
+n-Propyl chloride[TAB][TAB]B[TAB][TAB]
+Propylene dieter[TAB][TAB](C)[TAB][TAB]
+Propylene glycol ethyl ether[TAB][TAB](D)[TAB][TAB]
+Propylene glycol methyl ether[TAB][TAB](D)[TAB][TAB]
+Propylene glycol monoalkyl ether[TAB][TAB](D)[TAB][TAB]
+Propylene oxide[TAB]1280[TAB]D[TAB][TAB]
+Propylene tetramer[TAB]2850[TAB]B[TAB][TAB]
+Propylene trimer[TAB]2057[TAB]B[TAB][TAB]
+Pyridine[TAB]1282[TAB]D[TAB][TAB]
+Rosin[TAB][TAB]B[TAB][TAB]
+Rosin soap (disproportionated) solution[TAB][TAB]B[TAB][TAB]
+Silicon tetrachloride[TAB][TAB]D[TAB][TAB]
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Sodium aluminate solution[TAB][TAB]C[TAB][TAB]
+Sodium borohydride (15% or less)/Sodium hydroxide
+solution[TAB][TAB]C[TAB][TAB]
+Sodium carbonate solution[TAB][TAB]D[TAB][TAB]
+Sodium dichromate solution (70% or less)[TAB][TAB]C[TAB][TAB]
+Sodium hydrogen sulphite solution (35% or less)[TAB]2693[TAB]D[TAB][TAB]
+Sodium hydrosulphide/Ammonium sulphide solution[TAB][TAB]B[TAB][TAB]
+Sodium hydrosulphide solution (45% or less)[TAB]2949[TAB]B[TAB][TAB]
+Sodium hydroxide solution[TAB]1824[TAB]D[TAB][TAB]
+Sodium hypochlorite solution (15% or less)[TAB]1791[TAB]C[TAB][TAB]
+Sodium nitrite solution[TAB]1577[TAB]B[TAB][TAB]
+Sodium silicate solution[TAB][TAB]D[TAB][TAB]
+Sodium sulphide solution[TAB][TAB]B[TAB][TAB]
+• Sodium sulphite solution[TAB][TAB]C[TAB][TAB]
+Sodium thiocyanate solution (56% or less)[TAB][TAB](B)[TAB][TAB]
+Styrene monomer[TAB]2055[TAB]B[TAB][TAB]
+Sulpholane[TAB][TAB]D[TAB][TAB]
+Sulphuric acid[TAB]1830[TAB]C[TAB][TAB]
+Sulphuric acid, spent[TAB]1832[TAB]C[TAB][TAB]
+Tall oil (crude and distilled)[TAB][TAB]B[TAB][TAB]
+Tall oil fatty acid (resin acids less than 20%)[TAB][TAB](C)[TAB][TAB]
+Tall oil soap (disproportionated) solution[TAB][TAB]B[TAB][TAB]
+Tallow[TAB][TAB]D[TAB][TAB]
+Tallow fatty acid[TAB][TAB](D)[TAB][TAB]
+Tetrachloroethane[TAB]1702[TAB]B[TAB][TAB]
+Tetraethylene pentamine[TAB]2320[TAB]D[TAB][TAB]
+Tetrahydrofuran[TAB]2056[TAB]D[TAB][TAB]
+Tetrahydronaphthalene[TAB][TAB]C[TAB][TAB]
+1,2,3,5-Tetramethylbenzene[TAB][TAB](C)[TAB][TAB]
+Titanium tetrachloride[TAB]1838[TAB]D[TAB][TAB]
+Toluene[TAB]1294[TAB]C[TAB][TAB]
+Toluenediamine[TAB]1709[TAB]C[TAB][TAB]
+Toluene diisocyanate[TAB]2078[TAB]C[TAB][TAB]
+o-Toluidine[TAB]1708[TAB]C[TAB][TAB]
+Tributyl phosphate[TAB][TAB]B[TAB][TAB]
+1,2,4-Trichlorobenzene,[TAB]2321[TAB]B[TAB][TAB]
+1,1,1-Trichloroethane[TAB]2831[TAB]B[TAB][TAB]
+1,1,2-Trichloroethane[TAB][TAB]B[TAB][TAB]
+Trichloroethylene[TAB]1710[TAB]B[TAB][TAB]
+1,2,3-Trichloropropane[TAB][TAB]B[TAB][TAB]
+1,1,2-Trichloro-1,2,2-trifluoroethane[TAB][TAB]C[TAB][TAB]
+Tricresyl phosphate (containing less than 1%
+ortho-isomer)[TAB][TAB]A[TAB]0.1[TAB]0.05
+Tricresyl phosphate (containing 1% or more
+ortho-isomer)[TAB]2574*[TAB]A[TAB]0.2[TAB]0.05
+Triethanolamine[TAB][TAB]D[TAB][TAB]
+Triethylamine[TAB]1296[TAB]C[TAB][TAB]
+a UN number 2574 applies to Tricresyl phosphate containing more than 3% ortho-isomer.
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Triethylbenzene[TAB][TAB]A[TAB]0.1[TAB]0.05
+Triethylene glycol ethyl ether[TAB][TAB](D)[TAB][TAB]
+Triethylene glycol methyl ether[TAB][TAB](D)[TAB][TAB]
+Triethylenetetramine[TAB]2259[TAB]D[TAB][TAB]
+Trimethylacetic acid[TAB][TAB]D[TAB][TAB]
+Trimethylamine[TAB][TAB]C[TAB][TAB]
+Trimethyl benzenes (all isomers)[TAB][TAB]B[TAB][TAB]
+Trimethylhexamethylene diamine (2,2,4- and 2,4,4-
+isomers)[TAB]2327[TAB]D[TAB][TAB]
+Trimethylhexamethylene diisocyanate (2,2,4- and
+2,4,4- isomers)[TAB]2328[TAB]B[TAB][TAB]
+Trimethylol propane polyethoxylate[TAB][TAB]D[TAB][TAB]
+2,2,4-Trimethyl-1,3-pentanediol-l-isobutyrate[TAB][TAB]C[TAB][TAB]
+Tripropylene glycol methyl ether[TAB][TAB](D)[TAB][TAB]
+Trixylyl phosphate[TAB][TAB]A[TAB]0.1[TAB]0.05
+Turpentine[TAB]1299[TAB]B[TAB][TAB]
+Undecanoic acid[TAB][TAB](C)[TAB][TAB]
+1-Undecene[TAB][TAB]B[TAB][TAB]
+Undecyl alcohol[TAB][TAB]B[TAB][TAB]
+Urea/Ammonium mono- and di-hydrogen
+phosphite/Potassium _chloride solution[TAB][TAB](D)[TAB][TAB]
+Urea/Ammonium nitrate solution[TAB][TAB]D[TAB][TAB]
+Urea/Ammonium nitrate solution (containing aqua
+Ammonia)[TAB][TAB]C[TAB][TAB]
+Urea/Ammonium phosphate solution[TAB][TAB]D[TAB][TAB]
+n-Valeraldehyde[TAB]20.58[TAB]D[TAB][TAB]
+Vegetable oil, n.o.s., including:
+Castor oil
+Coconut oil
+Corn oil
+Cottonseed oil
+Groundnut oil
+Linseed oil
+Olive oil
+Palm nut oil
+Palm oil
+Rape seed oil
+Rice bran oil
+Safflower oil
+Sesame oil
+Soya bean oil
+Sunflower oil
+Tung oil[TAB][TAB]D[TAB][TAB]
+Vinyl acetate[TAB]1301[TAB]C[TAB][TAB]
+Vinyl ethyl ether[TAB]1302[TAB]C[TAB][TAB]
+Vinylidene chloride[TAB]1303[TAB]B[TAB][TAB]
+Vinyl neodecanoate[TAB][TAB]B[TAB][TAB]
+Substance[TAB]I[TAB]II[TAB]III[TAB]IV
+Vinyltoluene[TAB]2618[TAB]11[TAB]0.1[TAB]0.05
+White spirit, low (15-20%) aromatic[TAB]1300[TAB](B)[TAB][TAB]
+Xylenes[TAB]1307[TAB]C[TAB][TAB]
+Xylenol[TAB]2261[TAB]B[TAB][TAB]
+Substance[TAB]UN number
+Acetone[TAB]1090
+Acetonitrile[TAB]1648
+Alcoholic beverages, n.o.s.[TAB]
+Alcohols (C13 and above)[TAB]
+Aminoethyldiethanolamine/Aminoethylethanolamine solution[TAB]
+2-Amino-2-hydroxymethyl-l,3-propanediol solution (40% or less)[TAB]
+tert-Amyl alcohol[TAB]1105
+'Apple juice[TAB]
+Behenyl alcohol[TAB]
+Benzene tricarboxylic acid, trioctyl ester[TAB]
+n-Butyl alcohol[TAB]1120
+sec-Butyl alcohol[TAB]1120
+tert-Butyl alcohol[TAB]1120
+Butyl stearate[TAB]
+Calcium carbonate slurry[TAB]
+Calcium nitrate/Magnesium nitrate/Potassium chloride solution[TAB]
+Cetyl/Eicosyl methacrylate mixture[TAB]
+Cetyl/Stearyl alcohol[TAB]
+Chlorinated paraffins (C14-C17) (with 52% chlorine)[TAB]
+Clay slurry[TAB]
+Coal slurry[TAB]
+Dextrose solution[TAB]
+Diethanolamine[TAB]
+Diethyl ether[TAB]1155
+Diethylene glycol[TAB]
+Diethylene glycol butyl ether[TAB]
+Diethylene glycol diethyl ether[TAB]
+Diethylene glycol ethyl ether[TAB]
+Diethylenetriamine pentaacetic acid, pentasodium salt solution[TAB]
+Diheptyl phthalate[TAB]
+Dihexyl phthalate[TAB]
+Diisooctyl phthalate[TAB]
+Dioctyl phthalate[TAB]
+Dipropylene glycol[TAB]
+Dodecane (all isomers)[TAB]
+Dodecyl benzene[TAB]
+Dodecyl methacrylate[TAB]
+Dodecyl/Pentadecyl methacrylate mixture[TAB]
+Drilling brines:
+Calcium bromide solution
+Calcium chloride solution
+Sodium chloride solution[TAB]
+Ethyl alcohol[TAB]1170
+Ethylene carbonate[TAB]
+Ethylene glycol butyl ether[TAB]2369
+Ethylene glycol tert-butyl ether[TAB]
+Ethylene-Vinyl acetate copolymer. (emulsion)[TAB]
+Fatty acid (saturated, C13 and above)[TAB]
+Substance[TAB]UN number
+Glucose solution[TAB]
+Glycerine[TAB]
+Glycerol polyalkoxylate[TAB]
+Glyceryl triacetate[TAB]
+Glycine, sodium salt solution[TAB]
+' Hexamethylene glycol[TAB]
+Hexylene glycol[TAB]
+Isobutyl alcohol[TAB]1212
+Isopropyl acetate[TAB]1220
+Isopropyl alcohol[TAB]1219
+Kaolin slurry[TAB]
+Lard[TAB]
+Latex:
+Carboxylated styrene-Butadiene copolymer
+Styrene-butadiene rubber[TAB]
+Lignin sulphonic acid, sodium salt solution[TAB]
+Magnesium chloride solution[TAB]
+Magnesium hydroxide slurry[TAB]
+3-Methoxy-l-butanol[TAB]
+Methyl acetate[TAB]1231
+Methyl alcohol[TAB]1230
+Methyl ethyl ketone[TAB]
+2-Methyl-2-hydroxy-3-butyne[TAB]
+3-Methyl-3-methoxy butanol[TAB]
+3-Methyl-3-methoxy butyl acetate[TAB]
+Molasses[TAB]
+Octyl decyl adipate[TAB]
+alpha-Olefins (C13-C18)[TAB]
+Olefins (C13 and above, all isomers)[TAB]
+n-Paraffins (C10-C20)[TAB]
+Paraffin wax[TAB]
+Petrolatum[TAB]
+Polyaluminium chloride solution[TAB]
+Polybutene[TAB]
+Polyethylene glycol dimethyl ether[TAB]
+Polyethylene glycols '[TAB]
+Polypropylene glycol methyl ether[TAB]
+Polysiloxane[TAB]
+n-Propyl alcohol[TAB]
+Propylene glycol[TAB]
+Propylene-butylene copolymer[TAB]
+Sodium alumino silicate slurry[TAB]
+Sodium chlorate solution (50% or less)[TAB]2428
+Sorbitol solution[TAB]
+Sulphur (molten)[TAB]2448
+Tetraethylene glycol[TAB]
+Tridecane[TAB]
+Tridecanoic acid[TAB]
+Substance[TAB]UN number
+Triethylene glycol[TAB]
+Triethylene glycol butyl ether[TAB]
+Triisopropanolamine[TAB]
+Tripropylene glycol[TAB]
+Urea formaldehyde resin solution[TAB]
+Urea solution[TAB]
+Vegetable protein solution (hydrolyzed)[TAB]
+Water[TAB] 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

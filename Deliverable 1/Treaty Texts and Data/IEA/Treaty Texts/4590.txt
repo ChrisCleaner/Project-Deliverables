@@ -1,0 +1,127 @@
+
+ Amendments To Appendices I and II To The Convention On International Trade In Endangered Species Of Wild Fauna And Flora (COP-14, 2007)   
+     Filename: 2007-AmendmentsAppendicesIAndII-1973-TradeEndangeredSpecies.EN.txt 
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/2007/30.html     
+    ﻿2007 Amendments to Appendices I and II of the Convention on International Trade in Endangered Species of Wild Fauna and Flora
+Source: http://www.austlii.edu.au/au/other/dfat/treaties/2007/30.html, downloaded 20091223
+Adopted by the Conference of the Parties at its 14th meeting, The Hague (Netherlands), 3-15 June 2007
+1. In accordance with the provisions of Article XV of the Convention, the Conference of the Parties to the Convention, at its 14th meeting (CoP14), held in The Hague, the Netherlands, from 3 to 15 June 2007, considered the amendments to Appendices I and II proposed by the Parties. These proposed amendments were communicated to the contracting States of the Convention by Notification sent through the diplomatic channel, dated 19 February 2007.
+2. At CoPl4, the Conference of the Parties took the decisions listed below. The abbreviation ‘spp.' is used to denote all species of a higher taxon.
+a) The following text is included in the ‘Interpretation' section of the Appendices:
+"When a species is included in one of the Appendices, all parts and derivatives of trio species are also included in the same Appendix unless the species is annotated to indicate that only specific parts and derivatives are included."
+b) The following taxon is deleted from Appendix I of the Convention:
+FLORA
+AGAVACEAE Agave arizonica
+c) The following taxa are deleted from Appendix II of the Convention:
+FLORA
+CACTACEAE Pereskia spp.
+Pereskiopsis spp.
+Quiabentia spp.
+DIAPENSIACEAE Shortia galacifolia
+d) The following taxa are transferred from Appendix I to Appendix II of the Convention:
+FAUNA
+CHORDATA
+REPTILIA
+CROCODYLIA
+Aligatoridae Melanosuchus niger (Population of Brazil)
+FLORA
+AGAVACEAE Nolina interrata (Including all parts and derivatives)
+e) The following taxa are transferred from Appendix II to Appendix I of the Convention:
+FAUNA
+CHORDATA
+MAMMALIA
+PRIMATES
+Loridae Nycticebus spp.
+REPTLIA
+SAURIA
+Helodermatidae Heloderma horridum charlesbogerti
+f) The following taxa are included in Appendix I of the Convention:
+FAUNA
+CHORDATA
+MAMMALIA
+ARTIODACTYLA
+Bovidae GazelIa cuvieri[1]
+Gazella leptoceros[1]
+ELASMOBRANCHII
+RAJIFORMES
+Pristidae Pristidae spp. (Except Pristis microdon)
+g) The following taxa are included in Appendix II of the Convention:
+FAUNA
+CHORDATA
+ELASMOBRANCHII
+RAJIFORMES
+Pristidae Pristis microdon (For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable aquaria for primarily conservation purposes)
+ACTINOPTERYGII
+ANGUILLIFORMES
+Anguillidae Anguila anguilla (Entry into force delayed 18 months, i.e. until 13 March 2009)
+FLORA
+LEGUMINOSAE Caesalpinia echinata (Logs, sawn wood, veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments)
+h) All annotations to the populations of Loxodonta africana (MAMMALIA, PROBOSCIDEA, Elephantidae) in Appendix II are replaced by the following annotation:
+"a) trade in hunting trophies for non-commercial purposes;
+b) trade in live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20, for Zimbabwe and Botswana and for in situ conservation programmes for Namibia and South Africa;
+c) trade in hides;
+d) trade in hair;
+e) trade in leather goods for commercial or non-commercial purposes for Botswana, Namibia and South Africa and for non-commercial purposes for Zimbabwe;
+f) trade in individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for noncommercial purposes for Zimbabwe;
+g) trade in registered raw ivory (for Botswana, Namibia, South Africa and Zimbabwe, whole tusks and pieces) subject to the following:
+i) only registered government-owned stocks, originating in the State (excluding seized ivory and ivory of unknown origin);
+ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP12) concerning domestic manufacturing and trade;
+iii) not before the Secretariat has verified the prospective importing countries and the registered government-owned stocks;
+iv) raw ivory pursuant to the conditional sale of registered government-owned ivory stocks agreed at CoP12, which are 20,000 kg (Botswana), 10,000 kg (Namibia) and 30,000 kg (South Africa);
+v) in addition to the quantities agreed at CoP12, government-owned ivory from Botswana, Namibia, South Africa and Zimbabwe registered by 31 January 2007 and verified by the Secretariat may be traded and dispatched, with the ivory in paragraph g) iv) above, in a single sale per destination under strict supervision of the Secretariat;
+vi) the proceeds of the trade are used exclusively for elephant conservation and community conservation and development programmes within or adjacent to the elephant range; and
+vii) the additional quantities specified in paragraph g) v) above shall be traded only after the Standing Committee has agreed that the above conditions have been met; and
+h) no further proposals to allow trade in elephant ivory from populations already in Appendix II shall be submitted to the Conference of the Parties for the period from CoP14 and ending nine years from the date of the single sale of ivory that is to take place in accordance with provisions in paragraphs g) i), g) ii), g) iii), g) vi) and g) vii). In addition such further proposals shall be dealt with in accordance with Decisions 14.XX and 14.XX.
+On a proposal from the Secretariat, the Standing Committee can decide to cause this trade to cease partially or completely in the event of non-compliance by exporting or importing countries, or in the case of proven detrimental impacts of the trade on other elephant populations.
+All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly."
+NB: The text Decisions 14.XX and 14.XX" in paragraph h) above refers to the following decisions directed to the Standing Committee, for which the numbers will be indicated in Appendices I and II:
+"The Standing Committee, assisted by the Secretariat, shall propose for approval by the latest at CoP16 a decision-making mechanism for a process of trade in ivory rider the auspices of the Conference of the Parties.
+The Standing Committee shall conduct ongoing comprehensive reviews of the status of the elephant, trade in its specimens and the impact of the legal trade, based on data from MIKE, ETIS and the implementation of the Action plan for the control of trade in elephant ivory and the African Elephant Action Plan referred to in Decision 14.XX."
+i) The annotation to the population of Vicugna vicugna (MAMMALIA, ARTIODACTYLA, Camelidae) of Bolivia in Appendix II is replaced by the following annotation:
+"For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, and in cloth and items made thereof, including luxury handicrafts and knitted articles.
+The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the Convenio para la Conservacion y Manejo de la Vicuña, and the selvages the words ‘VICUÑA-BOLIVIA'. Other products must bear a label including the logotype and the designation ‘VICUÑA-BOLIVIA-ARTESANIA'.
+All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly."
+j) The annotations to the following taxa are replaced by the annotations indicated in each case, which specify the parts or derivatives thereof that are designated as subject to the provisions of the Convention in accordance with the provisions of Article I, paragraph b subparagraph (iii), of the Convention:
+- For Adonis vernalis, Gualacum spp., Nardostachys grandiflora, Picrorhiza kurrooa, Podophyllum hexandrum, Rauvolfia serpentina, Taxus chinensis, T. fuana, T. cuspidata, T. sumatrana and T. wallichiana:
+"Designates all parts and derivatives except:
+a) seeds and pollen; and
+b) finished products packaged and ready for retail trade";
+- For Hydrastis Canadensis
+"Designates underground parts (i.e. roots, rhizomes): whole, parts and powdered";
+- For Panax ginseng and P. quinquefolius
+"Designates whole and sliced roots and parts of roots";
+- For Pterocarpus santalinus:
+"Designates logs, wood-chips, powder and extracts";
+- For Orchidaceae spp. in Appendix II and for the following Appendix-II taxa: Agave victoriae-reginae, Aloe spp., Anacampseros spp., Aquilaria spp., Avonia spp., Beccariophoenix madagascariensis, Bowenia spp., Caryocar costaricense, Cibotium barometz, Cistanche deserticola, Cyathea spp., Cycadaceae spp., Cyclamen spp., Dicksonia spp., Did iereaceae spp., Dionaea muscipula, Dioscorea deltoidea, Euphorbia spp., Fouquieria columnaris, Galanthus spp., Gonystylus spp., Gyrinops spp., Hedychium phiilppinense, Lewisia serrata, Neodypsis decaryl, Nepenthes spp., Oreomunnea pterocarpa, Orothamnus zeyheri, Pachypodium spp., Platymiscium pleiostachyum, Protea odorata, Prunus africana, Sarracenia spp., Sternbergia spp., Swietenia humilis, Tillandsia harrisil, T. kammil, T kautskyi, T mauryana, T. sprengeliana, T. sucrei, T. xerographica, Welwitschia mirabilis and Zamiaceae spp.:
+"Designates all parts and derivatives, except:
+a) seeds, spores and pollen (including pollinia);
+b) seedling or tissue cultures obtained in vitro, in solid or liquid media, transported in sterile containers;
+c) cut flowers of artificially propagated plants; and
+d) fruits and parts and derivatives thereof of artificially propagated plants of the genus Vanilla".
+k) The annotation to Orchidaceae spp. in Appendix II is replaced by the following in notation.
+"Artificially propagated hybrids of the following genera are not subject to the provisions of the Convention, if conditions, as indicated under a) and b), are met:
+Cymbidium, Dendrobium, Phalaenopsis and Vanda:
+a) Specimens are readily recognizable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and
+b) i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, which clearly states the number of plants of each hybrid; or
+ii when shipped in flowering state, with at least one fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, e.g. labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification.
+Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents."
+l) The annotation to Taxus chinensis, Taxus fuana and Taxus sumatrana in Appendix II is deleted and the annotation to Taxus cuspidata is replaced by the following annotation:
+"Artificially propagated hybrids and cultivars of Taxus cuspidata, live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text ‘artificially propagated', are not subject to the provisions of the Convention."
+3. The names of species, and higher taxa, used in Appendices I, II and Ill will be revised to reflect the new nomenclatural references adopted at CoP14, referred to in document CoP14 Doc 8.5.
+4. At CoP14, the Secretariat announced its intention to rearrange the listing of animal species in the Appendices in order to present the orders, families and genera in alphabetical order, in response to comments on the need for simplification. As there was general support for this approach it will be followed in the revised version of the Appendices.
+5. In accordance with the provisions of Article XV, paragraph 1, subparagraph (c), of the Convention, the amendments adopted at CoP14 shall enter into force 90 days after that meeting, i.e. on 13 September 2007, for all Parties except those which make reservations in accordance with paragraph 3 of that Article.
+6. In accordance with the provisions of Article XV, paragraph 3, of the Convention, and during the period of 90 days provided for by subparagraph (c) of paragraph 1 of that Article (i.e. by 13 September 2007), any Party may by notification in writing to the Depositary Government (the Government of the Swiss Confederation) make a reservation with respect lo one or more amendments adopted at CoP14. In this case, the Party shall be treated as a State not party to the Convention with respect to trade in the species concerned. The other Parties shall then apply the provisions of Article X of the Convention to such trade with the Parr\ having made the reservation.
+7. In accordance with the provisions of Article XII, paragraph 2, subparagraph (f), of the Convention, the Secretariat shall publish an updated version of Appendices I, II and Ill to take into account the amendments adopted at CoP14 and the changes necessitated by the adoption of standard references mentioned under paragraph 3 above. This updated version, valid from 13 September 2007, will be distributed shortly after the present Notification.
+Footnotes
+[1] Transferred from Appendix III to Appendix I. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

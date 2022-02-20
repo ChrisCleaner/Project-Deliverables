@@ -1,0 +1,154 @@
+
+ Protocol Amending The Convention For The Prevention Of Marine Pollution By Dumping From Ships And Aircraft   
+     Filename: 1983-Protocol-1972-MarinePollutionDumpingShipsAircraft.EN.txt 
+ Source: B7 p. 972:12/A     
+    ﻿Protocol amending the Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft
+Source: B7 p. 972:12/A
+The States Parties to the Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft, done at Oslo on 15 February 1972 (hereinafter referred to as "the Convention");
+Recalling Article 1 of the Convention, in which Contracting Parties pledge themselves to take all possible steps to prevent the pollution of the sea by substances that are liable to create hazards to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea;
+Being desirous of establishing, within the framework of the Convention, binding rules on incineration at sea reflecting the special characteristics of the region concerned, and noting that the present text of the Convention does not provide an adequate basis for the establishment of such rules;
+Resolving that the Convention should be amended for this purpose;
+Have agreed as follows:
+Article I
+Article 19 of the Convention shall be amended to read as follows:
+"For the purpose of this Convention:
+1) "Dumping" means any deliberate disposal into the sea, including through the medium of incineration at sea, of substances and materials by or from ships or aircraft other than:
+a) any discharge or incineration incidental to or derived from the normal operation of ships and aircraft and their equipment;
+b) the placing of substances and materials for a purpose other than the mere disposal thereof, if not contrary to the aim of this Convention.
+2) "Incineration" means any deliberate combustion of substances and materials at sea for the purpose of their thermal destruction.
+3) "Ships and aircraft" means sea-going vessels and airborne craft of any type whatsoever. This expression includes air-cushion craft, floating craft whether self-propelled or not, and fixed or floating platforms."
+Article II
+The following paragraph shall be added to Article 8 of the Convention:
+"3) The provisions of Article 5, 6 and 7 shall not apply to the disposal of substances and materials by means of incineration at sea. The incineration at sea of substances and materials other than those listed in Rule 2 paragraph 4 of Annex IV to this Convention is prohibited. No substances and materials shall be incinerated without a specific permit in each case from the appropriate national authority or authorities. When such permits are issued, the relevant provisions of Annex III and the provisions of Annex IV to this Convention shall be applied."
+Article III
+Article 22 of this Convention shall be amended to read as follows:
+"This Convention, as amended by the Protocol opened for signature on 2 March 1983, shall be open for accession by any State reffered to in Article 20. The Contracting Parties may unanimously invite other States to accede to the Convention as amended. The instruments of accession shall be deposited with the Government of Norway."
+Article IV
+Annex IV, the text of which is set out in the Appendix to this Protocol. shall be added to the Convention.
+Article V
+This Protocol shall be open for signature at Oslo from 2 March 1983 until 2 June 1983 by the States which are Parties to the Convention on the date of the opening for signature of this Protocol.
+Article VI
+This Protocol shall be subject to ratification, acceptance or approval. The instruments of ratification, acceptance or approval shall be deposited with the Government of Norway.
+Article VII
+This Protocol shall be open for accession by any State reffered to in Article 22 of the Convention which has not signed this Protocol. The instruments of accession shall be deposited with the Government of Norway.
+Article VIII
+1) This Protocol shall enter into force on the first day of the second month following the date on which all States referred to in Article V of this Protocol shall have deposited their instrument of ratification, acceptance, approval or accession.
+2) For any State acceding to this Protocol after its entry into force, this Protocol shall enter into force on the first day of the second month following the date on which that State shall have deposited its instrument of accession.
+Article IX
+The depositary Government shall inform the Contracting Parties of the Convention of signatures of this Protocol and of the deposit of instruments of ratification, acceptance, approval or accession, in accordance with Articles V, VI and VII.
+Article X
+The original of this Protocol, of which the English and French texts are equally authentic, shall be deposited with the Government of Norway, which shall send certified copies thereof to the Contracting Parties to the Convention. It shall transmit a certified copy to the Secretary-General of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
+In witness whereof the undersigned, being duly authorised thereto by their respective Governments, have signed this Protocol.
+Done at Oslo, this second day of March 1983.
+Annex IV
+Rules of Incineration at Sea
+Rule 1
+Definitions
+For the purposes of this Annex:
+1) "Marine incineration facility" means a ship, as defined in Article 19 of the Convention, operating for the purpose of incineration at sea.
+2) "Incineration system" means the equipment comprising the incinerator and its systems for the feed of wastes, fuel and air, the appliances and devices for the control of the incineration operation and for the recording and monitoring of the conditions of incineration.
+3) "Incinerator" means the furnace in which the thermal destruction of the wastes takes place.
+Rule 2
+Application
+1) The Contracting Parties shall not permit the incineration of substances and materials for which practical alternative land-based methods of treatment, disposal or elimination are available.
+2) The current practice of incineration at sea shall be regarded as an interim method of waste disposal. The Contracting Parties shall promote the further development of alternative land-based methods of treatment, disposal or elimination.
+3) The Commission shall meet before 1 January 1990 to establish a final date for the termination of incineration at sea.
+4) Only the following substances and materials may be the subject of an incineration permit:
+a) organohalogen compounds;
+b) pesticides and their by-products other than organohalogen compounds;
+c) substances and materials not listed in Annexes I and II which may be incinerated without damage to the marine environment;
+d) waste containing the substances and materials mentioned above, provided that these substances and materials have not been added to the waste for the purpose of this waste being incinerated, and provided that the waste does not contain substances listed in paragraphs 4 and 5 of Annex 1 except when those substances occur as trace contaminants in waste to which they have not been added for the purpose of being incinerated.
+5) In the issue of incineration permits the Contracting Parties shall apply the present Rules and shall take into account the applicable provisions of the Code of Practice for the Incineration of Wastes at Sea adopted by the Commission.
+6) Incineration permit shall be issued for a period not exceeding two years. Permits may be renewed subject to the provisions of paragraph 1 of this Rule.
+Rule 3
+Approval and surveys of the incineration system
+1) Any incineration system used for incineration at sea must be approved by a Contracting Party according to the procedures specified in this Rule.
+2) For this purpose, the Contracting Party shall make an Initial Survey of the incineration system, or ensure that an Initial Survey has been completed by a Contracting Party, on the basis of the technical criteria contained in these Rules and taking into account the provisions of the Code of Practice.
+3) The Initial Survey shall be carried out in order to:
+i) approve the siting, number, type and manner of use of the devices for measuring and recording the incinerator wall temperature;
+ii) approve the gas sampling system including probe locations, analytical devices and the manner of recording;
+iii) ensure that approved devices have been installed to automatically shut off the feed of waste to the incinerator if the temperature drops below approved minimum temperatures;
+iv) approve the siting, type and manner of use of devices by which feed rates and amounts of waste pumped to the incinerator are controlled and recorded;
+v) approve the results of tests on liquid organohalogen wastes, the characteristics of which are known, under intensive stack monitoring, including measurements of OZ, CO, COZ, organohalogens and total hydrocarbons in the combustion gases;
+vi) ensure that during the incineration of wastes the combustion and destruction efficiencies shall exceed 99.9 %;
+vii) approve the details of the mechanism for feeding and burning solid waste, if the facility is equipped for this purpose;
+viii) approve the following systems, the installation of which shall be mandatory following a decision of the Commission:
+- a closed gauging system of the waste tanks;
+- a tank overflow control system;
+- equipment for the automatic recording of the data required under Rule 6.
+4) Following the completion of an Initial Survey, a Form of Approval shall be issued by the Contracting Party concerned if the incineration system is found to be in compliance with these Rules and takes account of the provisions of the Code of Practice. The period of validity of the Form of Approval shall not exceed two years.
+5) Periodic surveys, at least every two years, shall be the responsibility of the Contracting Party which conducted the Initial Survey, or of a Contracting Party responsible for issuing a permit for current operations in consultation with that Contracting Party, to ensure that the incineration system continues to comply with these Rules and continues to take account of the provisions of the Code of Practice. In the periodic survey, the operating data and maintenance records for the previous period shall be taken into account. If the incineration system still complies with these Rules and takes account of the provisions of the Code of Practice, the Contracting Party shall renew the Form of Approval for a further period not exceeding two years.
+6) After any survey has been completed, no changes which affect the performance of the incineration system shall be made without the approval of the Contracting Party which has issued or renewed the Form of Approval.
+7) There shall be available on the marine incineration facility.
+- a copy of the Form of Approval and Survey Reports;
+- a register containing the details of any changes affecting the performance of the incineration system, as mentioned in paragraph 6.
+8) A Form of Approval issued by a Contracting Party shall be recognised by other Contracting Parties unless there are clear grounds for believing that the incineration system is not in compliance with these Rules. A copy of each Form of Approval and Survey Report shall be submitted to the Commission.
+9) If the marine incineration facility is a vessel, Contracting Parties shall ascertain before issuing a Form of Approval that the vessel complies with the relevant provisions of the IMCO Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk.
+Rule 4
+Incineration permits and control over the nature of wastes for incineration
+1) An incineration permit maybe issued only for incineration operations to be performed on an approved marine incineration facility or for the purpose of an approval Survey.
+2) Any application for an incineration permit to a Contracting Party must contain the justification for the recourse to incineration as required by Rule 2 paragraph 4 and all relevant information on the physical and chemical characteristics of the substances and materials proposed for incineration and especially information embodied in the Code of Practice.
+3) A Contracting Party which proposes to permit the incineration of substances and materials produced outside its jurisdiction shall obtain from the competent authorities confirmation of the origin of the substances and materials and their suitability for incineration.
+4) Copies of incineration permits issued by Contracting Parties shall be available on the marine incineration facility and the Commission shall be immediately notified, in accordance with the Notification Procedure referred to in Rule 10.
+5) Where a Contracting Party has doubts as to the thermal destructibility of the substances and materials proposed for incineration, pilot scale tests shall be undertaken before a permit may be issued.
+6) Where a Contracting Party proposes to permit incineration of substances and
+materials which have been subject to pilot scale tests and over which doubts as to the efficiency of combustion remain, the incineration system shall be subject to the same intensive stack monitoring as required for the initial marine incineration system survey. Consideration shall be given to the sampling and analysis of particulates, taking into account the solid content of the substances and materials.
+Rule 5
+Facilities for incineration at sea: operation requirements
+1) The operation of the incineration system shall be controlled so as to ensure that:
+a) the normal operating wall temperature exceeds 1200 °C unless the results of tests on the marine incineration facility demonstrate that the required combustion and destruction efficiencies can be achieved at a lower temperature. In the latter case, the Commission shall be informed of the results of these tests;
+b) the theoretical minimum residence time within the incinerator, for a wall temperature of 1200 °C, is of the order of one second;
+c) the combustion efficiency based on: Combustion efficiency
+((Cco2-Cco)/Cco2) x100, where: [Editor's Change]
+Cco2 = concentration of carbon dioxide in the combustion gases
+Cco2 = concentration of carbon monoxide in the combustion gases
+shall be at least 99.9 %;
+d) the destruction efficiency based on a determination of the amount of the organohalogen substances added to the furnace which is not destroyed shall be at least equal to the combustion efficiency of the incinerator, i.e. 99.9 %. The routine measurement of this parameter shall be mandatory only after adequate measuring devices become available and following a decision by the Commission.
+2) There shall be no black smoke nor flame extension above the plane of the stack.
+Rule 6
+Data to be recorded
+1) Marine incineration facilities shall utilise recording devices and methods as approved under Rule 3. As a minimum, the following data shall be recorded during each incineration operation and retained for inspection by the Contracting Party which has issued the permit:
+a) wall temperature measurements;
+b) date and time during incineration and record of substances and materials being incinerated;
+c) vessel position by appropriate navigational means;
+d) feed rates and amounts of substances and materials;
+e) O2, CO and CO2 concentration in combustion gases;
+f) vessel's course and speed.
+2) Where more than one Contracting Party has issued a permit for one incineration operation, arrangements for review of the data shall be made among the Contracting Parties involved.
+Rule 7
+Disposal of wastes and their residues
+1) The Contracting Party which proposes to issue an incineration permit shall ensure that there are no means of disposing of wastes from the marine incineration facility except by means of the incinerator during normal operations.
+2) Tank washings and other residues contaminated by the waste shall be incinerated at sea in accordance with these Rules and taking into account the provisions of the Code of Practice or discharged into port facilities in consultation with the competent national-authorities.
+3) Any solid residues remaining in the incinerator shall not be removed from the incinerator until the marine incineration facility can safely offload them on land for disposal.
+Rule 8
+Prior Consultation Procedure
+A Prior Consultation Procedure, to be determined by the Commission, shall be followed:
+a) when a Contracting Party intends to issue a permit for the incineration of
+substances and materials mentioned In paragraph 4 (c) of Rule 2, except when these substances and materials have already been the subject of a Prior Consultation Procedure;
+b) when a Contracting Party considers that the incineration at sea of certain substances and materials with a destruction or a combustion efficiency of less than 99.9% is acceptable because there is no alternative means of disposal;
+c) when a Contracting Party proposing to issue an incineration permit has doubts as to the technical conditions in which the operation could' take place and consequently considers it necessary to consult the other Contracting Parties to obtain additional information.
+Rule 9
+Incineration sites
+1) Factors to be considered in establishing criteria governing the selection of incineration sites shall include, in addition to those listed in Annex Ill to the Convention, the following:
+a) the prevailing atmospheric dispersal characteristics of the area including wind speed and direction, atmospheric stability, frequency of inversions and fog, precipitation types and amounts, relative humidity in order to determine the potential impact on the surrounding environment of pollutants released from the marine incineration facility, giving particular attention to the possibility of atmospheric transport of pollutants in fishing grounds and coastal areas;
+b) oceanic dispersal characteristics at the site in order to evaluate the potential impact of plume interaction with the sea;
+c) availability of navigational aids;
+d) the possible presence of undersea cables or pipelines if the vessel is to anchor in the incineration area.
+2) The Contracting Parties shall consult other interested Contracting Parties in the selection of an incineration site.
+3) The Contracting Parties shall promote the establishment of common incineration sites.
+4) The location of areas designate) for the incineration of wastes should be widely disseminated and communicated to the Commission.
+5) The marine incineration facility shall reply promptly to radio calls at all times during the incineration.
+Rule 10
+Notification
+The Contracting Parties shall comply with notification procedures adopted by the Commission. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

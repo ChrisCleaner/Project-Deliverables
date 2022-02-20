@@ -1,0 +1,154 @@
+
+ Amendments To Annex I of the Protocol of 1978 Relating to The International Convention For The Prevention Of Pollution From Ships (Amendments to regulations 1, 12, 13, 17 and 38 of MARPOL Annex I, Supplement to the IOPP Certificate and Oil Record Book Parts I and II)   
+     Filename: 2009-AmendmentsAnnexIB-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D26472/187%2859%29.pdf     
+    ﻿Amendments To Annex I of the Protocol of 1978 Relating to The International Convention For The Prevention Of Pollution From Ships (Amendments to regulations 1, 12, 13, 17 and 38 of MARPOL Annex I, Supplement to the IOPP Certificate and Oil Record Book Parts I and II)
+Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D26472/187%2859%2..., downloaded 20091223 [RESOLUTION MEPC.187(59)]
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+HAVING CONSIDERED proposed amendments to Annex I of MARPOL 73/78,
+1. ADOPTS, in accordance with Article 16(2)(d) of the 1973 Convention, the amendments to Annex I of MARPOL 73/78 concerning regulations 1, 12, 13, 17 and 38 and the Supplement to the IOPP Certificate and Oil Record Book Parts I and II, the text of which is set out in the annex to the present resolution;
+2. DETERMINES, in accordance with Article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 July 2010 unless prior, to that date, not less than one-third of the Parties or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3. INVITES the Parties to note that, in accordance with Article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 January 2011 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with Article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments contained in the annex; and
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to MARPOL 73/78 copies of the present resolution and its annex.
+ANNEX
+AMENDMENTS TO MARPOL ANNEX I
+(Amendments to regulations 1, 12, 13, 17 and 38 of MARPOL Annex I, Supplement to the IOPP Certificate and Oil Record Book Parts I and II)
+Annex 1
+AMENDMENTS TO REGULATIONS 1, 12, 13, 17 AND 38 OF MARPOL ANNEX I
+Regulation 1 - Definitions
+1 The following new subparagraphs .31, .32, .33 and .34 are added after existing subparagraph .30:
+".31 Oil residue (sludge) means the residual waste oil products generated during the normal operation of a ship such as those resulting from the purification of fuel or lubricating oil for main or auxiliary machinery, separated waste oil from oil filtering equipment, waste oil collected in drip trays, and waste hydraulic and lubricating oils.
+.32 Oil residue (sludge) tank means a tank which holds oil residue (sludge) from which sludge may be disposed directly through the standard discharge connection or any other approved means of disposal.
+.33 Oily bilge water means water which may be contaminated by oil resulting from things such as leakage or maintenance work in machinery spaces. Any liquid entering the bilge system including bilge wells, bilge piping, tank top or bilge holding tanks is considered oily bilge water.
+.34 Oily bilge water holding tank means a tank collecting oily bilge water prior to its discharge, transfer or disposal."
+Regulation 12 - Tanks for oil residues (sludge)
+2 Paragraph 1 is amended to read as follows:
+"1 Every ship of 400 gross tonnage and above shall be provided with a tank or tanks of adequate capacity, having regard to the type of machinery and length of voyage, to receive the oil residues (sludge) which cannot be dealt with otherwise in accordance with the requirements of this Annex."
+3 The following new paragraph 2 is inserted, after the existing paragraph 1:
+"2 Oil residue (sludge) may be disposed of directly from the oil residue (sludge) tank(s) through the standard discharge connection referred to in regulation 13, or any other approved means of disposal. The oil residue (sludge) tank(s):
+.1 shall be provided with a designated pump for disposal that is capable of taking suction from the oil residue (sludge) tank(s); and
+.2 shall have no discharge connections to the bilge system, oily bilge water holding tank(s), tank top or oily water separators except that the tank(s) may be fitted with drains, with manually operated self-closing valves and arrangements for subsequent visual monitoring of the settled water, that lead to an oily bilge water holding tank or bilge well, or an alternative arrangement, provided such arrangement does not connect directly to the bilge piping system."
+4 Existing paragraphs 2 and 3 are renumbered 3 and 4, respectively.
+Regulations 12, 13, 17 and 38
+5 The word "sludge" in regulations 12.2, 13, 17.2.3, 38.2 and 38.7 is replaced by the words "oil residue (sludge)".
+6 The words "and other oil residues" in regulation 17.2.3 are deleted.
+Annex 2
+AMENDMENTS TO THE SUPPLEMENT TO THE IOPP CERTIFICATE FORM A (SHIPS OTHER THAN OIL TANKERS) AND FORM B (OIL TANKERS)
+1 The existing Section 3 of the Supplement to the IOPP Certificate, Form A and Form B, is replaced by the following:
+"3 Means for retention and disposal of oil residues (sludge) (regulation 12) and oily bilge water holding tank(s)[*]
+3.1 The ship is provided with oil residue (sludge) tanks for retention of oil residues (sludge) on board as follows:
+[Editor: This table had formatting that was more complicated than could be readily reproduced here. For these tables, please see the original source document, as identified at the top of this document.]
+3.2 Means for the disposal of oil residues (sludge) retained in oil residue (sludge) tanks:
+3.2.1 Incinerator for oil residues (sludge), maximum capacity kW or kcal/h (delete as
+appropriate)
+3.2.2 Auxiliary boiler suitable for burning oil residues (sludge)
+3.2.3 Other acceptable means, state which
+3.3 The ship is provided with holding tank(s) for the retention on board of oily bilge water as follows:
+[Editor: This table had formatting that was more complicated than could be readily reproduced here. For these tables, please see the original source document, as identified at the top of this document.]
+[*]Oily bilgewater holding tank(s) are not required by the Convention; if such tank(s) are provided they shall be listed in Table 3.3.
+2 The term "(double bottom requirements)" at the end of paragraph 5.8.2 of Form B is deleted.
+3 Paragraphs 5.8.5 and 5.8.7 are replaced by the following:
+"5.8.5 The ship is not subject to regulation 20 (check which box(es) apply):
+.1 The ship is less than 5,000 tonnes deadweight
+.2 The ship complies with regulation 20.1.2
+.3 The ship complies with regulation 20.1.3"
+"5.8.7 The ship is not subject to regulation 21 (check which box(es) apply):
+.1 The ship is less than 600 tonnes deadweight
+.2 The ship complies with regulation 19
+(Deadweight tonnes • 5,000)
+.3 The ship complies with regulation 21.1.2
+.4 The ship complies with regulation 21.4.2
+(600 • Deadweight tonnes &lt; 5,000)
+.5 The ship does not carry "heavy grade oil" as defined" in regulation 21.2 of MARPOL Annex I
+4 Delete paragraph 6.1.5.4 from the Supplement to the International Oil Pollution Prevention Certificate, Form B.
+Annex 3
+AMENDMENTS TO THE OIL RECORD BOOK PARTS I AND II
+1 Sections (A) to (H) of the Oil Record Book Part I are replaced by the following:
+"(A) Ballasting or cleaning of oil fuel tanks
+1 Identity of tank(s) ballasted.
+2 Whether cleaned since they last contained oil and, if not, type of oil previously carried.
+3 Cleaning process:
+.1 position of ship and time at the start and completion of cleaning;
+.2 identify tank(s) in which one or another method has been employed (rinsing through,
+steaming, cleaning with chemicals; type and quantity of chemicals used, in m3);
+.3 identity of tank(s) into which cleaning water was transferred and the quantity in m3.
+4 Ballasting:
+.1 position of ship and time at start and end of ballasting;
+.2 quantity of ballast if tanks are not cleaned, in m3.
+(B) Discharge of dirty ballast or cleaning water from oil fuel tanks referred to under Section (A)
+5 Identity of tank(s).
+6 Position of ship at start of discharge.
+7 Position of ship on completion of discharge.
+8 Ship's speed(s) during discharge.
+9 Method of discharge:
+.1 through 15 ppm equipment;
+.2 to reception facilities.
+10 Quantity discharged, in m3.
+(C) Collection, transfer and disposal of oil residues (sludge)
+11 Collection of oil residues (sludge).
+Quantities of oil residues (sludge) retained on board. The quantity should be recorded weekly[1]: (this means that the quantity must be recorded once a week even if the voyage lasts more than one week):
+.1 identity of tank(s)
+.2 capacity of tank(s) m3
+.3 total quantity of retention m3
+.4 quantity of residue collected by manual operation m3 (Operator initiated manual collections where oil residue (sludge) is transferred into the oil residue (sludge) holding tank(s).)
+12 Methods of transfer or disposal of oil residues (sludge).
+State quantity of oil residues transferred or disposed of, the tank(s) emptied and the quantity of contents retained in m3:
+.1 to reception facilities (identify port)[2];
+.2 to another (other) tank(s) (indicate tank(s) and the total content of tank(s));
+.3 incinerated (indicate total time of operation);
+.4 other method (state which).
+(D) Non-automatic starting of discharge overboard, transfer or disposal otherwise of bilge water which has accumulated in machinery spaces
+13 Quantity discharged, transferred or disposed of, in m3.[3]
+14 Time of discharge, transfer or disposal (start and stop).
+15 Method of discharge, transfer, or disposal:
+.1 through 15 ppm equipment (state position at start and end);
+.2 to reception facilities (identify port)[2];
+.3 to slop tank or holdinf tank or other tank(s) (indicate tank(s); state quantity retained in tank(s), in m3).
+(E) Automatic starting of discharge overboard, transfer or disposal otherwise of bilge water which has accumulated in machinery spaces
+16 Time and position of ship at which the system has been put into automatic mode of operation for discharge overboard, through 15 ppm equipment.
+17 Time when the system has been put into automatic mode of operation for transfer of bilge water to holding tank (identify tank).
+18 Time when the system has been put into manual operation.
+(F) Condition of the oil filtering equipment
+19 Time of system failure[4].
+20 Time when system has been made operational.
+21 Reasons for failure.
+(G) Accidental or other exceptional discharges of oil
+22 Time of occurrence.
+23 Place or position of ship at time of occurrence.
+24 Approximate quantity and type of oil.
+25 Circumstances of discharge or escape, the reasons therefor and general remarks.
+(H) Bunkering of fuel or bulk lubricating oil
+26 Bunkering:
+.1 Place of bunkering.
+.2 Time of bunkering.
+.3 Type and quantity of fuel oil and identity of tank(s) (state quantity added, in tonnes and total content of tank(s)).
+.4 Type and quantity of lubricating oil and identity of tank(s) (state quantity added, in tonnes and total content of tank(s))."
+2 Section (J) of the Oil Record Book Part II is replaced by the following:
+"(J) Collection, transfer and disposal of residues and oily mixtures not otherwise dealt with
+55 Identity of tanks.
+56 Quantity transferred or disposed of from each tank. (State the quantity retained, in m3.)
+57 Method of transfer or disposal:
+.1 disposal to reception facilities (identify port and quantity involved);
+.2 mixed with cargo (state quantity);
+.3 transferred to or from (an)other tank(s) including transfer from machinery space oil residue (sludge) and oily bilge water tanks (identify tank(s); state quantity transferred and total quantity in tank(s), in m3); and
+.4 other method (state which); state quantity disposed of in m3."
+Footnotes
+[1] Only those tanks listed in item 3.1 of Forms A and B of the Supplement to the IOPP Certificate used for oil residues (sludge).
+[2] The ship's master should obtain from the operator of the reception facilities, which
+includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that the ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part I.
+[3] In case of discharge or disposal of bilge water from holding tank(s), state identity and capacity of holding tank(s) and quantity retained in holding tank.
+[4] The condition of the oil filtering equipment covers also the alarm and automatic stopping devices, if applicable. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

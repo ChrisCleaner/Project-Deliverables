@@ -1,0 +1,124 @@
+
+ Amendments To The Schedule To The International Convention For The Regulation Of Whaling, Special Meeting   
+     Filename: 1978-AmendmentsScheduleSM-1946-Whaling.EN.txt 
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/1979/26.html     
+    ﻿Amendments to the Schedule to the International Convention for the Regulation of Whaling of 2 December 1946
+Source: http://www.austlii.edu.au/au/other/dfat/treaties/1979/26.html (electronic)
+The amendments read as follows:
+A. Substantive amendments
+(changes and new wording italicised)
+Table 2. Sperm whale stock classifications and catch limits
+Amend entry for Southern Hemisphere Division 5 to read:
+"5 90°E-130°E PS 0 SMS 0"
+Amend entries for North Pacific to read:
+"Western Division [TAB] SMS[1] [TAB] 2698 [TAB] SMS[1] [TAB] 0
+Eastern Division [TAB] SMS[1] [TAB] 1102 [TAB] SMS[1] [TAB] 0
+Total: [TAB] [TAB] 3800[2] [TAB] [TAB] 0
+[1] Provisionally listed as SMS for 1979.
+[2] Included within this figure there may be a by-catch of females not to exceed 11.5% and all whaling operations are to cease when the by-catch is reached."
+Amend second part of paragraph 26 and renumber it as new paragraph 27 to read:
+"Notification shall be given in accordance with the provisions of Article VII of the Convention with regard to all factory ships and catcher ships of the following statistical information:
+(a) The name and gross tonnage of each factory ship.
+(b) For each catcher ship attached to a factory ship or land station
+(i) The dates on which each is commissioned and ceases whaling for the season
+(ii) The number of days on which each is at sea on the whaling grounds each season
+(iii) Where possible, the time spent each day on different components of the catching operation
+(iv) The gross tonnage, horsepower, length and other characteristics of each; vessels used only as tow boats should be specified
+(v) Any modification of the above measures or data from other suitable indicators of fishing effort for "small-type whaling" operations.
+(c) A list of the land stations which were in operation during the period concerned, and the number of miles searched per day by aircraft, if any.
+The information required under paragraphs (b)(iii) to (b)(v) should be recorded in the log book format shown in Appendix A."
+B. Consequential amendments
+Paragraph 14
+Amend to read:
+"14. The number of sperm whales taken in the Southern Hemisphere in the 1978/79 pelagic season and the 1979 coastal season shall not exceed 3820 males and 1055 females. The total catch in any of the Divisions 1 to 9 shall not exceed the limits shown in Table 2."
+Paragraph 28
+Renumber as 29.
+Amend existing paragraph 27 and renumber as 28 to read:
+27. (a) Where possible all factory ships and land stations shall collect from each whale taken and report on:
+(1) both ovaries or the combined weight of both testes.
+(2) at least one ear plug, or one tooth (preferably first mandibular).
+(b) Where possible similar collections to those described in sub-paragraph (a) of this paragraph shall be undertaken and reported by small-type whaling operations conducted from shore or by pelagic fleets.
+(c) All specimens collected under sub-paragraphs (a) and (b) shall be properly labelled with the platform or other identification number of the whale and be appropriately preserved.
+(d) A Contracting Government shall arrange for the analysis as soon as possible of the tissue samples and specimens collected under sub-paragraphs (a) and (b) and report on the results of such analyses.
+SCHEDULE APPENDIX A
+Title page (one logbook per catcher per season)
+Catcher name .............................................. Year built ............................................
+Attached to expedition/land station ...........................................................................
+Season .....................................................
+Overall length ................................................... Wooden/steel hull
+Gross tonnage ...................................................
+Type of engine .................................................. H.P. .............................................
+Maximum speed ............................................... Ave. searching speed ...........................
+Asdic set, make and model no. .....................................................................................
+Date of installation .............................................
+Make and size of cannon ......................................................................
+Type of first harpoon used (explosive, electric, non-explosive) ........................................
+Type of killer harpoon used ...........................................................
+Length and type of forerunner .......................................................
+Type of whaleline ..........................................................................
+Height of barrel above sea level .....................................................
+Speedboat used, Yes/No
+Name of captain ....................................................................
+Number of years experience .................................................
+Name of gunner ....................................................................
+Number of years experience .................................................
+Number of crew ....................................................................
+_____________________________________________________________________
+Daily record sheet
+Date ............................ Catcher name .............................................. Sheet No. ..............
+Searching:
+Time started (or resumed) searching
+Time whales seen
+Whale species
+Number seen and no. of groups
+Position found
+Name of catcher that found whales
+Chasing:
+Time started chasing (or confirmed whales)
+Time whale shot or chasing discontinued
+Asdic used (Yes/No)
+Handling:
+Time whale flagged or alongside for towing
+Serial no. of catch
+Towing:
+Time started picking up
+Time finished picking up or starting towing
+Date and time delivered to factory
+Resting:
+Time stopped (for drifting or resting)
+Time finished drifting/resting
+Time ceased operations
+Total searching time ............................
+Weather conditions
+Total chasing time ...............................
+Time
+Sea state
+Wind force and direction
+Visibility
+Total handling time .............................
+Total towing time ................................
+Total resting time .................................
+Other time (eg, bunkering, in port) ...........
+Whales seen (No. and no. of schools)
+Blue ..........................................
+Bryde .......................................
+Fin ............................................
+Minke ......................................
+Humpback ................................
+Sperm .......................................
+Right .........................................
+Others ......................................
+Sei .............................................
+(specify) ...................................
+Signed ............................................... 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

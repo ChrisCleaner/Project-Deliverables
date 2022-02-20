@@ -1,0 +1,40 @@
+
+ Optional Annex III To The Protocol To The International Convention For The Prevention Of Pollution From Ships On Prevention Of Pollution By Harmful Substances Carried By Sea In Packaged Form   
+     Filename: 1973-PollutionFromShipsAnnexIII.EN.txt 
+ Source:     
+    ﻿Annex III To The International Convention For The Prevention Of Pollution From Ships On Prevention Of Pollution By Harmful Substances Carried By Sea In Packaged Form Or In Freight Containers, Portable Tanks Or Road And Rail Tank Wagons
+Source:
+Regulation 1 Application
+(1) Unless expressly provided otherwise, the Regulations of this Annex apply to all ships carrying harmful substances in packaged forms, or in freight containers, portable tanks or road and rail tank wagons.
+(2) Such carriage of harmful substances is prohibited except in accordance with the provisions of this Annex.
+(3) To supplement the provisions of this Annex the Government of each Party to the Convention shall issue, or cause to be issued, detailed requirements on packaging, marking and labelling, documentation, stowage, quantity limitations, exceptions and notification, for preventing or minimizing pollution of the marine environment by harmful substances.
+(4) For the purpose of this Annex, empty receptacles, freight containers, portable tanks and road and rail tank wagons which have been used previously for the carriage of harmful substances shall themselves be treated as harmful substances unless adequate precautions have been taken to ensure that they contain no residue that is hazardous to the marine environment.
+Regulation 2 Packaging
+Packagings, freight containers, portable tanks and road and rail tank wagons shall be adequate to minimize the hazard to the marine environment having regard to their specific contents.
+Regulation 3 Marking and Labelling
+Packages, whether shipped individually or in units or in freight containers; freight containers, portable tanks or road and rail tank wagons containing a harmful substance, shall be durably marked with the correct technical name (trade names shall not be used as the correct technical name), and further marked with a distinctive label or stencil of label, indicating that the contents are harmful. Such identification shall be supplemented where possible by any other means, foi example by the use of the United Nations number.
+Regulation 4 Documentation
+(1) In all documents relating to the carriage of harmful substances by sea where such substances are named, the correct technical name of the substances shall be used (trade names shall not be used).
+(2) The shipping documents supplied by the shipper shall include a certificate or declaration that the shipment offered for carriage is properly packed, marked and labelled and in proper condition for carriage to minimize the hazard to the marine environment.
+(3) Each ship carrying harmful substances shall have a special list or manifest setting forth the harmful substances on board and the location thereof. A detailed stowage plan which sets out the location of all harmful substances on board may be used in place of such special list or manifest. Copies of such documents shall also be retained on shore by the owner of the ship or his representative until the harmful substances are unloaded.
+(4) In a case where the ship carries a special list or manifest or a detailed stowage plan, required for the carriage of dangerous goods by the International Convention for the Safety of Life at Sea in force, the documents required for the purpose of this Annex may be combined with those for dangerous goods. Where documents are combined, a clear distinction shall be made between dangerous goods and other harmful substances.
+Regulation 5 Stowage
+Harmful substances shall be both properly stowed and secured so as to minimize the hazards to the marine environment without impairing the safety of ship and persons on board.
+Regulation 6 Quantity Limitations
+Certain harmful substances which are very hazardous to the marine environment may, for sound scientific and technical reasons, need to be prohibited for carriage or be limited as to the quantity which may be carried aboard any one ship. In limiting the quantity due consideration shall be given to size, construction and equipment of the ship as well as the packaging and the inherent nature of the substance.
+Regulation 7 Exceptions
+(1) Discharge by jettisoning of harmful substances carried in packaged forms, freight containers, portable tanks or road and rail tank wagons shall be prohibited except where necessary for the purpose of securing the safety of the ship or saving life at sea.
+(2) Subject to the provisions of the present Convention, appropriate measures based on the physical, chemical and biological properties of harmful substances shall be taken to regulate the washing of leakages overboard provided that compliance with such measures would not impair the safety of the ship and persons on board.
+Regulation 8 Notification
+With respect to certain harmful substances, as may be designated by the Government of a Party to the Convention, the master or owner of the ship or his representative shall notify the appropriate port authority of the intent to load or unload such substances at least 24 hours prior to such action. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

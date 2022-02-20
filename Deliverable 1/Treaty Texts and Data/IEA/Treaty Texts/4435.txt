@@ -1,0 +1,46 @@
+
+ Amendment of the Annexes to the Agreement On The Conservation Of African-Eurasian Migratory Waterbirds   
+     Filename: 1999-Amendments-1995-AgreementConservationAfrican-EurasianMigratoryWaterbirds.EN.txt 
+ Source: https://www.unep-aewa.org/sites/default/files/document/r9_0.pdf     
+    ﻿ Amendment of the Annexes to the Agreement On The Conservation Of African-Eurasian Migratory Waterbirds (Resolution 1.9) ( [Adopted by the Meeting of the Parties at its First Session (Cape Town, 6-9 November 1999)])
+ Source: http://www.unep-aewa.org/meetings/en/mop/mop1_docs/pdf/res9.pdf, downloaded 20070513 (AEWA/Res.1.9/Rev.2)
+ The Meeting of the Parties to the Agreement on the Conservation of African-Eurasian Migratory
+ Waterbirds,
+ RECALLING the Final Act of the Negotiation Meeting to adopt the Agreement on the Conservation of African-Eurasian Migratory Waterbirds (The Hague, June 1995), inviting the Interim Secretariat to prepare amendments of the Action Plan with regard to species or families of species listed in Annex 2 to the Agreement;
+ RECALLING Article X of the Agreement concerning the procedures to amend the Action Plan and its Annexes;
+ ACKNOWLEDGING that all waterbirds listed under Annex 2 of the Agreement should be included within the provisions of the Action Plan so as to ensure coherent conservation actions;
+ CONVINCED that urgent actions are needed for many species not yet included in the Action Plan as adopted at the Final Negotiation Meeting (The Hague, June 1995);
+ THE MEETING OF THE PARTIES
+ ADOPTS the proposed amendments to the Action Plan and its Annexes as listed in AEWA/MoP1.7 with the following exceptions which should be amended as follows:
+ Amendments to Table 1a of MOP 1.7:
+ Branta bernicla hrota - change Canada &amp; Greenland/Ireland to Canada/Ireland
+ Mergus serrator serrator - Combine NW &amp; Central Europe (win) with E Greenland, Iceland, UK &amp; Ireland
+ Amendments to Table 1b of MOP 1.7:
+ Add asterisk to status code in Column A for the following species:
+ Pluvialis apricaria -UK, Ireland, DK &amp; Ger (bre)
+ Lymnocryptes minimus -Europe (bre)
+ Limosa limosa islandica - Iceland (bre)
+ Anser albifrons albifrons - West Siberia/Central Europe
+ Amendment to Key to Classification, section Key to Abbreviations and Symbols:
+ Replace "*: See paragraph 2.1.1"
+ with actual text of the last paragraph of section 2.1.1 from the Action Plan.
+ ADOPTS the following textual amendments to the Action Plan:
+ In the section 4.3.2, 4.3.3 and 4.3.4 the words "and to fisheries" are added after the words "in particular to crops".
+ In the section 4.3.6, after the first sentence the following text: "Special attention should be given to the problem of human disturbance at breeding colonies of colonially-nesting waterbirds, especially when these are situated in the areas which are popular for outdoor recreation."
+ NOTES that Table 1 "Status of the populations of migratory waterbirds" is replaced by Annex 1 of this Resolution.
+ FURTHER ADOPTS the most recent conservation status of populations as indicated by square brackets in Tables 1a and 1b of AEWA/MoP 1.7 in preference to the conservation status deduced from the second edition of Waterfowl Population Estimates (1997) and for reasons outlined in AEWA Inf.1.1.;
+ ASKS the Technical Committee, in consultation with the Scientific Council of UNEP/CMS as appropriate, to consider for addition to Annex 2 of the Agreement and Table 1 of the Action Plan a number of species which appear from AEWA/Inf.1.1 and other sources to merit such listing, and in particular Oxyura maccoa, Sarothrura ayresi, Crex crex, Glareola ocularis, Glareola nuchalis and Rhynchops flavirostris;
+ NOTES the high degree of uncertainty related to current population estimates of Lymnocryptes minimus, and urges the Technical Committee, working with relevant organizations, to review current data and information and bring an evaluation of status to the second session of the Meeting of the Parties;
+ REQUESTS the Secretariat to monitor the implementation of the amendments and to stimulate the preparation of Single Species Action Plans for those species as identified to be in an unfavourable conservation status;
+ CALLS on all Parties to provide the necessary resources to undertake priority actions on an international level e.g. the drafting of Single Species Action Plans where these are most needed. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,103 @@
+
+ Amendments of 1994 To The Technical Annex Of The Protocol To The Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Nitrogen Oxides Or Their Transboundary Fluxes   
+     Filename: 1994-AmendmentTechnicalAnnex-1988-ProtocolNitrogenOxides-1979-EuropeanTransboundaryAirPollution.SP.txt 
+ Source: http://www.glin.gov/view.action?glinID=47423     
+    ﻿Amendments of 1994 To The Technical Annex Of The Protocol To The Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Nitrogen Oxides Or Their Transboundary Fluxes
+ORGANO EJECUTIVO PARA EL CONVENIO SOBRE CONTAMINACION ATMOSFERICA TRANSFRONTERIZA A GRAN DISTANCIA
+Source: http://www.glin.gov/view.action?glinID=47423, downloaded 20120503
+Duodécima sesión, Ginebra (28 de noviembre. 1 de diciembre de 1994)
+Anexo técnico al protocolo de Sofía de 1988
+Parte II: Tecnologías de control de las emisiones de NOx provenientes de fuentes móviles en lo referente al control de las emisiones de NOx provenientes de vehículos pesados
+I. INTRODUCCIÓN
+1. Este anexo está basado en la información sobre las resultantes y los costes de control de emisiones contenida en la documentación oficial del órgano ejecutivo y sus órganos subsidiarios; en los informes sobre Emisiones de NOx Provenientes de Fuentes Móviles: Fuentes y Opciones de Control, preparado para la Parte de Trabajo sobre los Problemas de Contaminación Atmosférica; y Emisiones de Oxidos de Nitrógeno Provenientes de Vehículos Pesados en Carretera: Opciones para una Mayor Reducción, preparado para el Grupo de Trabajo sobre Tecnología; y en la documentación del Comité de Transporte Interior de la Comisión Económica para Europa y sus órganos subsidiarios; además de estar basado en informaciones suplementarias facilitadas por expertos designados por los gobiernos.
+2. En vista de la experiencia cada vez mayor con los nuevos vehículos que incorporan tecnología de baja emisión, y del desarrollo de carburantes alternativos, así como de las adaptaciones y otras estrategias para los vehículos existentes, resulta imprescindible elaborar y enmendar periódicamente el presente anexo. El anexo no puede ser una declaración exhaustiva de opciones técnicas, sino que persigue el objetivo de ofrecer una guía para que las partes puedan identificar económicamente factibles que les permitan cumplir las obligaciones contraídas en virtud del Protocolo.
+I. Principales fuentes móviles de emisión de NO
+3. Las principales fuentes móviles de emisiones antrópicas incluyen:
+Vehículos de carretera:
+Coches de pasajeros a gasolina y a carburante diésel;
+Vehículos comerciales ligeros;
+Vehículos pesados;
+Motocicletas y ciclomotores;
+Tractores (agrícolas y forestales).
+Aplicaciones a motor que no son de carretera:
+Maquinaria agrícola, maquinaria industrial móvil y maquinaria de construcción.
+Otras fuentes móviles:
+Transporte ferroviario;
+Buques y otras embarcaciones marítimas;
+Aviones.
+4. El transporte por carretera es una de las principales fuentes de emisiones antrópicas de NOx en muchos países de la Comisión Económica para Europa, contribuyendo hasta en dos terceras partes al total de las emisiones nacionales. Los actuales vehículos a gasolina contribuyen, hasta en dos terceras partes al total de las emisiones nacionales de NOx, en carretera. No obstante, en algunos casos, las emisiones de NOx provenientes de los vehículos pesados rebasan las emisiones decrecientes de los coches de pasajeros.
+5. Muchos países han promulgado regulaciones que limitan la emisión de contaminantes de los vehículos de carretera. Para las aplicaciones que no sean de carretera, algunos países de la Comisión Económica para Europa han promulgado normas de emisiones que incluyen los NOx, y en la propia Comisión se están preparando estas normas. Las emisiones de NOx provenientes de estas fuentes pueden ser sustanciales.
+Hasta que se disponga de otros datos, el presente anexo se centrará exclusivamente en los vehículos de carretera.
+II. Aspectos generales de la tecnología de control para las emisiones de NO provenientes de vehículos en carretera
+6. Los vehículos de carretera considerados en el presente anexo son los coches de pasajeros, los vehículos comerciales ligeros, las motocicletas, los ciclomotores y los vehículos pesados.
+7. El presente anexo trata tanto de los nuevos vehículos como de los que están en uso, centrando la atención fundamentalmente en el control de las emisiones de NOx para los nuevos tipos de vehículos.
+8. Las cifras de coste para las diferentes tecnologías dadas son estimaciones de coste de fabricación y no de los precios de venta.
+9. Es importante asegurar que las normas de emisiones para los nuevos vehículos se mantengan en vigor. Esto se puede hacer a través de programas de inspección y mantenimiento que aseguren la conformidad de fabricación, la plena durabilidad de la vida útil, la garantía de los componentes de control de emisiones, y el recordatorio de vehículos defectuosos.
+10. Los incentivos fiscales pueden fomentar la aceleración de la introducción de tecnología deseable. La adaptación es de beneficio limitado para la reducción de los NOx, y es posible que sea difícil de aplicar a algo más que un pequeño porcentaje de la flota de vehículos.
+11. Las tecnologías que incorporan convertidores catalíticos con motores a gasolina de encendido por explosión con carburador requieren el uso de carburante sin plomo que se pueda obtener en todas partes. El uso de tecnologías de postratamiento en los motores diésel, como los catalizadores de oxidación o las trampas de partículas, requiere el uso de carburantes con bajo contenido de azufre (con un contenido máximo de azufre de 0,05 por 100).
+12. La gestión del tráfico urbano y del tráfico de larga distancia, aunque no ha sido elaborada en el presente anexo, es importante como un eficaz enfoque adicional para reducir las emisiones, incluyendo las de NOx. Las medidas clave para la gestión del tráfico pretenden cambiar la distribución modal del transporte público y del transporte de larga distancia, especialmente en áreas sensibles como las ciudades o los Alpes, transfiriendo el transporte por carretera al ferroviario, a través de elementos tácticos, estructurales, financieros y restrictivos, y también optimizando la logística de los sistemas de entrega. Estas medidas también serán beneficiosas para otros efectos perjudiciales de la expansión del tráfico como el ruido, la congestión, etc.
+13. Existen numerosas tecnologías y opciones de diseño que hacen posible el control simultáneo de diferentes contaminantes. En algunas aplicaciones, se han experimentado los efectos contrarios cuando se han reducido las emisiones de NOx (como los motores a gasolina o diésel sin catalizador). Esta situación se puede cambiar con el empleo de nuevas tecnologías (como los dispositivos de limpieza postratamiento y la electrónica). El carburante diésel reformulado y el carburante con aditivos reductores de los NOx de poscombustión también pueden jugar un papel en una estrategia para luchar contra los NOx de los vehículos que funcionan con carburante diésel.
+III. Tecnologías de control para las emisiones de NOx provenientes de vehículos de carretera
+(a) Coches de pasajeros y vehículos comerciales ligeros que funcionan a gasolina o con carburante diésel:
+14. Las principales tecnologías para controlar las emisiones de NO se relacionan en el cuadro 1.
+15. La base para la comparación en el cuadro 1 es la opción B, que representa la tecnología no catalítica diseñada en respuesta a los requisitos de Estados Unidos para 1973/1974 o de la Regulación de la Comisión Económica para Europa 1504 1/ de conformidad con el acuerdo de 1958 sobre la Adopción de Condiciones Uniformes de Aprobación y Reconocimiento Recíproco de Aprobación para Equipos y Piezas de Vehículos a Motor. El cuadro también presenta los niveles típicos de emisión para control catalítico de bucle abierto o cerrado, así como sus costes.
+16. El nivel «no controlado» (A) del cuadro 1 se refiere a la situación en la región de la Comisión Económica para Europa en 1970, pero puede aún prevalecer en determinadas zonas.
+17. El nivel de emisión del cuadro 1 refleja las emisiones medidas, de acuerdo con procedimientos estándar de prueba. Las emisiones provenientes de los vehículos en carretera pueden diferir debido al efecto de, entre otras cosas, la temperatura ambiente, las condiciones de funcionamiento (especialmente a velocidades más elevadas), las propiedades del carburante, y el mantenimiento. No obstante, el potencial de reducción indicado en el cuadro 1 se considera como representativo de las reducciones alcanzables en uso.
+18. La tecnología más eficiente de la que se dispone actualmente para la reducción de los NOx es la opción E. Esta tecnología logra grandes reducciones de NOx, de compuestos orgánicos volátiles (VOC) y de emisiones de monóxido de carbono.
+19. En respuesta a los programas regulatorios para nuevas reducciones de las emisiones de NOx (como los vehículos de baja emisión en California), se están desarrollando sistemas de catalizador a tres vías con bucle cerrado (opción F). Estas mejoras se centrarán en la gestión del motor, en un control muy preciso de la relación entre carburante y aire, en una carga más concentrada de catalizador, en sistemas de diagnóstico a bordo (OBD), y en otras medidas de control avanzadas.
+(b) Motocicletas y ciclomotores:
+20. A pesar de ser muy bajas, se deberían considerar las emisiones reales de NOx de las motocicletas y de los ciclomotores (por ejemplo, con los motores de dos tiempos). Aunque muchas de las Partes firmantes del Convenio van a limitar las emisiones de compuestos orgánicos volátiles de estos vehículos, sus emisiones de NOx pueden aumentar (por ejemplo, con los motores de cuatro tiempos). En términos generales, son aplicables las mismas opciones tecnológicas descritas para los coches de pasajeros a gasolina. En Austria y en Suiza, ya se han implementado normas estrictas para las emisiones de NOx.
+(c) Vehículos pesados diésel:
+21. En el cuadro 2 se resumen tres opciones tecnológicas. La configuración del motor de línea de base es el motor diésel de turbocompresor. La tendencia es hacia motores de turbocompresor con refrigeración intermedia, sistemas avanzados de inyección de carburante y control electrónico. Esta tendencia puede tener el potencial necesario para mejorar el nivel de consumo de carburante de línea de base. No se han incluido estimaciones comparativas de consumo de carburante.
+IV. Técnicas de control para los vehículos en uso
+(a) Vida útil plena, recordatorio y garantías:
+22. Al objeto de promover sistemas duraderos de control de emisiones, se deberían considerar normas de emisión que no pudiesen rebasarse durante «toda la vida útil» del vehículo. Es necesario promulgar programas de vigilancia para hacer cumplir este requisito. En virtud de estos programas, los fabricantes serían responsables de recordar los vehículos que incumplen las normas exigidas. Con el fin de asegurar que el propietario no tenga problemas relacionados con la fabricación, los fabricantes deberían ofrecer garantías para los componentes de control de emisión.
+23. No debería existir ningún dispositivo para reducir la eficiencia o desconectar los sistemas de control de emisión durante ninguna condición de funcionamiento, exceptuando aquellas condiciones que fuesen indispensables para que el motor funcione sin problemas (como el arranque en frío).
+(b) Inspección y mantenimiento:
+24. El programa de inspección y mantenimiento tiene una función secundaria importante, pudiendo estimular el mantenimiento periódico e impedir que los propietarios de vehículos interfieran con los controles de emisión o los desactiven, tanto a través de la aplicación directa como de la información pública. Las inspecciones deberían verificar si los controles de emisión mantienen sus niveles de funcionamiento originales, además de asegurar que no se hayan desmontado los sistemas de control de emisión.
+25. La mejora de la supervisión del nivel de control de emisión se puede lograr mediante sistemas de diagnóstico a bordo (OBD) que supervisen el funcionamiento de los componentes de control de emisión, almacenen los códigos de avería para una investigación más detallada y llamen la atención del conductor al objeto de asegurar la reparación, en caso de funcionamiento defectuoso.
+26. Los programas de inspección y mantenimiento pueden ser beneficiosos para todos los tipos de tecnologia de control, asegurando que se mantengan los niveles de emisión de los nuevos vehículos. Para los vehículos de control catalítico es esencial asegurar el mantenimiento de las especificaciones y los ajustes de los nuevos vehículos, al objeto de evitar el deterioro de todos los contaminantes principales, incluyendo los NOx.
+Nota:
+1. Sustituida por la Regulación número 83.
+CUADRO 1
+Tecnología de control de emisión para coches de pasajeros y vehículos comerciales ligeros a gasolina y diésel
+Opción tecnolögica / Nivel de emisión del NOx (en porcentaje) / Estimación del coste suplementario de producción (en dólares USA)
+Vehículos a gasolina:
+A. Situación no controlada / 100 / -
+B. Modificaciones de motores (diseño de motor, sistemas de carburación y encendido, inyección de aire) / 70 / **
+C. Catalizador con bucle abierto / 50 / 150-200
+D. Catalizador a tres vías con bucle cerrado / 25 / 250-450***
+E. Catalizador a tres vías con bucle cerrado, avanzado / 10 / 350-600***
+F. Vehículos de baja emisión de California (opción avanzada E) / 6 / &gt;700***
+Vehículos diésel:
+G. Motor diésel convencional de inyección indirecta / 40 / -
+H. Motor de inyección indirecta con inyección secundaria, altas presiones de inyección electrónicamente controladas / 30 / 1.000-1.200****
+I. Motor de inyección indirecta con turbocompresor / 50 / 1.000-1.200****
+Nota: Las opciones C, D, E y F requieren el uso de gasolina sin plomo; las opciones H e I requieren el uso de carburante diésel con bajo contenido de azufre.
+* Por vehículos, en relación con la opción tecnológica B. Los requisitos relacionados con los NOx pueden tener un efecto en los precios de los carburantes y en los costes de producción de las refinerías, pero no se ha incluido en la estimación del coste de producción suplementario.
+** Los costes para las modificaciones de motores de las opciones A a la B han sido estimados en 40-100 dólares USA.
+*** En virtud de las opciones tecnológicas D, E y F, también se reducen sustancialmente las emisiones de monóxido de carbono y de compuestos orgánicos volátiles, aparte de las reducciones de NOx. Las opciones tecnológicas B y C también resultan en un control del monóxido de carbono y de los compuestos orgánicos volátiles.
+**** Se reduce sustancialmente el consumo de carburante en comparación con la opción C, mientras que las emisiones de partículas de la opción tecnológica G son considerablemente superiores.
+CUADRO 2
+Tecnologías para vehículos pesados, resultantes de emisión y costes
+Opción tecnológica / Nivel de emisión del NOx (en porcentaje) / Estimación del conste suplementario de producción (en dólares USA)
+A. Motor diésel con turbocompresor (EURO I). / 100 / -
+B. Motor diésel con turbocompresor y refrigeración intermedia (EURO II) / 85 / 1.500-3.000
+C. Motor diésel con turbocompresor, refrigeración intermedia, inyección de carburante a alta presión, bomba de carburante electrónicamente controlada, optimización de cámara de combustión y conductos, recirculación de los gases de escape / 50-60 / 3.000-6.000
+D. Cambio al motor de encendido por explosión con carburador con convertidor catalítico a tres vías funcionando con LPG, CNG o carburantes oxigenados / 10-30 / Hasta 10.000
+Nota: La opción C requiere el uso de carburante diésel con bajo contenido de azufre.
+* Por vehículo, y dependiendo del tamaño del motor en relación con la tecnología de línea de base A. Los requisitos relacionados con los NOx pueden tener un efecto en los precios de los carburantes y en los costes de producción de las refinerías, pero no se ha incluido en la estimación del coste de producción suplementario.
+Las modificaciones adoptadas en la 11.ª reunión entraron en vigor el 18 de abril de 1992 y las adoptadas en la 12.ª reunión entraron en vigor el 20 de febrero de 1994 ambas, de forma general y para España.
+Lo que se hace público para conocimiento general.
+Madrid, 12 de septiembre de 1995.-El Secretario general Técnico, Antonio Bellver Manrique. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

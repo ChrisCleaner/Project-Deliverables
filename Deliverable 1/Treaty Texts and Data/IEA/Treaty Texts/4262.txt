@@ -1,0 +1,56 @@
+
+ Amendments to the Annexes to the Treaty On Fisheries Between The Governments Of Certain Pacific Island States And The Government Of The United States of America (Annexes 1 and 2)   
+     Filename: 2002-AmendmentsAnnexes-1987-FisheriesPacificIslandsUS.EN.txt 
+ Source: 6263 KAV xx-xxii     
+    ﻿Amendments to the Annexes to the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America (Annexes 1 and 2)
+Source: 6263 KAV xx-xxii
+1. Amend Annex 1, Part 5, Paragraph 13 to read in its entirety as follows:
+"13. Information relating to vessel position, catch and effort, as described in Part 1 of Schedule 4, shall be provided by telex, vessel monitoring system (VMS) transponder, electronic mail, or any other method of electronic reporting agreed to by the parties to the Administrator at the following times:
+(a) before departure from port for the purpose of beginning a fishing trip in the Licensing Area;
+(b) at least 25 hours before entry into port for the purpose of unloading fish from any trip involving fishing in the Licensing Area."
+2. Amend Annex 2, Part 7 Paragraph 24(b) to read in its entirety as follows:
+"(b) The fees for the cost of observers shall be provided in a lump sum on an annual basis from 15 June 2003 in accordance with the following formula:
+The fixed cost component of US $55,000 plus the number of vessels licensed multiplied by 5 trips multiplied by 20 percent multiplied by the cost per trip (US $4,500) equals lump sum payment. The fixed cost component shall consist of the costs to the Administrator for training and management of the Observer and Crewing Programme."
+3. Amend Annex 1, Part 7, Paragraph 24(c) to read in its entirety as follows:
+"(c) The parties may, as mutually determined at the annual meeting provided in Article 7.1 of the Treaty adjust the amount of the fees to be paid under subparagraph (b), it being understood that:
+- the goal of the observer programme is to provide an effective observer programme for compliance by targeting 20 percent coverage, which may be reviewed from time to time
+- any unused sums are carried forward to the next licensing period; and
+- the factor of inflation shall be taken into account."
+4. Amend Annex 1, Part 8, Paragraph 30 to read in its entirety as follows:
+"30. The vessel shall have its automatic locations communicator (ALC), as approved by the Forum Fisheries Agency (FFA), operational at all times while in the Treaty Area. Data collected through the vessel's ALC shall be transmitted in near real time to both the FFA and to the government of the United States. While the vessel is in waters within the Treaty Area that are under the jurisdiction of Government of the United States, viewing of the data transmitted shall be limited to the Government of the United States. All data transmitted in accordance with this provision shall be treated as confidential business information and shall be distributed to ensure that the obligations under this Treaty are fulfilled. Technical matters including financial implications related to the implementation of this Part will be a matter for discussion between the parties."
+5. Replace all references to "GMT" in Annex 1, Schedule 4 to read "UTC".
+6. Replace all references to "short tonnes" in Annex 1, Schedule 4 and Schedule 5 to read "metric tonnes".
+7. Add new subparagraphs 9 and 10 to Annex 1, Schedule 4, Part 1(a)
+"(9) estimated date/time of arrival"
+"(10) estimated date of departure"
+8. Delete paragraph (b) of Annex 1, Schedule 4, Part 1
+9. Add new subparagraph 9 to Annex 1, Schedule 4, Part 2(b):
+"9 observer on-board Y/N"
+10. Amend Annex II, schedule 2, Paragraph 1 to read in its entirety as follows:
+"1. The following amounts are payable annually for a period of ten (10) years from 15 June 2003 pursuant to paragraph 3 of Annex II -
+(a) an annual industry payment of US $3 million, which shall cover - 
+(i) license fees for up to 45 vessels as set forth in paragraph 2 below; and
+(ii) technical assistance;
+(b) costs to be paid by the industry for the observer programme set forth in Part 7 of Annex 1; and
+(c) sums pursuant to the related agreement between the South Pacific Forum Fisheries Agency and the Government of the United States."
+11. Add new paragraph 2 to Annex II, Schedule 2 to read in its entirety as follows:
+"2. The United States industry payment specified in paragraph 1(a) of this Schedule may be made in two separate installments. One half of the payment shall be paid by June 15 of each year with the balance to be paid by December 15th of the same year. The second installment will be paid with interest at an agreed rate."
+12. Add new paragraph 3 to Annex II, Schedule 2 to read in its entirety as follows:
+"3. In order to increase the benefits to the Pacific Island parties under the Treaty, the united States industry will develop with the Pacific Island parties a system for revenue sharing where the ex-vessel price is at or above a mutually agreed level. Payments made under such a system will be made quarterly and will be in addition to the amount specified in paragraph 1(a)."
+13. Amend paragraph 2 to Annex II, Schedule 2 to read in its entirety as follows:
+Renumber paragraph 2 as paragraph 4.
+"4. During each licensing period, the administrator shall make available a maximum of 45 licenses to fishing vessels of the United States for fishing in the Licensing Area. Any licenses issued beyond 40 shall only be available to fishing vessels of the United States engaged in fishing activity designed to advance broader cooperation with the Pacific Island parties as envisaged under Article 2. If the Administrator does not receive applications for the maximum of 45 licenses during any of the first three licensing periods under this Schedule, the Pacific Island parties reserve the right at the end of the third licensing period to review the allocation of licenses beyond 40 for the remaining licensing periods."
+14. Amend paragraph 3 to Annex II, Schedule 2 to read in its entirety as follows:
+Renumber paragraph 3 as paragraph 5.
+"5. Prior to the beginning of the sixth licensing period under the Schedule, the parties shall review the number of licenses to be issued, the license fees, the potential impact of any existing or pending catch or effort limitations or other measures that may substantially affect the operations of the U.S. fleet and any other issues which may be identified during the preceding Annual Consultation. During such review, the parties shall determine the number of licenses and the license fees for the second five-year period under this Schedule. Any agreed changes in the number of licenses or license fees shall be reflected in the annual industry payment." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

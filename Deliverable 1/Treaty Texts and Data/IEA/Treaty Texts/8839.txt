@@ -1,0 +1,68 @@
+
+ 2017 Amendments to Annex III of the Convention On The Prior Informed Consent Procedure For Certain Hazardous Chemicals And Pesticides In International Trade (listing of carbofuran, trichlorfon, short-chain chlorinated paraffins, and tributyltin)   
+     Filename: 8839-2017-Amendment-1998-priorinformedconsenthazardouschemicalspesticidesentxt 
+ Source: http://treaties.un.org/doc/Publication/CN/2017/CN.489.2017-Eng.pdf     
+    2017 Amendments to Annex III of the Convention On The Prior Informed Consent Procedure For Certain Hazardous Chemicals And Pesticides In International Trade (listing of carbofuran, trichlorfon, and short-chain chlorinated paraffins)
+Source: https://treaties.un.org/doc/Publication/UNTS/No%20Volume/39973/A-39973-0...
+====================
+RC-8/2: Listing of carbofuran in Annex III to the Rotterdam Convention 
+The Conference of the Parties,
+Noting with appreciation the work of the Chemical Review Committee,
+Having considered the recommendation of the Chemical Review Committee to make carbofuran subject to the prior informed consent procedure and accordingly to list it in Annex III to the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade as a pesticide,
+Satisfied that all the requirements for listing in Annex III to the Rotterdam Convention have been met,
+1. Decides to amend Annex III to the Rotterdam Convention to list the following chemical:
+Chemical Relevant CAS number(s) Category
+Carbofuran 1563-66-2 Pesticide
+2. Also decides that this amendment shall enter into force for all Parties on 15 September 2017;
+3. Approves the decision guidance document on carbofuran.
+====================
+RC-8/3: Listing of trichlorfon in Annex III to the Rotterdam Convention
+The Conference of the Parties,
+Noting with appreciation the work of the Chemical Review Committee,
+Having considered the recommendation of the Chemical Review Committee to make trichlorfon subject to the prior informed consent procedure and accordingly to list it in Annex III to the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade,
+Satisfied that all the requirements for listing in Annex III to the Rotterdam Convention have been met,
+1. Decides to amend Annex III to the Rotterdam Convention to list the following chemical:
+Chemical Relevant CAS number(s) Category
+Trichlorfon 52-68-6 Pesticide
+2. Also decides that this amendment shall enter into force for all Parties on 15 September 2017;
+3. Approves the decision guidance document on trichlorfon.
+====================
+RC-8/4: Listing of short-chain chlorinated paraffins in Annex III to the Rotterdam Convention
+The Conference of the Parties,
+Noting with appreciation the work of the Chemical Review Committee,
+Having considered the recommendation of the Chemical Review Committee to make short-chain chlorinated paraffins subject to the prior informed consent procedure and accordingly to list those chemicals in Annex III to the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade as industrial chemicals,
+Satisfied that all the requirements for listing in Annex III to the Rotterdam Convention have been met,
+1. Decides to amend Annex III to the Rotterdam Convention to list the following chemicals:
+Chemical Relevant CAS number(s) Category
+Short-chain chlorinated paraffins 85535-84-8 Industrial
+2. Also decides that this amendment shall enter into force for all Parties on 15 September 2017;
+3. Approves the decision guidance document on short-chain chlorinated paraffins.
+====================
+RC-8/5: Listing of tributyltin compounds in Annex III to the Rotterdam Convention
+The Conference of the Parties,
+Noting with appreciation the work of the Chemical Review Committee,
+Having considered the recommendation of the Chemical Review Committee to make tributyltin compounds subject to the prior informed consent procedure and accordingly to list those chemicals in Annex III to the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade as industrial chemicals, 
+Satisfied that all the requirements for listing in Annex III to the Rotterdam Convention have been met,
+1. Decides to amend Annex III to the Rotterdam Convention to list the following chemicals:
+Chemical // Relevant CAS number(s) // Category
+All tributyltin compounds including: // // Industrial
+- Tributyltin oxide // 56-35-9 
+- Tributyltin fluoride // 1983-10-4
+- Tributyltin methacrylate // 2155-70-6
+- Tributyltin benzoate // 4342-36-3
+- Tributyltin chloride // 1461-22-9
+- Tributyltin linoleate // 24124-25-2
+- Tributyltin naphthenate // 85409-17-2
+2. Also decides that this amendment shall enter into force for all Parties on 15 September 2017; 
+3. Approves the revised decision guidance document on tributyltin compounds. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

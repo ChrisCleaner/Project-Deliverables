@@ -1,0 +1,126 @@
+
+ Amendments To The International Convention On Standards Of Training, Certification And Watchkeeping For Seafarers - Seafarers&#039; Training, Certification And Watchkeeping Code   
+     Filename: 1997-AmendmentsCode-1978-StandardsSeafarers.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D7860/1997amdtstoSTCWCode…     
+    ﻿Amendments To The Seafarers' Training, Certification And Watchkeeping Code To The International Convention On Standards Of Training, Certification And Watchkeeping For Seafarers
+Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D7860/1997amdtsto...
+THE MARITIME SAFETY COMMITTEE,
+RECALLING Article 28(b) of the Convention on the International Maritime Organization concerning the functions of the Committee,
+RECALLING FURTHER Article XII and Regulation I/1.2.3 of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978, hereinafter referred to as "the Convention", concerning the procedures for amending Part A of the Seafarers' Training, Certification and Watchkeeping (STCW) Code,
+HAVING CONSIDERED Resolution 5 of the 1995 Conference of Parties to the 1978 STCW Convention and relevant provisions addressing the training of personnel on ro-ro passenger ships in crisis management and human behaviour,
+HAVING ALSO CONSIDERED , at its sixty-eighth session, amendments to Part A of the STCW Code proposed and circulated in accordance with Article XII(1)(a)(i) of the Convention,
+1. ADOPTS , in accordance with Article XII(1)(a)(iv) of the Convention, amendments to the STCW Code, the text of which is set out in the Annex to the present Resolution;
+2. DETERMINES , in accordance with Article XII(1)(a)(vii)2 of the Convention, that the said amendments to the STCW Code shall be deemed to have been accepted on 1 July 1998, unless, prior to that date more than one third of Parties or Parties the combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's merchant shipping of ships of 100 gross register tons or more, have notified their objections to the amendments;
+3. INVITES Parties to the STCW Convention to note that, in accordance with Article XII(1)(a)(ix) of the Convention, the annexed amendments to the STCW Code shall enter into force on 1 January 1999 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with Article XII(1)(a)(v) of the Convention, to transmit certified copies of the present Resolution and the text of the amendments contained in the Annex to all Parties to the Convention;
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this Resolution and its Annex to Members of the Organization which are not Parties to the Convention.
+ANNEX
+AMENDMENTS TO THE SEAFARERS' TRAINING, CERTIFICATION AND WATCHKEEPING (STCW) CODE
+Section A-V/2
+Mandatory minimum requirements for the training and qualifications of masters, officers, ratings and other personnel on ro-ro passenger ships
+1 Section A-V/2.5 is replaced by the following:
+"Crisis management and human behaviour training
+5 Masters, chief mates, chief engineer officers, second engineer officers and any person having responsibility for the safety of passengers in emergency situations shall:
+.1 have successfully completed the approved crisis management and human behaviour training, required by Regulation V/2, paragraph 8, in accordance with their capacity, duties and responsibilities as set out in table A-V/2; and
+.2 be required to provide evidence that the required standard of competence has been achieved in accordance with the methods and the criteria for evaluating competence tabulated in columns 3 and 4 of table A-V/2."
+2 The following new table A-V/2 is inserted at the end of Section A-V/2:
+"Table A-V/2
+SPECIFICATION OF MINIMUM STANDARD OF COMPETENCE IN CRISIS MANAGEMENT AND HUMAN BEHAVIOUR
+Column 1 || Column 2 || Column 3 || Column 4 
+COMPETENCE || KNOWLEDGE, UNDERSTANDING AND PROFICIENCY || METHODS FOR DEMONSTRATING COMPETENCE || CRITERIA FOR EVALUATING COMPETENCE 
+Organize shipboard emergency procedures [TAB]Knowledge of:
+.1 the general design and layout of the ship;
+.2 safety regulations;
+.3 emergency plans and procedures.
+The importance of the principles for the development of ship specific emergency procedures including:
+.1 the need for pre-planning and drills of shipboard emergency procedures;
+.2 the need for all personnel to be aware of and adhere to pre-planned emergency procedures as carefully as possible in the event of an emergency situation. [TAB]Assessment of evidence obtained from approved training, exercises with one or more prepared emergency plans and practical demonstration. [TAB]The shipboard emergency procedures ensure a state of readiness to respond to emergency situations. 
+Optimize the use of resources [TAB]Ability to optimize the use of resources, taking into account:
+.1 the possibility that resources available in an emergency may be limited;
+.2 the need to make full use of personnel and equipment immediately available and, if necessary, to improvise.
+Ability to organize realistic drills
+to maintain a state of readiness, taking into account lessons learnt from previous accidents involving passenger ships; debriefing after drills. [TAB]Assessment of evidence obtained from approved training, practical demonstration and shipboard training and drills of emergency procedures. [TAB]Contingency plans optimize the use of available resources.
+Allocation of tasks and responsibilities reflects the known competence of individuals
+Roles and responsibilities of teams and individuals are clearly defined. 
+Control response to emergencies [TAB]Ability to make an initial assessment and provide an effective response to emergency situations in accordance with established emergency procedures.
+Leadership skills 
+Ability to lead and direct others in emergency situations, including the need:
+.1 to set an example during emergency situations;
+.2 to focus decision making, given the need to act quickly in an emergency;
+.3 to motivate, encourage and reassure passengers and other personnel.
+Stress handling 
+Ability to identify the development of symptoms of excessive personal stress and those of others members of the ship's emergency team.
+Understanding that stress generated by emergency situations can affect the performance of individuals and their ability to act on instructions and follow procedures. [TAB]Assessment of evidence obtained from approved training, practical demonstration and shipboard training and drills of emergency procedures. [TAB]Procedures and actions are in accordance with established principles and plans for crisis management on board.
+Objectives and strategy are appropriate to the nature of the emergency, take account of contingencies and make optimum use of available resources.
+Actions of crew members contribute to maintaining order and control. 
+Control passengers and other personnel during emergency situations [TAB]Human behaviour and responses 
+Ability to control passengers and other personnel in emergency situations, including:
+.1 awareness of the general reaction patterns of passengers and other personnel in emergency situations, including the possibility that:
+.1.1 generally it takes some time before people accept the fact that there is an emergency situation;
+.1.2 some people may panic and not behave with a normal level of rationality, that their ability to comprehend may be impaired and they may not be as responsive to instructions as in non-emergency situations;
+.2 awareness that passengers and other personnel may, inter alia :
+.2.1 start looking for relatives, friends and/or their belongings as a first reaction when something goes wrong;
+.2.2 seek safety in their cabins or in other places on-board where they think that they can escape danger;
+.2.3 tend to move to the upper side when the ship is listing;
+.3 appreciation of the possible problem of panic resulting from separating families. [TAB]Assessment of evidence obtained from approved training, practical demonstration and shipboard training and drills of emergency procedures. [TAB]Actions of crew members contribute to maintaining order and control 
+Establish and maintain effective communications [TAB]Ability to establish and maintain effective communications, including:
+.1 the importance of clear and concise instructions and reports;
+.2 the need to encourage an exchange of information with, and feedback from, passengers and other personnel.
+Ability to provide relevant information to passengers and other personnel during an emergency situation, to keep them appraised of the overall situation and to communicate any action required of them, taking into account:
+.1 the language or languages appropriate to the principal nationalities of passengers and other personnel carried on the particular route;
+.2 the possible need to communicate during an emergency by some other means such as by demonstration, or by hand signals or calling attention to the location of instructions, muster stations, life-saving devices or evacuation routes, when oral communication is impractical;
+.3 the language in which emergency announcements may be broadcast during an emergency or drill to convey critical guidance to passengers and to facilitate crew members in assisting passengers. [TAB]Assessment of evidence obtained from approved training, exercises and practical demonstration. [TAB]Information from all available sources is obtained, evaluated and confirmed as quickly as possible and reviewed throughout the emergency.
+Information given to individuals, emergency response teams and passengers is accurate, relevant and timely.
+Information keeps passengers informed as to the nature of the emergency and the actions required of them. 
+3 The following new Section A-V/3 is added after existing Section A-V/2:
+"Section A-V/3
+Mandatory minimum requirements for the training and qualifications of masters, officers, ratings and other personnel on passenger ships other than ro-ro passenger ships
+Crowd management training
+1 The crowd management training required by Regulation V/3, paragraph 4 for personnel designated on muster lists to assist passengers in emergency situations shall include, but not necessarily be limited to:
+.1 awareness of life-saving appliance and control plans, including:
+.1.1 knowledge of muster lists and emergency instructions,
+.1.2 knowledge of the emergency exits, and
+.1.3 restrictions on the use of elevators;
+.2 the ability to assist passengers en route to muster and embarkation stations, including:
+.2.1 the ability to give clear reassuring orders,
+.2.2 the control of passengers in corridors, staircase and passage ways,
+.2.3 maintaining escape routes clear of obstructions,
+.2.4 methods available for evacuation of disabled persons and persons needing special assistance, and
+.2.5 search of accommodation spaces;
+.3 mustering procedures, including:
+.3.1 the importance of keeping order,
+.3.2 the ability to use procedures for reducing and avoiding panic,
+.3.3 the ability to use, where appropriate, passenger lists for evacuation counts, and
+.3.4 the ability to ensure that the passengers are suitably clothed and have donned their life-jackets correctly.
+Familiarization training
+2 The familiarization training required by Regulation V/3, paragraph 5 shall at least ensure attainment of the abilities that are appropriate to the capacity to be filled and the duties and responsibilities to be taken up, as follows:
+Design and operational limitations 
+.1 Ability to properly understand and observe any operational limitations imposed on the ship and to understand and apply performance restrictions, including speed limitations in adverse weather, which are intended to maintain the safety of life and the ship.
+Safety training for personnel providing direct service to passengers in passenger spaces
+3 The additional safety training required by Regulation V/3, paragraph 6, shall at least ensure attainment of the abilities, as follows:
+Communication 
+.1 Ability to communicate with passengers during an emergency, taking into account:
+.1.1 the language or languages appropriate to the principal nationalities of passengers carried on the particular route:
+.1.2 the likelihood that an ability to use an elementary English vocabulary for basic instructions can provide a means of communication with a passenger in need of assistance whether or not the passenger and crew member share a common language;
+.1.3 the possible need to communicate during an emergency by some other means such as by demonstration, or hand signals, or calling attention to the location of instructions, muster stations, life-saving devices or evacuation routes, when oral communication is impractical;
+.1.4 the extent to which complete safety instructions have been provided to passengers in their native language or languages; and
+.1.5 the languages in which emergency announcements may be broadcast during an emergency or drill to convey critical guidance to passengers and to facilitate crew members in assisting passengers.
+Life-saving appliances 
+.2 Ability to demonstrate to passengers the use of personal life-saving appliances.
+Passenger safety
+4 The passenger safety training required by Regulation V/3, paragraph 7, for masters, chief mates and persons assigned immediate responsibility for embarking and disembarking passengers shall at least ensure attainment of the ability appropriate to their duties and responsibilities to embark and disembark passengers with special attention to disabled persons and persons needing assistance.
+Crisis management and human behaviour training
+5 Masters, chief mates, chief engineer officers, second engineer officers and any person having responsibility for the safety of passengers in emergency situations shall:
+.1 have successfully completed the approved crisis management and human behaviour training, required by Regulation V/3, paragraph 8, in accordance with their capacity, duties and responsibilities as set out in table A-V/2; and
+.2 be required to provide evidence that the required standard of competence has been achieved in accordance with the methods and the criteria for evaluating competence tabulated in columns 3 and 4 of table A-V/2." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,55 @@
+
+ Amendments To BCH Code Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1989-AmendmentsBCHCode-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=6953/33(27).pdf     
+    ﻿Adoption Of Amendments To The Code For The Construction And Equipment Of Ships Carrying Dangerous Chemicals In Bulk (BCH Code)
+Source: http://www.imo.org/includes/blastData.asp/doc_id=6953/33(27).pdf, downloaded on 20070513
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING article 38(a) of the Convention on the International. Maritime Organization concerning the function of the Committee conferred upon it by International. Conventions for the Prevention and Control of Marine Pollution,
+NOTING article 16 of the International. Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and Article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol"), which together specify the amendment procedure of the 1978 Protocol and confers upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL. 73/78),
+BEING DESIROUS of keeping the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (BCH Code) up-to-date, and compatible with the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC Code), as well as Appendices II and III of Annex II of MARPOL 73/78,
+NOTING FURTHER resolution MEPC 32(27) by which the Committee adopted amendments to the IBC Code,
+RECOGNIZING the need to bring the corresponding amendments to the BCH Code on the date on which the amendments to the IBC Code enter into force,
+HAVING CONSIDERED, at its twenty-seventh session, the amendments to the BCH Code proposed by the Sub-Committee on Bulk Chemicals at its eighteenth session and circulated in accordance with article 16(2)(a) of the 1973 Convention,
+1. ADOPTS in accordance with article 16(2)(d) of the 1973 Convention amendments to the BCH Code, the text of which is set out in the Annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on the date on which the conditions for the entry into force of the amendments to the IBC Code adopted by the Committee by .resolution MEPC 32(27) are met, unless prior to that date, not less than one-third of the parties or the Parties, the combined merchant fleets of which constitute not less. than fifty per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments;
+3. INVITES the Parties to note that in accordance with article 16(2)(g)(ii.) of the 1973 Convention the amendments shall enter into force six months after their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1978 Protocol certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the resolution and its Annex.
+Annex
+PROPOSED AMENDMENTS TO THE BCH CODE
+1. Chapter 3, Section E - FIRE PROTECTION: The introductory sentence is amended to read:
+"Fire-extinguishing media determined to be effective for certain products are listed in column "1" in the table of chapter VI."
+and the same sentence which appears in the Explanatory Notes to chapter VI: under "Fire Protection" is deleted.
+2. Regulation 3.14.2: The last sentence is amended to read : "Regular protein foams should not be used".
+3. Regulation 4.4 Acetone cyanohydrin
+.1 The words "and lactonitrile solution (80% or less)" are added to the title,
+.2 The first sentence is amended to read:
+"Acetone cyariohiydrin and lactonitrile solution should..."
+New regulation 4.22 Octyl nitrates is added as Follows:
+"4.22 Octyl nitrates, all isomers
+4.22.1
+The carriage temperature of the cargo should be maintained below 100°C to prevent the occurrence of a self-sustaining. exothermic decomposition reaction.
+4.22.2
+The cargo may not be carried in independent pressure vessels permanently affixed to the vessel's deck unless:
+.1 the tanks are sufficiently insulated from fire; and
+.2 the vessel has a water deluge system for the tanks such that the cargo temperature is maintained below 100°C and the temperature rise in the tanks does not exceed 1.5°C/hour for a fire of 650°C (1200°F)."
+5. Chapter VI, explanatory note for fire protection:
+.1 a footnote is added to "D: dry chemical", as follows:
+"Dry chemical powder systems when used may require an additional water system for boundary cooling. This is normally provided in sufficient quantities by the standard fire main system required by regulation II-2/4 of the 1974 SOLAS Convention as amended."*
+.2 A new note is added as follows:
+"Further information on the suitability of fire-fighting media listed in column "1" of chapter VI may be found in column "1" of chapter 17 in the IBC Code." [This amendment is subject to agreement by MSC.]
+6. Chapter VI, the table
+The table of summary of minimum requirements are replaced by the following.
+[Editor's Note: See original document for tables 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

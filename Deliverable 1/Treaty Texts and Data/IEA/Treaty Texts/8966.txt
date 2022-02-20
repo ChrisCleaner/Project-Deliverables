@@ -1,0 +1,44 @@
+
+ Amendment to Annex IV of the Convention on the Protection of the Rhine against Chemical Pollution (regarding reduction of pollution by hexachlorobutadiene)   
+     Filename: 8966-1988-Amendment-Hexachlorobutadiene-1976-Chemical-1963-RhineCommission-IEA#2858 
+ Source: https://zoek.officielebekendmakingen.nl/trb-1993-76.pdf     
+    Proposition de la Commission Internationale pour la Protection du Rhin contre la Pollution visant à compléter l'annexe IV à la Convention relative à la protection du Rhin contre la pollution chimique, signée à Bonn le 3 décembre 1976
+Source: https://zoek.officielebekendmakingen.nl/trb-1993-76.pdf - Starts on p. 23 of PDF. Downloaded on 20210424
+La Commission Internationale pour la Protection du Rhin contre la Pollution,
+se référant à la Convention relative à la protection du Rhin contre la pollution chimique, signée à Bonn le 3 décembre 1976,
+considérant en particulier les articles 3,4, 5 et 14 de cette Convention,
+propose aux Parties contractantes à la Convention que l'annexe IV à la Convention soit complétée comme suit en ce qui concerne l'hexachlorobutadiène (HCB):
+[note: for original table see source document above]
+Substance ou groupe de substance // 1 // Hexachlorobutadiène
+Origine // 2 // 1. Production de perchloroétane (PER) et de tétrachlorure de carbone (CCU) par perchloration // 2. Production de trichloroéthane et/ou du perchloroéthane par d'autres procédés
+Valeur-limite exprimée en concentration maximale d'une substance // 3 // 1,5 milligrammes HCBD par litre d'eaux usées (val. mens.) // 3 milligrammes HCBD par litre d'eaux usées (val. journ.)
+Valeur-limite exprimée en quantité maximale d'une substance // 4 // 1,5 grammes HCBD par tonne de capacité de production totale de PER + CCU (val. mens.) // 3 grammes HCBD par tonne de capacité de production totale de PER + CCU (val. journ.)
+Limite du délai pour les rejets existants // 5 // 1.1.1990
+Observations // 6 // (n1),(n2),(n3),(n4) // (n5)
+[end of table]
+En cas de besoin, des valeurs-limites pour d'autres secteurs industriels, tels que les établissements utilisant le HGBD pour des raisons techniques seront proposées par la Commission Internationale à un stade ultérieur. Entre-temps, les Gouvernements fixent de manière autonome, conformément aux articles 3 et 4 de la Convention, des normes d'émission pour HCBD. Ces normes d'émission doivent tenir compte des meilleurs moyens techniques disponibles et ne doivent pas être moins strictes que la valeur-limite la plus comparable de l'annexe IV.
+Les dispositions de ce paragraphe s'appliquent également lors qu'un établissement industriel compte des activités autres que celles pour lesquelles des valeurs-limites sont fixées dans le tableau ci-dessus et qui sont susceptibles d'être à l'origine de rejets de HCBD.
+Sur la base de l'expérience acquise lors de l'application de ces valeurs-limites et compte tenu du fait que le recours aux meilleurs moyens techniques disponibles permet déjà d'appliquer, dans certains cas, des valeurs nettement plus restrictives que celles indiquées ci-dessus, la CIPR proposera des valeurs plus restrictives dans un délai de 5 ans à compter de l'entrée en vigueur de la présente proposition.
+La pollution résultant des rejets de HCBD et affectant des concentrations dans les sédiments et/ou les mollusques et/ou les crustacés et/ou les poissons ne doit pas augmenter, directement ou indirectement, de manière significative avec le temps.
+En application des articles 14 et 19 de la Convention, ces dispositions entreront en vigueur après adoption unanime par les Parties contractantes à la Convention.
+Les Parties contractantes notifieront leur adoption au Gouvernement de la confédération Suisse, qui les informera de la réception de ces déclarations.
+1. Les valeurs-limites indiquées dans le tableau correspondent à la valeur maximale de la concentration mensuelle ou journalière (va leur-limite de concentration) ou à la charge mensuelle ou journalière rejetée (valeur-limite de charge).
+Les quantités de HCBD rejetées sont exprimées en fonction de la capacité de production de HCBD ou de la capacité de production totale de PER et CCl4 installée.
+2. La valeur-limite exprimée en termes de concentration qui en principe ne doit pas être dépassée figure dans le tableau ci-avant. Dans tous les cas, les valeurs-limites exprimées en concentration maximale ne peuvent être supérieures à celle exprimée en quantités maximales divisées par les besoins en eau par tonne de capacité de production totale de PER en CCI4 installée.
+Toutefois, étant donné que la concentration de HCBD dans les effluents dépend du volume d'eau impliqué qui diffère selon les différents procédés et établissements, la valeur-limite, exprimée en termes de quantité de HCBD rejeté par rapport à la capacité de production totale de PER et CCU, figurant dans le tableau ci-avant, doit être respectée dans tous les cas.
+3. Les valeurs-limites indiquées dans le tableau ci-dessus se réfèrent à la détermination du HCBD contenu dans un échantillon non filtré. Elles s'appliquent au HCBD de l'ensemble des eaux usées contenant du HCBD résultant des processus de production et provenant du site de l'installation de production.
+Si les eaux usées contenant du HCBD sont traitées en dehors du site de l'installation de production dans un établissement destiné à éliminer le HCBD, les Gouvernements peuvent permettre que les valeurs-limites soient appliquées au point de rejet à la sortie de l'établissement, si par ce mode de traitement la pollution par le HCBD n'est pas transférée dans d'autres milieux (air, boues).
+4. En ce qui concerne les méthodes de mesures, d'analyses et de prélèvement, voir les recommandations de la Commission Internationale du 6 juillet 1988.
+5. Il n'est pas possible pour le moment d'arrêter des valeurs-limites pour ce secteur. La Commission Internationale proposera à un stade ultérieur de telles valeurs aux Parties contractantes à la Convention.
+(Bruxelles, le 6 juillet 1988) 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

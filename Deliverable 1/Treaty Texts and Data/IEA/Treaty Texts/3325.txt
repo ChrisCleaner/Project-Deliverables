@@ -1,0 +1,82 @@
+
+ Amendments To BCH Code Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2000-AmendmentsBCH-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=7021/91(45).pdf     
+    ﻿AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+Source: Unofficial Text
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the function of the Committee conferred upon it by international conventions for the prevention and control of marine pollution,
+RECALLING ALSO resolution MEPC.20(22) by which it adopted the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (BCH Code),
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+NOTING that the Maritime Safety Committee, at its seventy-second session, considered and approved the proposed amendments to the BCH Code,
+NOTING FURTHER resolution MEPC...(45), by which the Committee adopted relevant amendments to the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC Code),
+RECOGNIZING the need to bring the amendments to the BCH Code into force on the date on which the relevant amendments to the IBC Code enter into force,
+HAVING CONSIDERED the proposed amendments to the BCH Code circulated in accordance with article 16(2)(a) of the 1973 Convention,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, amendments to the BCH Code, the text of which is set out at Annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 January 2002, unless prior to the date, not less than one-third of the Parties or the Parties, the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, having communicated to the Organization their objections to the amendments;
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the amendments shall enter into force on 1 July 2002 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1978 Protocol certified copies of the present resolution and the text of the amendments contained in the annex; and
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the resolution and its Annex.
+ANNEX
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+CHAPTER II - CARGO CONTAINMENT
+2.12 Cargo hoses carried aboard the ship
+1 Existing section 2.12 is replaced by the following:
+"2.12 Ship's cargo hoses
+2.12.1 Paragraphs 2.12.2 to 2.12.4 apply to cargo hoses installed on board ships on or after 1 July 2002.
+2.12.2 Liquid and vapour hoses used for cargo transfer should be compatible with the cargo carried and suitable for the cargo temperature.
+2.12.3 Hoses subject to tank pressure or the discharge pressure of pumps should be designed for a bursting pressure not less than 5 times the maximum pressure the hose will be subject to during cargo transfer.
+2.12.4 Each new type of cargo hose, complete with end-fittings, should be prototype-tested at a normal ambient temperature with 200 pressure cycles from zero to at least twice the specified maximum working pressure. After this cycle pressure test has been carried out, the prototype test should demonstrate a bursting pressure of at least 5 times its specified maximum working pressure at the extreme service temperature. Hoses used for prototype testing should not be used for cargo service. Thereafter, before being placed in service, each new length of cargo hose produced should be hydrostatically tested at ambient temperature to a pressure not less than 1.5 times its specified maximum working pressure but not more than two-fifths of its bursting pressure. The hose should be stencilled or otherwise marked with the date of testing, its specified maximum working pressure and, if used in services other than the ambient temperature services, its maximum and minimum service temperature, as applicable. The specified maximum working pressure should not be less than 10 bar gauge."
+CHAPTER III - SAFETY EQUIPMENT AND RELATED CONSIDERATION
+2 Existing paragraph 3.16.11 is replaced by the following:
+"3.16.11 The ship should have on board medical first-aid equipment, including oxygen resuscitation equipment and antidotes for cargoes to be carried, based on the guidelines developed by the Organization[1] ."
+CHAPTER IV - SPECIAL REQUIREMENTS
+3 The existing text of section 4.1 is replaced by the following:
+"4.1 Carbon disulphide Carbon disulphide may be carried either under water pad or under suitable inert gas pad as specified in the following paragraphs. Carriage under water pad
+4.1.1 Provision should be made to maintain a water pad in the cargo tank during loading, unloading and transit. In addition, a suitable inert gas pad should be maintained in the ullage space during transit.
+4.1.2 All openings should be in the top of the tank, above the deck.
+4.1.3 Loading lines should terminate near the bottom of the tank.
+4.1.4 A standard ullage opening should be provided for emergency sounding.
+4.1.5 Cargo piping and vent lines should be independent of piping and vent lines used for other cargo.
+4.1.6 Pumps may be used for discharging cargo, provided they are of the deepwell or hydraulically driven submersible types. The means of driving a deepwell pump should not present a source of ignition for carbon disulphide and should not employ equipment that may exceed a temperature of 80°C.
+4.1.7 If a cargo discharge pump is used, it should be inserted through a cylindrical well extending from the tank top to a point near the tank bottom. A water pad should be formed in this well before attempting pump removal unless the tank has been certified as gas-free.
+4.1.8 Water or inert gas displacement may be used for discharging cargo, provided the cargo system is designed for the expected pressure and temperature.
+4.1.9 Safety relief valves should be of stainless steel construction.
+4.1.10 Because of its low ignition temperature and close clearances required to arrest its flame propagation, only intrinsically safe systems and circuits should be permitted in the hazardous locations described in 10.2.3. Carriage under suitable inert gas pad
+4.1.11 Carbon disulphide should be carried in independent tanks with a design pressure of not less than 0.6 bar gauge.
+4.1.12 All openings should be located on the top of the tank, above the deck.
+4.1.13 Gaskets used in the containment system should be of a material which does not react with, or dissolve in, carbon disulphide.
+4.1.14 Threaded joints should not be permitted in the cargo containment system, including the vapour lines.
+4.1.15 Prior to loading, the tank(s) should be inerted with suitable inert gas until the oxygen level is 2% by volume or lower. Means should be provided to automatically maintain a positive pressure in the tank using suitable inert gas during loading, transport and discharge. The system should be able to maintain this positive pressure between 0.1 and 0.2 bar gauge, and should be remotely monitored and fitted with over/underpressure alarms.
+4.1.16 Hold spaces surrounding an independent tank carrying carbon disulphide should be inerted by a suitable inert gas until the oxygen level is 2% or less. Means should be provided to monitor and maintain this condition throughout the voyage. Means should also be provided to sample these spaces for carbon disulphide vapour.
+4.1.17 Carbon disulphide should be loaded, transported and discharged in such a manner that venting to the atmosphere does not occur. If carbon disulphide vapour is returned to shore during loading or to the ship during discharge, the vapour return system should be independent of all other containment systems.
+4.1.18 Carbon disulphide should be discharged only by submerged deepwell pumps or by a suitable inert gas displacement. The submerged deepwell pumps should be operated in a way that prevents heat build-up in the pump. The pump should also be equipped with a temperature sensor in the pump housing with remote readout and alarm in the cargo control room. The alarm should be set at 80°C. The pump should also be fitted with an automatic shut-down device, if the tank pressure falls below atmospheric pressure during the discharge.
+4.1.19 Air should not be allowed to enter the cargo tank, cargo pump or lines while carbon disulphide is contained in the system.
+4.1.20 No other cargo handling, tank cleaning or deballasting should take place concurrent with loading or discharge of carbon disulphide.
+4.1.21 A water spray system of sufficient capacity should be provided to blanket effectively the area surrounding the loading manifold, the exposed deck piping associated with product handling and the tank domes. The arrangement of piping and nozzles should be such as to give a uniform distribution rate of 10 l/m2/min. Remote manual operation should be arranged such that remote starting of pumps supplying the water-spray system and remote operation of any normally closed valves in the system can be carried out from a suitable location outside the cargo area adjacent to the accommodation spaces and readily accessible and operable in the event of fire in the areas protected. The water-spray system should be capable of both local and remote manual operation, and the arrangement should ensure that any spilled cargo is washed away. Additionally, a water hose with pressure to the nozzle when atmospheric temperature permits, should be connected ready for immediate use during loading and unloading operations.
+4.1.22 No cargo tanks should be more than 98% liquid-full at the reference temperature (R).
+4.1.23 The maximum volume (VL) of cargo to be loaded in a tank should be:
+VL = 0.98 V (rR / rL)
+where:
+V = volume of the tank
+rR = relative density of cargo at the reference temperature (R)
+rL = relative density of cargo at the loading temperature
+R = reference temperature, i.e. the temperature at which the vapour pressure of the cargo corresponds to the set pressure of the pressure-relief valve.
+4.1.24 The maximum allowable tank filling limits for each cargo tank should be indicated for each loading temperature which may be applied, and for the applicable maximum reference temperature, on a list approved by the Administration. A copy of the list should be permanently kept on board by the master.
+4.1.25 Zones on open deck, or semi-enclosed spaces on open deck within three metres of a tank outlet, gas or vapour outlet, cargo pipe flange or cargo valve of a tank certified to carry carbon disulphide, should comply with the electrical equipment requirements specified for carbon disulphide in column "i", chapter 17. Also, within the specified zone, no other heat sources, like steam piping with surface temperatures in excess of 80°C should be allowed.
+4.1.26 Means should be provided to ullage and sample the cargo without opening the tank or disturbing the positive suitable inert gas blanket.
+4.1.27 The product should be transported only in accordance with a cargo handling plan that has been approved by the Administration. Cargo handling plans should show the entire cargo piping system. A copy of the approved cargo-handling plan should be available on board. The Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk should be endorsed to include reference to the approved cargo handling plan." CHAPTER V - OPERATIONAL REQUIREMENTS
+4 Existing paragraph 5.3.3 is replaced by the following:
+"5.3.3 Officers should be trained in emergency procedures to deal with conditions of leakage, spillage or fire involving the cargo, based on the guidelines developed by the Organization[1], and a sufficient number of them should be instructed and trained in essential first aid for cargoes carried."
+[1] Refer to the Medical First Aid Guide for Use in Accidents Involving Dangerous Goods (MFAG), which provides advice on the treatment of casualties in accordance with the symptoms exhibited as well as equipment and antidotes that may be appropriate for treating the casualty and the relevant chapters of Part A and Part B of the STCW Code. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,70 @@
+
+ Amendments to the Convention On The Protection Of The Marine Environment Of The Baltic Sea Area (Annex IV; Regulations 4 and 9-12)   
+     Filename: 2001-Amendments-1992-ProtectionMarineEnvironmentBalticSea.EN.txt 
+ Source: http://www.helcom.fi/Recommendations/en_GB/rec22E_5/     
+    ﻿Amendments To Annex IV: "Prevention Of Pollution From Ships" To The Helsinki Convention
+Source: http://www.helcom.fi/Recommendations/en_GB/rec22E_5/, downloaded on 20060528
+Adopted by HELCOM Recommendation 22E/5 on 10 September 2001
+THE COMMISSION,
+CONSCIOUS of the sensitivity of the marine environment of the Baltic Sea Area and of the importance it represents to the people living around it, for economic, social, recreational and cultural reasons,
+AWARE of the need to protect this shared resource for the benefit of present and future generations through the implementation of an integrated approach as envisaged in the concept of sustainability,
+RECOGNIZING that if harmful substances are introduced to this vulnerable sea they will remain there for a long time,
+EXPRESSING CONCERN as to the growing density of maritime traffic in Baltic Sea Area and the accidents which have taken place,
+ACKNOWLEDGING the difficulties the Baltic Sea Area presents to navigation due to narrow straits, shallow depths, archipelago areas and ice cover during winter period,
+BEING CONVINCED of the need for additional measures in order to ensure the safety of navigation in the Baltic Sea Area,
+TAKING INTO CONSIDERATION the amendment procedure for the Annexes of the Helsinki Convention as contained in Article 32 of the Convention,
+RESOLVES:
+a) to amend the present Regulation 4 and to adopt new Regulations 9-13 to Annex IV "Prevention of Pollution from Ships" to the Convention on the Protection of the Marine Environment of the Baltic Sea Area, 1992 appearing in the Attachment to this Recommendation;
+b) to ask the Depositary Government to communicate these amendments to the Contracting Parties with the Commission's recommendation for acceptance;
+c) to determine that the amendments shall be deemed to have been accepted unless prior to 1 September 2002 any of the Contracting Parties has objected to the amendments; and
+d) to determine that accepted amendments shall enter into force on 1 December 2002,
+REQUESTS the Governments of the Contracting States to report on the implementation of this Recommendation in accordance with Article 16, Paragraph 1 of the Helsinki Convention.
+ATTACHMENT
+The following text replaces the current text of Regulation 4 of Annex IV "Prevention of Pollution from Ships" of the Helsinki Convention:
+Regulation 4: Application of the Annexes of MARPOL 73/78
+1. Subject to Regulation 5 the Contracting Parties shall apply the provisions of Annexes I-V of MARPOL 73/78.
+2. At the entry into force of the revised Regulation 13G of Annex I to MARPOL 73/78 the Contracting Parties:
+a) shall amend the conditions under which ships are permitted to fly their flags so as not to allow the operation of ships which may not comply with the requirements of Regulation 13F in accordance with Regulation 13G(4);
+b) shall refrain from making use of the provisions of either paragraph (5)(a) or paragraph (5)(b) of Regulation 13G and thus will not allow ships entitled to fly their flag to which paragraph (5)(a) and (5)(b) may be applied to continue operating beyond the date specified in Regulation 13G(4); and
+c) shall make use, as from 1 January 2015, of the provisions of paragraph 8(b) of Regulation 13G for the purpose of denying entry into their ports or offshore terminals of ships which have been permitted, on the basis of the provisions of paragraph (5)(a) or (5)(b) of Regulation 13G, to continue operating beyond the anniversary of the date of their delivery in 2015;
+d) may under exceptional circumstances allow an individual ship not complying with Regulation 13F in accordance with Regulation 13G(4), to enter their ports or off-shore terminals, when:
+- an oil tanker is in difficulty and in search of a safe haven or of a place of refuge,
+- an unloaded oil tanker is proceeding to a port of repair.
+The following new Regulations 9-13 in Annex IV "Prevention of Pollution from Ships" of the Helsinki Convention are inserted:
+Regulation 9: Improved hydrographic services and promotion of the use of Electronic Navigational Charts (ENC)
+1. The Contracting Parties:
+a) shall develop a scheme for systematic re-surveying of major shipping routes and ports in order to ensure that safety of navigation is not endangered by inadequate source information. The survey shall be carried out to a standard not inferior to the latest edition of IHO S-44. The scheme shall be elaborated jointly by the hydrographic services responsible for the areas in question not later than by the end of 2002 with the aim to begin implementation by 2003.
+b) shall develop Electronic Navigational Charts (ENC):
+i) for major shipping routes and ports by the end of 2002. Major shipping routes and ports shall be selected on the basis of volumes of dangerous goods and number of passengers; and
+ii) for secondary shipping routes and ports by the end of 2004.
+2. The Contracting Parties:
+a) shall accept Electronic Chart Display and Information Systems (ECDIS) as equivalent to paper charts in accordance with Chapter V of SOLAS;
+b) undertake to enter into negotiations with shippers and recipients in their States, who are involved in transport of goods to and from ports in the Baltic Sea Area, with the aim that the commercial parties (e.g. national shippers and receivers) make arrangements to the effect that:
+- ships with a draft of 11 metres or more, oil tankers with a draft of 7 metres or more, chemical tankers and gas carriers irrespective of size and ships carrying a shipment of INF cargo carry ECDIS;
+c) shall by the end of the year 2002 as a matter of particular interest ensure that port State control of paper charts is intensified on board ships with a draught of 11 metres or more, oil tankers with a draft of 7 metres or more, chemical tankers and gas carriers irrespective of size and ships carrying a shipment of INF cargo.
+Regulation 10: Use of Automatic Identification Systems (AIS)
+The Contracting Parties:
+a) shall establish national, land-based monitoring systems for ships, based on AIS signals. A full monitoring of the Baltic Sea Area within A1 sea area shall take place not later than 1 July 2005;
+b) shall establish a common Baltic Sea monitoring system based on - and with access to - all national Baltic AIS monitoring systems; and
+c) shall elaborate reliable statistics on ships' traffic in the Baltic Sea Area to assess the need for further additional measures to improve the safety of navigation and the emergency capacity. These statistics shall be elaborated on the basis of specified and conformed national AIS data.
+Regulation 11: Port State control
+The Contracting Parties shall carry out port State control on the basis of either the 1982 Paris Memorandum of Understanding on Port State Control or the Council Directive 95/21/EC of 19 June 1995, as amended, concerning the enforcement, in respect of shipping using Community ports and sailing in the waters under the jurisdiction of the Member States, of international standards for ship safety, pollution prevention and shipboard living and working conditions (port State control).
+Regulation 12: Promotion of a safety and environmental culture through the establishment of a common procedure for the investigations into marine casualties
+The Contracting Parties:
+a) shall identify major non conformities under the ISM Code when investigating any safety or environment related occurrences on board a ship and marine casualties, distribute the findings to the maritime industry via IMO with the aim to improve safety management systems applied and act accordingly with respect to the possible withdrawal of the Document of Compliance or the Safety Management Certificate; and
+b) shall make use of the IMO Code for the Investigation of Marine Casualties and Incidents with a view to co-operating if involved as flag State or other substantially interested State and to exchange, within the legal framework of data protection, the data of the voyage data recorders of involved ships under their flag.
+Regulation 13: Places of refuge
+The Contracting Parties:
+a) shall, following-up the work of EC and IMO, draw up plans to accommodate, in the waters under their jurisdiction, ships in distress in order to ensure that ships in distress may immediately go to a place of refuge subject to authorisation by the competent authority; and
+b) shall exchange details on plans for accommodating ships in distress. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,49 @@
+
+ Amendment to Annex IV of the Convention on the Protection of the Rhine against Chemical Pollution (regarding reduction of pollution by chromium)   
+     Filename: 8976-1982-Amendment-Chromium-1976-Chemical-1963-RhineCommission-IEA#2858 
+ Source: https://zoek.officielebekendmakingen.nl/trb-1988-65.pdf     
+    Recommandation de la Commission internationale pour la protection du Rhin contre la pollution sur la réduction de la pollution par le chrome
+Source: https://zoek.officielebekendmakingen.nl/trb-1988-65.pdf -- starting on p, 2 of PDF. Downloaded on 20210423
+Selon le paragraphe 2 de l'article 6 de la Convention relative à la Protection du Rhin contre la pollution chimique, les Gouvernements, Parties à la présente Convention, s'efforcent d'établir des programmes nationaux en vue de la réduction de la pollution des eaux du Rhin par les substances de l'annexe II.
+La Commission Internationale demande aux Gouvernements de soumettre leurs projets de programme national concernant le chrome et ses composés en vertu du paragraphe 3 de l'article 6 de la Convention, pour que les projets puissent être examinés afin d'assurer la cohérence des objectifs et des moyens.
+La Commission Internationale propose de tenir compte lors de l'établissement de ces projets de ce qui suit:
+1. Objectifs
+1.1 Objectif de qualité
+1.1.1 L'objectif de qualité devrait être défini comme concentration maximale de chrome total de 50 mg/l d'eau non filtrée du Rhin.
+1.1.2 L'objectif de qualité devrait être fixé à la ligne côtière pour les bras du fleuve, par lesquels les eaux du Rhin s'écoulent librement dans la mer du Nord, et à Kampen pour l'IJssel.
+1.1.3 L'objectif de qualité devrait être considéré comme satisfait si au moins 95% de toutes les valeurs mesurées au cours de l'année sont inférieures à 50 /µg/I aux stations de mesures qui se situent sur les différents bras du fleuve le plus près possible de la ligne côtière et qui ne sont pas encore influencées par la marée ou par les remous du lac d'IJssel.
+1.2 Délai de mise en œuvre
+Les programmes visés à l'article 6 de la Convention devraient être établis de manière que l'objectif de qualité déterminé en 1.1 soit respecté pour le 1er janvier 1984 au plus tard.
+2. Moyens
+2.1 Industries chimiques, industrie de traitement de surface, indus trie du cuir
+Les normes d'émission fixées dans les autorisations préalables pour les rejets de chrome et de ses composés ne devraient pas dépasser les valeurs indiquées dans le tableau suivant.
+[note: for original table see source document above]
+Secteur industriel // I. Industries chimiques ; - fabrication de produits chimiques de base ; - fabrication de produits dérivés ; - industries chimiques utilisant des produits à base de chrome // 2. Industrie de traitement de surface" // 3. Industrie du cuir
+Concentration maximale* en mg/1 // 2 // 2 // 2 // 2 // 2 // 2
+ou quantité maximale en kg/t de chrome utilisé // 3,1 i // 5,0 // 6,5 // 4
+[end of table]
+* voir page 7, note en bas de page. ** voir page 7, note en bas de page.
+2.2 Autres industries
+(par exemple: l'industrie du dioxyde de titane, l'industrie des engrais minéraux, la sidérurgie, la métallurgie non ferreuse et l'industrie de refonte, l'industrie textile).
+Dans la mesure où les quantités de chrome déversées par ces industries sont comparables aux quantités rejetées par les industries précitées dans le tableau ou revêtent une importance pour la qualité des eaux du Rhin, les Gouvernements, Parties à la Convention, fixent les concentrations maximales et/ou les quantités maximales dans les programmes en application de l'article 6 de la Convention.
+La concentration maximale*) ne devrait dépasser 2 mg/1 que dans les cas exceptionnels.
+2.3 Eaux de refroidissement
+L'utilisation du chrome et de ses composés comme additif dans les eaux de refroidissement doit, autant que possible, être limitée. Dans le cas où l'utilisation ne peut être évitée, la concentration maximale* ne doit pas dépasser 2 mg/1.
+2.4 Dispositions spécifiques
+2.4.1 Ces normes s'appliquent aux rejets dans les eaux de surface et si nécessaire à des rejets dans les égouts. La dilution ne doit pas être utilisée pour respecter ces normes.
+2.4.2 Dans les autorisations conformément au paragraphe 4 de l'article 6, la quantité maximale admissible de chrome devrait également être limitée par unité de temps pour des rejets de chrome qui revêtent une importance particulière pour la qualité des eaux du Rhin.
+2.4.3 Les programmes nationaux pourront être actualisés conformément aux futures recommandations de la Commission Internationale selon le paragraphe 2 de l'article 12 de la Convention.
+Si ces objectifs et moyens sont pris en considération dans les projets de programmes nationaux, la concertation ultérieure selon le para graphe 3 de l'article 6 n'est pas nécessaire.
+*) La concentration maximale est exprimée en mg de chrome total par litre pour un échantillon moyen prélevé sur une période ne dépassant pas 24 heures.
+**) Si sur le plan national la fixation d'une norme d'émission pour le chrome VI est également nécessaire à la délivrance de l'autorisation préalable, celle-ci ne doit pas dépasser la valeur en concentration de 0,5 mg/1 et dans la mesure du possible elle doit être de 0,1 mg/1 (échantillon moyen prélevé sur une période ne dépassant pas 24 heures). 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

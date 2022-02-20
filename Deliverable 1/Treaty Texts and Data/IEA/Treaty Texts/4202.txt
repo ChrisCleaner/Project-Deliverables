@@ -1,0 +1,50 @@
+
+ Amendments To Appendices I And II Of The Convention On The Conservation Of Migratory Species Of Wild Animals   
+     Filename: 1991-AmendmentsAppendixIandII-1979-MigratoryWildAnimals.EN.txt 
+ Source: http://www.tematea.org/?q=node/1423     
+    ﻿Amendments To Appendices I And II Of The Convention On The Conservation Of Migratory Species Of Wild Animals
+Source: http://www.tematea.org/?q=node/1423, downloaded 20070927
+Resolution 3.1
+LISTING OF SPECIES IN THE APPENDICES OF THE CONVENTION
+The Conference of the Parties to the Convention on the Conservation of Migratory Species of Wild Animals,
+Recalling that Resolution 1.4 from its first meeting directed the Scientific Council to formulate guidelines on terms used in the Convention and to review the species listed in its Appendices,
+Noting with thanks that the Council has now reported to the Conference of the Parties on these matters and has made a number of recommendations to it,
+1. Agrees that, in applying the guideline for interpretation of the term "endangered" adopted in Resolution 2.2 from the second meeting of the Conference of the Parties, the following general principles should apply:
+(a) The restriction of the listing of species in Appendix I to those which are "endangered" applies to the consideration of future proposals, but not necessarily retrospectively to species already listed;
+(b) Bearing in mind that Article III, paragraph (3) (b) of the Convention provides that a migratory species may be removed from Appendix I when it is determined that the species is not likely to become endangered again because of loss of protection due to its removal from Appendix I, species categorized by the World Conservation Union (IUCN) as "endangered" (E), "vulnerable" (V) or "insufficiently known" (K*) should be retained in Appendix I, together with any rare species breeding at a limited number of inherently vulnerable sites;
+2. Agrees that further additions to the Appendices of the Convention should be limited to species or lower taxa and that the migratory species covered by higher taxa listings already in Appendix II need only be identified when AGREEMENTs were being prepared;
+3. Adopts the guideline that a State should be considered a "Range State" for a migratory species when a significant proportion of a geographically separate population of that species occasionally occurs in its territory;
+4. Requests the Depositary, when up-dating the Appendices, to correct names for the following species to reflect current standard nomenclature as follows:
+Appendix I
+MAMMALIA
+CETACEA
+Balaenidae
+Delete Eubalaena glacialis (s.1.)
+Insert Eubalaena glacialis
+Eubalaena australis
+ARTIODACTYLA
+Camelidae
+Delete Lama vicugna* (except Peruvian populations)
+Insert Vicugna vicugna* (except Peruvian populations)
+Appendix II
+MAMMALIA
+CETACEA
+Delphinidae
+Delete Globicephala melaena (only North and Baltic Sea populations)
+Insert Globicephala melas (only North and Baltic Sea populations)
+and to footnote the revised Appendices as appropriate to indicate the former listing;
+5. Requests Parties preparing proposals for addition of a species to Appendix I to consider whether that species should also be listed in Appendix II;
+6. Urges any Party proposing the addition to Appendix II of a species for which it is a Range State to initiate negotiations with other Range States towards an AGREEMENT for that species;
+7. Urges Parties to submit proposals in accordance with Article XI of the Convention for consideration by the fourth meeting of the Conference of the Parties for the listing in Appendix II of those species already listed in Appendix I of the Convention which would benefit from such listing and, in the meantime, to take appropriate measures to develop AGREEMENTs for such species;
+8. Encourages Parties to consider submitting proposals for the listing of species from regions of the world currently under-represented in the Appendices and to assist developing country Parties to prepare such proposals. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

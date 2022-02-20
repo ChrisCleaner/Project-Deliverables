@@ -1,0 +1,166 @@
+
+ Convention Concerning Safety And Health In Mines   
+     Filename: 1995-ConcerningSafetyHealthMines.EN.txt 
+ Source: http://www.ilo.org/ilolex/cgi-lex/convde.pl?C176     
+    ﻿Safety And Health In Mines Convention
+Source: http://www.ilo.org/ilolex/cgi-lex/convde.pl?C176
+The General Conference of the International Labour Organization,
+Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Eighty-Second Session on 6 June 1995, and
+Noting the relevant International Labour Conventions and Recommendations and, in particular, the Abolition of Forced Labour Convention, 1957; the Radiation Protection Convention and Recommendation, 1960; the Guarding of Machinery Convention and Recommendation, 1963; the Employment Injury Benefits Convention and Recommendation, 1964; the Minimum Age (Underground Work) Convention and Recommendation, 1965; the Medical Examination of Young Persons (Underground Work) Convention, 1965; the Working Environment (Air Pollution, Noise and Vibration) Convention and Recommendation, 1977; the Occupational Safety and Health Convention and Recommendation, 1981; the Occupational Health Services Convention and Recommendation, 1985; the Asbestos Convention and Recommendation, 1986; the Safety and Health in Construction Convention and Recommendation, 1988; the Chemicals Convention and Recommendation, 1990; and the Prevention of Major Industrial Accidents Convention and Recommendation, 1993, and
+Considering that workers have a need for, and a right to, information, training and genuine consultation on and participation in the preparation and implementation of safety and health measures concerning the hazards and risks they face in the mining industry, and
+Recognizing that it is desirable to prevent any fatalities, injuries or ill health affecting workers or members of the public, or damage to the environment arising from mining operations, and
+Having regard to the need for cooperation between the International Labour Organization, the World Health Organization, the International Atomic Energy Agency and other relevant institutions and noting the relevant instruments, codes of practice, codes and guidelines issued by these organizations, and
+Having decided upon the adoption of certain proposals with regard to safety and health in mines, which is the fourth item on the agenda of the session, and
+Having determined that these proposals shall take the form of an international Convention;
+adopts this twenty-second day of June of the year one thousand nine hundred and ninety-five the following Convention, which may be cited as the Safety and Health in Mines Convention, 1995:
+Part I. Definitions
+Article 1
+1. For the purpose of this Convention, the term mine covers -
+(a) surface or underground sites where the following activities, in particular, take place:
+(i) exploration for minerals, excluding oil and gas, that involves the mechanical disturbance of the ground;
+(ii) extraction of minerals, excluding oil and gas;
+(iii) preparation, including crushing, grinding, concentration or washing of the extracted material; and
+(b) all machinery, equipment, appliances, plant, buildings and civil engineering structures used in conjunction with the activities referred to in (a) above.
+2. For the purpose of this Convention, the term employer means any physical or legal person who employs one or more workers in a mine and, as the context requires, the operator, the principal contractor, contractor or subcontractor.
+Part II. Scope and means of application
+Article 2
+1. This Convention applies to all mines.
+2. After consultations with the most representative organizations of employers and workers concerned, the competent authority of a Member which ratifies the Convention:
+(a) may exclude certain categories of mines from the application of the Convention, or certain provisions thereof, if the overall protection afforded at these mines under national law and practice is not inferior to that which would result from the full application of the provisions of the Convention;
+(b) shall, in the case of exclusion of certain categories of mines pursuant to clause (a) above, make plans for progressively covering all mines.
+3. A Member which ratifies the Convention and avails itself of the possibility afforded in paragraph 2(a) above shall indicate, in its reports on the application of the Convention submitted under article 22 of the Constitution of the International Labour Organization, any particular category of mines thus excluded and the reasons for the exclusion.
+Article 3
+In the light of national conditions and practice and after consultations with the most representative organizations of employers and workers concerned, the Member shall formulate, carry out and periodically review a coherent policy on safety and health in mines, particularly with regard to the measures to give effect to the provisions of the Convention.
+Article 4
+1. The measures for ensuring application of the Convention shall be prescribed by national laws and regulations.
+2. Where appropriate, these national laws and regulations shall be supplemented by:
+(a) technical standards, guidelines or codes of practice; or
+(b) other means of application consistent with national practice,
+as identified by the competent authority.
+Article 5
+1. National laws and regulations pursuant to Article 4, paragraph 1, shall designate the competent authority that is to monitor and regulate the various aspects of safety and health in mines.
+2. Such national laws and regulations shall provide for:
+(a) the supervision of safety and health in mines;
+(b) the inspection of mines by inspectors designated for the purpose by the competent authority;
+(c) the procedures for reporting and investigating fatal and serious accidents, dangerous occurrences and mine disasters, each as defined by national laws or regulations;
+(d) the compilation and publication of statistics on accidents, occupational diseases and dangerous occurrences, each as defined by national laws or regulations;
+(e) the power of the competent authority to suspend or restrict mining activities on safety and health grounds, until the condition giving rise to the suspension or restriction has been corrected; and
+(f) the establishment of effective procedures to ensure the implementation of the rights of workers and their representatives to be consulted on matters and to participate in measures relating to safety and health at the workplace.
+3. Such national laws and regulations shall provide that the manufacture, storage, transport and use of explosives and initiating devices at the mine shall be carried out by or under the direct supervision of competent and authorized persons.
+4. Such national laws and regulations shall specify:
+(a) requirements relating to mine rescue, first aid and appropriate medical facilities;
+(b) an obligation to provide and maintain adequate self-rescue respiratory devices for workers in underground coal mines and, where necessary, in other underground mines;
+(c) protective measures to secure abandoned mine workings so as to eliminate or minimize risks to safety and health;
+(d) requirements for the safe storage, transportation and disposal of hazardous substances used in the mining process and waste produced at the mine; and
+(e) where appropriate, an obligation to supply sufficient sanitary conveniences and facilities to wash, change and eat, and to maintain them in hygienic condition.
+5. Such national laws and regulations shall provide that the employer in charge of the mine shall ensure that appropriate plans of workings are prepared before the start of operation and, in the event of any significant modification, that such plans are brought up to date periodically and kept available at the mine site.
+Part III. Preventive and protective measures at the mine
+A. Responsibilities of employers
+Article 6
+In taking preventive and protective measures under this Part of the Convention the employer shall assess the risk and deal with it in the following order of priority:
+(a) eliminate the risk;
+(b) control the risk at source;
+(c) minimize the risk by means that include the design of safe work systems; and
+(d) in so far as the risk remains, provide for the use of personal protective equipment,
+having regard to what is reasonable, practicable and feasible, and to good practice and the exercise of due diligence.
+Article 7
+Employers shall take all necessary measures to eliminate or minimize the risks to safety and health in mines under their control, and in particular:
+(a) ensure that the mine is designed, constructed and provided with electrical, mechanical and other equipment, including a communication system, to provide conditions for safe operation and a healthy working environment;
+(b) ensure that the mine is commissioned, operated, maintained and decommissioned in such a way that workers can perform the work assigned to them without endangering their safety and health or that of other persons;
+(c) take steps to maintain the stability of the ground in areas to which persons have access in the context of their work;
+(d) whenever practicable, provide, from every underground workplace, two exits, each of which is connected to separate means of egress to the surface;
+(e) ensure the monitoring, assessment and regular inspection of the working environment to identify the various hazards to which the workers may be exposed and to assess their level of exposure;
+(f) ensure adequate ventilation for all underground workings to which access is permitted;
+(g) in respect of zones susceptible to particular hazards, draw up and implement an operating plan and procedures to ensure a safe system of work and the protection of workers;
+(h) take measures and precautions appropriate to the nature of a mine operation to prevent, detect and combat the start and spread of fires and explosions; and
+(i) ensure that when there is serious danger to the safety and health of workers, operations are stopped and workers are evacuated to a safe location.
+Article 8
+The employer shall prepare an emergency response plan, specific to each mine, for reasonably foreseeable industrial and natural disasters.
+Article 9
+Where workers are exposed to physical, chemical or biological hazards the employer shall:
+(a) inform the workers, in a comprehensible manner, of the hazards associated with their work, the health risks involved and relevant preventive and protective measures;
+(b) take appropriate measures to eliminate or minimize the risks resulting from exposure to those hazards;
+(c) where adequate protection against risk of accident or injury to health including exposure to adverse conditions, cannot be ensured by other means, provide and maintain at no cost to the worker suitable protective equipment, clothing as necessary and other facilities defined by national laws or regulations; and
+(d) provide workers who have suffered from an injury or illness at the workplace with first aid, appropriate transportation from the workplace and access to appropriate medical facilities.
+Article 10
+The employer shall ensure that:
+(a) adequate training and retraining programmes and comprehensible instructions are provided for workers at no cost to them on safety and health matters as well as on the work assigned;
+(b) in accordance with national laws and regulations, adequate supervision and control are provided on each shift to secure the safe operation of the mine;
+(c) a system is established so that the names of all persons who are underground can be accurately known at any time, as well as their probable location;
+(d) all accidents and dangerous occurrences, as defined by national laws or regulations, are investigated and appropriate remedial action is taken; and
+(e) a report, as specified by national laws and regulations, is made to the competent authority on accidents and dangerous occurrences.
+Article 11
+On the basis of general principles of occupational health and in accordance with national laws and regulations, the employer shall ensure the provision of regular health surveillance of workers exposed to occupational health hazards specific to mining.
+Article 12
+Whenever two or more employers undertake activities at the same mine, the employer in charge of the mine shall coordinate the implementation of all measures concerning the safety and health of workers and shall be held primarily responsible for the safety of the operations. This shall not relieve individual employers from responsibility for the implementation of all measures concerning the safety and health of their workers.
+B. Rights and duties of workers and their representatives
+Article 13
+1. Under the national laws and regulations referred to in Article 4, workers shall have the following rights:
+(a) to report accidents, dangerous occurrences and hazards to the employer and to the competent authority;
+(b) to request and obtain, where there is cause for concern on safety and health grounds, inspections and investigations to be conducted by the employer and the competent authority;
+(c) to know and be informed of workplace hazards that may affect their safety or health;
+(d) to obtain information relevant to their safety or health, held by the employer or the competent authority;
+(e) to remove themselves from any location at the mine when circumstances arise which appear, with reasonable justification, to pose a serious danger to their safety or health; and
+(f) to collectively select safety and health representatives.
+2. The safety and health representatives referred to in paragraph 1(f) above shall, in accordance with national laws and regulations, have the following rights:
+(a) to represent workers on all aspects of workplace safety and health, including where applicable, the exercise of the rights provided in paragraph 1 above;
+(b) to:
+(i) participate in inspections and investigations conducted by the employer and by the competent authority at the workplace; and
+(ii) monitor and investigate safety and health matters;
+(c) to have recourse to advisers and independent experts;
+(d) to consult with the employer in a timely fashion on safety and health matters, including policies and procedures;
+(e) to consult with the competent authority; and
+(f) to receive, relevant to the area for which they have been selected, notice of accidents and dangerous occurrences.
+3. Procedures for the exercise of the rights referred to in paragraphs 1 and 2 above shall be specified:
+(a) by national laws and regulations; and
+(b) through consultations between employers and workers and their representatives.
+4. National laws and regulations shall ensure that the rights referred to in paragraphs 1 and 2 above can be exercised without discrimination or retaliation.
+Article 14
+Under national laws and regulations workers shall have the duty, in accordance with their training:
+(a) to comply with prescribed safety and health measures;
+(b) to take reasonable care for their own safety and health and that of other persons who may be affected by their acts or omissions at work, including the proper care and use of protective clothing, facilities and equipment placed at their disposal for this purpose;
+(c) to report forthwith to their immediate supervisor any situation which they believe could present a risk to their safety or health or that of other persons, and which they cannot properly deal with themselves; and
+(d) to cooperate with the employer to permit compliance with the duties and responsibilities placed on the employer pursuant to the Convention.
+C. Cooperation
+Article 15
+Measures shall be taken, in accordance with national laws and regulations, to encourage cooperation between employers and workers and their representatives to promote safety and health in mines.
+Part IV. Implementation
+Article 16
+The Member shall:
+(a) take all necessary measures, including the provision of appropriate penalties and corrective measures, to ensure the effective enforcement of the provisions of the Convention; and
+(b) provide appropriate inspection services to supervise the application of the measures to be taken in pursuance of the Convention and provide these services with the resources necessary for the accomplishment of their tasks.
+Part V. Final provisions
+Article 17
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.
+Article 18
+1. This Convention shall be binding only upon those Members of the International Labour Organization whose ratifications have been registered with the Director-General of the International Labour Office.
+2. It shall come into force 12 months after the date on which the ratifications of two Members have been registered with the Director-General.
+3. Thereafter, this Convention shall come into force for any Member 12 months after the date on which its ratification has been registered.
+Article 19
+1. A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.
+2. Each Member which has ratified this Convention and which does not, within the year following the expiration of the period of ten years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period of ten years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.
+Article 20
+1. The Director-General of the International Labour Office shall notify all Members of the International Labour Organization of the registration of all ratifications and denunciations communicated by the Members of the Organization.
+2. When notifying the Members of the Organization of the registration of the second ratification, the Director-General shall draw the attention of the Members of the Organization to the date upon which the Convention shall come into force.
+Article 21
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations, for registration in accordance with article 102 of the Charter of the United Nations, full particulars of all ratifications and acts of denunciation registered by the Director-General in accordance with the provisions of the preceding Articles.
+Article 22
+At such times as it may consider necessary, the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.
+Article 23
+1. Should the Conference adopt a new Convention revising this Convention in whole or in part, then, unless the new Convention otherwise provides -
+(a) the ratification by a Member of the new revising Convention shall ipso jure involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 19 above, if and when the new revising Convention shall have come into force;
+(b) as from the date when the new revising Convention comes into force, this Convention shall cease to be open to ratification by the Members.
+2. This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.
+Article 24
+The English and French versions of the text of this Convention are equally authoritative. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

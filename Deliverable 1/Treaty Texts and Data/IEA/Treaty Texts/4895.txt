@@ -1,0 +1,67 @@
+
+ Amendments to Annex I to the Protocol To Abate Acidification, Eutrophication And Ground-Level Ozone To The Convention On Long-Range Transboundary Air Pollution   
+     Filename: 2012-Amendment-1999-ProtocolAcidificationEutrophication-1979-EuropeanTransboundaryAirPollution.EN.txt 
+ Source: http://www.unece.org/fileadmin/DAM/env/documents/2012/EB/Decision_2012_1.pdf     
+    ﻿Amendment of annex I to the 1999 Protocol to Abate Acidification, Eutrophication and Ground-Level Ozone (Decision 2012/1)
+Source: http://www.unece.org/fileadmin/DAM/env/documents/2012/EB/Decision_2012_1..., downloaded 20121216
+The Parties to the 1999 Protocol to Abate Acidification, Eutrophication and Ground-level Ozone, meeting within the thirtieth session of the Executive Body,
+Decide to amend annex I to the 1999 Protocol to Abate Acidification, Eutrophication and Ground-level Ozone (Gothenburg Protocol) to the Convention on Long-range Transboundary Air Pollution as follows:
+Article 1 Amendment of annex I
+1. In paragraph 1:
+(a) The words "Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded" are replaced by the words "Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends";
+(b) The words "do not" at the end of the fourth sentence are replaced by the words "are loads that - in the long term - will not cause adverse effects to the structure and functions of ecosystems";
+(c) The words ", such as uptake by vegetation" are added at the end of the fifth sentence;
+(d) The words ", and approved by the Executive Body," are added after the word "Parties" in the final sentence; and
+(e) The word "ceilings" in the final sentence is replaced by the words "reduction commitments".
+2. For paragraph 2 the following text is substituted:
+2. In Canada, critical acid deposition loads and geographical areas where they are exceeded are determined and mapped for lakes and upland forest ecosystems using scientific methodologies and criteria similar to those in the Convention's Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends. Critical load values for total sulphur plus nitrogen and exceedance levels have been mapped across Canada (south of 60° N latitude) and are expressed in acid equivalents per hectare per year (eq/ha/yr) (2004 Canadian Acid Deposition Science Assessment; 2008 Canadian Council of Ministers of the Environment). The province of Alberta has also adapted the generic critical load classification systems used for soils in Europe for potential acidity to define soils as highly sensitive, moderately sensitive and not sensitive to acidic deposition. Critical, target and monitoring loads are defined for each soil class and management actions are prescribed as per the Alberta Acid Deposition Management Framework, as appropriate.
+3. For paragraph 3, the following text is substituted:
+3. These loads and effects are used in integrated assessment activities, including providing data for international efforts to assess ecosystem response to loading of acidifying compounds, and provide guidance for setting the emission reduction commitments for Canada in annex II.
+4. For paragraph 4, the following text is substituted:
+4. For the United States of America, the effects of acidification are evaluated through an assessment of the sensitivity and response of ecosystems to the loading of acidifying compounds, using peer-reviewed scientific methodologies and criteria, and accounting for the uncertainties associated with nitrogen cycling processes within ecosystems. Adverse impacts on vegetation and ecosystems are then considered in establishing secondary national ambient air quality standards for NOx and SO2. Integrated assessment modelling and the air quality standards are used in providing guidance for setting the emission reduction commitments for the United States of America in annex II.
+5. In the heading before paragraph 5, "A." is inserted before the words "For Parties within the geographical scope of EMEP".
+6. In paragraph 5:
+(a) The words "Manual on methodologies and criteria for mapping critical levels/loads and geographical areas where they are exceeded" are replaced by the words "Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends";
+(b) The words "an ecosystem can tolerate in the long term without being damaged" are replaced by the words "that - in the long term - will not cause adverse effects to the structure and functions of ecosystems"; and
+(c) The word "ceilings" in the final sentence is replaced by the words "reduction commitments".
+7. A new Part B and paragraph 5 bis are added as follows:
+B. For Parties in North America
+5 bis. For the United States of America, the effects of nutrient nitrogen (eutrophication) for ecosystems are evaluated through an assessment of the sensitivity and response of ecosystems to the loading of nitrogen compounds, using peer-reviewed scientific methodologies and criteria, and accounting for uncertainties associated with nitrogen cycling within ecosystems. Adverse impacts on vegetation and ecosystems are then considered in establishing secondary national ambient air quality standards for NOx. Integrated assessment modelling and the air quality standards are used in providing guidance for setting the emission reduction commitments for the United States of America in annex II.
+8. For paragraphs 6, 7 and 8 the following text is substituted:
+6. Critical levels (as defined in article 1) of ozone are determined to protect plants in accordance with the Convention's Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends. They are expressed in terms of the cumulative value of either stomatal fluxes or concentrations at the top of the canopy. Critical levels are preferably based on stomatal fluxes, as these are considered more biologically relevant since they take into account the modifying effect of climate, soil and plant factors on the uptake of ozone by vegetation.
+7. Critical levels of ozone have been derived for a number of species of crops, (semi-) natural vegetation and forest trees. The critical levels selected are related to the most important environmental effects, e.g., loss of security of food supplies, loss of carbon storage in the living biomass of trees and additional adverse effects on forest and (semi-)natural ecosystems.
+8. The critical level of ozone for human health is determined in accordance with the World Health Organization (WHO) air quality guidelines to protect human health from a wide range of health effects, including increased risk of premature death and morbidity.
+9. For paragraph 9 the following text is substituted:
+9. For Canada, it is understood that there is no lower threshold for human health effects from ozone. That is, adverse effects have been observed at all ozone concentrations experienced in Canada. The Canadian Ambient Air Quality Standard for ozone was set to aid management efforts nationally, and by jurisdictions, to significantly reduce the effects on human health and the environment.
+10. In paragraph 10:
+(a) The words "of ozone are determined" are replaced by the words "are established in the form of primary and secondary national ambient air quality standards for ozone in order";
+(b) The comma after the word "safety" is replaced by the word "and";
+(c) The words ", including vegetation," are inserted after the word "welfare";
+(d) The words ", and are used to establish a national ambient air quality standard" at the end of the first sentence are deleted;
+(e) The word "standard" in the last sentence is replaced by the word "standards"; and
+(f) The words "ceilings and/or reductions" in the final sentence are replaced by the words "reduction commitments".
+11. New sections IV, V and VI are added as follows:
+IV. Critical levels of particulate matter
+A. For Parties in the geographical scope of EMEP
+11. The critical level of PM for human health is determined in accordance with the WHO air quality guidelines as the mass concentration of PM2.5. Attainment of the guideline level is expected to effectively reduce health risks. The long-term PM2.5 concentration, expressed as an annual average, is proportional to the risk to health, including reduction of life expectancy. This indicator is used in integrated modelling to provide guidance for emission reduction. In addition to the annual guideline level, a short-term (24-hour mean) guideline level is defined to protect against peaks of pollution which have significant impact on morbidity or mortality.
+B. For Parties in North America
+12. For Canada, it is understood that there is no lower threshold for human health effects from PM. That is, adverse effects have been observed at all concentrations of PM experienced in Canada. The Canadian national standard for PM was set to aid management efforts nationally, and by jurisdictions, to significantly reduce the effects on human health and the environment.
+13. For the United States of America, critical levels are established in the form of primary and secondary national ambient air quality standards for PM in order to protect public health with an adequate margin of safety, and to protect public welfare (including visibility and man-made materials) from any known or expected
+adverse effects. Integrated assessment modelling and the air quality standards are used in providing guidance for setting the emission reduction commitments for the United States of America in annex II.
+V. Critical levels of ammonia
+14. Critical levels (as defined in article 1) of ammonia are determined to protect plants in accordance with the Convention's Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends.
+VI. Acceptable levels of air pollutants to protect materials
+15. Acceptable levels of acidifying pollutants, ozone and PM are determined to protect materials and cultural heritage in accordance with the Convention's Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends. The acceptable levels of pollutants are the maximum exposure a material can tolerate in the long term without resulting in damage above specified target corrosion rates. This damage, which can be calculated by available dose-response functions, is the result of several pollutants acting together in different combinations depending on the material: acidity (sulphur dioxide (SO2), nitric acid (HNO3)), ozone and PM.
+Article 2 Entry Into Force
+12. In accordance with article 13, paragraph 4, of the Protocol, this amendment shall become effective for those Parties which have not submitted a notification to the Depositary in accordance with article 13, paragraph 5, of the Protocol on the expiry of ninety days from the date of its communication to all Parties by the Executive Secretary of the Commission, provided that at least sixteen Parties have not submitted such a notification. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

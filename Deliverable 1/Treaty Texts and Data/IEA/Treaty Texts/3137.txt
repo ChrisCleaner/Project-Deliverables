@@ -1,0 +1,846 @@
+
+ Amendments To The IBC Code Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1992-AmendmentsIBC-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=6975/55(33).pdf     
+    ﻿Amendments to the International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk (IBC Code)
+Source: AUSTRALIAN TREATY SERIES 1994 No. 42 (electronic)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the function of the Committee conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and Article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confers upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+RECOGNIZING that when liquid chemical wastes are transported by sea they should be carried in accordance with the relevant international recommendations or conventions,
+NOTING ALSO that it is highly desirable for the provisions of the IBC Code which are mandatory under MARPOL 73/78 and the 1974 SOLAS Convention to remain identical under both conventions,
+HAVING CONSIDERED, at its thirty-third session, the amendments to the Code proposed by the Sub-Committee on Bulk Chemicals at its twenty-first session and circulated in accordance with Article 16(2)(a) of the 1973 Convention,
+1. ADOPTS in accordance with Article 16(2)(d) of the 1973 Convention amendments to the IBC Code, the text of which is set out in the Annex to the present Resolution;
+2. DETERMINES, in accordance with Article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 January 1994, or on the date determined by the MSC on which corresponding amendments for the purposes of the 1974 SOLAS Convention are deemed to have been accepted in accordance with Article VIII(b)(vi)(2) thereof, whichever occurs later, unless prior to that date, not less than one third of the Parties or the Parties, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments;
+3. INVITES the Maritime Safety Committee to consider the adoption of corresponding amendments to the IBC Code (Resolution MSC.4(48), as amended), in accordance with the provisions of Article VIII of the 1974 SOLAS Convention;
+4. INVITES the Parties to note that in accordance with Article 16(2)(g)(ii) of the 1973 Convention the amendments shall enter into force six months after their acceptance in accordance with paragraph 2 above;
+5. REQUESTS the Secretary-General, in conformity with Article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1978 Protocol certified copies of the present Resolution and the text of the amendments contained in the Annex;
+6. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the Resolution and its Annex.
+ANNEX
+AMENDMENTS TO THE IBC CODE
+The last sentence of 1.1.1 is replaced by the following:
+Products that have been reviewed and determined not to present safety and pollution hazards to such an extent as to warrant the application of the Code are found in Chapter 18.
+The following sentence is added to the existing text of 1.1.3:
+For the evaluation of the pollution hazard of such a product and assignment of its pollution category, the procedure specified in Regulation 3(4) of Annex II of MARPOL 73/78 must be followed.
+The existing text of Chapter 8 is replaced by the following:
+CHAPTER 8 - CARGO TANK VENTING AND GAS-FREEING ARRANGEMENTS
+8.1 Application
+8.1.1 This Chapter applies to ships constructed on or after 1 January 1994.
+8.1.2 Ships constructed before 1 January 1994 should comply with the requirements of Chapter 8 of this Code which were in force prior to the said date.
+8.1.3 For the purpose of this Regulation, the term "ship constructed" is as defined in Regulation II-1/1.3.1 of the 1974 SOLAS Convention as amended.
+8.1.4 Ships constructed on or after 1 July 1986 but before 1 January 1994 which fully comply with the requirements of the Code applicable at that time may be regarded as complying with the requirements of Regulation II-2/59 of the 1974 SOLAS Convention.
+8.1.5 For ships to which the Code applies, the requirements of this Chapter should apply in lieu of Regulation II-2/59.1 and 59.2 of the 1974 SOLAS Convention, as amended.
+8.2 Cargo tank venting
+8.2.1 All cargo tanks should be provided with a venting system appropriate to the cargo being carried and these systems should be independent of the air pipes and venting systems of all other compartments of the ship. Tank venting systems should be designed so as to minimize the possibility of cargo vapour accumulating about the decks, entering accommodation, service and machinery spaces and control stations and, in the case of flammable vapours, entering or collecting in spaces or areas containing sources of ignition. Tank venting systems should be arranged to prevent entrance of water into the cargo tanks and at the same time, vent outlets should direct the vapour discharge upwards in the form of unimpeded jets.
+8.2.2 The venting systems should be connected to the top of each cargo tank and as far as practicable the cargo vent lines should be self-draining back to the cargo tanks under all normal operational conditions of list and trim. Where it is necessary to drain venting systems above the level of any pressure/vacuum valve, capped or plugged drain cocks should be provided.
+8.2.3 Provision should be made to ensure that the liquid head in any tank does not exceed the design head of the tank. Suitable high-level alarms, overflow control systems or spill valves, together with gauging and tank filling procedures may be accepted for this purpose. Where the means of limiting cargo tank overpressure includes an automatic closing valve, the valve should comply with the appropriate provisions of 15.19.
+8.2.4 Tank venting systems should be designed and operated so as to ensure that neither pressure nor vacuum created in the cargo tanks during loading or unloading exceeds tank design parameters. The main factors to be considered in the sizing of a tank venting system are as follows:
+.1 design loading and unloading rate;
+.2 gas evolution during loading: this should be taken account of by multiplying the maximum loading rate by a factor of at least 1.25;
+.3 density of the cargo vapour mixture;
+.4 pressure loss in vent piping and across valves and fittings;
+.5 pressure/vacuum settings of relief devices.
+8.2.5 Tank vent piping connected to cargo tanks of corrosion resistant material, or to tanks which are lined or coated to handle special cargoes as required by the Code, should be similarly lined or coated or constructed of corrosion-resistant material.
+8.2.6 The master should be provided with the maximum permissible loading and unloading rates for each tank or group of tanks consistent with design of the venting systems.
+8.3 Types of tank venting systems
+8.3.1 An open tank venting system is a system which offers no restriction except for friction losses to the free flow of cargo vapours to and from the cargo tanks during normal operations. An open venting system may consist of individual vents from each tank, or such individual vents may be combined into a common header or headers, with due regard to cargo segregation. In no case should shutoff valves be fitted either to the individual vents or to the header.
+8.3.2 A controlled tank venting system is a system in which pressure and vacuum relief valves or pressure/vacuum valves are fitted to each tank to limit the pressure or vacuum in the tank. A controlled venting system may consist of individual vents from each tank or such individual vents on the pressure side only as may be combined into a common header or headers with due regard to cargo segregation. In no case should shutoff valves be fitted either above or below pressure or vacuum relief valves or pressure/vacuum valves. Provision may be made for bypassing a pressure or vacuum valve or pressure/vacuum valve under certain operating conditions provided that the requirement of 8.3.5 is maintained and that there is suitable indication to show whether or not the valve is bypassed.
+8.3.3 The position of vent outlets of a controlled tank venting system should be arranged:
+.1 at a height of not less than 6 m above the weather deck or above a raised walkway if fitted within 4 m of the raised walkway;
+.2 at a distance of at least 10 m measured horizontally from the nearest air intake or opening to accommodation, service and machinery spaces and ignition sources.
+8.3.4 The vent outlet height referred to in 8.3.3.1 may be reduced to 3 m above the deck or a raised walkway, as applicable, provided that high velocity venting valves of a type approved by the Administration directing the vapour/air mixture upwards in an unimpeded jet with an exit velocity of at least 30 m/s are fitted.
+8.3.5 Controlled tank venting systems fitted to tanks to be used for cargoes having a flashpoint not exceeding 60°C (closed cup test) should be provided with devices to prevent the passage of flame into the cargo tanks. The design, testing and locating of the devices should comply with the requirements of the Administration which should contain at least the standards adopted by the organization.[2]
+8.3.6 In designing venting systems and in the selection of devices to prevent the passage of flame for incorporation into the tank venting system, due attention should be paid to the possibility of the blockage of these systems and fittings by, for example, the freezing of cargo vapour, polymer build up, atmospheric dust or icing up in adverse weather conditions. In this context it should be noted that flame arresters and flame screens are more susceptible to blockage. Provisions should be made such that the system and fittings may be inspected, operationally checked, cleaned or renewed as applicable.
+8.3.7 Reference in 8.3.1 and 8.3.2 to the use of shutoff valves in the venting lines should be interpreted to extend to all other means of stoppage including spectacle blanks and blank flanges.
+8.4 Venting requirements for individual products
+Venting requirements for individual products are shown in column "g" and additional requirements in column "o" in the table of Chapter 17.
+8.5 Cargo tank gas-freeing[3]
+8.5.1 The arrangements for gas-freeing cargo tanks used for cargoes other than those for which open venting is permitted should be such as to minimize the hazards due to the dispersal of flammable or toxic vapours in the atmosphere and to flammable or toxic vapour mixtures in a cargo tank. Accordingly, gas-freeing operations should be carried out such that vapour is initially discharged:
+.1 through the vent outlets specified in 8.3.3 and 8.3.4; or
+.2 through outlets at least 2 m above the cargo tank deck level with a vertical efflux velocity of at least 30 m/s maintained during the gas-freeing operation; or
+.3 through outlets at least 2 m above the cargo tank deck level with a vertical efflux velocity of at least 20 m/s which are protected by suitable devices to prevent the passage of flame.
+When the flammable vapour concentration at the outlets has been reduced to 30% of the lower flammable limit and in the case of a toxic product the vapour concentration does not present a significant health hazard, gas-freeing may thereafter be continued at cargo tank deck level.
+8.5.2 The outlets referred to in 8.5.1.2 and 8.5.1.3 may be fixed or portable pipes.
+8.5.3 In designing a gas-freeing system in conformity with 8.5.1 particularly in order to achieve the required exit velocities of 8.5.1.2 and 8.5.1.3, due consideration should be given to the following:
+.1 materials of construction of system;
+.2 time to gas-free;
+.3 flow characteristics of fans to be used;
+.4 the pressure losses created by ducting, piping, cargo tank inlets and outlets;
+.5 the pressure achievable in the fan driving medium (e.g. water or compressed air);
+.6 the densities of the cargo vapour/air mixtures for the range of cargoes to be carried.
+In the existing text of 11.1.2 the words "Caustic potash solution, phosphoric acid or sodium hydroxide solution" are replaced by the following words:
+"products which are non-flammable (entry NF in column "i" of the table of minimum requirements)".
+New paragraph 11.1.3 is added as follows:
+For ships engaged solely in the carriage of products with flashpoint above 60°C (entry "yes" in column "i" of the table of minimum requirements) requirements of Chapter II-2 of the 1983 SOLAS amendments may apply as specified in Regulation II-2/55.4 in lieu of the provisions of this Chapter.
+At the end of the existing text of the introductory paragraph of Chapter 12 - Mechanical ventilation in the cargo area the following sentence is added:
+However, for products addressed under 11.1.2 and 11.1.3, except acids and products for which paragraph 15.17 apply, Regulation II-2/59.3 of the 1983 SOLAS amendments may apply in lieu of the provisions of this Chapter.
+The existing text of 14.2.8.1 is replaced by the following:
+filter type respiratory protection is unacceptable;
+The existing text of 15.13 is amended to read as follows:
+15.13 Cargoes protected by additives
+15.13.1 Certain cargoes with a reference in column "o" in the table of Chapter 17 by the nature of their chemical make-up tend, under certain conditions of temperature, exposure to air or contact with a catalyst, to undergo polymerization, decomposition, oxidation or other chemical changes. Mitigation of this tendency is carried out by introducing small amounts of chemical additives into the liquid cargo or by controlling the cargo tank environment.
+15.13.2 No change.
+15.13.3 Care should be taken to ensure that these cargoes are sufficiently protected to prevent deleterious chemical change at all times during the voyage. Ships carrying such cargoes should be provided with a certificate of protection from the manufacturer and kept during the voyage specifying:
+.1 the name and amount of additive present;
+.2 whether the additive is oxygen-dependent;
+.3 date additive was put in the product and duration of effectiveness;
+.4 any temperature limitations qualifying the additive's effective lifetime; and
+.5 the action to be taken should the length of voyage exceed the effective lifetime of the additive.
+15.13.4 Ships using the exclusion of air as the method of preventing oxidation of the cargo should comply with 9.1.3.
+15.13.5 A product containing an oxygen-dependent additive should be carried without inertion (in tanks of a size not greater than 3,000 m3). Such cargoes should not be carried in a tank requiring inertion under the requirements of SOLAS Chapter II-2.
+15.13.6 As existing 15.13.5.
+15.13.7 As existing 15.13.6.
+The existing text of 15.15 is replaced by the word:
+"Deleted"
+In the existing text of 15.8.29 the following words are inserted after the second sentence:
+Remote manual operation should be arranged such that remote starting of pumps supplying the water spray system and remote operation of any normally closed valves in the system can be carried out from a suitable location outside the cargo area, adjacent to the accommodation spaces and readily accessible and operable in the event of fire in the areas protected.
+A new 15.21 is added as follows:
+15.21 Temperature sensors
+Temperature sensors should be used to monitor the cargo pump temperature to detect overheating due to pump failures.
+The existing text of Chapter 17 is replaced by the following:
+CHAPTER 17 - SUMMARY OF MINIMUM REQUIREMENTS
+Mixtures of noxious liquid substances presenting pollution hazards only and which are provisionally assessed under Regulation 3(4) of Annex II of MARPOL 73/78, may be carried under the requirements of the Code applicable to the appropriate position of the entry in this Chapter for noxious liquids not otherwise specified.
+EXPLANATORY NOTES
+Product name
+(column a) [TAB]The product names are not identical with the names given in previous issues of the Code, or the BCH Code (for explanation see index of chemicals).
+UN number
+(column b) [TAB]The number relating to each product shown in the recommendations proposed by the United Nations Committee of Experts on the Transport of Dangerous Goods. UN numbers, where available, are given for information only.
+Pollution category
+(column c) [TAB]The letter A, B, C or D means the pollution category assigned to each product under Annex II of MARPOL 73/78. "III" means the product was evaluated and found to fall outside the categories A, B, C or D.
+Pollution category in brackets indicates that the product is provisionally categorized and that further data are necessary to complete the evaluation of their pollution hazards. Until the hazard evaluation is completed, the pollution category assigned is used.
+Hazards
+(column d) [TAB]S means that the product is included in the Code because of its safety hazards;
+P means that the product is included in the Code because of its pollution hazards; and
+S/P means that the product is included in the Code because of both its safety and pollution hazards.
+Ship type
+(column e) [TAB]1 = ship type 1 (2.1.2)
+2 = ship type 2 (2.1.2)
+3 = ship type 3 (2.1.2)
+Tank type
+(column f) [TAB]1 = independent tank (4.1.1)
+2 = integral tank (4.1.2)
+G = gravity tank (4.1.3)
+P = pressure tank (4.1.4)
+Tank vents
+(column g) [TAB]Open: open venting
+Cont: controlled venting
+SR: safety relief valve
+Tank environmental control*
+(column h) [TAB]Inert: inerting (9.1.2.1)
+Pad: liquid or gas (9.1.2.2)
+Dry: drying (9.1.2.3)
+Vent: natural or forced (9.1.2.4)
+Electrical equipment
+(column i) [TAB]T1 to T6: temperature classes**
+IIA, IIB or IIC: apparatus groups**
+NF: nonflammable product (10.1.6)
+Yes: flashpoint exceeding 60°C (closed cup test) (10.1.6)
+No: flashpoint not exceeding 60°C (closed cup test) (10.1.6)
+Gauging
+(column j) [TAB]O: open gauging (13.1.1.1)
+R: restricted gauging (13.1.1.2)
+C: closed gauging (13.1.1.3)
+I: indirect gauging (13.1.1.3)
+Vapour detection*
+(column k) [TAB]F: flammable vapours
+T: toxic vapours
+Fire protection
+(column 1) [TAB]A: Alcohol-resistant foam or multipurpose foam
+B: regular foam, encompasses all foams that are not of an alcohol-resistant type, including fluoro-protein and aqueous-film-forming foam (AFFF)
+C: water-spray
+D: dry chemical***
+No: no special requirements under this Code
+Materials of construction
+(column m) [TAB]N: See 6.2.2
+Z: See 6.2.3
+Y: See 6.2.4
+A blank indicates no special guidance given for materials of construction.
+Respiratory and eye protection
+(column n) [TAB]E: See 14.2.8
+* "No" indicates nil requirements.
+** Temperature classes and apparatus groups as defined in International Electrotechnical Commission Publication 79 (part 1, appendix D, parts 4, 8 and 12. A blank indicates that data are currently not available.)
+*** Dry chemical powder system when used way require an additional water system for boundary cooling. This is normally provided in sufficient quantities by the standard fire main system required by Regulation II-2/4 of the 1974 SOLAS Convention as amended.
+[a][TAB][b][TAB]c[TAB]d[TAB]e[TAB]f[TAB]g[TAB]h[TAB]i[TAB]i[TAB]i[TAB]j[TAB]k[TAB]l[TAB]m[TAB]n[TAB]o
+Product name [TAB]UN number [TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB]dash[TAB]dash3[TAB][TAB][TAB][TAB]
+Acetic acid [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]No[TAB]R[TAB]F[TAB]A[TAB]Y1,Z[TAB]E[TAB]15.11.2 to 15.11.4, 15.11.6 to 15.11.8, 15.19.6
+Acetic anhydride [TAB]1715[TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]Y1[TAB]E[TAB]15.11.2 to 15.11.4, 15.11.6 to 15.11.8, 15.19.6
+Acetone cyanohydrin [TAB]1541[TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]C[TAB]T[TAB]A[TAB]Y1[TAB]E[TAB]15.1, 15.12, 15.17 to 15.19, 16.6
+Acetonitrile[TAB]1648[TAB]III[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.12, 15.19.6
+Acrylamide solution (50% or less) [TAB]2074[TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]No[TAB]No[TAB][TAB]No[TAB]15.12.3, 15.13, 15.16.1, 15.19.6, 16.6.1
+Acrylic acid [TAB]2218[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]Y1[TAB]No[TAB]15.13, 15.19.6, 16.6.1
+Acrylonitrile[TAB]1093[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIB[TAB]No[TAB]C[TAB]F-T[TAB]A[TAB]N3,Z[TAB]E[TAB]15.12, 15.13, 15.17, 15.19
+Adiponitrile[TAB]2205[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIB[TAB]Yes[TAB]R[TAB]T[TAB]A[TAB][TAB]No
+Alachlor technical (90% or more) [TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,C[TAB]Y1[TAB]No[TAB]15.19.6, 16.2.6, 16.2.9, 16A.2.2
+Alcohol (C12-C15) poly(1-6) ethoxylates [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Alcohol (C12-C15) poly(7-19) ethoxylates [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Alcohol (C12-C15) poly(20+) ethoxylates [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Alcohol (C6-C17) (secondary) poly(3-6) ethoxylates [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Alcohol (C6-C17) (secondary) poly(7-12) ethoxylates [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9
+Alkane (C14-C17) sulfonic acid, sodium salt 60-65% in water [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]16.2.6
+Alkanes (C6-C9) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Alkaryl polyethers (C9-C20) [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Alkyl acrylate-vinyl pyridine copolymer in toluene [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Alkylbenzene, alkylindane, alkylindene mixture (each C12-C17) [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Alkyl (C3-C4) benzenes [TAB][TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Alkyl (C5-C8) benzenes [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Alkylbenzene sulphonic acid [TAB]2584, 2586 [TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.7, 16.2.8
+Alkylbenzene sulphonic acid, sodium salt solution [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]16.2.7 to 16.2.9
+Alkyl (C7-C9) nitrates [TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.19.6, 15.20, 16.6
+Allyl alcohol [TAB]1098[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIB[TAB]No[TAB]C[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.12, 15.17, 15.19
+Allyl chloride [TAB]1100[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.12, 15.17, 15.19
+Aluminium chloride (30% or less) /Hydrochloric acid (20% or less) solution [TAB][TAB]D[TAB]S[TAB]3[TAB]1G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]E (f) [TAB]15.11
+2-(2-Aminoethoxy) ethanol [TAB]3055[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,D[TAB]N2[TAB]No[TAB]15.19.6
+Aminoethyl ethanolamine [TAB][TAB](D)[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N1[TAB]No
+N-Aminoethylpiperazine[TAB]2815[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A[TAB]N2[TAB]No[TAB]15.19.6
+2-Amino-2-methyl-1-propanol (90% or less) [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N1[TAB]No
+Ammonia aqueous (28% or less) [TAB]2672 (m) [TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]A,B,C[TAB]N4[TAB]E (a)
+Ammonium nitrate solution (93% or less) [TAB][TAB]D[TAB]S[TAB]2[TAB]1G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]Y4[TAB]No[TAB]15.2, 15.11.4, 15.11.6, 15.18, 15.19.6
+Ammonium sulphide solution (45% or less) [TAB]2683[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A[TAB]N1[TAB]E[TAB]15.12, 15.16.1, 15.17, 15.19, 16.6
+Ammonium thiocyanate (25% or less) /Ammonium thiosulphate (20% or less) solution [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No
+Ammonium thiosulphate solution (60% or less) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]16.2.9
+Amyl acetate (all isomers) [TAB]1104[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Aniline[TAB]1547[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]C[TAB]T[TAB]A[TAB][TAB]No[TAB]15.12, 15.17, 15.19
+Aviation alkylates (C8 paraffins and iso-paraffins BPT 95 - 120°C) (bb) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]B[TAB][TAB]No[TAB]15.19.6
+Benzene and mixtures having 10% benzene or more* [TAB]1114 (t) [TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]A,B[TAB][TAB]No[TAB]15.12.1, 15.17, 15.19.6, 16.2.9
+Benzene sulphonyl chloride [TAB]2225[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A,D[TAB]N1[TAB]No[TAB]15.19.6
+Benzyl acetate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Benzyl alcohol [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Benzyl chloride [TAB]1738[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]C[TAB]T[TAB]A,B[TAB][TAB]E[TAB]15.12, 15.13, 15.17, 15.19
+Butene oligomer [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Butyl acetate (all isomers) [TAB]1123[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Butyl acrylate (all isomers) [TAB]2348[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+Butylamine (all isomers) [TAB]1125, 1214 [TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]N1[TAB]E[TAB]15.12, 15.17, 15.19.6
+Butylbenzene (all isomers) [TAB]2709[TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Butyl benzyl phthalate [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Butyl butyrate (all isomers) [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Butyl/Decyl/Cetyl /Eicosyl methacrylate mixture [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]No[TAB]A,D[TAB][TAB]No[TAB]15.13, 16.6.1, 16.6.2
+1,2-Butylene oxide [TAB]3022[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]Inert[TAB]T2[TAB]IIB[TAB]No[TAB]R[TAB]F[TAB]A,C[TAB]Z[TAB]No[TAB]15.8.1 to .7, .12, .13, .16 to .19, .21, .25, .27, .29, 15.19.6
+n-Butyl ether [TAB]1149[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]Inert[TAB]T4[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.4.6, 15.12, 15.19.6
+Butyl methacrylate [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,D[TAB][TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+n-Butyl propionate [TAB]1914[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Butyraldehyde (all isomers) [TAB]1129[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T3[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.16.1, 15.19.6
+Butyric acid [TAB]2820[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]No[TAB]A[TAB]Y1[TAB]No[TAB]15.11.2 to 15.11.4, 15.11.6 to 15.11.8
+Calcium alkyl (C9) phenol sulphide /Polyolefin phosphorosulphide mixture [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+Calcium hypochlorite solution (15% or less) [TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]No[TAB]No[TAB]N5[TAB]No[TAB]15.16.1
+Calcium hypochlorite solution (more than 15%) [TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]No[TAB]No[TAB]N5[TAB]No[TAB]15.16.1, 15.19.6
+Calcium long chain alkyl salicylate (C13+) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]16.2.7, 16.2.8
+Camphor oil [TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIA[TAB]No[TAB]R[TAB]F[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+Carbolic oil [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.12, 15.19
+Carbon disulphide [TAB]1131[TAB]B[TAB]S/P[TAB]2[TAB]1G[TAB]Cont.[TAB]Pad+ Inert [TAB]T6[TAB]IIC[TAB]No[TAB]C[TAB]F-T[TAB]C[TAB][TAB]E[TAB]15.3, 15.12, 15.19
+Carbon tetrachloride [TAB]1846[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]T[TAB]No[TAB]Z[TAB]E[TAB]15.12, 15.17, 15.19.6
+Cashew nut shell oil (untreated) [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A,B[TAB][TAB]No
+Cetyl/Eicosyl methacrylate mixture [TAB][TAB]III[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,D[TAB][TAB]No[TAB]15.13, 16.6.1, 16.6.2
+Chloroacetic acid (80% or less) [TAB]1750[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]No[TAB]No[TAB]Y5[TAB]No[TAB]15.11.2, 15.11.4, 15.11.6 to 15.11.8, 15.12.3, 15.19, 16.2.9
+Chlorinated paraffins (C10-C13) [TAB][TAB]A[TAB]P[TAB]1[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19
+Chlorobenzene[TAB]1134[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+Chloroform[TAB]1888[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]E[TAB]15.12, 15.19.6
+Chlorohydrins (crude) [TAB][TAB](D)[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.12, 15.19
+4-Chloro-2-methylphenoxyacetic acid, dimethylamine salt solution [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N1[TAB]No
+o-Chloronitrobenzene[TAB]1578[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A,B,D[TAB][TAB]No[TAB]15.12, 15.17 to 15.19, 16.2.6, 16.2.9, 16A.2.2
+2- or 3-Chloropropionic acid [TAB]2511 (n) [TAB](C)[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]Y1[TAB]No[TAB]15.11.2 to 15.11.4, 15.11.6 to 15.11.8, 16.2.7 to 16.2.9
+Chlorosulphonic acid [TAB]1754[TAB]C[TAB]S/P[TAB]1[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]T[TAB]No[TAB][TAB]E[TAB]15.11.2 to 15.11.8, 15.12, 15.16.2, 15.19
+m-Chlorotoluene[TAB]2238[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+o-Chlorotoluene[TAB]2238[TAB]A[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+p-Chlorotoluene[TAB]2238[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB][TAB]No[TAB]15.19.6, 16.2.9
+Chlorotoluenes (mixed isomers) [TAB]2238[TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+Coal tar [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]R[TAB]No[TAB]B,D[TAB][TAB]No[TAB]15.19.6
+Coal tar naphtha solvent [TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T3[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,D[TAB][TAB]No[TAB]15.19.6
+Coal tar pitch (molten) [TAB][TAB]D[TAB]S[TAB]3[TAB]1G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]R[TAB]No[TAB]B,D[TAB][TAB]No[TAB]15.19.6
+Cobalt naphthenate in solvent naphtha [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,D[TAB][TAB]No[TAB]15.19.6
+Coconut oil fatty acid [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.7 to 16.2.9
+Creosote (coal tar) [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A,D[TAB][TAB]No[TAB]15.19.6
+Creosote (wood) [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A,D[TAB][TAB]No[TAB]15.19.6
+Cresols (all isomers) [TAB]2076[TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+Cresylic acid, dephenolized [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+Cresylic acid, sodium salt solution [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]No[TAB]N8[TAB]No[TAB]15.19.6
+Crotonaldehyde[TAB]1143[TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T3[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.12, 15.16.1, 15.17, 15.19.6
+1,5,9-Cyclododecatriene[TAB][TAB]A[TAB]S/P[TAB]1[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A[TAB]N2[TAB]No[TAB]15.13, 15.19, 16.6.1, 16.6.2
+Cycloheptane (bb) [TAB]2241[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Cyclohexane (bb) [TAB]1145[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.9
+Cyclohexanone[TAB]1915[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]N5[TAB]No[TAB]15.19.6
+Cyclohexanone, Cyclohexanol mixture [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]F-T[TAB]A[TAB]N5[TAB]No
+Cyclohexyl acetate [TAB]2243[TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Cyclohexylamine[TAB]2357[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T3[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,C[TAB]N1[TAB]No[TAB]15.19.6
+1,3-Cyclopentadiene dimer (molten) [TAB][TAB]B[TAB]P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9, 16A.2.2
+Cyclopentane (bb) [TAB]1146[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Cyclopentene[TAB]2246[TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+p-Cymene (bb) [TAB]2046[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Decanoic acid [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.7 to 16.2.9
+Decene[TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Decyl acetate [TAB][TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Decyl acrylate [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB]T3[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A,C,D[TAB]N2[TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+Decyl alcohol (all isomers) [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.9(s)
+Decyloxytetrahydro-thiophene dioxide [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A[TAB][TAB]No[TAB]15.19.6
+Dibutylamine[TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,C,D[TAB]N4[TAB]No[TAB]15.19.6
+Dibutyl hydrogen phosphonate [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Dibutyl phthalate [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Dichlorobenzene (all isomers) [TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]R[TAB]T[TAB]A,B,D[TAB]N5[TAB]No[TAB]15.19.6, 16.2.6(x), 16.2.9(y), 16A.2.2(z)
+1,1-Dichloroethane[TAB]2362[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.19.6
+Dichloroethyl ether [TAB]1916[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]N5[TAB]No[TAB]15.19.6
+1,6-Dichlorohexane[TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]T[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+2,2'-Dichloroisopropyl ether [TAB]2490[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A,C,D[TAB]N5[TAB]No[TAB]15.12, 15.17, 15.19
+Dichloromethane[TAB]1593[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]R[TAB]T[TAB]No[TAB][TAB]No
+2,4-Dichlorophenol[TAB]2021[TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]Dry[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A[TAB]N1[TAB]No[TAB]15.19.6
+2,4-Dichlorophenoxy-acetic acid, diethanolamine salt solution [TAB][TAB]A[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N1[TAB]No[TAB]15.19.6
+2,4-Dichlorophenoxy-acetic acid, dimethylamine salt solution (70% or less) [TAB][TAB]A[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N1[TAB]No[TAB]15.19.6
+2,4-Dichlorophenoxy-acetic acid, triisopropanolamine salt solution [TAB][TAB]A[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N1[TAB]No[TAB]15.19.6
+1,1-Dichloropropane[TAB][TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB]Z[TAB]No[TAB]15.12, 15.19.6
+1,2-Dichloropropane[TAB]1279[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB]Z[TAB]No[TAB]15.12, 15.19.6
+1,3-Dichloropropane[TAB][TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB][TAB]No[TAB]15.12, 15.19.6
+1,3-Dichloropropene[TAB]2047[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]A,B[TAB][TAB]E[TAB]15.12, 15.17 to 15.19
+Dichloropropene /Dichloropropane mixtures [TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A,B,D[TAB][TAB]E[TAB]15.12, 15.17 to 15.19
+2,2-Dichloropropionic acid [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]Dry[TAB][TAB][TAB]Yes[TAB]R[TAB]No[TAB]A[TAB]Y5[TAB]No[TAB]15.11.2, 15.11.4, 15.11.6 to 15.11.8
+Diethanolamine[TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N2[TAB]No
+Diethylamine[TAB]1154[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]N1[TAB]E[TAB]15.12, 15.19.6
+Diethylaminoethanol[TAB]2686[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,C[TAB]N1[TAB]No[TAB]15.19.6
+2,6-Diethylaniline[TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]B,C,D[TAB]N4[TAB]No[TAB]15.19.6, 16.2.9
+Diethylbenzene[TAB]2049[TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Diethylenetriamine[TAB]2079[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N2[TAB]No
+Diethyl ether [TAB]1155[TAB]III[TAB]S[TAB]2[TAB]1G[TAB]Cont.[TAB]Inert[TAB]T4[TAB]IIB[TAB]No[TAB]C[TAB]F-T[TAB]A[TAB]N7[TAB]E[TAB]15.4, 15.14, 15.19
+Di-(2-ethylhexyl) phosphoric acid [TAB]1902[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,D[TAB]N2[TAB]No
+Diethyl phthalate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Diethyl sulphate [TAB]1594[TAB](B)[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A[TAB]N3[TAB]No[TAB]15.19.6
+Diglycidyl ether of bisphenol A [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Diglycidyl ether of bisphenol F [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Di-n-hexyl adipate [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Diisobutylamine[TAB]2361[TAB](C)[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,C,D[TAB]N1[TAB]No[TAB]15.12.3, 15.19.6
+Diisobutylene[TAB]2050[TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Diisobutyl phthalate [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Diisopropanolamine[TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N2[TAB]No[TAB]16.2.7 to 16.2.9
+Diisopropylamine[TAB]1158[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]A[TAB]N2[TAB]E[TAB]15.12, 15.19
+Diisopropylbenzene (all isomers) [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+N,N-Dimethylacetamide solution (40% or less) [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]B[TAB]N4[TAB]No[TAB]15.12.1, 15.17
+Dimethyl adipate [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.9
+Dimethylamine solution (45% or less) [TAB]1160[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,C,D[TAB]N1[TAB]E[TAB]15.12, 15.19.6
+Dimethylamine solution (greater than 45% but not greater than 55%) [TAB]1160[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A,C,D[TAB]N1[TAB]E[TAB]15.12, 15.17, 15.19
+Dimethylamine solution (greater than 55% but not greater than 65%) [TAB]1160[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A,C,D[TAB]N1[TAB]E[TAB]15.12, 15.14, 15.17, 15.19
+N,N-Dimethylcyclohexl-amine[TAB]2264[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,C[TAB]N1[TAB]No[TAB]15.12, 15.17, 15.19.6
+Dimethylethanolamine[TAB]2051[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T3[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,D[TAB]N2[TAB]No[TAB]15.19.6
+Dimethylformamide[TAB]2265[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,D[TAB][TAB]No[TAB]15.19.6
+Dimethyl glutarate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Dimethyl hydrogen phosphite [TAB][TAB](B)[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A,D[TAB][TAB]No[TAB]15.12.1
+Dimethyl octanoic acid [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.8, 16.2.9
+Dimethyl phthalate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Dimethyl succinate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.9
+Dinitrotoluene (molten) [TAB]1600[TAB]A[TAB]S/P[TAB]2[TAB]2G (o) [TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A[TAB][TAB]No[TAB]15.12, 15.17, 15.19, 15.21
+1,4-Dioxane[TAB]1165[TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIB[TAB]No[TAB]C[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.12, 15.19
+Dipentene[TAB]2052[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Diphenyl[TAB][TAB]A[TAB]P[TAB]1[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]B[TAB][TAB]No[TAB]15.19
+Diphenylamine, reaction product with 2,2,4-Trimethylpentene [TAB][TAB](A)[TAB]S/P[TAB]1[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19
+Diphenylamines, alkylated [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Diphenyl/Diphenyl ether mixtures [TAB][TAB]A[TAB]P[TAB]1[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]B[TAB][TAB]No[TAB]15.19
+Diphenyl ether [TAB][TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Diphenyl ether/Diphenyl phenyl ether mixture [TAB][TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Diphenylmethane diisocyanate [TAB]2489[TAB](B)[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]Dry[TAB][TAB][TAB]Yes (b) [TAB]C[TAB]T (b) [TAB]A,B,C(c),D[TAB]N5[TAB]No[TAB]15.12, 15.16.2, 15.17, 15.19.6, 16.2.6, 16.2.9, 16A.2.2
+Diphenylol propane-epichlorohydrin resins [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Di-n-propylamine[TAB]2383[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]N2[TAB]No[TAB]15.12.3, 15.19.6
+Dodecene (all isomers) [TAB][TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Dodecyl alcohol [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9, 16A.2.2
+Dodecylamine /Tetradecylamine mixture [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A,D[TAB]N2[TAB]No[TAB]15.19.6
+Dodecyldimethylamine /Tetradecyldimethyl-amine mixture [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]B,C,D[TAB]N4[TAB]No[TAB]15.19.6
+Dodecyl diphenyl ether disulphonate solution [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.19.6
+Dodecyl methacrylate [TAB][TAB]III[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.13
+Dodecyl/Pentadecyl methacrylate mixture [TAB][TAB]III[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,D[TAB][TAB]No[TAB]15.13, 16.6.1, 16.6.2
+Dodecyl phenol [TAB][TAB]A[TAB]P[TAB]1[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19
+Drilling brines (containing Zinc salts) [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.19.6
+Epichlorohydrin[TAB]2023[TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIB[TAB]No[TAB]C[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.12, 15.17, 15.19
+Ethanolamine[TAB]2491[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]O[TAB]F-T[TAB]A[TAB]N2[TAB]No
+2-Ethoxyethyl acetate [TAB]1172[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Ethyl acrylate [TAB]1917[TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+Ethylamine[TAB]1036[TAB](C)[TAB]S/P[TAB]2[TAB]1G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]C,D[TAB]N2[TAB]E[TAB]15.12, 15.14, 15.19.6
+Ethylamine solutions (72% or less) [TAB]2270[TAB](C)[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A,C[TAB]N1[TAB]E[TAB]15.12, 15.14, 15.17, 15.19
+Ethyl amyl ketone [TAB]2271[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Ethylbenzene[TAB]1175[TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+N-Ethylbutylamine[TAB][TAB](C)[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]N1[TAB]No[TAB]15.12.3, 15.19.6
+Ethyl butyrate [TAB]1180[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Ethylcyclohexane (bb) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+N-Ethylcyclohexylamine[TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]N1[TAB]No[TAB]15.19.6
+Ethylene chlorohydrin [TAB]1135[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]A,D[TAB][TAB]E[TAB]15.12, 15.17, 15.19
+Ethylene cyanohydrin [TAB][TAB](D)[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]IIB[TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Ethylenediamine[TAB]1604[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]N2[TAB]No[TAB]15.19.6, 16.2.9
+Ethylene dibromide [TAB]1605[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]T[TAB]No[TAB][TAB]E[TAB]15.12, 15.19.6, 16.2.9
+Ethylene dichloride [TAB]1184[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB]N4[TAB]No[TAB]15.19
+Ethylene glycol butyl ether acetate [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Ethylene glycol diacetate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Ethylene glycol methyl ether acetate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Ethylene glycol monoalkyl ethers [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Ethylene oxide /Propylene oxide mixture with an Ethylene oxide content of not more than 30% in weight [TAB]2983[TAB]C[TAB]S/P[TAB]2[TAB]1G[TAB]Cont.[TAB]Inert[TAB]T2[TAB]IIB[TAB]No[TAB]C[TAB]F-T[TAB]A,C[TAB][TAB]No[TAB]15.8, 15.12, 15.14, 15.19
+Ethyl-3-ethoxypropionate[TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+2-Ethylhexyl acrylate [TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB]T3[TAB]IIB[TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+2-Ethylhexylamine[TAB]2276[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A[TAB]N2[TAB]No[TAB]15.12, 15.19.6
+Ethylidene norbornene [TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,D[TAB]N4[TAB]No[TAB]15.12.1, 15.19.6, 15.19.6
+Ethyl methacrylate [TAB]2277[TAB](D)[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,D[TAB][TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+o-Ethylphenol[TAB][TAB](A)[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]B[TAB][TAB]No[TAB]15.19.6
+2-Ethyl-3-propylacrolein[TAB][TAB]A[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.19.6
+Ethyltoluene[TAB][TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Ferric chloride solutions [TAB]2582[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.11, 15.19.6, 16.2.9
+Ferric nitrate/Nitric acid solution [TAB][TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]E[TAB]15.11, 15.19
+Fluorosilicic acid (20-30%) in water solution [TAB]1778[TAB]C[TAB]S/P[TAB]3[TAB]1G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]E[TAB]15.11
+Formaldehyde solutions (45% or less) [TAB]1198 (d), 2209 [TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]E (e) [TAB]15.16.1, 15.19.6, 16.2.9
+Formic acid [TAB]1779[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]No[TAB]R[TAB]T (v) [TAB]A[TAB]Y2,Y3[TAB]E[TAB]15.11.2 to 15.11.4, 15.11.6 to 15.11.8, 15.19.6
+Fumaric adduct of rosin, water dispersion [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Furfural[TAB]1199[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.16.1, 15.19.6
+Furfuryl alcohol [TAB]2874[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Glutaraldehyde solutions (50% or less) [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.16.1
+Glycidyl ester of C10 trialkylacetic acid [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Heptane (all isomers) (bb) [TAB]1206[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Heptanol (all isomers) (q) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Heptene (all isomers) (bb) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Heptyl acetate [TAB][TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Hexamethylenediamine solution [TAB]1783[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A[TAB]N2[TAB]No[TAB]15.19.6, 16.2.9
+Hexamethyleneimine[TAB]2493[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,C[TAB]N1[TAB]No[TAB]15.19.6
+Hexane (all isomers) (bb) [TAB]1208[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Hexene (all isomers) (bb) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Hexyl acetate [TAB]1233[TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Hydrochloric acid [TAB]1789[TAB]D[TAB]S[TAB]3[TAB]1G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]E (f) [TAB]15.11
+Hydrogen peroxide solutions (over 8% but not over 60%) [TAB]2014, 2984 [TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]No[TAB]No[TAB][TAB]No[TAB]15.5.14 to 15.5.26, 15.18, 15.19.6
+Hydrogen peroxide solutions (over 60% but not over 70%) [TAB]2015[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]No[TAB]No[TAB][TAB]No[TAB]15.5.1 to 15.5.13, 15.19.6
+2-Hydroxyethyl acrylate [TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A[TAB][TAB]No[TAB]15.12, 15.13, 15.19.6, 16.6.1, 16.6.2
+2-Hydroxy-4-(methylthio) butanoic acid [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.7, 16.2.8
+Isophoronediamine[TAB]2289[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A[TAB]N2[TAB]No
+Isophorone diisocyanate [TAB]2290[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]Dry[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A,B,D[TAB]N5[TAB]No[TAB]15.12, 15.16.2, 15.17, 15.19.6
+Isoprene[TAB]1218[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T3[TAB]IIB[TAB]No[TAB]R[TAB]F[TAB]B[TAB][TAB]No[TAB]15.13, 15.14, 15.19.6, 16.6.1, 16.6.2
+Isopropanolamine[TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]O[TAB]F-T[TAB]A[TAB]N2[TAB]No[TAB]16.2.8, 16.2.9
+Isopropylamine[TAB]1221[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]C,D[TAB]N2[TAB]E[TAB]15.12, 15.14, 15.19
+Isopropylcyclohexane (bb) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.7, 16.2.8
+Isopropyl ether [TAB]1159[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]Inert[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.4.6, 15.13.3, 15.19.6
+Lactonitrile solution (80% or less) [TAB][TAB]B[TAB]S/P[TAB]2[TAB]1G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A,C,D[TAB]Y1[TAB]E[TAB]15.1, 15.12, 15.17 to 15.19, 16.2.6, 16.6
+Lauric acid [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9, 16A.2.2
+Liquid chemical wastes [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.12, 15.19.6, 20.5.1
+Long chain alkaryl polyether (C11-C20) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]16.2.7, 16.2.8
+Long chain polyetheramine in alkyl (C2-C4) benzenes [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.7, 16.2.8
+Long chain polyetheramine in aromatic solvent [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.7, 16.2.8
+Magnesium long chain alkyl salicylate (C11+) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]16.2.7, 16.2.8
+Maleic anhydride [TAB]2215[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]No[TAB]A(g),C[TAB][TAB]No
+Mercaptobenzothiazol, sodium salt solution [TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N1[TAB]No[TAB]15.19.6, 16.2.9
+Mesityl oxide [TAB]1229[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.19.6
+Metam sodium solution [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N1[TAB]No[TAB]15.19.6
+Methacrylic acid [TAB]2531[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A[TAB]Y1[TAB]No[TAB]15.13, 16.6.1
+Methacrylic resin in Ethylene dichloride [TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB]N4[TAB]No[TAB]15.19, 16.2.6
+Methacrylonitrile[TAB]3079[TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A[TAB]N4,Z[TAB]E[TAB]15.12, 15.13, 15.17, 15.19
+Methyl acrylate [TAB]1919[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+Methylamine solutions (42% or less) [TAB]1235[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A,C,D[TAB]N1[TAB]E[TAB]15.12, 15.17, 15.19
+Methylamyl acetate [TAB]1233[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Methylamyl alcohol [TAB]2053[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Methyl butyrate [TAB]1237[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Methylcyclohexane (bb) [TAB]2296[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Methylcyclopentadiene dimer [TAB][TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]B[TAB][TAB]No[TAB]15.19.6
+Methyl diethanolamine [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N2[TAB]No
+2-Methyl-6-ethyl aniline [TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,D[TAB][TAB]No
+2-Methyl-5-ethyl pyridine [TAB]2300[TAB](B)[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A,D[TAB]N4[TAB]No[TAB]15.19.6
+Methyl formate [TAB]1243[TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.12, 15.14, 15.19
+Methyl heptyl ketone [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+2-Methyl-2-hydroxy-3-butyne[TAB][TAB]III[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,B,D[TAB]N6[TAB]No[TAB]15.19.6
+Methyl methacrylate [TAB]1247[TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+Methyl naphthalene (molten) [TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]No[TAB]A,D[TAB][TAB]No[TAB]15.19.6
+2-Methylpyridine[TAB]2313[TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F[TAB]A[TAB]N4[TAB]No[TAB]15.12.3, 15.19.6
+3-Methylpyridine[TAB]2313[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F[TAB]A,C[TAB]N4[TAB]No[TAB]15.12.3, 15.19
+4-Methylpyridine[TAB]2313[TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A[TAB]N4[TAB]No[TAB]15.12.3, 15.19, 16.2.9
+Methyl salicylate [TAB][TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+alpha-Methylstyrene[TAB]2303[TAB]A[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A, D** [TAB][TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+Morpholine[TAB]2054[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F[TAB]A[TAB]N2,Z[TAB]No[TAB]15.19.6
+Motor fuel anti-knock compounds (containing lead alkyls) [TAB]1649[TAB]A[TAB]S/P[TAB]1[TAB]1G[TAB]Cont.[TAB]No[TAB]T4[TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]A,C[TAB][TAB]E[TAB]15.6, 15.12, 15.18, 15.19
+Naphthalene (molten) [TAB]2304[TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]R[TAB]No[TAB]A,D[TAB][TAB]No[TAB]15.19.6
+Naphthenic acids [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Neodecanoic acid [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.8
+Nitrating acid (mixture of sulphuric and nitric acids) [TAB]1796[TAB](C)[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]T[TAB]No[TAB][TAB]E[TAB]15.11, 15.16.2, 15.17, 15.19
+Nitric acid (less than 70%) [TAB]2031[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]E[TAB]15.11, 15.19
+Nitric acid (70% and over) [TAB]2031, 2032 (h) [TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]T[TAB]No[TAB][TAB]E[TAB]15.11, 15.19
+Nitrobenzene[TAB]1662[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]C[TAB]T[TAB]A,D[TAB][TAB]No[TAB]15.12, 15.17 to 15.19, 16.2.9
+o-Nitrophenol (molten) [TAB]1663[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A,D[TAB][TAB]No[TAB]15.12, 15.19.6, 16.2.6, 16.2.9, 16A.2.2
+1- or 2-Nitropropane [TAB]2608[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.19.6
+Nitropropane (60%) /Nitroethane (40%) mixture [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A(u)[TAB]N4[TAB]No[TAB]15.19.6
+o- or p-Nitrotoluenes [TAB]1664[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIB[TAB]Yes[TAB]C[TAB]T[TAB]A,B[TAB][TAB]No[TAB]15.12, 15.17, 15.19, 16.2.9
+Nonane (all isomers) (bb) [TAB]1920[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]B,C[TAB][TAB]No[TAB]15.19.6
+Nonene (all isomers) [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Nonyl acetate [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Nonyl alcohol (all isomers) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Nonyl phenol [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Nonyl phenol poly(4-12) ethoxylates [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9, 16A.2.2(aa)
+Noxious liquid, N.F, (1) n.o.s. (trade name ..., contains ...) S.T.1, Cat.A** [TAB][TAB]A[TAB]P[TAB]1[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19
+Noxious liquid, F, (2) n.o.s. (trade name ..., contains ...) S.T.1, Cat.A** [TAB][TAB]A[TAB]P[TAB]1[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19
+Noxious liquid, N.F, (3) n.o.s. (trade name ..., contains ...) S.T.2, Cat.A** [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Noxious liquid, F, (4) n.o.s. (trade name ..., contains ...) S.T.2, Cat.A** [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Noxious liquid, N.F, (5) n.o.s. (trade name ..., contains ...) S.T.2, Cat.B** [TAB][TAB]B[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, [16.2.6, 16.2.9]***
+Noxious liquid, N.F, (6) n.o.s. (trade name ..., contains ...) S.T.2, Cat.B**, mp 15°C+ [TAB][TAB]B[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, [16.2.6]***, 16.2.9, 16A.2.2
+Noxious liquid, F, (7) n.o.s. (trade name ..., contains ...) S.T.2, Cat.B** [TAB][TAB]B[TAB]P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, [16.2.6, 16.2.9]****
+Noxious liquid, F, (8) n.o.s. (trade name ..., contains ...) S.T.2, Cat.B**, mp 15°C+ [TAB][TAB]B[TAB]P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, [16.2.6]****, 16.2.9, 16A.2.2
+Noxious liquid, N.F, (9) n.o.s. (trade name ..., contains ...) S.T.3, Cat.A** [TAB][TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Noxious liquid, F, (10) n.o.s. (trade name ..., contains ...) S.T.3, Cat.A** [TAB][TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Noxious liquid, N.F, (11) n.o.s. (trade name ..., contains ...) S.T.3, Cat.B** [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, [16.2.6, 16.2.9]****
+Noxious liquid, N.F, (12) n.o.s. (trade name ..., contains ...) S.T.3, Cat.B**, mp 15°C+ [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, [16.2.6]****, 16.2.9, 16A.2.2
+Noxious liquid, F, (13) n.o.s. (trade name ..., contains ...) S.T.3, Cat.B** [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, [16.2.6, 16.2.9]****
+Noxious liquid, F, (14) n.o.s. (trade name ..., contains ...) S.T.3, Cat.B**, mp 15°C+ [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, [16.2.6]****, 16.2.9, 16A.2.2
+Noxious liquid, N.F, (15) n.o.s. (trade name ..., contains ...) S.T.3, Cat.C** [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB][16.2.7 to 16.2.9]****
+Noxious liquid, F, (16) n.o.s. (trade name ..., contains ...) S.T.3, Cat.C** [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB][16.2.7 to 16.2.9]****
+Octane (all isomers) (bb) [TAB]1262[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Octanol (all isomers) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Octene (all isomers) [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+n-Octyl acetate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Octyl aldehydes [TAB]1191[TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.9
+Olefin mixtures (C5-C7) (bb) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Olefin mixtures (C5-C15) [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+alpha-Olefins (C6-C18) mixtures [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9
+Oleum[TAB]1831[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]T[TAB]No[TAB][TAB]E[TAB]15.11.2 to 15.11.8, 15.12.1, 15.16.2, 15.17, 15.19, 16.2.7, 16.2.8
+Oleylamine[TAB][TAB]A[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A[TAB][TAB]No[TAB]15.19.6
+Palm kernel acid oil [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]16.2.7 to 16.2.9
+Paraldehyde[TAB]1264[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T3[TAB]IIB[TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.9
+Pentachloroethane[TAB]1669[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]No[TAB]15.12, 15.17, 15.19.6
+1,3-Pentadiene[TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB][TAB]No[TAB]15.13, 15.19.6, 16.6
+Pentane (all isomers) (bb) [TAB]1265[TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.14, 15.19.6
+Pentene (all isomers) (bb) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.14, 15.19.6
+n-Pentyl propionate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Perchloroethylene[TAB]1897[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]No[TAB]15.12.1, 15.12.2, 15.19.6
+Phenol[TAB]2312[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]C[TAB]T[TAB]A[TAB][TAB]No[TAB]15.12, 15.19, 16.2.7, 16.2.8, 16.2.9
+1-Phenyl-1-xylyl ethane (bb) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No
+Phosphoric acid [TAB]1805[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.11.1 to 15.11.4, 15.11.6 to 15.11.8
+Phosphorus, yellow or white [TAB]1381, 2447 [TAB]A[TAB]S/P[TAB]1[TAB]1G[TAB]Cont.[TAB]Pad+ (Vent or Inert) [TAB][TAB][TAB]No (k) [TAB]C[TAB]No[TAB]C[TAB][TAB]E[TAB]15.7, 15.19
+Phthalic anhydride (molten) [TAB]2214[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]Yes[TAB]R[TAB]No[TAB]A,D[TAB][TAB]No[TAB]16.2.7 to 16.2.9
+alpha-Pinene[TAB]2368[TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+beta-Pinene[TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Pine oil [TAB]1272[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.7, 16.2.8
+Poly(2+)cyclic aromatics [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]No[TAB]A,D[TAB][TAB]No[TAB]15.19.6
+Polyalkyl (C18-C22) acrylate in Xylene [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.7, 16.2.8
+Polyalkylene oxide polyol [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.7, 16.2.8
+Polyethylene polyamines [TAB]2734 (i), 2735 [TAB](C)[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N2[TAB]No[TAB]16.2.9
+Polyferric sulphate solution [TAB][TAB](C)[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]Y4[TAB]No
+Polymethylene polyphenyl isocyanate [TAB]2206 (i), 2207 [TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]Dry[TAB][TAB][TAB]Yes (b) [TAB]C[TAB]T (b) [TAB]A[TAB]N5[TAB]No[TAB]15.12, 15.16.2, 15.19.6
+Polyolefinamine in alkyl (C2-C4) benzenes [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.7, 16.2.8
+Polyolefinamine in aromatic solvent [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.7, 16.2.8
+Polyolefin phosphorosulphide - barium derivative (C28-C250) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]16.2.7, 16.2.8
+Potassium chloride solution (10% or more) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No
+Potassium hydroxide solution [TAB]1814[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N8[TAB]No[TAB]16.2.9
+Potassium oleate [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+n-Propanolamine[TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,D[TAB]N2[TAB]No[TAB]16.2.9
+beta-Propiolactone[TAB][TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIA[TAB]Yes[TAB]R[TAB]T[TAB]A[TAB][TAB]No
+Propionaldehyde[TAB]1275[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]E[TAB]15.16.1, 15.17, 15.19.6
+Propionic acid [TAB]1848[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]No[TAB]R[TAB]F[TAB]A[TAB]Y1[TAB]E[TAB]15.11.2 to 15.11.4, 15.11.6 to 15.11.8, 15.19.6
+Propionic anhydride [TAB]2496[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]R[TAB]T[TAB]A[TAB]Y1[TAB]No
+Propionitrile[TAB]2404[TAB]C[TAB]S/P[TAB]2[TAB]1G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIB[TAB]No[TAB]C[TAB]F-T[TAB]A,D[TAB][TAB]E[TAB]15.12, 15.17 to 15.19
+n-Propylamine[TAB]1277[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]Inert[TAB]T2[TAB]IIA[TAB]No[TAB]C[TAB]F-T[TAB]A,D[TAB]N2[TAB]E[TAB]15.12, 15.19
+Propylbenzene (all isomers) [TAB][TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+n-Propyl chloride [TAB]1278[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A,B[TAB][TAB]No[TAB]15.19.6
+Propylene dimer (bb) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Propylene oxide [TAB]1280[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]Inert[TAB]T2[TAB]IIB[TAB]No[TAB]C[TAB]F-T[TAB]A,C[TAB]Z[TAB]No[TAB]15.8, 15.12.1, 15.14, 15.19
+Propylene tetramer [TAB]2850[TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Propylene trimer [TAB]2057[TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Pyridine[TAB]1282[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]No[TAB]R[TAB]F[TAB]A[TAB]N4[TAB]No[TAB]15.19.6
+Rosin[TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9, 16A.2.2
+Rosin soap (disproportionated) solution [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Sodium aluminate solution [TAB]1819[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N1[TAB]No
+Sodium borohydride (15% or less)/Sodium hydroxide solution [TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N1[TAB]No[TAB]16.2.7
+Sodium chlorate solution (50% or less) [TAB]2428[TAB]III[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.9, 15.16.1, 15.19.6
+Sodium dichromate solution (70% of less) [TAB][TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]No[TAB]No[TAB]N2[TAB]No[TAB]15.12.3, 15.19
+Sodium hydrogen sulphide (6% or less) /Sodium carbonate (3% or less) solution [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.19.6
+Sodium hydrogen sulphite solution (45% or less) [TAB]2693[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No
+Sodium hydrosulphide solution (45% or less) [TAB]2949[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]Vent or Pad (gas) [TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]No[TAB]15.16.1, 15.19.6, 16.2.9
+Sodium hydrosulphide /Ammonium sulphide solution [TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A[TAB]N1[TAB]E[TAB]15.12, 15.14, 15.16.1, 15.17, 15.19, 16.6
+Sodium hydroxide solution [TAB]1824[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB]N8[TAB]No
+Sodium hypochlorite solution (15% or less) [TAB]1791[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]No[TAB]No[TAB]N5[TAB]No[TAB]15.16.1
+Sodium nitrite solution [TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.12.3.1, 15.12.3.2, 15.16.1, 15.19
+Sodium petroleum sulfonate [TAB][TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Sodium silicate solution [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Sodium sulphide solution (15% or less) [TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]C[TAB]T[TAB]No[TAB]N5[TAB]No[TAB]15.16.1, 15.19.6, 16.2.9
+Sodium sulphite solution (25% or less) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.16.1, 15.19.6, 16.2.9
+Sodium tartrates/Sodium succinates solution [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB]Y5[TAB]No
+Sodium thiocyanate solution (56% or less) [TAB][TAB](B)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.19.6
+Styrene monomer [TAB]2055[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T1[TAB]IIA[TAB]No[TAB]R[TAB]F[TAB]A,B[TAB]N4,Z[TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+Sulpho hydrocarbon long chain (C18+) alkylamine mixture [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Sulphur (molten) [TAB]2448[TAB]III[TAB]S[TAB]3[TAB]1G[TAB]Open[TAB]Vent or Pad (gas) [TAB]T3[TAB][TAB]Yes (l) [TAB]O[TAB]F-T[TAB]No[TAB][TAB]No[TAB]15.10
+Sulphuric acid [TAB]1830[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.11, 15.16.2, 16.2.8, 16.2.9
+Sulphuric acid, spent [TAB]1832[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No[TAB]15.11, 15.16.2, 16.2.8, 16.2.9
+Tall oil (crude and distilled) [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9, 16A.2.2
+Tall oil fatty acid, barium salt [TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6
+Tall oil fatty acid (resin acids less than 20%) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.7 to 16.2.9
+Tall oil soap (disproportionated) solution [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9
+Tetrachloroethane[TAB]1702[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]No[TAB]15.12, 15.17, 15.19.6
+Tetraethylene pentamine [TAB]2320[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N1[TAB]No
+Tetrahydrofuran[TAB]2056[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T3[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.19.6
+Tetrahydronaphthalene (bb) [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Tetramethylbenzene (all isomers) [TAB][TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.9, 16A.2.2
+Toluene (bb) [TAB]1294[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Toluenediamine[TAB]1709[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A,D[TAB]N1[TAB]E[TAB]15.12, 15.17, 15.19, 16.2.7, 16.2.9
+Toluene diisocyanate [TAB]2078[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]Dry[TAB]T1[TAB]IIA[TAB]Yes[TAB]C[TAB]F-T[TAB]A, C(c),D [TAB]N4[TAB]E[TAB]15.12, 15.16.2, 15.17, 15.19, 16.2.9
+o-Toluidine[TAB]1708[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A[TAB][TAB]No[TAB]15.12, 15.17, 15.19
+Tributyl phosphate [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+1,2,4-Trichlorobenzene[TAB]2321[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]T[TAB]A,B[TAB][TAB]No[TAB]15.19.6, 16.2.9, 16A.2.2
+1,1,1-Trichloroethane[TAB]2831[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+1,1,2-Trichloroethane[TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]No[TAB][TAB]No[TAB]15.12.1, 15.19.6
+Trichloroethylene[TAB]1710[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]R[TAB]T[TAB]No[TAB][TAB]No[TAB]15.12, 15.16.1, 15.17, 15.19.6
+1,2,3-Trichloropropane[TAB][TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A,B,D[TAB][TAB]No[TAB]15.12, 15.17, 15.19
+1,1,2-Trichloro-1,2,2-Trifluoroethane[TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]NF[TAB][TAB]O[TAB]No[TAB]No[TAB][TAB]No
+Tricresyl phosphate (containing less than 1% ortho-isomer) [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Tricresyl phosphate (containing 1% or more ortho-isomer) [TAB]2574 (j) [TAB]A[TAB]S/P[TAB]1[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]C[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.12.3, 15.19
+Tridecanoic acid [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9, 16A.2.2
+Triethanolamine[TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N1[TAB]No
+Triethylamine[TAB]1296[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]A,C[TAB]N2[TAB]E[TAB]15.12, 15.19.6
+Triethylbenzene[TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Triethylenetetramine[TAB]2259[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB]T2[TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A[TAB]N1[TAB]No
+Triethylphosphite[TAB]2323[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,B[TAB][TAB]No[TAB]15.12.1, 15.19.6
+Triisopropylated phenyl phosphates [TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Trimethylacetic acid [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]Yes[TAB]R[TAB]No[TAB]A[TAB]Y1[TAB]No[TAB]15.11.2 to 15.11.8
+Trimethylamine solution (30% or less) [TAB]1297[TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]F-T[TAB]A,C[TAB]N1[TAB]E[TAB]15.12, 15.14, 15.19, 16.2.9
+Trimethylbenzene (all isomers) [TAB][TAB]A[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Trimethylhexamethylene-diamine (2,2,4- and 2,4,4-isomers) [TAB]2327[TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,C[TAB]N1[TAB]No[TAB]15.19.6
+Trimethylhexamethylene diisocyanate (2,2,4- and 2,4,4-isomers) [TAB]2328[TAB]B[TAB]S/P[TAB]2[TAB]2G[TAB]Cont.[TAB]Dry[TAB][TAB][TAB]Yes[TAB]C[TAB]T[TAB]A, C(c) [TAB][TAB]No[TAB]15.12, 15.16.2, 15.17, 15.19.6
+2,2,4-Trimethyl-1,3-pentanedio 1-1-isobutyrate [TAB][TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No
+Trimethyl phosphite [TAB]2329[TAB][TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F-T[TAB]A,D[TAB][TAB]No[TAB]15.12.1, 15.16.2, 15.19.6
+1,3,5-Trioxane[TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A,D[TAB][TAB]No[TAB]15.19.6
+Trixylyl phosphate [TAB][TAB]A[TAB]P[TAB]1[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19
+Turpentine[TAB]1299[TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Undecanoic acid [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.6, 16.2.9
+1-Undecene[TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Undecyl alcohol [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.9, 16A.2.2(r)
+Urea/Ammonium nitrate solution (containing aqua ammonia) [TAB][TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]NF[TAB][TAB]R[TAB]T[TAB]A[TAB]N4[TAB]No
+Valeraldehyde (all isomers) [TAB]2058[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]Inert[TAB]T3[TAB]IIB[TAB]No[TAB]R[TAB]F-T[TAB]A[TAB][TAB]No[TAB]15.4.6, 15.16.1, 15.19.6
+Vinyl acetate [TAB]1301[TAB]C[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+Vinyl ethyl ether [TAB]1302[TAB]C[TAB]S/P[TAB]2[TAB]1G[TAB]Cont.[TAB]Inert[TAB]T3[TAB]IIB[TAB]No[TAB]C[TAB]F-T[TAB]A[TAB]N6[TAB]E[TAB]15.4, 15.13, 15.14, 15.19, 16.6.1, 16.6.2
+Vinylidene chloride [TAB]1303[TAB]D[TAB]S[TAB]2[TAB]2G[TAB]Cont.[TAB]Inert[TAB]T2[TAB]IIA[TAB]No[TAB]R[TAB]F-T[TAB]B[TAB]N5[TAB]E[TAB]15.13, 15.14, 15.19.6, 16.6.1, 16.6.2
+Vinyl neodecanoate [TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.13, 15.16.1, 15.19.6, 16.6.1, 16.6.2
+Vinyltoluene[TAB]2618[TAB]A[TAB]S/P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB]IIA[TAB]No[TAB]R[TAB]F[TAB]A,B[TAB]N1[TAB]No[TAB]15.13, 15.19.6, 16.6.1, 16.6.2
+White spirit, low (15-20%) aromatic [TAB]1300[TAB](B)[TAB]P[TAB]2[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6
+Xylenes (bb) [TAB]1307[TAB]C[TAB]P[TAB]3[TAB]2G[TAB]Cont.[TAB]No[TAB][TAB][TAB]No[TAB]R[TAB]F[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.9(w)
+Xylenol[TAB]2261[TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB]IIA[TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.19.6, 16.2.9, 16A.2.2
+Zinc alkaryl dithiophosphate (C7-C16) [TAB][TAB](C)[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]16.2.7, 16.2.8
+Zinc alkyl dithiophosphate (C3-C14) [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A,B[TAB][TAB]No[TAB]15.19.6, 16.2.6
+[Footnotes to Chapter 17 table]
+* For mixtures containing no other components with safety hazards and where the pollution category is C or less.
+** In case of a specific n.o.s. cargo assessed as falling within this n.o.s. group that is carried on a ship, this entry, including the cargo's trade name and one or two principal components, should be provided in the shipping document. Abbreviations used mean:
+*** Only certain alcohol resistant foams are effective.
+**** For high viscosity or high melting point cargoes.
+N.F.: Flashpoint exceeding 60°C (closed cup test)
+F: Flashpoint not exceeding 60°C (closed cup test)
+n.o.s. Not otherwise specified
+S.T.: Ship type
+Cat.: Pollution category
+m.p. Melting point
+a Applies to ammonia aqueous, (28% or less) but not below 10%.
+Ammonia aqueous (28% or less)
+b If the product to be carried contains flammable solvents such that the flashpoint does not exceed 60rC c.c., then special electrical systems and a flammable vapour detector should be provided.
+Diphenyl methane diisocyanate
+Polymethylene polyphenyl isocyanate
+c Although water is suitable for extinguishing open air fires involving chemicals to which this footnote applies, water should not be allowed to contaminate closed tanks containing these chemicals because of the risk of hazardous gas generation.
+Diphenylmethane diisocyanate
+Toluene diisocyanate
+Trimethylhexamethylene diisocyanate (2,2,4- and 2,4,4-isomers)
+d UN No. 1198 only applies if flashpoint is below 60rC c.c.
+Formaldehyde solutions (45% or less)
+e Applies to formaldehyde solutions (45% or less), but not below 5%.
+Formaldehyde solutions (45% or less)
+f Applies to hydrochloric acid not below 10%.
+Aluminium chloride (30% or less) /Hydrochloric acid (20% or less) solution
+Hydrochloric acid
+g Dry chemical cannot be used because of the possibility of an explosion.
+Maleic anhydride
+h UN No. 2032 assigned to red fuming nitric acid.
+Nitric acid (70% and over)
+i UN number depends on boiling point of substance.
+Polyethylene polyamines
+Polymethylene polyphenyl isocyanate
+j UN number assigned to this substance containing more than 3% of ortho-isomer.
+Tricresyl phosphate (containing 1% or more ortho-isomer)
+k Phosphorus (yellow or white) is carried above its autoignition temperature and therefore flashpoint is not appropriate. Electrical equipment requirements may be similar to those for substances with a flashpoint above 60rC c.c.
+Phosphorus (yellow or white)
+l Sulphur (molten) has a flashpoint above 60rC c.c., however, electrical equipment should be certified safe for gases evolved.
+Sulphur (molten)
+m UN No. 2672 refers to 10-35% ammonia solutions.
+Ammonia aqueous (28% or less)
+n UN No. 2511 applies to 2-chloropropionic acid only.
+2- or 3-Chloropropionic acid
+o Dinitrotoluene should not be carried in deck tanks.
+Dinitrotoluene (molten)
+p (Deleted).
+q Requirements are based on those isomers having a flashpoint of 60rC c.c., or less; some isomers have a flashpoint greater than 60rC c.c., and therefore the requirements based on flammability would not apply to such isomers.
+Heptanol (all isomers)
+r Reference 16A.2.2 applies to 1-undecyl alcohol only.
+Undecyl alcohol
+s Applies to n-decyl alcohol only.
+Decyl alcohol (all isomers)
+t UN. No 1114 applies to benzene.
+Benzene and mixtures having 10% benzene or more
+u Dry chemicals should not be used as fire-extinguishing media.
+Nitropropane (60%)/Nitroethane (40%) mixture
+v Confined spaces should be tested for both formic acid vapours and carbon monoxide gas, a decomposition product.
+Formic acid
+w Applies to p-xylene only.
+Xylenes
+x Applies to p-isomer and mixtures containing p-isomer viscosity of which is 25 mPa.s at 20rC.
+Dichlorobenzenes (all isomers)
+y Applies to p-isomer and mixtures containing p-isomer melting point of which is 0rC and above.
+Dichlorobenzenes (all isomers)
+z Applies to p-isomer and mixtures containing p-isomer melting point of which is 15rC and above.
+Dichlorobenzenes (all isomers)
+aa Applies only to products with melting point of 15rC and above.
+Nonyl phenol poly(4-12)ethoxylates
+bb Applies to oil-like substances identified in accordance with the provisions of the unified interpretation of Regulation 14 of Annex II of MARPOL 73/78 agreed by the MEPC.
+__________________
+The existing text of Chapter 18 is replaced by the following:
+CHAPTER 18 - LIST OF CHEMICALS TO WHICH THE CODE DOES NOT APPLY
+1 The following are chemicals which have been reviewed for their safety and pollution hazards and determined not to present hazards to such an extent as to warrant application of the Code. This list may be used as a guide in considering bulk carriage of chemicals whose hazards have not yet been evaluated.
+2 Although the chemicals listed in this Chapter fall outside the scope of the Code, the attention of Administrations is drawn to the fact that some safety precautions may be needed for their safe transportation. Accordingly, Administrations should prescribe appropriate safety requirements.
+3 Some chemicals are identified as falling into pollution category D and, therefore, as being subject to certain operational requirements of Annex II of MARPOL 73/78.
+4 Liquid mixtures which are provisionally assessed under Regulation 3(4) of Annex II of MARPOL 73/78 as falling into pollution category D, and which do not present safety hazards, may be carried under the entry for noxious liquids not otherwise specified in this Chapter. Similarly, those mixtures provisionally assessed as falling outside pollution category A, B, C or D, and which do not present safety hazards, may be carried under the entry for non-noxious liquids not otherwise specified in this Chapter.
+EXPLANATORY NOTES
+Product name
+(column a) [TAB]In some cases, the product names may not be identical with the names given in previous issues of the IBC Code or the BCH Code (for explanation see index of chemicals).
+UN number
+(column b) [TAB]The number relating to each product shown in the recommendations proposed by the United Nations Committee of Experts on the Transport of Dangerous Goods. UN numbers, where available, are given for information only.
+Pollution category
+(column c) [TAB]The letter D means the pollution category assigned to each product under Annex II of MARPOL 73/78. "III" means the product was evaluated and found to fall outside the categories A, B, C or D.
+Pollution category in brackets indicates that the product is provisionally categorized and that further data are necessary to complete the evaluation of their pollution hazards. Until the hazard evaluation is completed, the pollution category assigned is used.
+a[TAB]b[TAB]c
+Product name [TAB]UN number [TAB]Pollution category for operational discharge (Regulation 3 of Annex II)
+Acetone[TAB]1090[TAB]III
+Alcohols (C13+) [TAB]-[TAB]III
+Alcoholic beverages, n.o.s. [TAB]3065[TAB]III
+Acrylonitrile-Styrene copolymer dispersion in polyether polyol [TAB]-[TAB]D
+n-Alkanes (C10+) [TAB]-[TAB]III
+Alkenyl(C11+)amide[TAB]-[TAB]D
+Alkyl(C8+)amine, alkenyl (C12+) acid ester mixture [TAB]-[TAB]D
+Alkyl(C9+)benzenes[TAB]-[TAB]III
+Alkyl dithiothiadiazole (C6-C24) [TAB]-[TAB]D
+Aluminium sulphate solution [TAB]-[TAB]D
+Aminoethyldiethanolamine /Aminoethylethanolamine solution [TAB]-[TAB]III
+2-Amino-2-hydroxymethyl-1,3-propanediol solution (40% or less) [TAB]-[TAB]III
+Ammonium hydrogen phosphate solution [TAB]-[TAB]D
+Ammonium polyphosphate solution [TAB]-[TAB]D
+Ammonium sulphate solution [TAB]-[TAB]D
+n-Amyl alcohol [TAB]1105[TAB]D
+sec-Amyl alcohol [TAB]1105[TAB]D
+tert-Amyl alcohol [TAB]1105[TAB]III
+Amyl alcohol, primary [TAB]1105[TAB]D
+Animal and fish oils, n.o.s. including:
+Cod liver oil, Lanolin, Neatsfoot oil, Pilchard oil, Sperm oil [TAB]-[TAB]D
+Animal and fish acid oils and distillates, n.o.s. including:
+Animal acid oil, Fish acid oil, Lard acid oil, Mixed acid oil, Mixed general acid oil, Mixed hard acid oil, Mixed soft acid oil [TAB]-[TAB]D
+Apple juice [TAB]-[TAB]III
+Aryl polyolefin (C11-C50) [TAB]-[TAB]D
+Benzene tricarboxylic acid, trioctyl ester [TAB]-[TAB]III
+Brake fluid base mix:
+(Poly(2-8)alkylene (C2-C3) glycols /Polyalkylene (C2-C10) glycols monoalkyl (C1-C4) ethers and their borate esters)1/ [TAB]-[TAB]D
+n-Butyl alcohol [TAB]1120[TAB]III
+sec-Butyl alcohol [TAB]1120[TAB]III
+tert-Butyl alcohol [TAB]1120[TAB]III
+Butylene glycol [TAB]-[TAB]D
+Butyl stearate [TAB]-[TAB]III
+gamma-Butyrolactone[TAB]-[TAB]D
+Calcium carbonate slurry [TAB]-[TAB]III
+Calcium hydroxide slurry [TAB]-[TAB]D
+Calcium long chain alkaryl sulphonate (C11-C50) [TAB]-[TAB]D
+Calcium long chain alkyl phenate sulphide (C8-C40) [TAB]-[TAB]D
+Calcium long chain phenolic amine (C8-C40) [TAB]-[TAB]III
+Calcium nitrate/Magnesium nitrate/Potassium chloride solution [TAB]-[TAB]III
+epsilon-Caprolactam (molten or aqueous solutions) [TAB]-[TAB]D
+Chlorinated paraffins (C14-C17) (with 52% chlorine) [TAB]-[TAB]III
+Choline chloride solutions [TAB]-[TAB]D
+Citric acid (70% or less) [TAB]-[TAB]D
+Clay slurry [TAB]-[TAB]III
+Coal slurry [TAB]-[TAB]III
+Coconut oil fatty acid methyl ester [TAB]-[TAB]D
+Cyclohexanol[TAB]-[TAB]D
+Decahydronaphthalene[TAB]1147[TAB](D)
+Dextrose solution [TAB]-[TAB]III
+Diacetone alcohol [TAB]1148[TAB]D
+Dialkyl(C7-C13) phthalates [TAB]-[TAB]D
+Diethylene glycol [TAB]-[TAB]D
+Diethylene glycol dibutyl ether [TAB]-[TAB]D
+Diethylene glycol diethyl ether [TAB]-[TAB]III
+Diethylene glycol phthalate [TAB]-[TAB]D
+Diethylenetriamine pentaacetic acid, pentasodium salt solution [TAB]-[TAB]III
+Di-(2-ethylhexyl) adipate [TAB]-[TAB]D
+Diheptyl phthalate [TAB]-[TAB]III
+Dihexyl phthalate [TAB]-[TAB]III
+1,4-Dihydro-9,10-dihydroxy anthracene, disodium salt solution [TAB]-[TAB]D
+Diisobutyl ketone [TAB]1157[TAB]D
+Diisononyl adipate [TAB]-[TAB]D
+Diisooctyl phthalate [TAB]-[TAB]III
+Diisopropyl naphthalene (bb) [TAB]-[TAB]D
+2,2-Dimethylpropane-1,3-diol[TAB]-[TAB](D)
+Dimethyl polysiloxane [TAB]-[TAB]III
+Dinonyl phthalate [TAB]-[TAB]D
+Dioctyl phthalate [TAB]-[TAB]III
+Dipropylene glycol [TAB]-[TAB]III
+Ditridecyl phthalate [TAB]-[TAB]D
+Diundecyl phthalate [TAB]-[TAB]D
+Dodecane (all isomers) [TAB]-[TAB]III
+Dodecenyl succinic acid, dipotassium salt solution [TAB]-[TAB](D)
+Dodecyl benzene [TAB]-[TAB]III
+Dodecyl xylene [TAB]-[TAB]III
+Drilling brines including:
+Calcium bromide solution, Calcium chloride solution, Sodium chloride solution [TAB]-[TAB]III
+2-Ethoxyethanol[TAB]1171[TAB]D
+Ethyl acetate [TAB]1173[TAB]D
+Ethyl acetoacetate [TAB]-[TAB](D)
+Ethyl alcohol [TAB]1170[TAB]III
+Ethylene carbonate [TAB]-[TAB]III
+Ethylenediamine tetraacetic acid, tetrasodium salt solution [TAB]-[TAB]D
+Ethylene glycol [TAB]-[TAB]D
+Ethylene glycol acetate [TAB]-[TAB](D)
+Ethylene glycol methyl butyl ether [TAB]-[TAB]D
+Ethylene glycol phenyl ether [TAB]-[TAB]D
+Ethylene glycol phenyl ether /Diethylene glycol phenyl ether mixture [TAB]-[TAB]D
+Ethylene-vinyl acetate copolymer (emulsion) [TAB]-[TAB]III
+2-Ethylhexanoic acid [TAB]-[TAB]D
+Ethyl propionate [TAB]1195[TAB]D
+Fatty acid (saturated C13+) [TAB]-[TAB]III
+Ferric hydroxyethylethylene diamine triacetic acid, trisodium salt solution [TAB]-[TAB]D
+Fish solubles* [TAB]-[TAB]III
+Formamide[TAB]-[TAB]D
+Glucose solution [TAB]-[TAB]III
+Glycerine[TAB]-[TAB]III
+Glycerine (83%), Dioxanedimethanol (17%) mixture [TAB]-[TAB]D
+Glycerol polyalkoxylate [TAB]-[TAB]III
+Glyceryl triacetate [TAB]-[TAB](III)
+Glycine, sodium salt solution [TAB]-[TAB]III
+Glyoxal solution (40% or less) [TAB]-[TAB]D
+n-Heptanoic acid [TAB]-[TAB]D
+Hexamethylenediamine adipate (50% in water) [TAB]-[TAB]D
+Hexamethylene glycol [TAB]-[TAB]III
+Hexamethylenetetramine solutions [TAB]-[TAB]D
+Hexanoic acid [TAB]-[TAB]D
+Hexanol[TAB]2282[TAB]D
+Hexylene glycol [TAB]-[TAB]III
+N-(Hydroxyethyl)ethylenediamine triacetic acid, trisodium salt solution [TAB]-[TAB]D
+Isoamyl alcohol [TAB]1105[TAB]D
+Isobutyl alcohol [TAB]1212[TAB]III
+Isobutyl formate [TAB]2393[TAB]D
+Iso- &amp; cyclo-Alkanes (C10-C11) [TAB]-[TAB]D
+Iso- &amp; cyclo-Alkanes (C12+) [TAB]-[TAB]III
+Isophorone[TAB]-[TAB]D
+Isopropyl acetate [TAB]1220[TAB]III
+Isopropyl alcohol [TAB]1219[TAB]III
+Kaolin slurry [TAB]-[TAB]III
+Lactic acid [TAB]-[TAB]D
+Lard[TAB]-[TAB]III
+Latex:
+Carboxylated styrene-butadiene copolymer
+Styrene-Butadiene rubber [TAB]-
+- [TAB]III
+III
+Latex, ammonia (1% or less) inhibited [TAB]-[TAB]D
+Lignin sulphonic acid, sodium salt solution [TAB]-[TAB]III
+Long chain alkaryl sulphonic acid (C16-C60) [TAB]-[TAB]D
+Long chain alkylphenate/phenol sulfide [TAB]-[TAB]III
+Magnesium chloride solution [TAB]-[TAB]III
+Magnesium hydroxide slurry [TAB]-[TAB]III
+Magnesium long chain alkaryl sulphonate (C11-C50) [TAB]-[TAB]D
+3-Methoxy-l-butanol[TAB]-[TAB]III
+3-Methoxybutyl acetate [TAB]-[TAB]D
+Methyl acetate [TAB]1231[TAB]III
+Methyl acetoacetate [TAB]-[TAB]D
+Methyl alcohol [TAB]1230[TAB]D
+Methyl amyl ketone [TAB]1193[TAB]III
+Methyl propyl ketone [TAB]-[TAB]D
+N-Methyl-2-pyrrolidone[TAB]-[TAB]D
+Methyl butenol [TAB]-[TAB](D) 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

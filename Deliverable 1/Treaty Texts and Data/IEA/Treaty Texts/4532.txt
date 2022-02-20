@@ -1,0 +1,1305 @@
+
+ Amendments to the Protocol Adopting Annex VI - Regulations For The Prevention Of Air Pollution From Ships To The International Convention For The Prevention Of Pollution From Ships - Amendments To The Technical Code On Control Of Emission Of Nitrogen Oxides From Marine Diesel Engines   
+     Filename: 2008-AmendmentNOxTechnicalCode-1997-ProtocolAddingAnnexVI-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=10408/177(58).pdf     
+    ﻿Amendments to Annex VI - Regulations For The Prevention Of Air Pollution From Ships To The International Convention For The Prevention Of Pollution From Ships - Amendments To The Technical Code On Control Of Emission Of Nitrogen Oxides From Marine Diesel Engines
+Source: http://www.imo.org/includes/blastData.asp/doc_id=10408/177(58).pdf, downloaded 20101022
+[Text rendering of some tables and scientific notation is not possible here. Please consult source.]
+RESOLUTION MEPC.177(58) - Adopted on 10 October 2008
+Amendments to the Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines
+(NOx Technical Code 2008)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention"), article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") and article 4 of the Protocol of 1997 to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (herein after referred to as the "1997 Protocol"), which together specify the amendment procedure of the 1997 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 and 1997 Protocols,
+NOTING ALSO that, by the 1997 Protocol, Annex VI entitled Regulations for the Prevention of Air Pollution from Ships is added to the 1973 Convention (hereinafter referred to as "Annex VI"),
+NOTING FURTHER regulation 13 of MARPOL Annex VI which makes the Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines (NOx Technical Code) mandatory under that Annex,
+HAVING CONSIDERED the draft amendments to the NOx Technical Code,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the amendments to the NOx Technical Code, as set out at annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 January 2010, unless prior to that date, not less than one-third of the Parties or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 July 2010 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1973 Convention, as modified by the 1978 and 1997 Protocols, certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1973 Convention, as modified by the 1978 and 1997 Protocols, copies of the present resolution and its Annex;
+6. INVITES the Parties to MARPOL Annex VI and other Member Governments to bring the amendments to the NOx Technical Code to the attention of shipowners, ship operators, shipbuilders, marine diesel engine manufacturers and any other interested groups.
+NOx TECHNICAL CODE (2008)
+Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines
+Introduction
+Foreword
+On 26 September 1997, the Conference of Parties to the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL 73/78) adopted, by Conference resolution 2, the Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines (NOx Technical Code). Following the entry into force, on 19 May 2005, of MARPOL Annex VI - Regulations for the Prevention of Air Pollution from Ships, each marine diesel engine to which regulation 13 of that Annex applies, must comply with the provisions of this Code. MEPC 53 in July 2005 agreed to the revision of MARPOL Annex VI and the NOx Technical Code. That review was concluded at MEPC 58 in October 2008 and this version of the NOx Technical Code, hereunder referred to as the Code, is an outcome of that process.
+As general background information, the precursors to the formation of nitrogen oxides during the combustion process are nitrogen and oxygen. Together these compounds comprise 99% of the engine intake air. Oxygen will be consumed during the combustion process, with the amount of excess oxygen available being a function of the air/fuel ratio which the engine is operating under. The nitrogen remains largely unreacted in the combustion process; however, a small percentage will be oxidized to form various oxides of nitrogen. The nitrogen oxides (NOx) which can be formed include nitric oxide (NO) and nitrogen dioxide (NO2), while the amounts are primarily a function of flame or combustion temperature and, if present, the amount of organic nitrogen available from the fuel, NOx formation is also a function of the time the nitrogen and the excess oxygen are exposed to the high temperatures associated with the diesel engine's combustion process. In other words, the higher the combustion temperature (e.g., high-peak pressure, high-compression ratio, high rate of fuel delivery, etc.), the greater the amount of NOx formation. A slow-speed diesel engine, in general, tends to have more NOx formation than a high speed engine. NOx has an adverse effect on the environment causing acidification, formation of tropospheric ozone, nutrient enrichment and contributes to adverse health effects globally.
+The purpose of this Code is to provide mandatory procedures for the testing, survey and certification of marine diesel engines which will enable engine manufacturers, shipowners and Administrations to ensure that all applicable marine diesel engines comply with the relevant limiting emission values of NOx as specified within regulation 13 of Annex VI. The difficulties of establishing with precision, the actual weighted average NOx emission of marine diesel engines in service on ships have been recognized in formulating a simple, practical set of requirements in which the means to ensure compliance with the allowable NOx emissions, are defined.
+Administrations are encouraged to assess the emissions performance of marine propulsion and auxiliary diesel engines on a test bed where accurate tests can be carried out under properly controlled conditions. Establishing compliance with regulation 13 of Annex VI at this initial stage is an essential feature of this Code. Subsequent testing on board the ship may inevitably be limited in scope and accuracy and its purpose shall be to infer or deduce the emission performance and to confirm that engines are installed, operated and maintained in accordance with the manufacturer's specifications and that any adjustments or modifications do not detract from the emissions performance established by initial testing and certification by the manufacturer.
+Contents .... Page
+INTRODUCTION .... 3
+FOREWORD .... 3
+ABBREVIATIONS, SUBSCRIPTS AND SYMBOLS .... 7
+Chapter 1 - GENERAL .... 10
+1.1 PURPOSE .... 10
+1.2 APPLICATION .... 10
+1.3 DEFINITIONS .... 10
+Chapter 2 - SURVEYS AND CERTIFICATION .... 13
+2.1 GENERAL .... 13
+2.2 PROCEDURES FOR PRE-CERTIFICATION OF AN ENGINE .... 14
+2.3 PROCEDURES FOR CERTIFICATION OF AN ENGINE .... 16
+2.4 TECHNICAL FILE AND ONBOARD NOx VERIFICATION PROCEDURES .... 17
+Chapter 3 - NITROGEN OXIDES EMISSION STANDARDS .... 20
+3.1 MAXIMUM ALLOWABLE NOx EMISSION LIMITS FOR MARINE DIESEL ENGINES .... 20
+3.2 TEST CYCLES AND WEIGHTING FACTORS TO BE APPLIED .... 20
+Chapter 4 - APPROVAL FOR SERIALLY MANUFACTURED ENGINES: ENGINE FAMILY AND ENGINE GROUP CONCEPTS .... 23
+4.1 GENERAL .... 23
+4.2 DOCUMENTATION .... 23
+4.3 APPLICATION OF THE ENGINE FAMILY CONCEPT .... 23
+4.4 APPLICATION OF THE ENGINE GROUP CONCEPT .... 27
+Chapter 5 - PROCEDURES FOR NOx EMISSION MEASUREMENTS ON A TEST BED .... 30
+5.1 GENERAL .... 30
+5.2 TEST CONDITIONS .... 30
+5.3 TEST FUEL OILS .... 33
+5.4 MEASUREMENT EQUIPMENT AND DATA TO BE MEASURED... 33
+5.5 DETERMINATION OF EXHAUST GAS FLOW .... 34
+5.6 PERMISSIBLE DEVIATIONS OF INSTRUMENTS FOR ENGINE-RELATED PARAMETERS AND OTHER ESSENTIAL PARAMETERS .... 35
+5.7 ANALYSERS FOR DETERMINATION OF THE GASEOUS COMPONENTS .... 35
+5.8 CALIBRATION OF THE ANALYTICAL INSTRUMENTS .... 35
+5.9 TEST RUN .... 35
+5.10 TEST REPORT .... 37
+5.11 DATA EVALUATION FOR GASEOUS EMISSIONS .... 38
+5.12 CALCULATION OF THE GASEOUS EMISSIONS .... 38
+Chapter 6 - PROCEDURES FOR DEMONSTRATING COMPLIANCE WITH NOx EMISSION LIMITS ON BOARD .... 43
+6.1 GENERAL .... 43
+6.2 ENGINE PARAMETER CHECK METHOD .... 43
+6.3 SIMPLIFIED MEASUREMENT METHOD .... 46
+6.4 DIRECT MEASUREMENT AND MONITORING METHOD .... 49
+Chapter 7 - CERTIFICATION OF AN EXISTING ENGINE .... 55
+APPENDICES
+APPENDIX 1 - Form of EIAPP Certificate .... 56
+APPENDIX 2 - Flowcharts for survey and certification of marine diesel engines... 59
+APPENDIX 3 - Specifications for analysers to be used in the determination of gaseous components of marine diesel engine emissions .... 63
+APPENDIX 4 - Calibration of the analytical and measurement instruments .... 68
+APPENDIX 5 - Parent Engine test report and test data
+- Section 1 - Parent Engine test report .... 81
+- Section 2 - Parent Engine test data to be included in the Technical File .... 89
+APPENDIX 6 - Calculation of exhaust gas mass flow (carbon-balance method) .... 92
+APPENDIX 7 - Checklist for an Engine Parameter Check method .... 94
+APPENDIX 8 - Implementation of the Direct Measurement and Monitoring method .... 97
+Abbreviations, Subscripts and Symbols
+Tables 1, 2, 3 and 4 below summarize the abbreviations, subscripts and symbols used throughout the Code, including specifications for the analytical instruments in appendix 3, calibration requirements for the analytic instruments contained in appendix 4, the formulae for calculation of gas mass flow as contained in chapter 5 and appendix 6 of this Code and the symbols used in respect of data for onboard verification surveys in chapter 6.
+.1
+Table 1: symbols used to represent the chemical components of diesel engine gas emissions and calibration and span gases addressed throughout this Code;
+.2 Table 2: abbreviations for the analysers used in the measurement of gas emissions from diesel engines as specified in appendix 3 of this Code;
+.3 Table 3: symbols and subscripts of terms and variables used in chapter 5, chapter 6, appendix 4 and appendix 6 of this Code; and
+.4 Table 4: symbols for fuel composition used in chapter 5 and chapter 6 and appendix 6 of this Code.
+Table 1 Symbols and abbreviations for the chemical components
+Table 2 Abbreviations for Analysers for measurement of diesel engine gaseous emissions (refer to appendix 3 of this Code)
+Table 3 Symbols and subscripts for terms and variables (refer to chapter 5, chapter 6, appendix 4 and appendix 6 of this Code)
+Table 4 Symbols for fuel composition
+1.1 Purpose
+1.1.1 The purpose of this Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines, hereunder referred to as the Code, is to specify the requirements for the testing, survey and certification of marine diesel engines to ensure they comply with the nitrogen oxides (NOx) emission limits of regulation 13 of Annex VI. All references to regulations within this Code refer to Annex VI.
+1.2 Application
+1.2.1 This Code applies to all marine diesel engines with a power output of more than 130 kW which are installed, or are designed and intended for installation, on board any ship subject to Annex VI and to which regulation 13 applies. Regarding the requirements for survey and certification under regulation 5, this Code addresses only those requirements applicable to an engine's compliance with the applicable NOx emission limit.
+1.2.2 For the purpose of the application of this Code, Administrations are entitled to delegate all functions required of an Administration by this Code to an organization authorized to act on behalf of the Administration1. In every case, the Administration assumes full responsibility for the survey and certificate.
+1.2.3 For the purpose of this Code, an engine shall be considered to be operated in compliance with the applicable NOx limit of regulation 13 if it can be demonstrated that the weighted NOx emissions from the engine are within those limits at the initial certification, annual, intermediate and renewal surveys and such other surveys as are required.
+1.3 Definitions
+1.3.1 Nitrogen Oxide (NOx) emissions means the total emission of nitrogen oxides, calculated as the total weighted emission of NO2 and determined using the relevant test cycles and measurement methods as specified in this Code.
+1.3.2 Substantial modification of a marine diesel engine means:
+.1 For engines installed on ships constructed on or after 1 January 2000, substantial modification means any modification to an engine that could potentially cause the engine to exceed the applicable emission limit set out in regulation 13. Routine replacement of engine components by parts specified in the Technical File that do not alter emission characteristics shall not be considered a "substantial modification" regardless of whether one part or many parts are replaced.
+Refer to the Guidelines for the Authorization of Organizations Acting on Behalf of Administrations adopted by the Organization by resolution A.739(18) and to the Specifications on the Survey and Certification Functions of Recognized Organizations Acting on Behalf of the Administration adopted by the Organization by resolution A.789(19).
+.2 For engines installed on ships constructed before 1 January 2000, substantial modification means any modification made to an engine which increases its existing emission characteristics established by the Simplified Measurement method as described in 6.3 in excess of the allowances set out in 6.3.11. These changes include, but are not limited to, changes in its operations or in its technical parameters (e.g., changing camshafts, fuel injection systems, air systems, combustion chamber configuration, or timing calibration of the engine). The installation of a certified Approved Method pursuant to regulation 13.7.1.1 or certification pursuant to regulation 13.7.1.2 is not considered to be a substantial modification for the purpose of the application of regulation 13.2 of the Annex.
+1.3.3 Components are those interchangeable parts which influence the NOx emissions performance, identified by their design/parts number.
+1.3.4 Setting means adjustment of an adjustable feature influencing the NOx emissions performance of an engine.
+1.3.5 Operating values are engine data, like cylinder peak pressure, exhaust gas temperature, etc., from the engine log which are related to the NOx emission performance. These data are load-dependent.
+1.3.6 The EIAPP Certificate is the Engine International Air Pollution Prevention Certificate which relates to NOx emissions.
+1.3.7 The IAPP Certificate is the International Air Pollution Prevention Certificate.
+1.3.8 Administration has the same meaning as article 2, subparagraph (5) of MARPOL 73.
+1.3.9 Onboard NOx verification procedures mean a procedure, which may include an equipment requirement, to be used on board at initial certification survey or at the renewal, annual or intermediate surveys, as required, to verify compliance with any of the requirements of this Code, as specified by the applicant for engine certification and approved by the Administration.
+1.3.10 Marine diesel engine means any reciprocating internal combustion engine operating on liquid or dual fuel, to which regulation 13 applies, including booster/compound systems if applied.
+Where an engine is intended to be operated normally in the gas mode, i.e. with the main fuel gas and only a small amount of liquid pilot fuel, the requirements of regulation 13 have to be met only for this operation mode. Operation on pure liquid fuel resulting from restricted gas supply in cases of failures shall be exempted for the voyage to the next appropriate port for the repair of the failure.
+1.3.11 Rated power means the maximum continuous rated power output as specified on the nameplate and in the Technical File of the marine diesel engine to which regulation 13 and the Code apply.
+1.3.12 Rated speed is the crankshaft revolutions per minute at which the rated power occurs as specified on the nameplate and in the Technical File of the marine diesel engine.
+1.3.13 Brake power is the observed power measured at the crankshaft or its equivalent, the engine being equipped only with the standard auxiliaries necessary for its operation on the test bed.
+1.3.14 Onboard conditions mean that an engine is:
+.1 installed on board and coupled with the actual equipment which is driven by the engine; and
+.2 under operation to perform the purpose of the equipment.
+1.3.15 A Technical File is a record containing all details of parameters, including components and settings of an engine, which may influence the NOx emission of the engine, in accordance with 2.4 of this Code.
+1.3.16 A Record Book of Engine Parameters is the document used in connection with the Engine Parameter Check method for recording all parameter changes, including components and engine settings, which may influence NOx emission of the engine.
+1.3.17 An Approved Method is a method for a particular engine, or a range of engines, which, when applied to the engine, will ensure that the engine complies with the applicable NOx limit as detailed in regulation 13.7.
+1.3.18 An Existing Engine is an engine which is subject to regulation 13.7.
+1.3.19 An Approved Method File is a document which describes an Approved Method and its means of survey.
+Chapter 2
+Surveys and certification
+2.1 General
+2.1.1 Each marine diesel engine specified in 1.2, except as otherwise permitted by this Code, shall be subject to the following surveys:
+.1 A pre-certification survey which shall be such as to ensure that the engine, as designed and equipped, complies with the applicable NOx emission limit contained in regulation 13. If this survey confirms compliance, the Administration shall issue an Engine International Air Pollution Prevention (EIAPP) Certificate.
+.2 An initial certification survey which shall be conducted on board a ship after the engine is installed but before it is placed in service. This survey shall be such as to ensure that the engine, as installed on board the ship, including any modifications and/or adjustments since the pre-certification, if applicable, complies with the applicable NOx emission limit contained in regulation 13. This survey, as part of the ship's initial survey, may lead to either the issuance of a ship's initial International Air Pollution Prevention (IAPP) Certificate or an amendment of a ship's valid IAPP Certificate reflecting the installation of a new engine.
+.3 Renewal, annual and intermediate surveys, which shall be conducted as part of a ship's surveys required by regulation 5, to ensure the engine continues to fully comply with the provisions of this Code.
+.4 An initial engine certification survey which shall be conducted on board a ship every time a major conversion, as defined in regulation 13, is made to an engine to ensure that the engine complies with the applicable NOx emission limit contained in regulation 13. This will result in the issue, if applicable, of an EIAPP Certificate and the amendment of the IAPP Certificate.
+2.1.2 To comply with the various survey and certification requirements described in 2.1.1, there are methods included in this Code from which the engine manufacturer, shipbuilder or shipowner, as applicable, can choose to measure, calculate, test or verify an engine for its NOx emissions, as follows:
+.1 test-bed testing for the pre-certification survey in accordance with chapter 5;
+.2 onboard testing for an engine not pre-certificated for a combined pre certification and initial certification survey in accordance with the full test-bed requirements of chapter 5;
+.3 onboard Engine Parameter Check method, using the component data, engine settings and engine performance data as specified in the Technical File, for confirmation of compliance at initial, renewal, annual and intermediate surveys for pre-certified engines or engines that have undergone modifications or
+adjustments to NOx critical components, settings and operating values, since they were last surveyed, in accordance with 6.2;
+.4 onboard Simplified Measurement method for confirmation of compliance at renewal, annual and intermediate surveys or confirmation of pre-certified engines for initial certification surveys, in accordance with 6.3 when required; or
+.5 onboard Direct Measurement and Monitoring method for confirmation of compliance at renewal, annual and intermediate surveys only, in accordance with 6.4.
+2.2 Procedures for pre-certification of an engine
+2.2.1 Prior to installation on board, every marine diesel engine (Individual Engine), except as allowed by 2.2.2 and 2.2.4, shall:
+.1 be adjusted to meet the applicable NOx emission limit,
+.2 have its NOx emissions measured on a test bed in accordance with the procedures specified in chapter 5 of this Code, and
+.3 be pre-certified by the Administration, as documented by issuance of an EIAPP Certificate.
+2.2.2 For the pre-certification of serially manufactured engines, depending on the approval of the Administration, the Engine Family or the Engine Group concept may be applied (see chapter 4). In such a case, the testing specified in 2.2.1.2 is required only for the Parent Engine(s) of an Engine Family or Engine Group.
+2.2.3 The method of obtaining pre-certification for an engine is for the Administration to:
+.1 certify a test of the engine on a test bed;
+.2 verify that all engines tested, including, if applicable, those to be delivered within an Engine Family or Engine Group, meet the applicable NOx limit; and
+.3 if applicable, verify that the selected Parent Engine(s) is representative of an Engine Family or Engine Group.
+2.2.4 There are engines which, due to their size, construction and delivery schedule, cannot be pre-certified on a test bed. In such cases, the engine manufacturer, shipowner or shipbuilder shall make application to the Administration requesting an onboard test (see 2.1.2.2). The applicant must demonstrate to the Administration that the onboard test fully meets all of the requirements of a test-bed procedure as specified in chapter 5 of this Code. Such a survey may be accepted for an Individual Engine or for an Engine Group represented by the Parent Engine only, but it shall not be accepted for an Engine Family certification. In no case shall an allowance be granted for possible deviations of measurements if an initial survey is carried out on board a ship without any valid pre-certification test. For engines undergoing an onboard certification test, in order to be issued with an EIAPP Certificate, the same procedures apply as if the engine had been pre-certified on a test bed.
+2.2.5 NOx reducing devices
+.1 Where a NOx reducing device is to be included within the EIAPP certification, it must be recognized as a component of the engine and its presence shall be recorded in the engine's Technical File. The engine shall be tested, at the pre-certification test, with the NOx reducing device fitted.
+.2 In those cases where a NOx reducing device has been fitted due to failure to meet the required emission value at the pre-certification test, in order to receive an EIAPP Certificate for this assembly, the engine, including the reducing device, as installed, must be re-tested to show compliance with the applicable NOx emission limit. However, in this case, the assembly may be re-tested in accordance with the Simplified Measurement method in accordance with 6.3. In no case shall the allowances given in 6.3.11 be granted.
+.3 Where, in accordance with 2.2.5.2, the effectiveness of the NOx reducing device is verified by use of the Simplified Measurement method, that test report shall be added as an adjunct to the pre-certification test report which demonstrated the failure of the engine alone to meet the required emission value. Both test reports shall be submitted to the Administration, and test report data, as detailed in 2.4.1.5, covering both tests shall be included in the engine's Technical File.
+.4 The Simplified Measurement method used as part of the process to demonstrate compliance in accordance with 2.2.5.2 may only be accepted in respect of the engine and NOx reducing device on which its effectiveness was demonstrated, and it shall not be accepted for Engine Family or Engine Group certification.
+.5 In both cases as given in 2.2.5.1 and 2.2.5.2, the NOx reducing device shall be included on the EIAPP Certificate together with the emission value obtained with the device in operation and all other records as required by the Administration. The engine's Technical File shall also contain onboard NOx verification procedures for the device to ensure it is operating correctly.
+.6 Notwithstanding 2.2.5.3 and 2.2.5.4, a NOx reducing device may be approved by the Administration taking into account guidelines to be developed by the Organization.
+2.2.6 Where, due to changes of component design, it is necessary to establish a new Engine Family or Engine Group but there is no available Parent Engine the engine builder may apply to the Administration to use the previously obtained Parent Engine test data modified at each specific mode of the applicable test cycle so as to allow for the resulting changes in NOx emission values. In such cases, the engine used to determine the modification emission data shall correspond in accordance with the requirements of 4.4.6.1, 4.4.6.2 and 4.4.6.3 to the previously used Parent Engine. Where more than one component is to be changed the combined effect resulting from those changes is to be demonstrated by a single set of test results.
+2.2.7 For pre-certification of engines within an Engine Family or Engine Group, an EIAPP Certificate shall be issued in accordance with procedures established by the Administration to the Parent Engine(s) and to every Member Engine produced under this certification to accompany the engines throughout their life whilst installed on ships under the authority of that Administration.
+I:\MEPC\58\23-Add-1.doc
+2.2.8 Issue of certification by the Administration of the country in which the engine is built
+.1 When an engine is manufactured outside the country of the Administration of the ship on which it will be installed, the Administration of the ship may request the Administration of the country in which the engine is manufactured to survey the engine. Upon satisfaction that the applicable requirements of regulation 13 are complied with pursuant to this Code, the Administration of the country in which the engine is manufactured shall issue or authorize the issuance of the EIAPP Certificate.
+.2 A copy of the certificate(s) and a copy of the survey report shall be transmitted as soon as possible to the requesting Administration.
+.3 A certificate so issued shall contain a statement to the effect that it has been issued at the request of the Administration.
+2.2.9 Guidance in respect of the pre-certification survey and certification of marine diesel engines, as described in chapter 2 of this Code, is given in the relevant flowchart in appendix 2 of this Code. Where discrepancies exist, the text of chapter 2 takes precedence.
+2.2.10 A model form of an EIAPP Certificate is attached as appendix 1 to this Code.
+2.3 Procedures for certification of an engine
+2.3.1 For those engines which have not been adjusted or modified relative to the original specification of the manufacturer, the provision of a valid EIAPP Certificate should suffice to demonstrate compliance with the applicable NOx limits.
+2.3.2 After installation on board, it shall be determined to what extent an engine has been subjected to further adjustments and/or modifications which could affect the NOx emission. Therefore, the engine, after installation on board, but prior to issuance of the IAPP Certificate, shall be inspected for modifications and be approved using the onboard NOx verification procedures and one of the methods described in 2.1.2.
+2.3.3 There are engines which, after pre-certification, need final adjustment or modification for performance. In such a case, the Engine Group concept could be used to ensure that the engine still complies with the applicable limit.
+2.3.4 Every marine diesel engine installed on board a ship shall be provided with a Technical File. The Technical File shall be prepared by the applicant for engine certification and approved by the Administration, and is required to accompany an engine throughout its life on board ships. The Technical File shall contain the information as specified in 2.4.1.
+2.3.5 Where a NOx reducing device is installed and needed to comply with the NOx limits, one of the options providing a ready means for verifying compliance with regulation 13 is the Direct Measurement and Monitoring method in accordance with 6.4. However, depending on the technical possibilities of the device used, subject to the approval of the Administration, other relevant parameters could be monitored.
+2.3.6 Where, for the purpose of achieving NOx compliance, an additional substance is introduced, such as ammonia, urea, steam, water, fuel additives, etc., a means of monitoring the consumption of such substance shall be provided. The Technical File shall provide sufficient information to allow a ready means of demonstrating that the consumption of such additional substances is consistent with achieving compliance with the applicable NOx limit.
+2.3.7 Where the Engine Parameter Check method in accordance with 6.2 is used to verify compliance, if any adjustments or modifications are made to an engine after its pre-certification, a full record of such adjustments or modifications shall be recorded in the engine's Record Book of Engine Parameters.
+2.3.8 If all of the engines installed on board are verified to remain within the parameters, components, and adjustable features recorded in the Technical File, the engines should be accepted as performing within the applicable NOx limit specified in regulation 13. In this case, provided all other applicable requirements of the Annex are complied with, an IAPP Certificate should then be issued to the ship.
+2.3.9 If any adjustment or modification is made which is outside the approved limits documented in the Technical File, the IAPP Certificate may be issued only if the overall NOx emission performance is verified to be within the required limits by: onboard Simplified Measurement in accordance with 6.3; or, reference to the test-bed testing for the relevant Engine Group approval showing that the adjustments or modifications do not exceed the applicable NOx emission limit. At surveys after the initial engine survey, the Direct Measurement and Monitoring method in accordance with 6.4, as approved by the Administration, may alternatively be used.
+2.3.10 The Administration may, at its own discretion, abbreviate or reduce all parts of the survey on board, in accordance with this Code, to an engine which has been issued an EIAPP Certificate. However, the entire survey on board must be completed for at least one cylinder and/or one engine in an Engine Family or Engine Group, if applicable, and the abbreviation may be made only if all the other cylinders and/or engines are expected to perform in the same manner as the surveyed engine and/or cylinder. As an alternative to the examination of fitted components, the Administration may conduct that part of the survey on spare parts carried on board provided they are representative of the components fitted.
+2.3.11 Guidance in respect of the survey and certification of marine diesel engines at initial, renewal, annual and intermediate surveys, as described in chapter 2 of this Code, is given in the flowcharts in appendix 2 of this Code. Where discrepancies exist, the text of chapter 2 takes precedence.
+2.4 Technical File and onboard NOx verification procedures
+2.4.1 To enable an Administration to perform the engine surveys described in 2.1, the Technical File required by 2.3.4 shall, at a minimum, contain the following information:
+.1 identification of those components, settings and operating values of the engine which influences its NOx emissions including any NOx reducing device or system;
+.2 identification of the full range of allowable adjustments or alternatives for the components of the engine;
+.3 full record of the relevant engine's performance, including the engine's rated speed and rated power;
+.4 a system of onboard NOx verification procedures to verify compliance with the NOx emission limits during onboard verification surveys in accordance with chapter 6;
+.5 a copy of the relevant Parent Engine test data, as given in section 2 of appendix 5 of this Code;
+.6 if applicable, the designation and restrictions for an engine which is an engine within an Engine Family or Engine Group;
+.7 specifications of those spare parts/components which, when used in the engine, according to those specifications, will result in continued compliance of the engine with the applicable NOx emission limit; and
+.8 the EIAPP Certificate, as applicable.
+2.4.2 As a general principle, onboard NOx verification procedures shall enable a surveyor to easily determine if an engine has remained in compliance with the applicable requirements of regulation 13. At the same time, it shall not be so burdensome as to unduly delay the ship or to require in-depth knowledge of the characteristics of a particular engine or specialist measuring devices not available on board.
+2.4.3 The onboard NOx verification procedure shall be one of the following methods:
+.1 Engine Parameter Check method in accordance with 6.2 to verify that an engine's component, setting and operating values have not deviated from the specifications in the engine's Technical File;
+.2 Simplified Measurement method in accordance with 6.3; or
+.3 Direct Measurement and Monitoring method in accordance with 6.4.
+2.4.4 When considering which onboard NOx verification procedures should be included in an engine's Technical File to verify whether an engine complies with the applicable NOx emission limit during the required onboard verification surveys, other than at an engine's initial onboard survey, any of the three onboard NOx verification procedures as specified in 6.1 may be applied. However, the procedures associated with the method applied are to be approved by the Administration. If the method differs from the verification procedure method specified in the Technical File as originally approved, the procedure of the method needs to be either added as an amendment to the Technical File or appended as an alternative to the procedure given in the Technical File. Thereafter the shipowner may choose which of the methods approved in the Technical File is to be used to demonstrate compliance.
+2.4.5 In addition to the method specified by the engine manufacturer and given in the Technical File, as approved by the Administration for the initial certification in the engine, the shipowner shall have the option of direct measurement of NOx emissions in accordance with 6.4. Such data may take the form of spot checks logged with other engine operating data on a regular basis and over the full range of engine operation or may result from continuous monitoring and data
+I:\MEPC\58\23-Add-1.doc
+storage. Data must be current (taken within the last 30 days) and must have been acquired using the test procedures cited in this Code. These monitoring records shall be kept on board for three months for verification purposes by a Party in accordance with regulation 10. Data shall also be corrected for ambient conditions and fuel specification, and measuring equipment must be checked for correct calibration and operation, in accordance with the approved procedures given in the Onboard Operating Manual. Where exhaust gas after-treatment devices are fitted which influence the NOx emissions, the measuring point(s) must be located downstream of such devices.
+3.1 Maximum allowable NOx emission limits for marine diesel engines
+3.1.1 The maximum allowable NOx emission limit values are given by paragraphs 3, 4, 5.1.1 and 7.4 of regulation 13 as applicable. The total weighted NOx emissions, as measured and calculated, rounded to one decimal place, in accordance with the procedures in this Code, shall be equal to or less than the applicable calculated value corresponding to the rated speed of the engine.
+3.1.2 When the engine operates on test fuel oils in accordance with 5.3, the total emission of nitrogen oxides (calculated as the total weighted emission of NO2) shall be determined using the relevant test cycles and measurement methods as specified in this Code.
+3.1.3 An engine's exhaust emissions limit value, given from the formulae included in paragraph 3, 4 or 5.1.1 of regulation 13 as applicable, and the actual calculated exhaust emissions value, rounded to one decimal place for the engine, shall be stated on the engine's EIAPP Certificate. If an engine is a Member Engine of an Engine Family or Engine Group, it is the relevant Parent Engine emission value that is compared to the applicable limit value for that Engine Family or Engine Group. The limit value given here shall be the limit value for the Engine Family or Engine Group based on the highest engine speed to be included in that Engine Family or Engine Group, in accordance with paragraph 3, 4 or 5.1.1 of regulation 13, irrespective of the rated speed of the Parent Engine or the rated speed of the particular engine as given on the engine's EIAPP certificate.
+3.1.4 In the case of an engine to be certified in accordance with paragraph 5.1.1 of regulation 13 the specific emission at each individual mode point shall not exceed the applicable NOx emission limit value by more than 50% except as follows:
+.1 The 10% mode point in the D2 test cycle specified in 3.2.5.
+.2 The 10% mode point in the C1 test cycle specified in 3.2.6.
+.3 The idle mode point in the C1 test cycle specified in 3.2.6.
+3.2 Test cycles and weighting factors to be applied
+3.2.1 For every Individual Engine or Parent Engine of an Engine Family or Engine Group, one or more of the relevant test cycles specified in 3.2.2 to 3.2.6 shall be applied for verification of compliance with the applicable NOx emission limit contained in regulation 13.
+3.2.2 For constant speed marine diesel engines for ship main propulsion, including diesel electric drive, test cycle E2 shall be applied in accordance with table 1.
+3.2.3 For an engine connected to a controllable pitch propeller, irrespective of combinator curve, test cycle E2 shall be applied in accordance with table 1.
+Table 1
+Test cycle for "Constant-speed main propulsion" application (including diesel-electric drive and all controllable-pitch propeller installations)
+3.2.4 For propeller law operated main and propeller law operated auxiliary engines, test cycle E3 shall be applied in accordance with table 2.
+Table 2
+Test cycle for "Propeller-law-operated main and propeller-law-operated auxiliary engine" application
+3.2.5 For constant speed auxiliary engines, test cycle D2 shall be applied in accordance with table 3.
+Table 3
+Test cycle for "Constant-speed auxiliary engine" application
+3.2.6 For variable speed, variable load auxiliary engines, not included above, test cycle C1 shall be applied in accordance with table 4.
+2 There are exceptional cases, including large bore engines intended for E2 applications, in which, due to their oscillating masses and construction, engines cannot be run at low load at nominal speed without the risk of damaging essential components. In such cases, the engine manufacturer shall make application to the Administration that the test cycle as given in table 1 above may be modified for the 25% power mode with regard to the engine speed. The adjusted engine speed at 25% power, however, shall be as close as possible to the rated engine speed, as recommended by the engine manufacturer and approved by the Administration. The applicable weighting factors for the test cycle shall remain unchanged.
+Table 4
+Test cycle for "Variable-speed, variable-load auxiliary engine" application
+3.2.7 The torque figures given in test cycle C1 are percentage values which represent for a given test mode the ratio of the required torque to the maximum possible torque at this given speed.
+3.2.8 The intermediate speed for test cycle C1 shall be declared by the manufacturer, taking into account the following requirements:
+.1 For engines which are designed to operate over a speed range on a full load torque curve, the intermediate speed shall be the declared maximum torque speed if it occurs between 60% and 75% of rated speed.
+.2 If the declared maximum torque speed is less than 60% of rated speed, then the intermediate speed shall be 60% of the rated speed.
+.3 If the declared maximum torque speed is greater than 75% of the rated speed, then the intermediate speed shall be 75% of rated speed.
+.4 For engines which are not designed to operate over a speed range on the full load torque curve at steady state conditions, the intermediate speed will typically be between 60% and 70% of the maximum rated speed.
+3.2.9 If an engine manufacturer applies for a new test cycle application on an engine already certified under a different test cycle specified in 3.2.2 to 3.2.6, then it may not be necessary for that engine to undergo the full certification process for the new application. In this case, the engine manufacturer may demonstrate compliance by recalculation, by applying the measurement results from the specific modes of the first certification test to the calculation of the total weighted emissions for the new test cycle application, using the corresponding weighting factors from the new test cycle.
+Chapter 4
+Approval for serially manufactured engines: Engine Family and Engine Group concepts
+4.1 General
+4.1.1 To avoid certification testing of every engine for compliance with the NOx emission limits, one of two approval concepts may be adopted, namely the Engine Family or the Engine Group concept.
+4.1.2 The Engine Family concept may be applied to any series produced engines which, through their design are proven to have similar NOx emission characteristics, are used as produced, and, during installation on board, require no adjustments or modifications which could adversely affect the NOx emissions.
+4.1.3 The Engine Group concept may be applied to a smaller series of engines produced for similar engine application and which require minor adjustments and modifications during installation or in service on board.
+4.1.4 Initially the engine manufacturer may, at its discretion, determine whether engines should be covered by the Engine Family or Engine Group concept. In general, the type of application shall be based on whether the engines will be modified, and to what extent, after testing on a test bed.
+4.2 Documentation
+4.2.1 All documentation for certification must be completed and suitably stamped by the duly authorized Authority as appropriate. This documentation shall also include all terms and conditions, including replacement of spare parts, to ensure that an engine is maintained in compliance with the applicable NOx emission limit.
+4.2.2 For an engine within an Engine Family or Engine Group, the required documentation for the Engine Parameter Check method is specified in 6.2.2.
+4.3 Application of the Engine Family concept
+4.3.1 The Engine Family concept provides the possibility of reducing the number of engines which must be submitted for approval testing, while providing safeguards that all engines within the Engine Family comply with the approval requirements. In the Engine Family concept, engines with similar emission characteristics and design are represented by a Parent Engine.
+4.3.2 Engines that are series produced and not intended to be modified may be covered by the Engine Family concept.
+4.3.3 The selection procedure for the Parent Engine is such that the selected engine incorporates those features which will most adversely affect the NOx emission level. This engine, in general, shall have the highest NOx emission level among all of the engines in the Engine Family.
+4.3.4 On the basis of tests and engineering judgement, the manufacturer shall propose which engines belong to an Engine Family, which engine(s) produce the highest NOx emissions, and which engine(s) should be selected for certification testing.
+4.3.5 The Administration shall review for certification approval the selection of the Parent Engine within the Engine Family and shall have the option of selecting a different engine, either for approval or production conformity testing, in order to have confidence that all engines within the Engine Family comply with the applicable NOx emission limit.
+4.3.6 The Engine Family concept does allow minor adjustments to the engines through adjustable features. Marine diesel engines equipped with adjustable features must comply with all requirements for any adjustment within the physically available range. A feature is not considered adjustable if it is permanently sealed or otherwise not normally accessible. The Administration may require that adjustable features be set to any specification within its adjustable range for certification or in-use testing to determine compliance with the requirements.
+4.3.7 Before granting an Engine Family approval, the Administration shall take the necessary measures to verify that adequate arrangements have been made to ensure effective control of the conformity of production. This may include, but is not limited to:
+.1 the connection between the NOx critical component part or identification numbers as proposed for the Engine Family and the drawing numbers (and revision status if applicable) defining those components;
+.2 the means by which the Administration will be able, at the time of a survey, to verify that the drawings used for the production of the NOx critical components correspond to the drawings established as defining the Engine Family;
+.3 drawing revision control arrangements. Where it is proposed by a manufacturer that revisions to the NOx critical component drawings defining an Engine Family may be undertaken through the life of an engine, then the conformity of production scheme would need to demonstrate the procedures to be adopted to cover the cases where revisions will, or will not, affect NOx emissions. These procedures shall cover drawing number allocation, effect on the identification markings on the NOx critical components and the provision for providing the revised drawings to the Administration responsible for the original Engine Family approval, where these revisions may affect the NOx emissions the means to be adopted to assess or verify performance against the Parent Engine performance are to be stated together with the subsequent actions to be taken regarding advising the Administration and, where necessary, the declaration of a new Parent Engine prior to the introduction of those modifications into service;
+.4 the implemented procedures that ensure any NOx critical component spare parts supplied to a certified engine will be identified as given in the approved Technical File and hence will be produced in accordance with the drawings as defining the Engine Family; or
+.5 equivalent arrangements as approved by the Administration.
+4.3.8 Guidance for the selection of an Engine Family
+4.3.8.1 The Engine Family shall be defined by basic characteristics which must be common to all engines within the Engine Family. In some cases there may be interaction of parameters; these effects must also be taken into consideration to ensure that only engines with similar exhaust emission characteristics are included within an Engine Family, e.g., the number of cylinders may become a relevant parameter on some engines due to the charge air or fuel system used, but with other designs, exhaust emissions characteristics may be independent of the number of cylinders or configuration.
+4.3.8.2 The engine manufacturer is responsible for selecting those engines from their different models of engines that are to be included in an Engine Family. The following basic characteristics, but not specifications, shall be common among all engines within an Engine
+.9 fuel system type:
+-pump-line-injector
+-in-line
+-distributor
+- single element
+-unit injector
+-gas valve
+.10 miscellaneous features:
+exhaust gas re-circulation
+water/emulsion injection
+-air injection
+- charge cooling system
+-exhaust after-treatment
+-reduction catalyst - oxidation catalyst
+- thermal reactor
+-particulates trap.
+4.3.8.3 If there are engines which incorporate other features which could be considered to affect NOx exhaust emissions, these features must be identified and taken into account in the selection of the engines to be included in the Engine Family.
+4.3.9 Guidance for selecting the Parent Engine of an Engine Family
+4.3.9.1 The method of selection of the Parent Engine for NOx measurement shall be agreed to and approved by the Administration. The method shall be based upon selecting an engine which incorporates engine features and characteristics which, from experience, are known to produce the highest NOx emissions expressed in grams per kilowatt hour (g/kWh). This requires detailed knowledge of the engines within the Engine Family. Under certain circumstances, the Administration may conclude that the worst case NOx emission rate of the Engine Family can best be characterized by testing a second engine. Thus, the Administration may select an additional engine for test based upon features which indicate that it may have the highest NOx emission levels of the engines within that Engine Family. If the range of engines within the Engine Family incorporate other variable features which could be considered to affect NOx emissions, these features must also be identified and taken into account in the selection of the Parent Engine.
+4.3.9.2 The Parent Engine shall have the highest emission value for the applicable test cycle.
+4.3.10 Certification of an Engine Family
+4.3.10.1 The certification shall include a list, to be prepared and maintained by the engine manufacturer and approved by the Administration, of all engines and their specifications accepted under the same Engine Family, the limits of their operating conditions and the details and limits of engine adjustments that may be permitted.
+4.3.10.2 A pre-certificate, or EIAPP Certificate, shall be issued for a Member Engine of an Engine Family in accordance with this Code which certifies that the Parent Engine meets the applicable NOx limit specified in regulation 13. Where Member Engine pre-certification requires
+the measurement of some performance values, the calibration of the equipment used for those measurements shall be in accordance with the requirements of 1.3 of appendix 4 of this Code.
+4.3.10.3 When the Parent Engine of an Engine Family is tested and gaseous emissions measured under the most adverse conditions specified within this Code and confirmed as complying with the applicable maximum allowable emission limits as given in 3.1, the results of the test and NOx measurement shall be recorded in the EIAPP Certificate issued for the particular Parent Engine and for all Member Engines of the Engine Family.
+4.3.10.4 If two or more Administrations agree to accept each other's EIAPP Certificates, then an entire Engine Family, certified by one of these Administrations, shall be accepted by the other Administrations which entered into that agreement with the original certifying Administration, unless the agreement specified otherwise. Certificates issued under such agreements shall be acceptable as prima facie evidence that all engines included in the certification of the Engine Family comply with the specific NOx emission requirements. There is no need for further evidence of compliance with regulation 13 if it is verified that the installed engine has not been modified and the engine adjustment is within the range permitted in the Engine Family certification.
+4.3.10.5 If the Parent Engine of an Engine Family is to be certified in accordance with an alternative standard or a different test cycle than allowed by this Code, the manufacturer must prove to the Administration that the weighted average NOx emissions for the appropriate test cycles fall within the relevant limit values under regulation 13 and this Code before the Administration may issue an EIAPP Certificate.
+4.4 Application of the Engine Group concept
+4.4.1 Engine Group engines normally require adjustment or modification to suit the onboard operating conditions but these adjustments or modifications shall not result in NOx emissions exceeding the applicable limits in regulation 13.
+4.4.2 The Engine Group concept also provides the possibility for a reduction in approval testing for modifications to engines in production or in service.
+4.4.3 In general, the Engine Group concept may be applied to any engine type having the same design features as specified in 4.4.6, but individual engine adjustment or modification after test-bed measurement is allowed. The range of engines in an Engine Group and choice of Parent Engine shall be agreed to and approved by the Administration.
+4.4.4 The application for the Engine Group concept, if requested by the engine manufacturer or another party, shall be considered for certification approval by the Administration. If the engine owner, with or without technical support from the engine manufacturer, decides to perform modifications on a number of similar engines in the owner's fleet, the owner may apply for an Engine Group certification. The Engine Group may be based on a Parent Engine which is a test engine on the test bench. Typical applications are similar modifications of similar engines in similar operational conditions. If a party other than the engine manufacturer applies for engine certification, the applicant for the engine certification takes on the responsibilities of the engine manufacturer as elsewhere given within this Code.
+4.4.5 Before granting an initial Engine Group approval for serially produced engines, the Administration shall take the necessary measures to verify that adequate arrangements have been made to ensure effective control of the conformity of production. The requirements of 4.3.7 apply mutatis mutandis to this section. This requirement may not be necessary for Engine Groups
+established for the purpose of engine modification on board after an EIAPP Certificate has been issued.
+4.4.6 Guidance for the selection of an Engine Group
+4.4.6.1 The Engine Group may be defined by basic characteristics and specifications in addition to the parameters defined in 4.3.8 for an Engine Family.
+4.4.6.2 The following parameters and specifications shall be common to engines within an Engine Group:
+.1 bore and stroke dimensions;
+.2 method and design features of pressure charging and exhaust gas system:
+-constant pressure;
+- pulsating system;
+.3 method of charge air cooling system:
+-with/without charge air cooler;
+.4 design features of the combustion chamber that effect NOx emission;
+.5 design features of the fuel injection system, plunger and injection cam which may profile basic characteristics that effect NOx emission; and
+.6 rated power at rated speed. The permitted ranges of engine power (kW/cylinder) and/or rated speed are to be declared by the manufacturer and approved by the Administration.
+4.4.6.3 Generally, if the criteria required by 4.4.6.2 are not common to all engines within a prospective Engine Group, then those engines may not be considered as an Engine Group. However, an Engine Group may be accepted if only one of those criteria is not common for all of the engines within a prospective Engine Group.
+4.4.7 Guidance for allowable adjustment or modification within an Engine Group
+4.4.7.1 Minor adjustments and modifications in accordance with the Engine Group concept are allowed after pre-certification or final test-bed measurement within an Engine Group upon agreement of the parties concerned and approval of the Administration, if:
+.1 an inspection of emission-relevant engine parameters and/or provisions of the onboard NOx verification procedures of the engine and/or data provided by the engine manufacturer confirm that the adjusted or modified engine complies with the applicable NOx emission limit. The engine test-bed results in respect of NOx emissions may be accepted as an option for verifying onboard adjustments or modifications to an engine within an Engine Group; or
+.2 onboard measurement confirms that the adjusted or modified engine complies with the applicable NOx emission limit.
+4.4.7.2 Examples of adjustments and modifications within an Engine Group that may be permitted, but are not limited to those described below:
+.1 For onboard conditions, adjustment of:
+injection timing for compensation of fuel property differences,
+injection timing for maximum cylinder pressure,
+-fuel delivery differences between cylinders.
+.2 For performance, modification of:
+-turbocharger,
+- injection pump components,
+-plunger specification,
+-delivery valve specification,
+injection nozzles,
+cam profiles,
+-intake and/or exhaust valve,
+injection cam,
+combustion chamber.
+4.4.7.3 The above examples of modifications after a test-bed trial concern essential improvements of components or engine performance during the life of an engine. This is one of the main reasons for the existence of the Engine Group concept. The Administration, upon application, may accept the results from a demonstration test carried out on one engine, possibly a test engine, indicating the effects of the modifications on NOx emissions which may be accepted for all engines within that Engine Group without requiring certification measurements on each Member Engine of the Engine Group.
+4.4.8 Guidance for the selection of the Parent Engine of an Engine Group
+4.4.8.1 The selection of the Parent Engine shall be in accordance with the criteria in 4.3.9, as applicable. It is not always possible to select a Parent Engine from small-volume production engines in the same way as the mass-produced engines (Engine Family). The first engine ordered may be registered as the Parent Engine. Furthermore at the pre-certification test where a Parent Engine is not adjusted to the engine builder defined reference or maximum tolerance operating conditions (which may include, but not limited to, maximum combustion pressure, compression pressure, exhaust back pressure, charge air temperature) for the Engine Group, the measured NOx emission values shall be corrected to the defined reference and maximum tolerance conditions on the basis of emission sensitivity tests on other representative engines. The resulting corrected average weighted NOx emission value under reference conditions is to be stated in 1.9.6 of the Supplement to the EIAPP Certificate. In no case is the effect of the reference condition tolerances to result in an emission value which would exceed the applicable NOx emission limit as required by regulation 13. The method used to select the Parent Engine to represent the Engine Group, the reference values and the applied tolerances shall be agreed to and approved by the Administration.
+4.4.9 Certification of an Engine Group
+4.4.9.1 The requirements of 4.3.10 apply mutatis mutandis to this section.
+Chapter 5
+Procedures for NOx emission measurements on a test bed
+5.1 General
+5.1.1 This procedure shall be applied to every initial approval testing of a marine diesel engine regardless of the location of that testing (the methods described in 2.1.2.1 and 2.1.2.2).
+5.1.2 This chapter specifies the measurement and calculation methods for gaseous exhaust emissions from reciprocating internal-combustion engines under steady-state conditions, necessary for determining the average weighted value for the NOx exhaust gas emission.
+5.1.3 Many of the procedures described below are detailed accounts of laboratory methods, since determining an emissions value requires performing a complex set of individual measurements, rather than obtaining a single measured value. Thus, the results obtained depend as much on the process of performing the measurements as they depend on the engine and test method.
+5.1.4 This chapter includes the test and measurement methods, test run and test report as a procedure for a test-bed measurement.
+5.1.5 In principle, during emission tests, an engine shall be equipped with its auxiliaries in the same manner as it would be used on board.
+5.1.6 For many engine types within the scope of this Code, the auxiliaries which may be fitted to the engine in service may not be known at the time of manufacture or certification. It is for this reason that the emissions are expressed on the basis of brake power as defined in 1.3.13.
+5.1.7 When it is not appropriate to test the engine under the conditions as defined in 5.2.3, e.g., if the engine and transmission form a single integral unit, the engine may only be tested with other auxiliaries fitted. In this case the dynamometer settings shall be determined in accordance with 5.2.3 and 5.9. The auxiliary losses shall not exceed 5% of the maximum observed power. Losses exceeding 5% shall be approved by the Administration involved prior to the test.
+5.1.8 All volumes and volumetric flow rates shall be related to 273 K (0°C) and 101.3 kPa.
+5.1.9 Except as otherwise specified, all results of measurements, test data or calculations required by this chapter shall be recorded in the engine's test report in accordance with 5.10.
+5.1.10 References in this Code to the term "charge air" apply equally to scavenge air.
+5.2 Test conditions
+5.2.1 Test condition parameter and test validity for Engine Family approval
+5.2.1.1 The absolute temperature Ta of the engine intake air expressed in Kelvin shall be measured, and the dry atmospheric pressure ps, expressed in kPa, shall be measured or calculated as follows:
+ps = pb - 0.01 ⋅ Ra ⋅ pa
+pa according to formula (10)
+5.2.1.2 For naturally aspirated and mechanically pressure charged engines the parameter fa shall be determined according to the following:
+0.7
+
+⎛ ⎝⎞
+T
+a
+298
+⎞ 
+99
+⋅
+⎟⎟⎜⎜
+=
+(1)
+f
+a
+
+p
+s
+
+5.2.1.3 For turbocharged engines with or without cooling of the intake air the parameter fa shall be determined according to the following:
+0.7
+⎛ 
+T
+a
+298
+1.5
+⎞ ⎠
+(2)
+
+
+99
+⋅
+⎟⎟⎜⎜
+=
+f
+a
+
+p
+s
+
+5.2.1.4 For a test to be recognized as valid for Engine Family approval, the parameter fa shall be such that:
+0.93 ≤ fa ≤ 1.07 (3)
+5.2.2 Engines with charge air cooling
+5.2.2.1 The temperature of the cooling medium and the charge air temperature shall be recorded.
+5.2.2.2 All engines when equipped as intended for installation on board ships must be capable of operating within the applicable NOx emission limit of regulation 13 at an ambient seawater temperature of 25°C. This reference temperature shall be considered in accordance with the charge air cooling arrangement applicable to the individual installation as follows:
+5.2.2.3 Compliance with the applicable NOx emission limit as defined by regulation 13 shall be demonstrated either by testing or by calculation using the charge air reference temperatures (TSCRef) specified and justified by the manufacturer, if applicable.
+5.2.3 Power
+5.2.3.1 The basis of specific emissions measurement is uncorrected brake power as defined in 1.3.11 and 1.3.13. The engine shall be submitted with auxiliaries needed for operating the engine (e.g., fan, water pump, etc.). If it is impossible or inappropriate to install the auxiliaries on the test bench, the power absorbed by them shall be determined and subtracted from the measured engine power.
+5.2.3.2 Auxiliaries not necessary for the operation of the engine and which may be mounted on the engine may be removed for the test. See also 5.1.5 and 5.1.6.
+5.2.3.3 Where auxiliaries have not been removed, the power absorbed by them at the test speeds shall be determined in order to calculate the dynamometer settings, except for engines where such auxiliaries form an integral part of the engine (e.g., cooling fans for air cooled engines).
+5.2.4 Engine air inlet system
+5.2.4.1 An engine air intake system or a test shop system shall be used presenting an air intake restriction within ± 300 Pa of the maximum value specified by the manufacturer for a clean air cleaner at the speed of rated power and full-load.
+5.2.4.2 If the engine is equipped with an integral air inlet system, it shall be used for testing.
+5.2.5 Engine exhaust system
+5.2.5.1 An engine exhaust system or a test shop system shall be used which presents an exhaust backpressure within ± 650 Pa of the maximum value specified by the manufacturer at the speed of rated power and full load. The exhaust system shall conform to the requirements for exhaust gas sampling, as set out in 5.9.3.
+5.2.5.2 If the engine is equipped with an integral exhaust system, it shall be used for testing.
+5.2.5.3 If the engine is equipped with an exhaust after-treatment device, the exhaust pipe shall have the same diameter as found in-use for at least 4 pipe diameters upstream to the inlet of the beginning of the expansion section containing the after-treatment device. The distance from the exhaust manifold flange or turbocharger outlet to the exhaust after-treatment device shall be the same as in the onboard configuration or within the distance specifications of the manufacturer. The exhaust backpressure or restriction shall follow the same criteria as above, and may be set with a valve.
+5.2.5.4 Where test-bed installation prevents adjustment to the exhaust gas backpressure as required, the effect on the NOx emissions shall be demonstrated by the engine builder and, with the approval of the Administration, the emission value duly corrected as necessary.
+5.2.6 Cooling system
+5.2.6.1 An engine cooling system with sufficient capacity to maintain the engine at normal operating temperatures prescribed by the manufacturer shall be used.
+5.3 Test fuel oils
+5.3.1 Fuel oil characteristics may influence the engine exhaust gas emission; in particular, some fuel bound nitrogen can be converted to NOx during combustion. Therefore, the characteristics of the fuel oil used for the test are to be determined and recorded. Where a reference fuel oil is used, the reference code or specifications and the analysis of the fuel oil shall be provided.
+5.3.2 The selection of the fuel oil for the test depends on the purpose of the test. If a suitable reference fuel oil is not available, it is recommended to use a DM-grade marine fuel specified in ISO 8217:2005, with properties suitable for the engine type. In case a DM-grade fuel oil is not available, a RM-grade fuel oil according to ISO 8217:2005 shall be used. The fuel oil shall be analysed for its composition of all components necessary for a clear specification and determination of DM- or RM-grade. The nitrogen content shall also be determined. The fuel oil used during the Parent Engine test shall be sampled during the test.
+5.3.3 The fuel oil temperature shall be in accordance with the manufacturer's recommendations. The fuel oil temperature shall be measured at the inlet to the fuel injection pump, or as specified by the manufacturer, and the temperature and location of measurement recorded.
+5.3.4 Dual fuel engines using liquid fuel as pilot fuel shall be tested using maximum liquid to gas fuel ratio. The liquid fraction of the fuel shall comply with 5.3.1, 5.3.2 and 5.3.3.
+5.4 Measurement equipment and data to be measured
+5.4.1 The emission of gaseous components by the engine submitted for testing shall be measured by the methods described in appendix 3 of this Code which describe the recommended analytical systems for the gaseous emissions.
+5.4.2 Other systems or analysers may, subject to the approval of the Administration, be accepted if they yield equivalent results to that of the equipment referenced in 5.4.1. In establishing equivalency it shall be demonstrated that the proposed alternative systems or analysers would, as qualified by using recognized national or international standards, yield equivalent results when used to measure diesel engine exhaust emission concentrations in terms of the requirements referenced in 5.4.1.
+5.4.3 For introduction of a new system the determination of equivalency shall be based upon the calculation of repeatability and reproducibility, as described in ISO 5725-1 and ISO 5725-2, or any other comparable recognized standard.
+5.4.4 This Code does not contain details of flow, pressure, and temperature measuring equipment. Instead, only the accuracy requirements of such equipment necessary for conducting an emissions test are given in 1.3.1 of appendix 4 of this Code.
+5.4.5 Dynamometer specification
+5.4.5.1 An engine dynamometer with adequate characteristics to perform the appropriate test cycle described in 3.2 shall be used.
+5.4.5.2 The instrumentation for torque and speed measurement shall allow the measurement accuracy of the shaft power within the given limits. Additional calculations may be necessary.
+5.4.5.3 The accuracy of the measuring equipment shall be such that the maximum permissible deviations given in 1.3.1 of appendix 4 of this Code are not exceeded.
+5.5 Determination of exhaust gas flow
+5.5.1 The exhaust gas flow shall be determined by one of the methods specified in 5.5.2, 5.5.3 or 5.5.4.
+5.5.2 Direct measurement method
+5.5.2.1 This method involves the direct measurement of the exhaust flow by flow nozzle or equivalent metering system and shall be in accordance with a recognized international standard.
+Note: Direct gaseous flow measurement is a difficult task. Precautions shall be taken to avoid measurement errors which will result in emission value errors.
+5.5.3 Air and fuel measurement method
+5.5.3.1 The method for determining exhaust emission flow using the air and fuel measurement method shall be conducted in accordance with a recognized international standard.
+5.5.3.2 This involves measurement of the air flow and the fuel flow. Air flow-meters and fuel flow-meters with an accuracy defined in 1.3.1 of appendix 4 of this Code shall be used.
+5.5.3.3 The exhaust gas flow shall be calculated as follows:
+q =q + q (4)
+mew maw mf
+5.5.3.4 The air flow-meter shall meet the accuracy specifications of appendix 4 of this Code, the CO2 analyser used shall meet the specifications of appendix 3 of this Code, and the total system shall meet the accuracy specifications for the exhaust gas flow as given in appendix 4 of this Code.
+5.5.4 Fuel flow and carbon balance method
+5.5.4.1 This involves exhaust mass flow rate calculation from fuel consumption, fuel composition and exhaust gas concentrations using the carbon balance method, as specified in appendix 6 of this Code.
+5.6 Permissible deviations of instruments for engine-related parameters and other essential parameters
+5.6.1 The calibration of all measuring instruments including both the measuring instruments as detailed under appendix 4 of this Code and additional measuring instruments required in order to define an engine's NOx emission performance, for example the measurement of peak cylinder or charge air pressures, shall be traceable to standards recognized by the Administration and shall comply with the requirements as set out in 1.3.1 of appendix 4 of this Code.
+5.7 Analysers for determination of the gaseous components
+5.7.1 The analysers to determine the gaseous emissions shall meet the specifications as set out in appendix 3 of this Code.
+5.8 Calibration of the analytical instruments
+5.8.1 Each analyser used for the measurement of an engine's gaseous emissions shall be calibrated in accordance with the requirements of appendix 4 of this Code.
+5.9 Test run
+5.9.1 General
+5.9.1.1 Detailed descriptions of the recommended sampling and analysing systems are contained in 5.9.2 to 5.9.4 and appendix 3 of this Code. Since various configurations may produce equivalent results, exact conformance with these figures is not required. Additional components, such as instruments, valves, solenoids, pumps, and switches, may be used to provide additional information and coordinate the functions of the component systems. Other components which are not needed to maintain the accuracy on some systems may, with the agreement of the Administration, be excluded if their exclusion is based upon good engineering judgement.
+5.9.1.2 The treatment of inlet restriction (naturally aspirated engines) or charge air pressure (turbo-charged engines) and exhaust back pressure shall be in accordance with 5.2.4 and 5.2.5 respectively.
+5.9.1.3 In the case of a pressure charged engine, the inlet restriction conditions shall be taken as the condition with a clean air inlet filter and the pressure charging system working within the bounds as declared, or to be established, for the Engine Family or Engine Group to be represented by the Parent Engine test result.
+5.9.2 Main exhaust components: CO, CO2, HC, NOx and O2
+5.9.2.1 An analytical system for the determination of the gaseous emissions in the raw exhaust gas shall be based on the use of analysers given in 5.4.
+5.9.2.2 For the raw exhaust gas, the sample for all components may be taken with one sampling probe or with two sampling probes located in close proximity and internally split to the different analysers. Care must be taken that no condensation of exhaust components (including water and sulphuric acid) occurs at any point of the analytical system.
+5.9.2.3 Specifications and calibration of these analysers shall be as set out in appendices 3 and 4 of this Code, respectively.
+5.9.3 Sampling for gaseous emissions
+5.9.3.1 The sampling probes for the gaseous emissions shall be fitted at least 10 pipe diameters after the outlet of the engine, turbocharger, or last after-treatment device, whichever is furthest downstream, but also at least 0.5 m or 3 pipe diameters upstream of the exit of the exhaust gas system, whichever is greater. For a short exhaust system that does not have a location that meets both of these specifications, an alternative sample probe location shall be subject to approval by the Administration.
+5.9.3.2 The exhaust gas temperature shall be at least 190°C at the HC sample probe, and at least 70°C at the sample probes for other measured gas species where they are separate from the HC sample probe.
+5.9.3.3 In the case of a multi-cylinder engine with a branched exhaust manifold, the inlet of the probe shall be located sufficiently far downstream so as to ensure that the sample is representative of the average exhaust emissions from all cylinders. In the case of a multi-cylinder engine having distinct groups of manifolds, it is permissible to acquire a sample from each group individually and calculate an average exhaust emission. Alternatively, it would also be permissible to acquire a sample from a single group to represent the average exhaust emission provided that it can be justified to the Administration that the emissions from other groups are identical. Other methods, subject to the approval of the Administration, which have been shown to correlate with the above methods may be used. For exhaust emission calculation, the total exhaust mass flow shall be used.
+5.9.3.4 The exhaust gas sampling system shall be leakage tested in accordance with section 4 of appendix 4 of this Code.
+5.9.3.5 If the composition of the exhaust gas is influenced by any exhaust after-treatment system, the exhaust gas sample shall be taken downstream of that device.
+5.9.3.6 The inlet of the probe shall be located as to avoid ingestion of water which is injected into the exhaust system for the purpose of cooling, tuning or noise reduction.
+5.9.4 Checking of the analysers
+5.9.4.1 The emission analysers shall be set at zero and spanned in accordance with section 6 of appendix 4 of this Code.
+5.9.5 Test cycles
+5.9.5.1 An engine shall be tested in accordance with the test cycles as defined in 3.2. This takes into account the variations in engine application.
+5.9.6 Test sequence
+5.9.6.1 After the procedures in 5.9.1 to 5.9.5 have been completed, the test sequence shall be started. The engine shall be operated in each mode, in any order, in accordance with the appropriate test cycles defined in 3.2.
+5.9.6.2 During each mode of the test cycle after the initial transition period, the specified speed shall be held within ± 1% of the rated speed or ± 3 min-1 whichever is greater except for low idle which shall be within the tolerances declared by the manufacturer. The specified torque shall be held so that the average over the period during which the measurements are being taken is within ± 2% of the rated torque at the engine's rated speed.
+5.9.7 Analyser response
+5.9.7.1 When stabilized, the output of the analysers shall be recorded both during the test and during all zero and span response checks, using a data acquisition system or a strip chart recorder. The recording period shall not be less than 10 minutes when analysing exhaust gas or not less than 3 minutes for each zero and span response check. For data acquisition systems, a minimum sampling frequency of 3 per minute shall be used. Measured concentrations of CO, HC and NOx are to be recorded in terms of, or equivalent to, ppm to at least the nearest whole number. Measured concentrations of CO2 and O2 are to be recorded in terms of, or equivalent to, % to not less than two decimal places.
+5.9.8 Engine conditions
+5.9.8.1 The engine speed, load and other essential parameters shall be measured at each mode point only after the engine has been stabilized. The exhaust gas flow shall be measured or calculated and recorded.
+5.9.9 Re-checking the analysers
+5.9.9.1 After the emission test, the zero and span responses of the analysers shall be re-checked using a zero gas and the same span gas as used prior to the measurements. The test shall be considered acceptable if:
+.1 the difference between the responses to the zero gas before and after the test is less than 2% of the initial span gas concentration; and
+.2 the difference between the responses to the span gas before and after the test is less than 2% of the initial span gas concentration.
+5.9.9.2 Zero and span drift correction shall not be applied to the analyser responses recorded in accordance with 5.9.7.
+5.10 Test report
+5.10.1 For every Individual Engine or Parent Engine tested to establish an Engine Family or Engine Group, the engine manufacturer shall prepare a test report which shall contain the necessary data to fully define the engine performance and enable calculation of the gaseous emissions including the data as set out in section 1 of appendix 5 of this Code. The original of the
+test report shall be maintained on file with the engine manufacturer and a certified true copy shall be maintained on file by the Administration.
+5.11 Data evaluation for gaseous emissions
+5.11.1 For the evaluation of the gaseous emissions, the data recorded for at least the last 60 seconds of each mode shall be averaged, and the concentrations of CO, CO2, HC, NOx, and O2 during each mode shall be determined from the averaged recorded data and the corresponding zero and span check data. The averaged results shall be given in terms of % to not less than two decimal places for CO2 and O2 species and in terms of ppm to at least the nearest whole number for CO, HC and NOx species.
+5.12 Calculation of the gaseous emissions
+5.12.1 The final results for the test report shall be determined by following the steps in 5.12.2 to 5.12.6.
+5.12.2 Determination of the exhaust gas flow
+5.12.2.1 The exhaust gas flow rate (qmew) shall be determined for each mode in accordance with one of the methods described in 5.5.2 to 5.5.4.
+5.12.3 Dry/wet correction
+5.12.3.1 If the emissions are not measured on a wet basis, the measured concentration shall be converted to a wet basis according to either of the following formulae:
+cw = kw ⋅ cd (5)
+5.12.3.2 For the raw exhaust gas:
+.1 Complete combustion where exhaust gas flow is to be determined in accordance with direct measurement method in 5.5.2 or air and fuel measurement method in 5.5.3 either of the following formulae shall be used:
+ qmf ⎞
+ 1.2442 ⋅ H + 111.19 ⋅ w ⋅⎟
+a ALF
+q
+ mad ⎟
+kwr1 = 1 − q ⎟⋅1.008 (6)
+773.4 + 1.2442 ⋅ H + mf ⋅ f ⋅1000
+ afw 
+q
+ mad 
+or
+ qmf ⎞
+ 1.2442 ⋅ H + 111.19 ⋅ w ⋅⎟
+a ALF
+q
+ pr ⎞
+ mad ⎟
+kwr1 = 1 − ⎜ 1 − ⎟ (7)
+ q 
+p
+mf  b ⎠
+773.4 + 1.2442 ⋅ H +⋅ f ⋅1000
+ a fw 
+q
+ mad 
+with: ffw = 0.055594 ⋅ wALF + 0.0080021 ⋅ wDEL + 0.0070046 ⋅ wEPS (8) Ha is the absolute humidity of intake air, in g water per kg dry air
+Note: Ha may be derived from relative humidity measurement, dewpoint measurement, vapour pressure measurement or dry/wet bulb measurement using the generally accepted formulae.
+Ha = 6.22 ⋅ pa ⋅ Ra / (pb - 0.01 ⋅ Ra ⋅ pa) (9)
+where: pa = saturation vapour pressure of the intake air, kPa pa = (4.856884 + 0.2660089 ⋅ ta + 0.01688919 ⋅ ta2 - 7.477123 ⋅ 10-5 ⋅ ta3
++ 8.10525 ⋅ 10-6 ⋅ ta4 - 3.115221 ⋅ 10-8 ⋅ ta5 ) ⋅ (101.32 / 760) (10)
+with: ta = temperature of the intake air, °C ; ta = Ta - 273.15 pb = total barometric pressure, kPa pr = water vapour pressure after cooling bath of the analysis system, kPa pr = 0.76 kPa for cooling bath temperature 3°C
+.2 Incomplete combustion, CO more than 100 ppm or HC more than 100 ppmC at one or more mode points, where exhaust gas flow is determined in accordance with direct measurement method 5.5.2, air and fuel measurement method 5.5.3 and in all cases where the carbon-balance method 5.5.4 is used the following equation shall be used:
+Note: The unit for the CO and CO2 concentrations in (11) and (13) is %.
+kwr2 = 1 p (11)
+r
+1+α⋅ 0.005⋅( cCO2d + cCOd )− 0.01⋅ cH2d + kw2 − pb
+with:
+w
+α=11.9164 ⋅ ALF (12)
+w
+BET
+0.5 ⋅α ⋅c ⋅ ( c + c )
+COd COd CO2d
+cH2d = (13)
+c + 3 ⋅ c
+COd CO2d
+1.608 ⋅ Ha
+kw2 = (14)
+1000 +( 1.608 ⋅ Ha )
+5.12.3.3 For the intake air:
+k = 1− k (15)
+wa w2
+5.12.4 NOx correction for humidity and temperature
+5.12.4.1 As the NOx emission depends on ambient air conditions, the NOx concentration shall be corrected for ambient air temperature and humidity with the factors in accordance with 5.12.4.5 or 5.12.4.6 as applicable.
+5.12.4.2 Other reference values for humidity instead of 10.71 g/kg at the reference temperature of 25°C shall not be used.
+5.12.4.3 Other correction formulae may be used if they can be justified, validated and are approved by the Administration.
+5.12.4.4 Water or steam injected into the charge air (air humidification) is considered an emission control device and shall therefore not be taken into account for humidity correction. Water that condensates in the charge cooler will change the humidity of the charge air and therefore shall be taken into account for humidity correction.
+5.12.4.5 For compression ignition engines:
+1
+khd = (16)
+1 − 0.0182 ⋅( Ha −10.71 )+ 0.0045 ⋅( Ta − 298 )
+where: Ta = is the temperature of the air at the inlet to the air filter in K; Ha = is the humidity of the intake air at the inlet to the air filter in g water per kg dry air.
+5.12.4.6 For compression ignition engines with intermediate air cooler the following alternative equation shall be used:
+1
+khd = (17)1− 0.012⋅( Ha −10.71)− 0.00275 ⋅( Ta − 298)+ 0.00285⋅( TSC −TSCRef )
+where: TSC is the temperature of the charge air; TSCRef is the temperature of the charge air at each mode point corresponding to a seawater temperature of 25°C as specified in 5.2.2. TSCRef is to be specified by the manufacturer.
+To take the humidity in the charge air into account, the following consideration is added:
+HSC = humidity of the charge air, g water per kg dry air in which:
+HSC = 6.22 ⋅ pSC ⋅ 100 / (pC - pSC)
+where: pSC = saturation vapour pressure of the charge air, kPa pC = charge air pressure, kPa
+However if Ha ≥ HSC, then HSC shall be used in place of Ha in formula (17).
+5.12.5 Calculation of the emission mass flow rates
+5.12.5.1 The emission mass flow rate of the respective component in the raw exhaust gas for each mode shall be calculated in accordance with 5.12.5.2 from the measured concentration as obtained in accordance with 5.11.1, the applicable ugas value from table 5 and the exhaust gas mass flow rate in accordance with 5.5.
+Table 5 Coefficient ugas and fuel specific parameters for raw exhaust gas
+ugas = ratio between density of exhaust component and density of exhaust gas, see table 5 cgas = concentration of the respective component in the raw exhaust gas, ppm, wet qmew = exhaust mass flow, kg/h, wet
+khd = NOx humidity correction factor
+Note: In the case of CO2 and O2 measurement, the concentration will normally be reported in terms of %. With regard to the application of formula 18a, these concentrations will need to be expressed in ppm. 1.0 % = 10000 ppm.
+5.12.5.3 For the calculation of NOx, the humidity correction factor khd as determined according to 5.12.4 shall be used.
+5.12.5.4 The measured concentration shall be converted to a wet basis according to 5.12.3 if not already measured on a wet basis.
+5.12.6 Calculation of the specific emission
+5.12.6.1 The emission shall be calculated for all individual components in accordance with the following:
+i=n
+∑( qmgasi ⋅WFi )
+i=1
+1. gas= (19)
+xi=n
+∑( Pi ⋅WFi )
+i=1
+where:
+2. P = P + P (20)
+m aux
+and qmgas is the mass flow of individual gas; Pm is the measured power of the individual mode; Paux is the power of the auxiliaries fitted to the engine of the individual mode.
+5.12.6.2 The weighting factors and the number of modes (n) used in the above calculation shall be according to the provisions of 3.2.
+5.12.6.3 The resulting average weighted NOx emission value for the engine as determined by formula (19) shall then be compared to the applicable emission limit given in regulation 13 to determine if the engine is in compliance.
+Chapter 6
+Procedures for demonstrating compliance with NOx emission limits on board
+6.1 General
+6.1.1 After installation of a pre-certificated engine on board a ship, every marine diesel engine shall have an onboard verification survey conducted as specified in 2.1.1.2 to 2.1.1.4 to verify that the engine continues to comply with the applicable NOx emission limit contained in regulation 13. Such verification of compliance shall be determined by using one of the following methods:
+.1 Engine Parameter Check method in accordance with 6.2 to verify that an engine's component, settings and operating values have not deviated from the specifications in the engine's Technical File;
+.2 Simplified Measurement method in accordance with 6.3; or
+.3 Direct Measurement and Monitoring method in accordance with 6.4.
+6.2 Engine Parameter Check method
+6.2.1 General
+6.2.1.1 Engines that meet the following conditions shall be eligible for an Engine Parameter Check method:
+.1 engines that have received a pre-certificate (EIAPP Certificate) on the test bed and those that received a certificate (EIAPP Certificate) following an initial certification survey in accordance with 2.2.4; and
+.2 engines that have undergone modifications or adjustments to the designated engine components and adjustable features since they were last surveyed.
+6.2.1.2 When a diesel engine is designed to run within the applicable NOx emission limit, it is most likely that within the marine life of the engine, the NOx emission limit may be adhered to. The applicable NOx emission limit may, however, be contravened by adjustments or modification to the engine. Therefore, an Engine Parameter Check method shall be used to verify whether the engine is still within the applicable NOx emission limit.
+6.2.1.3 Engine component checks, including checks of settings and an engine's operating values, are intended to provide an easy means of deducing the emissions performance of the engine for the purpose of verification that an engine with no, or minor, adjustments or modifications complies with the applicable NOx emission limit. Where the measurement of some operating values is required, the calibration of the equipment used for those measurements shall be in accordance with the requirements of appendix 4 of this Code.
+6.2.1.4 The purpose of such checks is to provide a ready means of determining that an engine is correctly adjusted in accordance with the manufacturer's specification and remains in a condition of adjustment consistent with the initial certification by the Administration as being in compliance with regulation 13 as applicable.
+6.2.1.5 If an electronic engine management system is employed, this shall be evaluated against the original settings to ensure that appropriate parameters are operating within "as-built" limits.
+6.2.1.6 For the purpose of assessing compliance with regulation 13, it is not always necessary to measure the NOx emissions to know that an engine, not equipped with an after-treatment device, is likely to comply with the applicable NOx emission limit. It may be sufficient to know that the present state of the engine corresponds to the specified components, calibration or parameter adjustment state at the time of initial certification. If the results of an Engine Parameter Check method indicate the likelihood that the engine complies with the applicable NOx emission limit, the engine may be re-certified without direct NOx measurement.
+6.2.1.7 For an engine equipped with a NOx reducing device, it will be necessary to check the operation of the device as part of the Engine Parameter Check method.
+6.2.2 Documentation for an Engine Parameter Check method
+6.2.2.1 Every marine diesel engine shall have a Technical File as required in 2.3.4 which identifies the engine's components, settings or operating values which influence exhaust emissions and must be checked to ensure compliance.
+6.2.2.2 An engine's Technical File shall contain all applicable information, relevant to the NOx emission performance of the engine, on the designated engines components, adjustable features and parameters at the time of the engine's pre-certification or onboard certification, whichever occurred first.
+6.2.2.3 Dependent on the specific design of the particular engine, different onboard NOx influencing modifications and adjustments are possible and usual. These include the engine parameters as follows:
+.1 injection timing, .2 injection nozzle, .3 injection pump, .4 fuel cam, .5 injection pressure for common rail systems, .6 combustion chamber, .7 compression ratio, .8 turbocharger type and build, .9 charge air cooler, charge air pre-heater, .10 valve timing, .11 NOx abatement equipment "water injection", .12 NOx abatement equipment "emulsified fuel" (fuel water emulsion), .13 NOx abatement equipment "exhaust gas recirculation", .14 NOx abatement equipment "selective catalytic reduction", or .15 other parameter(s) specified by the Administration.
+6.2.2.4 The actual Technical File of an engine may, based on the recommendations of the applicant for engine certification and the approval of the Administration, include less components and/or parameters than discussed in section 6.2.2.3 depending on the particular engine and the specific design.
+6.2.2.5 For some parameters, different survey possibilities exist. As approved by the Administration, the shipowner, supported by the applicant for engine certification, may choose what method is applicable. Any one of, or a combination of, the methods listed in the check list for the Engine Parameter Check method given in appendix 7 of this Code may be sufficient to show compliance.
+6.2.2.6 Technical documentation in respect of engine component modification for inclusion in an engine's Technical File shall include details of that modification and its influence on NOx emissions, and it shall be supplied at the time when the modification is carried out. Test-bed data obtained from a later engine, which is within the applicable range of the Engine Group concept, may be accepted.
+6.2.2.7 The shipowner or person responsible for a ship equipped with a marine diesel engine required to undergo an Engine Parameter Check method shall maintain on board the following documentation in relation to the onboard NOx verification procedures:
+.1 a Record Book of Engine Parameters for recording all changes, including like for like replacements, and adjustments within the approved ranges made relative to an engine's components and settings;
+.2 an engine parameter list of an engine's designated components and settings and/or the documentation of an engine's load-dependent operating values submitted by an applicant for engine certification and approved by the Administration; and
+.3 technical documentation of an engine component modification when such a modification is made to any of the engine's designated engine components.
+6.2.2.8 Descriptions of any changes affecting the designated engine parameters, including adjustments, parts replacements and modifications to engine parts, shall be recorded chronologically in the Record Book of Engine Parameters. These descriptions shall be supplemented with any other applicable data used for the assessment of the engine's NOx emissions.
+6.2.3 Procedures for an Engine Parameter Check method
+6.2.3.1 An Engine Parameter Check method shall be carried out using the two procedures as follows:
+.1 a documentation inspection of engine parameter(s) shall be carried out in addition to other inspections and include inspection of the Record Book of Engine Parameters and verification that engine parameters are within the allowable range specified in the engine's Technical File; and
+.2 an actual inspection of engine components and adjustable features shall be carried out as necessary. It shall then be verified, also referring to the results of the documentation inspection, that the engine's adjustable features are within the allowable range specified in the engine's Technical File.
+6.2.3.2 The surveyor shall have the option of checking one or all of the identified components, settings or operating values to ensure that the engine with no, or minor, adjustments or modifications complies with the applicable NOx emission limit and that only components of the approved specification, as given by 2.4.1.7, are being used. Where adjustments and/or modifications in a specification are referenced in the Technical File, they must fall within the range recommended by the applicant for engine certification and approved by the Administration.
+6.3 Simplified Measurement method
+6.3.1 General
+6.3.1.1 The following simplified test and measurement procedure specified in this section shall be applied only for onboard confirmation tests and renewal, annual and intermediate surveys when required. Every first engine testing on a test bed shall be carried out in accordance with the procedure specified in chapter 5. Corrections for ambient air temperature and humidity in accordance with 5.12.4 are essential as ships are sailing in cold/hot and dry/humid climates, which may cause a difference in NOx emissions.
+6.3.1.2 To gain meaningful results for onboard confirmation tests and onboard renewal, annual and intermediate surveys, as an absolute minimum, the gaseous emission concentrations of NOx and CO2 shall be measured in accordance with the appropriate test cycle. The weighting factors (WF) and the number of modes (n) used in the calculation shall be in accordance with 3.2.
+6.3.1.3 The engine torque and engine speed shall be measured but, to simplify the procedure, the permissible deviations of instruments (see 6.3.7) for measurement of engine-related parameters for onboard verification purposes is different than from those permissible deviations allowed under the test-bed testing method. If it is difficult to measure the torque directly, the brake power may be estimated by any other means recommended by the applicant for engine certification and approved by the Administration.
+6.3.1.4 In practical cases, it is often impossible to measure the fuel oil consumption once an engine has been installed on board a ship. To simplify the procedure on board, the results of the measurement of the fuel oil consumption from an engine's pre-certification test-bed testing may be accepted. In such cases, especially concerning residual fuel oil operation (RM-grade fuel oil according to ISO 8217:2005), an estimation with a corresponding estimated error shall be made. Since the fuel oil flow rate used in the calculation (qmf) must relate to the fuel oil composition determined in respect of the fuel sample drawn during the test, the measurement of qmf from the test-bed testing shall be corrected for any difference in net calorific values between the test bed and test fuel oils. The consequences of such an error on the final emissions shall be calculated and reported with the results of the emission measurement.
+6.3.1.5 Except as otherwise specified, all results of measurements, test data or calculations required by this chapter shall be recorded in the engine's test report in accordance with 5.10.
+6.3.2 Engine parameters to be measured and recorded
+6.3.2.1 Table 6 lists the engine parameters that shall be measured and recorded during onboard verification procedures.
+6.3.3 Brake power
+6.3.3.1 The point regarding the ability to obtain the required data during onboard NOx testing is particularly relevant to brake power. Although the case of directly coupled gearboxes is considered in chapter 5, an engine, as may be presented on board, could in many applications, be arranged such that the measurements of torque (as obtained from a specially installed strain gauge) may not be possible due to the absence of a clear shaft. Principal in this group would be generators, but engines may also be coupled to pumps, hydraulic units, compressors, etc.
+6.3.3.2 The engines driving the machinery given in 6.3.3.1 would typically have been tested against a water brake at the manufacture stage prior to the permanent connection of the power consuming unit when installed on board. For generators this should not pose a problem to use voltage and amperage measurements together with a manufacturer's declared generator efficiency. For propeller law governed equipment, a declared speed power curve may be applied together with ensured capability to measure engine speed, either from the free end or by ratio of, for example, the camshaft speed.
+6.3.4 Test fuel oils
+6.3.4.1 Generally all emission measurements shall be carried out with the engine running on marine diesel fuel oil of an ISO 8217:2005, DM-grade.
+6.3.4.2 To avoid an unacceptable burden to the shipowner, the measurements for confirmation tests or re-surveys may, based on the recommendation of the applicant for engine certification and the approval of the Administration, be allowed with an engine running on residual fuel oil of an ISO 8217:2005, RM-grade. In such a case the fuel bound nitrogen and the ignition quality of the fuel oil may have an influence on the NOx emissions of the engine.
+6.3.5 Sampling for gaseous emissions
+6.3.5.1 The general requirements described in 5.9.3 shall be also applied for onboard measurements.
+6.3.5.2 The installation on board of all engines shall be such that these tests may be performed safely and with minimal interference to the engine. Adequate arrangements for the sampling of the exhaust gas and the ability to obtain the required data shall be provided on board a ship. The uptakes of all engines shall be fitted with an accessible standard sampling point. An example of a sample point connecting flange is given in section 5 of appendix 8 of this Code.
+6.3.6 Measurement equipment and data to be measured
+6.3.6.1 The emission of gaseous pollutants shall be measured by the methods described in chapter 5.
+6.3.7 Permissible deviation of instruments for engine related parameters and other essential parameters
+6.3.7.1 Tables 3 and 4 contained in section 1.3 of appendix 4 of this Code list the permissible deviation of instruments to be used in the measurement of engine-related parameters and other essential parameters during onboard verification procedures.
+6.3.8 Determination of the gaseous components
+6.3.8.1 The analytical measuring equipment and the methods described in chapter 5 shall be applied.
+6.3.9 Test cycles
+6.3.9.1 Test cycles used on board shall conform to the applicable test cycles specified in 3.2.
+6.3.9.2 Engine operation on board under a test cycle specified in 3.2 may not always be possible, but the test procedure shall, based on the recommendation of the engine manufacturer and approval by the Administration, be as close as possible to the procedure defined in 3.2. Therefore, values measured in this case may not be directly comparable with test-bed results because measured values are very much dependent on the test cycles.
+6.3.9.3 If the number of measuring points on board is different than those on the test bed, the measuring points and the weighting factors shall be in accordance with the recommendations of the applicant for engine certification and approved by the Administration taking into account the provisions of 6.4.6.
+6.3.10 Calculation of gaseous emissions
+6.3.10.1 The calculation procedure specified in chapter 5 shall be applied, taking into account the special requirements of this Simplified Measurement procedure.
+6.3.11 Allowances
+6.3.11.1 Due to the possible deviations when applying the simplified measurement procedures of this chapter on board a ship, an allowance of 10% of the applicable limit value may be accepted for confirmation tests and renewal, annual and intermediate surveys only.
+6.3.11.2 The NOx emission of an engine may vary depending on the ignition quality of the fuel oil and the fuel bound nitrogen. If there is insufficient information available on the influence of the ignition quality on the NOx formation during the combustion process and the fuel bound nitrogen conversion rate also depends on the engine efficiency, an allowance of 10% may be granted for an onboard test run carried out on a RM-grade fuel oil (ISO 8217:2005) except that there will be no allowance for the pre-certification test on board. The fuel oil used shall be analysed for its composition of carbon, hydrogen, nitrogen, sulphur and, to the extent given in ISO 8217:2005, any additional components necessary for a clear specification of the fuel oil.
+6.3.11.3 In no case shall the total granted allowance for both the simplification of measurements on board and the use of residual fuel oil of an ISO 8217:2005, RM-grade fuel oil, exceed 15% of the applicable limit value.
+6.4 Direct Measurement and Monitoring method
+6.4.1 General
+6.4.1.1 The following Direct Measurement and Monitoring procedure may be applied for onboard verification at renewal, annual and intermediate surveys.
+6.4.1.2 Due attention is to be given to the safety implications related to the handling and proximity of exhaust gases, the measurement equipment and the storage and use of cylindered pure and calibration gases. Sampling positions and access staging shall be such that this monitoring may be performed safely and will not interfere with the engine.
+6.4.2 Emission species measurement
+6.4.2.1 Onboard NOx monitoring includes, as an absolute minimum, the measurement of gaseous emission concentrations of NOx (as NO + NO2).
+6.4.2.2 If exhaust gas mass flow is to be determined in accordance with the carbon balance method in accordance with appendix 6 of this Code, then CO2 shall also be measured. Additionally CO, HC and O2 may be measured.
+6.4.3 Engine performance measurements
+6.4.3.1 Table 7 lists the engine performance parameters that shall be measured, or calculated, and recorded at each mode point during onboard NOx monitoring.
+Table 7
+Engine parameters to be measured and recorded
+6.4.3.2 Other engine settings necessary to define engine-operating conditions, e.g., waste-gate, charge air bypass, turbocharger status, shall be determined and recorded.
+6.4.3.3 The settings and operating conditions of any NOx reducing devices shall be determined and recorded.
+6.4.3.4 If it is difficult to measure power directly, uncorrected brake power may be estimated by any other means as approved by the Administration. Possible methods to determine brake power include, but are not limited to:
+.1 indirect measurement in accordance with 6.3.3; or
+.2 by estimation from nomographs.
+6.4.3.5 The fuel oil flow (actual consumption rate) shall be determined by:
+.1 direct measurement; or test-bed data in accordance with 6.3.1.4
+6.4.4 Ambient condition measurements
+6.4.4.1 Table 8 lists the ambient condition parameters that shall be measured, or calculated, and recorded at each mode point during onboard NOx monitoring.
+Table 8
+Ambient condition parameters to be measured and recorded
+6.4.5 Engine performance and ambient condition monitoring equipment
+6.4.5.1 The engine performance and ambient condition monitoring equipment shall be installed and maintained in accordance with manufacturers' recommendations such that requirements of section 1.3 and tables 3 and 4 of appendix 4 of this Code are met in respect of the permissible deviations.
+6.4.6 Test cycles
+6.4.6.1 Engine operation on board under a specified test cycle may not always be possible, but the test procedure, as approved by the Administration, shall be as close as possible to the procedure defined in 3.2. Therefore, values measured in this case may not be directly comparable with test-bed results because measured values are very much dependant on the test cycle.
+6.4.6.2 In the case of the E3 test cycle, if the actual propeller curve differs from the E3 curve, the load point used shall be set using the engine speed, or the corresponding mean effective pressure (MEP) or mean indicated pressure (MIP), given for the relevant mode of that cycle.
+6.4.6.3 Where the number of measuring points on board is different from those on the test bed, the number of measurement points and the associated revised weighting factors shall be approved by the Administration.
+6.4.6.4 Further to 6.4.6.3 where the E2, E3 or D2 test cycles are applied, a minimum of load points shall be used of which the combined nominal weighting factor, as given in 3.2, is greater than 0.50.
+6.4.6.5 Further to 6.4.6.3 where the C1 test cycle is applied, a minimum of one load point shall be used from each of the rated, intermediate and idle speed sections. If the number of measuring points on board is different from those on the test bed, the nominal weighting factors at each load point shall be increased proportionally in order to sum to unity (1.0).
+6.4.6.6 With regard to the application of 6.4.6.3 guidance in respect of the selection of load points and revised weighting factors is given in section 6 of appendix 8 of this Code.
+6.4.6.7 The actual load points used to demonstrate compliance shall be within ± 5% of the rated power at the modal point except in the case of 100% load where the range shall be +0 to -10%. For example, at the 75% load point the acceptable range shall be 70% - 80% of rated power.
+6.4.6.8 At each selected load point, except idle, and after the initial transition period (if applicable), the engine power shall be maintained at the load set point within a 5% coefficient of variance (%C.O.V.) over a 10-minute interval. A worked example of the coefficient of variance calculation is given in section 7 of appendix 8 of this Code.
+6.4.6.9 Regarding the C1 test cycle, the idle speed tolerance shall be declared, subject to the approval of the Administration.
+6.4.7 Test condition parameter
+6.4.7.1 The test condition parameter specified in 5.2.1, shall not apply to onboard NOx monitoring. Data under any prevailing ambient condition shall be acceptable.
+6.4.8 Analyser in-service performance
+6.4.8.1 Analysing equipment shall be operated in accordance with manufacturer's recommendations.
+6.4.8.2 Prior to measurement, zero and span values shall be checked and the analysers shall be adjusted as necessary.
+6.4.8.3 After measurement, analyser zero and span values shall be verified as being within that permitted by 5.9.9.
+6.4.9 Data for emission calculation
+6.4.9.1 The output of the analysers shall be recorded both during the test and during all response checks (zero and span). This data shall be recorded on a strip chart recorder or other types of data recording devices. Data recording precision shall be in accordance with 5.9.7.1.
+6.4.9.2 For the evaluation of the gaseous emissions, a 1-Hertz minimum chart reading of a stable 10-minute sampling interval of each load point shall be averaged. The average concentrations of NOx, and if required CO2, and optionally CO, HC and O2, shall be determined from the averaged chart readings and the corresponding calibration data.
+6.4.9.3 As a minimum, emission concentrations, engine performance and ambient condition data shall be recorded over the aforementioned 10-minute period.
+6.4.10 Exhaust gas flow rate
+6.4.10.1 Exhaust gas flow rate shall be determined:
+.1 in accordance with 5.5.2 or 5.5.3; or
+.2 in accordance with 5.5.4 and appendix 6 of this Code, with not measured species set to zero and cCO2d set to 0.03%.
+6.4.11 Fuel oil composition
+6.4.11.1 Fuel oil composition, to calculate gas mass flow wet, qmf, shall be provided by one of the following:
+.1 fuel oil composition, carbon, hydrogen, nitrogen and oxygen, by analysis (default oxygen value may be adopted); or
+.2 default values as given in table 9.
+Table 9
+Default fuel oil parameters
+6.4.12 Dry/wet correction
+6.4.12.1 If not already measured on a wet basis, the gaseous emissions concentrations shall be converted to a wet basis according to:
+.1 direct measurement of the water component; or .2 dry/wet correction calculated in accordance with 5.12.3.
+6.4.13 NOx correction for humidity and temperature
+6.4.13.1 NOx correction for humidity and temperature shall be in accordance with 5.12.4. The reference charge air temperature (TSCRef) shall be stated and approved by the Administration. The TSCRef values are to be referenced to 25°C seawater temperature and in the application of the TSCRef value due allowance shall be made for the actual seawater temperature.
+6.4.14 Calculation of emission flow rates and specific emissions
+6.4.14.1 The calculation of emission flow rates and specific emissions shall be in accordance with 5.12.5 and 5.12.6.
+6.4.15 Limit value and allowances
+6.4.15.1 In the case of the application of 6.4.6.3 the emission value obtained shall, subject to the approval of the Administration, be corrected as follows:
+Corrected gasx = gasx ⋅ 0.9 (21)
+6.4.15.2 The emission value, gasx or corrected gasx as appropriate, shall be compared to the applicable NOx emission limit value as given in regulation 13 together with the allowance values as given in 6.3.11.1, 6.3.11.2 and 6.3.11.3 in order to verify that an engine continues to comply with the requirements of regulation 13.
+6.4.16 Data for demonstrating compliance
+6.4.16.1 Compliance is required to be demonstrated at renewal, annual and intermediate surveys or following a substantial modification as per 1.3.2. In accordance with 2.4.5, data is required to be current; that is within 30 days. Data is required to be current; that is within 30 days. Data is required to be retained on board for at least three months. These time periods shall be taken to be when the ship is in operation. Data within that 30-day period either may be collected as a single test sequence across the required load points or may be obtained on two or more separate occasions when the engine load corresponds to that required by 6.4.6.
+6.4.17 Form of approval
+6.4.17.1 The Direct Measurement and Monitoring method shall be documented in an Onboard Monitoring Manual. The Onboard Monitoring Manual shall be submitted to the Administration for approval. The approval reference of that Onboard Monitoring Manual shall be entered under section 3 of the Supplement to the EIAPP Certificate. The Administration may issue a new EIAPP Certificate, with the details in section 3 of the Supplement duly amended, if the method is approved after the issue of the first EIAPP Certificate, i.e. following the pre-certification survey.
+6.4.18 Survey of equipment and method
+6.4.18.1 The survey of the Direct Measurement and Monitoring method shall take into account, but is not limited to:
+.1 the data obtained and developed from the required measurements; and
+.2 the means by which that data has been obtained, taking into account the information given in the Onboard Monitoring Manual as required by 6.4.14.
+7.1 Where an Existing Engine is to comply with regulation 13.7, then the entity responsible for obtaining emissions certification shall apply to the approving Administration for certification.
+7.2 Where an application for Approved Method approval includes gaseous emission measurements and calculations, those are to be in accordance with chapter 5.
+7.3 Emission and performance data obtained from one engine may be shown to apply to a range of engines.
+7.4 The Approved Method for achieving compliance with regulation 13.7 shall include a copy of the Approved Method File which is required to accompany the engine throughout its life on board ship.
+7.5 A description of the engine's onboard verification procedure shall be included in the Approved Method File.
+7.6 After installation of the Approved Method, a survey shall be conducted in accordance with the Approved Method File. If this survey confirms compliance, the Administration shall amend the ship's IAPP Certificate accordingly.
+Appendix 1
+Form of EIAPP Certificate
+(Refer to 2.2.10 of the NOx Technical Code)
+ENGINE INTERNATIONAL AIR POLLUTION PREVENTION CERTIFICATE
+Issued under the provisions of the Protocol of 1997, as amended by resolution MEPC.xx(58) in 2008, to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 related thereto (hereinafter referred to as "the Convention") under the authority of the Government of:
+....
+(full designation of the country)
+by...
+(full designation of the competent person or organization authorized under the provisions of the Convention)
+THIS IS TO CERTIFY:
+1 That the above-mentioned marine diesel engine has been surveyed for pre-certification in accordance with the requirements of the Revised Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines (2008) made mandatory by Annex VI of the Convention; and
+2 That the pre-certification survey shows that the engine, its components, adjustable features, and Technical File, prior to the engine's installation and/or service on board a ship, fully comply with the applicable regulation 13 of Annex VI of the Convention.
+This certificate is valid for the life of the engine subject to surveys in accordance with regulation 5 of Annex VI of the Convention, installed in ships under the authority of this Government.
+Issued at: ....
+(Place of issue of certificate)
+(dd/mm/yyyy) ……………… ………………… .... ……… ....
+(Date of issue) (Signature of duly authorized official issuing the certificate)
+(Seal or stamp of the authority, as appropriate)
+SUPPLEMENT TO ENGINE INTERNATIONAL AIR POLLUTION PREVENTION CERTIFICATE (EIAPP CERTIFICATE)
+RECORD OF CONSTRUCTION, TECHNICAL FILE AND MEANS OF VERIFICATION
+Notes:
+1 This Record and its attachments shall be permanently attached to the EIAPP Certificate. The EIAPP Certificate shall accompany the engine throughout its life and shall be available on board the ship at all times.
+2 The Record shall be at least in English, French or Spanish. If an official language of the issuing country is also used, this shall prevail in case of a dispute or discrepancy.
+3 Unless otherwise stated, regulations mentioned in this Record refer to regulations of Annex VI of the Convention and the requirements for an engine's Technical File and means of verifications refer to mandatory requirements from the Revised NOx Technical Code (2008).
+1 Particulars of the engine
+1.1 Name and address of manufacturer ....
+1.2 Place of engine build ....
+1.3 Date of engine build ....
+1.4 Place of pre-certification survey ....
+1.5 Date of pre-certification survey ....
+1.6 Engine type and model number ....
+1.7 Engine serial number ....
+1.8 If applicable, the engine is a Parent Engine � or a Member Engine � of the following Engine Family � or Engine Group� ....
+1.9 Individual Engine or Engine Family / Engine Group details:
+1.9.1 Approval reference ....
+1.9.2 Rated power (kW) and rated speed (rpm) values or ranges ....
+1.9.3 Test cycle(s) ....
+1.9.4 Parent Engine(s) test fuel oil specification ....
+1.9.5 Applicable NOx emission limit (g/kWh), regulation 13.3, 13.4, or 13.5.1 (delete as appropriate) ....
+1.9.6 Parent Engine(s) emission value (g/kWh) ....
+2 Particulars of the Technical File
+The Technical File, as required by chapter 2 of the NOx Technical Code, is an essential part of the EIAPP Certificate and must always accompany an engine throughout its life and always be available on board a ship.
+2.1 Technical File identification/approval number ....
+2.2 Technical File approval date ....
+3 Specifications for the onboard NOx verification procedures
+The specifications for the onboard NOx verification procedures, as required by chapter 6 of the NOx Technical Code, are an essential part of the EIAPP Certificate and must always accompany an engine through its life and always be available on board a ship.
+3.1 Engine Parameter Check method:
+3.1.1 Identification/approval number ....
+3.1.2 Approval date ....
+3.2 Direct Measurement and Monitoring method:
+3.2.1 Identification/approval number ....
+3.2.2 Approval date ....
+Alternatively the Simplified Measurement method in accordance with 6.3 of the NOx Technical Code may be utilized.
+Issued at: ....
+(Place of issue of certificate)
+(dd/mm/yyyy) .... ....
+(Date of issue) (Signature of duly authorized official issuing the certificate)
+(Seal or stamp of the authority, as appropriate)
+Appendix 2
+Flowcharts for survey and certification of marine diesel engines
+(Refer to 2.2.9 and 2.3.11 of the NOx Technical Code)
+Guidance for compliance with survey and certification of marine diesel engines, as described in chapter 2 of this Code, is given in figures 1, 2 and 3 of this appendix:
+Note: These flowcharts do not show the criteria for the certification of an Existing Engine as required by regulation 13.7.
+ENGINE AS MANUFACTURED OR SUBJECT TO MAJOR CONVERSION
+Engine to be used in an ‘installed' application, reg.2.12
+To be used for other than solely for
+(a) emergency purposes, reg.13.1.2.1, or
+(b) sea-bed mineral related activities, reg.3.3.1.4
+Engine output more than 130 kW
+Parent Engine or Individual Engine
+Parent Engine rating, components and settings as accepted for the Engine Family/Engine Group
+Emission test in accordance with NOx Technical Code requirements YES
+NO
+NO Emission test result within applicable limit for Individual Engine or Engine Family/Engine Group
+YES
+YES
+Technical File in accordance with NOx Technical
+Code NO requirements and approved by, or on behalf of, the flag State of the ship onto which the engine is to be installed
+YES
+EIAPP Certificate issued
+Figure 1 - Pre-certification survey at the manufacturer's facility
+NO
+YES
+NO
+Engine exempt YES
+NO
+YES
+NO (Member Engine)
+YES
+NO
+NO
+YES
+YES
+NO
+Engine built in accordance with agreed Conformity of Production procedure
+Member Engine rating, components and settings as approved for the Engine Group/Engine Family
+ALL ONBOARD DIESEL ENGINES
+Figure 2 - Initial survey on board a ship
+ALL ONBOARD DIESEL ENGINES
+Engine used in an ‘installed' application, reg.2.12
+Used for other than solely for
+(a) emergency purposes, reg.13.1.2.1, or
+(b) sea-bed mineral related activities, reg.3.3.1.4
+Engine output more than 130 kW
+Ship constructed on or after 1 January 2000
+Technical file &amp; EIAPP Certificate:
+(a) as approved by, issued on behalf of, the flag State of the ship onto which the engine is installed and
+(b) in as approved condition
+Engine as approved:
+(a) meets applicable limit, and
+(b) complies: duty, rating and restrictions
+Onboard NOx Verification procedure shows engine to be compliant by: Engine Parameter Check, Simplified Measurement or Direct Measurement &amp; Monitoring
+IAPP Certificate issued or endorsed
+Figure 3 - Renewal, annual or intermediate survey on board a ship
+Appendix 3
+Specifications for analysers to be used in the determination of gaseous components of marine diesel engine emissions
+(Refer to chapter 5 of the NOx Technical Code)
+1 General
+1.1 The components included in an exhaust gas analysis system for the determination of the concentrations of CO, CO2, NOx, HC and O2 are shown in figure 1. All components in the sampling gas path must be maintained at the temperatures specified for the respective systems.
+B
+a
+b
+a
+b
+a
+b a b
+Figure 1 - Arrangement of exhaust gas analysis system
+1.2 An exhaust gas analysis system shall include the following components. In accordance with chapter 5 of the Code equivalent arrangements and components may, subject to approval by the Administration, be accepted.
+.1 SP - Raw exhaust gas sampling probe
+A stainless steel, straight, closed-end, multi-hole probe. The inside diameter shall not be greater than the inside diameter of the sampling line. The wall thickness of the probe should not be greater than 1 mm. There should be a minimum of three holes in three different radial planes sized to sample approximately the same flow.
+For the raw exhaust gas, the sample for all components may be taken with one sampling probe or with two sampling probes located in close proximity and internally split to the different analysers.
+Note: If exhaust pulsations or engine vibrations are likely to affect the sampling probe, the wall thickness of the probe may be enlarged subject to the approval of the Administration.
+.9 HC - Hydrocarbon analyser
+Heated flame ionization detector (HFID). The temperature shall be kept at 180°C to 200°C.
+.10 NOx - Nitrogen oxides analyser
+Chemiluminescent detector (CLD) or heated chemiluminescent detector (HCLD). If a HCLD is used, it shall be kept at a temperature of 55°C to 200°C.
+Note: In the arrangement shown NOx is measured on a dry basis. NOx may also be measured on a wet basis in which case the analyser shall be of the HCLD type.
+.11 C - converter
+A converter shall be used for the catalytic reduction of NO2 to NO prior to analysis in the CLD or HCLD.
+.12 O2 - Oxygen analyser
+Paramagnetic detector (PMD), zirconium dioxide (ZRDO) or electrochemical sensor (ECS).
+Note: In the arrangement shown O2 is measured on a dry basis. O2 may also be measured on a wet basis in which case the analyser shall be of the ZRDO type.
+.13 B - cooling unit
+To cool and condense water from the exhaust sample. The cooler shall be maintained at a temperature of 0°C to 4°C by ice or refrigerator. If water is removed by condensation, the sample gas temperature or dew point shall be monitored either within the water trap or downstream. The sample gas temperature or dew point shall not exceed 7°C.
+1.3 The analysers shall have a measuring range appropriate for the accuracy required to measure the concentrations of the exhaust gas components (see 1.6) and 5.9.7.1 of the Code. It is recommended that the analysers be operated such that the measured concentration falls between 15% and 100% of full scale. Where full scale refers to the measurement range used.
+1.4 If the full scale value is 155 ppm (or ppmC) or less, or if read-out systems (computers, data loggers) that provide sufficient accuracy and resolution below 15% of full scale are used, concentrations below 15% of full scale are also acceptable. In this case, additional calibrations are to be made to ensure the accuracy of the calibration curves.
+1.5 The electromagnetic compatibility (EMC) of the equipment shall be such as to minimize additional errors.
+1.6 Accuracy
+1.6.1 Definitions
+ISO 5725-1: Technical Corrigendum 1: 1998, Accuracy (trueness and precision) of measurement methods and results - Part 1: General principles and definitions, Technical Corrigendum 1.
+ISO 5725-2: 1994, Accuracy (trueness and precision) of measurement methods and results - Part 2: A basic method for the determination of repeatability and reproducibility of a standard measurement method.
+1.6.2 An analyser shall not deviate from the nominal calibration point by more than ± 2% of the reading over the whole measurement range except zero, or ± 0.3% of full scale whichever is larger. The accuracy shall be determined according to the calibration requirements laid down in section 5 of appendix 4 of this Code.
+1.7 Precision
+The precision, defined as 2.5 times the standard deviation of 10 repetitive responses to a given calibration or span gas, shall be not greater than ± 1% of full scale concentration for each range used above 100 ppm (or ppmC) or ± 2% of each range used below 100 ppm (or ppmC).
+1.8 Noise
+The analyser peak-to-peak response to zero and calibration or span gases over any 10 seconds period shall not exceed 2% of full scale on all ranges used.
+1.9 Zero drift
+Zero response is defined as the mean response, including noise, to a zero gas during a 30 seconds time interval. The drift of the zero response during a one-hour period shall be less than 2% of full scale on the lowest range used.
+1.10 Span drift
+Span response is defined as the mean response, including noise, to a span gas during a 30-second time interval. The drift of the span response during a one-hour period shall be less than 2% of full scale on the lowest range used.
+2 Gas drying
+Exhaust gases may be measured wet or dry. A gas drying device, if used, shall have a minimal effect on the composition of the measured gases. Chemical dryers are not an acceptable method of removing water from the sample.
+3 Analysers
+Sections 3.1 to 3.5 describe the measurement principles to be used. The gases to be measured shall be analysed with the following instruments. For non-linear analysers, the use of linearizing circuits is permitted.
+3.1 Carbon monoxide (CO) analysis The carbon monoxide analyser shall be of the non-dispersive infrared (NDIR) absorption type.
+3.2 Carbon dioxide (CO2) analysis The carbon dioxide analyser shall be of the non-dispersive infrared (NDIR) absorption type.
+3.3 Hydrocarbon (HC) analysis
+The hydrocarbon analyser shall be of the heated flame ionization detector (HFID) type with detector, valves, pipe-work and associated components heated so as to maintain a gas temperature of 190ºC ± 10ºC.
+3.4 Nitrogen oxides (NOx) analysis
+The nitrogen oxides analyser shall be of the chemiluminescent detector (CLD) or heated chemiluminescent detector (HCLD) type with a NO2/NO converter, if measured on a dry basis. If measured on a wet basis, a HCLD with converter maintained above 55°C shall be used, provided the water quench check (see section 9.2.2 of appendix 4 of this Code) is satisfied. For both CLD and HCLD, the sampling path shall be maintained at a wall temperature of 55°C to 200°C up to the converter for dry measurement, and up to the analyser for wet measurement.
+3.5 Oxygen (O2) analysis
+The oxygen analyser shall be of the paramagnetic detector (PMD), zirconium dioxide (ZRDO) or electrochemical sensor (ECS) type.
+Appendix 4
+Calibration of the analytical and measurement instruments
+(Refer to chapters 4, 5 and 6 of the NOx Technical Code)
+1 Introduction
+1.1 Each analyser used for the measurement of an engine's parameters shall be calibrated as often as necessary in accordance with the requirements of this appendix.
+1.2 Except as otherwise specified, all results of measurements, test data or calculations required by this appendix shall be recorded in the engine's test report in accordance with section 5.10 of this Code.
+1.3 Accuracy of measuring instruments
+1.3.1 The calibration of all measuring instruments shall comply with the requirements as set out in tables 1, 2, 3 and 4 and shall be traceable to standards recognized by the Administration. Additional engine measurements may be required by the Administration and such additional measuring instruments used shall comply with the appropriate deviation standard and calibration validity period.
+1.3.2 The instruments shall be calibrated:
+.1 in time intervals not greater than as given in tables 1, 2, 3 and 4; or
+.2 in accordance with alternative calibration procedures and validity periods subject to such proposals being submitted in advance of the tests and approved by the Administration.
+Note: The deviations given in tables 1, 2, 3, and 4 refer to the final recorded value, which is inclusive of the data acquisition system.
+Table 1
+Permissible deviations and calibration validity periods of instruments for engine related parameters for measurements on a test bed
+Table 2
+Permissible deviations and calibration interval periods of instruments for other essential parameters for measurements on a test bed
+Table 3
+Permissible deviations and calibration validity periods of instruments for engine related parameters for measurements on board a ship when the engine is already pre-certified
+Table 4
+Permissible deviations calibration validity period of instruments for other essential parameters for measurements on board a ship when the engine is already pre-certified
+Calibration gases and zero and span check gases
+The shelf life of all calibration gases and span and zero check gases shall be respected. The expiry date of the calibration gases and the zero and span check gases, stated by the manufacturer, shall be recorded.
+2.1 Pure gases (including zero check gases)
+2.1.1 The required purity of the gases is defined by the contamination limits given below. The following gases shall be available:
+.1 purified nitrogen (contamination ≤ 1 ppmC, ≤ 1 ppm CO, ≤ 400 ppm CO2, ≤ 0,1 ppm NO);
+.2 purified oxygen (purity &gt; 99.5% volume O2);
+.3 hydrogen-helium mixture (40 ± 2% hydrogen, balance helium), (contamination ≤ 1 ppmC, ≤ 400 ppm CO2); and
+.4 purified synthetic air (contamination ≤ 1 ppmC, ≤ 1 ppm CO, ≤ 400 ppm CO2, ≤ 0.1 ppm NO (oxygen content 18% - 21% volume).
+2.2 Calibration and span gases
+2.2.1 Mixtures of gases having the following chemical compositions shall be available:
+.1 CO and purified nitrogen; .2 NOx and purified nitrogen the amount of NO2 contained in this calibration gas
+shall not exceed 5% of the NO content); .3 O2 and purified nitrogen; .4 CO2 and purified nitrogen; and .5 CH4 and purified synthetic air or C3H8 and purified synthetic air. Note: Other gas combinations are allowed provided the gases do not react with one
+another.
+2.2.2 The true concentration of a calibration and span gas must be within ± 2% of the nominal value. All concentrations of calibration and span gases shall be given on a volume basis (volume per cent or volume ppm).
+2.2.3 The gases used for calibration and span may also be obtained by means of precision blending devices (gas dividers), diluting with purified N2 or with purified synthetic air. The accuracy of the mixing device must be such that the concentration of the blended calibration gases is accurate to within ±2%. This accuracy implies that primary gases used for blending must be known to an accuracy of at least ±1%, traceable to national or international gas standards. The verification shall be performed at between 15 and 50% of full scale for each calibration incorporating a blending device. Optionally, the blending device may be checked with an instrument which by nature is linear, e.g., using NO gas with a CLD. The span value of the instrument shall be adjusted with the span gas directly connected to the instrument. The blending device shall be checked at the used settings and the nominal value shall be compared to the measured concentration of the instrument. This difference shall in each point be within ±1% of
+the nominal value. This linearity check of the gas divider shall not be performed with a gas analyser which was previously linearized with the same gas divider.
+2.2.4 Oxygen interference check gases shall contain propane or methane with 350 ppmC ± 75 ppmC hydrocarbon. The concentration shall be determined to calibration gas tolerances by chromatographic analysis of total hydrocarbons plus impurities or by dynamic bleeding. Nitrogen shall be the predominant diluent with the balance oxygen. Blends required are listed in table 5.
+Table 5
+Oxygen interference check gases
+3 Operating procedure for analysers and sampling system
+The operating procedure for analysers shall follow the start-up and operating instructions of the instrument manufacturer. The minimum requirements given in sections 4 to 9 shall be included.
+4 Leakage test
+4.1 A system leakage test shall be performed. The probe shall be disconnected from the exhaust system and the end plugged. The analyser pump shall be switched on. After an initial stabilization period all flow meters shall read zero. If not, the sampling lines shall be checked and the fault corrected.
+4.2 The maximum allowable leakage rate on the vacuum side shall be 0.5% of the in-use flow rate for the portion of the system being checked. The analyser flows and bypass flows may be used to estimate the in-use flow rates.
+4.3 Another method is the introduction of a concentration step change at the beginning of the sampling line by switching from zero to span gas. If after an adequate period of time the reading shows a lower concentration compared to the introduced concentration, this points to calibration or leakage problems.
+4.4 Other arrangements may be acceptable subject to approval of the Administration.
+5 Calibration procedure
+5.1 Instrument assembly
+The instrument assembly shall be calibrated and the calibration curves checked against standard gases. The same gas flow rates shall be used as when sampling exhaust.
+5.2 Warming-up time
+The warming-up time shall be according to the recommendations of the analyser's manufacturer. If not specified, a minimum of two hours is recommended for warming up the analysers.
+5.3 NDIR and HFID analysers
+The NDIR analyser shall be tuned, as necessary. The HFID flame shall be optimized as necessary.
+5.4 Calibration
+5.4.1 Each normally used operating range shall be calibrated. Analysers shall be calibrated not more than 3 months before being used for testing or whenever a system repair or change is made that can influence calibration, or as per provided for by 1.3.2.2.
+5.4.2 Using purified synthetic air (or nitrogen) the CO, CO2, NOx and O2 analysers shall be set at zero. The HFID analyser shall be set to zero using purified synthetic air.
+5.4.3 The appropriate calibration gases shall be introduced to the analysers, the values recorded, and the calibration curve established according.
+5.5 Establishment of the calibration curve
+5.5.1 General Guidance
+5.5.1.1 The calibration curve shall be established by at least 6 calibration points (excluding zero) approximately equally spaced over the operating range from zero to the highest value expected during emissions testing.
+5.5.1.2 The calibration curve shall be calculated by the method of least-squares. A best-fit linear or non-linear equation may be used.
+5.5.1.3 The calibration points shall not differ from the least-squares best-fit line by more than ± 2% of reading or ± 0.3% of full scale, whichever is larger.
+5.5.1.4 The zero setting shall be rechecked and the calibration procedure repeated, if necessary.
+5.5.1.5 If it can be shown that alternative calibration methods (e.g., computer, electronically controlled range switch, etc.) can give equivalent accuracy, then these alternatives may be used subject to the approval by the Administration.
+6 Verification of the calibration
+6.1 Each normally used operating range shall be checked prior to each analysis in accordance with the following procedure:
+.1 the calibration shall be checked by using a zero gas and a span gas whose nominal value shall be more than 80% of full scale of the measuring range; and
+.2 if, for the two points considered, the value found does not differ by more than ± 4% of full scale from the declared reference value, the adjustment parameters may be modified. If this is not the case, a new calibration curve shall be established in accordance with 5.5 above.
+7 Efficiency test of the NOx converter
+The efficiency of the converter used for the conversion of NO2 into NO shall be tested as given in 7.1 to 7.8 below.
+7.1 Test set-up
+Using the test set-up as schematically shown in figure 1 and the procedure below, the efficiency of converter shall be tested by means of an ozonator.
+Figure 1 - Schematic representation of NO2 converter efficiency device
+7.2 Calibration
+The CLD and the HCLD shall be calibrated in the most common operating range following the manufacturer's specifications using zero and span gas (the NO content of which must amount to about 80% of the operating range and the NO2 concentration of the gas mixture to less than 5% of the NO concentration). The NOx analyser must be in the NO mode so that the span gas does not pass through the converter. The indicated concentration shall be recorded.
+7.3 Calculation The efficiency of the NOx converter shall be calculated as follows:
+ a − b ⎞
+3. ENOx =⎜1 + ⎟⋅ 100 (1)
+ c − d 
+where: a = NOx concentration according to 7.6 below b = NOx concentration according to 7.7 below c = NO concentration according to 7.4 below d = NO concentration according to 7.5 below
+7.4 Adding of oxygen
+7.4.1 Via a T-fitting, oxygen or zero air is added continuously to the gas flow until the concentration indicated is about 20% less than the indicated calibration concentration given in 7.2 above. The analyser must be in the NO mode.
+7.4.2 The indicated concentration (c) shall be recorded. The ozonator must be kept deactivated throughout the process.
+7.5 Activation of the ozonator
+The ozonator shall then be activated to generate enough ozone to bring the NO concentration down to about 20% (minimum 10%) of the calibration concentration given in 7.2 above. The indicated concentration (d) shall be recorded. The analyser must be in the NO mode.
+7.6 NOx mode
+The NO analyser shall then be switched to the NOx mode so that the gas mixture (consisting of NO, NO2, O2 and N2) now passes through the converter. The indicated concentration (a) shall be recorded. The analyser must be in the NOx mode.
+7.7 Deactivation of the ozonator
+The ozonator is then deactivated. The mixture of gases described in 7.6 above passes through the converter into the detector. The indicated concentration (b) shall be recorded. The analyser is in the NOx mode.
+7.8 NO mode
+Switched to NO mode with the ozonator deactivated, the flow of oxygen or synthetic air shall also be shut off. The NOx reading of the analyser shall not deviate by more than 5% from the value measured according to 7.2 above. The analyser must be in the NO mode.
+7.9 Test interval The efficiency of the converter shall be tested prior to each calibration of the NOx analyser.
+7.10 Efficiency requirement The efficiency of the converter shall not be less than 90%.
+8 Adjustment of the HFID
+8.1 Optimization of the detector response
+8.1.1 The HFID shall be adjusted as specified by the instrument manufacturer. A propane in air span gas shall be used to optimize the response on the most common operating range.
+8.1.2 With the fuel and air flow rates set at the manufacturer's recommendations, a 350 ± 75 ppmC span gas shall be introduced to the analyser. The response at a given fuel flow shall be determined from the difference between the span gas response and the zero gas response. The fuel flow shall be incrementally adjusted above and below the manufacturer's specification. The span and zero response at these fuel flows shall be recorded. The difference between the span and zero response shall be plotted and the fuel flow adjusted to the rich side of the curve. This is the initial flow rate setting which may need further optimization depending on the results of the hydrocarbon response factors and the oxygen interference check according to 8.2 and 8.3.
+8.1.3 If the oxygen interference or the hydrocarbon response factors do not meet the following specifications, the air flow shall be incrementally adjusted above and below the manufacturer's specifications, 8.2 and 8.3 for each flow.
+8.1.4 The optimization may optionally be conducted using alternative procedures subject to the approval of the Administration.
+8.2 Hydrocarbon response factors
+8.2.1 The analyser shall be calibrated using propane in air and purified synthetic air, according to 5.
+8.2.2 Response factors shall be determined when introducing an analyser into service and after major service intervals. The response factor (rh) for a particular hydrocarbon species is the ratio of the HFID ppmC reading to the gas concentration in the cylinder expressed in terms of ppmC.
+8.2.3 The concentration of the test gas must be at a level to give a response of approximately 80% of full scale. The concentration must be known to an accuracy of ± 2% in reference to a gravimetric standard expressed in volume. In addition, the gas cylinder must be preconditioned for 24 hours at a temperature of 25°C ± 5°C.
+8.2.4 The test gases to be used and the recommended relative response factor ranges are as follows:
+Methane and purified synthetic air 1.00 ≤ rh ≤ 1.15
+Propylene and purified synthetic air 0.90 ≤ rh ≤ 1.1
+Toluene and purified synthetic air 0.90 ≤ rh ≤ 1.1
+These values are relative to a rh of 1 for propane and purified synthetic air.
+8.3 Oxygen interference check
+8.3.1 The oxygen interference check shall be determined when introducing an analyser into service and after major service intervals.
+8.3.2 A range shall be chosen where the oxygen interference check gases will fall in the upper 50%. The test shall be conducted with the oven temperature set as required. The oxygen interference gases are specified in 2.2.4.
+.1 The analyser shall be zeroed.
+.2 The analyser shall be spanned with the 21% oxygen blend.
+.3 The zero response shall be rechecked. If it has changed more than 0.5% of full scale (FS) steps 8.3.2.1 and 8.3.2.2 shall be repeated.
+.4 The 5% and 10% oxygen interference check gases shall be introduced.
+.5 The zero response shall be rechecked. If it has changed more than ± 1% of full scale, the test shall be repeated.
+.6 The oxygen interference (%O2I) shall be calculated for each mixture in step .4 as follows:
+(B − analyser response)
+%OI =⋅100
+2 B
+(2)
+where: analyser response is (A/% FS at A) .... (%FS at B)
+where: A = hydrocarbon concentration in ppmC (microlitres per litre) of the span gas used in 8.3.2.2
+B = hydrocarbon concentration (ppmC) of the oxygen interference check gases used in 8.3.2.4
+A
+( ppmC) = (3)
+D
+D = percentage of full scale analyser response due to A
+.7 The % of oxygen interference (%O2I) shall be less than ± 3.0% for all required oxygen interference check gases prior to testing.
+.8 If the oxygen interference is greater than ± 3.0%, the air flow above and below the manufacturer's specifications shall be incrementally adjusted, repeating 8.1 for each flow.
+.9 If the oxygen interference is greater than ± 3.0% after adjusting the air flow, the fuel flow and thereafter the sample flow shall be varied, repeating 8.1 for each new setting.
+.10 If the oxygen interference is still greater than ± 3.0%, the analyser, HFID fuel, or burner air shall be repaired or replaced prior to testing. This clause shall then be repeated with the repaired or replaced equipment or gases.
+9 Interference effects with CO, CO2, NOx and O2 analysers
+Gases other than the one being analysed can interfere with the reading in several ways. Positive interference occurs in NDIR and PMD instruments where the interfering gas gives the same effect as the gas being measured, but to a lesser degree. Negative interference occurs in NDIR instruments by the interfering gas broadening the absorption band of the measured gas, and in CLD instruments by the interfering gas quenching the radiation. The interference checks in 9.1 and 9.2 shall be performed prior to an analyser's initial use and after major service intervals, but at least once per year.
+9.1 CO analyser interference check
+Water and CO2 can interfere with the CO analyser performance. Therefore, a CO2 span gas having a concentration of 80% to 100% of full scale of the maximum operating range used during testing shall be bubbled through water at room temperature and the analyser response recorded. The analyser response must not be more than 1% of full scale for ranges equal to or above 300 ppm or more than 3 ppm for ranges below 300 ppm.
+9.2 NOx analyser quench checks
+The two gases of concern for CLD (and HCLD) analysers are CO2 and water vapour. Quench responses to these gases are proportional to their concentrations, and therefore require test techniques to determine the quench at the highest expected concentrations experienced during testing.
+9.2.1 CO2 quench check
+9.2.1.1 A CO2 span gas having a concentration of 80% to 100% of full scale of the maximum operating range shall be passed through the NDIR analyser and the CO2 value recorded as A. It shall then be diluted approximately 50% with NO span gas and passed through the NDIR and (H)CLD, with the CO2 and NO values recorded as B and C, respectively. The CO2 shall then be shut off and only the NO span gas be passed through the (H)CLD and the NO value recorded as D.
+9.2.1.2 The quench shall be calculated as follows:
+⎡ (C ⋅ A) ⎞⎤
+ECO2 =⎢1 − ⎜ ⎟⎟⎥⋅100 (4)
+ ⎝(D⋅ A)( D⋅B)⎠⎦
+−
+where:
+A = is the undiluted CO2 concentration measured with NDIR in percentage by volume;
+B = is the diluted CO2 concentration measured with NDIR in by volume;
+C = is the diluted NO concentration measured with (H)CLD in ppm; and
+D = is the undiluted NO concentration measured with (H)CLD in ppm.
+9.2.1.3 Alternative methods of diluting and quantifying of CO2 and NO span gas values such as dynamic mixing/blending, can be used.
+9.2.2 Water quench check
+9.2.2.1 This check applies to wet gas concentration measurements only. Calculation of water quench must consider dilution of the NO span gas with water vapour and scaling of water vapour concentration of the mixture to that expected during testing.
+9.2.2.2 A NO span gas having a concentration of 80% to 100% of full scale of the normal operating range shall be passed through the HCLD and the NO value recorded as D. The NO span gas shall then be bubbled through water at a temperature of 25°C ± 5°C and pass through the HCLD and record the NO value as C. The water temperature shall be determined and recorded as F. The mixture's saturation vapour pressure that corresponds to the bubbler water temperature (F) shall be determined and recorded as G. The water vapour concentration (H in %) of the mixture shall be calculated as follows:
+ G ⎞
+H = 100 ⋅ (5)
+⎜ p ⎟
+ b 
+The expected diluted NO span gas (in water vapour) concentration (De) shall be calculated as follows:
+ H ⎞
+De = D ⋅⎜1 − (6) 100 
+For diesel engine exhaust, the maximum exhaust water concentration (in %) expected during testing shall be estimated, under the assumption of a fuel atom H/C ratio of 1.8/1, from the maximum CO2 concentration A in the exhaust gas as follows:
+Hm = 0.9 ⋅ A (7)
+and Hm is recorded.
+9.2.2.3 The water quench shall be calculated as follows:
+ De − C  Hm ⎞
+EH2O = 100 ⋅⎜ ⎟⎟⋅⎜  (8) De ⎠ H 
+where: De = is the expected diluted NO concentration in ppm; C = is the diluted NO concentration in ppm; Hm = is the maximum water vapour concentration in %; and H = is the actual water vapour concentration in %.
+Note: It is important that the NO span gas contains minimal NO2 concentration for this check, since absorption of NO2 in water has not been accounted for in the quench calculations.
+9.2.3 Maximum allowable quench
+The maximum allowable quench shall be:
+.1 CO2 quench according to 9.2.1: 2% of full scale. .2 Water quench according to 9.2.2: 3% of full scale.
+9.3 O2 analyser interference
+9.3.1 Instrument response of a PMD analyser caused by gases other than oxygen is comparatively slight. The oxygen equivalents of the common exhaust gas constituents are shown in table 6.
+Table 6
+Oxygen equivalents
+9.3.2 The observed oxygen concentration shall be corrected by the following formula:
+(Equivalent O ⋅ c )
+2 observed
+E = (9)
+O2 100
+9.3.3 For ZRDO and ECS analysers, instrument interference caused by gases other than oxygen shall be compensated in accordance with the manufacturer's recommendations and with good engineering practice. Electrochemical sensors shall be compensated for CO2 and NOx interference.
+Appendix 5
+Parent Engine test report and test data
+(Refer to 2.4.1.5 and 5.10 of the NOx Technical Code)
+Section 1 - Parent Engine test report - see 5.10 of the Code
+Emissions Test Report No. .... Sheet 1/5
+Emissions Test Report No. .... Sheet 2/5
+Emissions Test Report No. .... Test Cell Information Sheet 3/5
+Fuel Characteristics
+Emissions Test Report No .... .Ambient and Gaseous Emissions Data Sheet 4/5
+I:\MEPC\58\23-Add-1.doc
+*
+As applicable.
+I:\MEPC\58\23-Add-1.doc
+Emissions Test Report No .... .Engine Test Data Sheet 5/5
+*
+As applicable.
+I:\MEPC\58\23-Add-1.doc
+Section 2 - Parent Engine test data to be included in the Technical File - see 2.4.1.5 of the Code
+I:\MEPC\58\23-Add-1.doc
+I:\MEPC\58\23-Add-1.doc
+*
+As applicable.
+I:\MEPC\58\23-Add-1.doc
+Appendix 6
+Calculation of exhaust gas mass flow (carbon-balance method)
+(Refer to chapter 5 of the NOx Technical Code)
+1 Introduction
+1.1 This appendix addresses the calculation of the exhaust gas mass flow based on exhaust gas concentration measurement, and on the knowledge of fuel consumption. Symbols and descriptions of terms and variables used in the formulae for the carbon-balance measurement method are summarized in the Introduction of this Code.
+1.2 Except as otherwise specified, all results of calculations required by this appendix shall be reported in the engine's test report in accordance with 5.10 of the Code.
+2 Carbon balance method, 1-step calculation procedure
+2.1 This method involves exhaust mass calculation from fuel consumption, fuel composition and exhaust gas concentrations.
+2.2 Exhaust gas mass flow rate on wet basis:
+(
+)
+
+
+⎛       ⎜
+⎞       ⎟
+1.4
+⋅
+⋅
+w
+w
+BET
+BET
+       ⎟⎟⎠
+⎠
+⋅
+)
+⋅
+)
+⋅
+(
+⎝
+1.4 w
+BET
+       ⎜⎜⎝
+ALF 0.08936
+ALF 0.08936
+⎛⎜
+⎞⎟
+1
+(
+f
+−
+1
+⋅
++
++
+w
+fd
+⎛
+
+
+f
+1.293
+
+
+Ha
+(
+)
+c
++
+⎠
++
+(1)
+−
+1
+⋅
+1
+q
+mew
+=
+q
+mf
+⋅
+1
++
+w
+⋅
+ff
+1000
+c
+c
+⋅
+additional volumes of the combustion of the fuel elements:
+w
+(2)
+f=− 0.055593
+⋅
+0.008002
+0.0070046
+⋅
++
++
+w
+w
+fd
+ALF
+DEL
+EPS
+Appendix 7
+Checklist for an Engine Parameter Check method
+(Refer to 6.2.2.5 of the NOx Technical Code)
+For some of the parameters listed below, more than one survey possibility exists. In such cases, as a guideline, any one of, or a combination of, the below listed methods may be sufficient to show compliance. As approved by the Administration, the shipowner, supported by the applicant for engine certification, may choose which method is applicable.
+.1 parameter "injection timing":
+.1 Fuel cam position (individual cam or camshaft if cams are not adjustable):
+-optional (dependent on design): position of a link between the cam and the pump drive, -optional for sleeve-metered pumps: VIT index and cam position or position of the barrel, or -other sleeve metering device;
+.2 start of delivery for certain fuel rack positions (dynamic pressure measurement);
+.3 opening of injection valve for certain load points, e.g., using a Hall sensor or acceleration pick-up;
+.4 load-dependent operating values for charge air pressure, combustion peak pressure, charge air temperature, exhaust gas temperature versus graphs showing the correlation with NOx. Additionally, it shall be ensured that the compression ratio corresponds to the initial certification value (see 1.7).
+Note: To assess the actual timing, it is necessary to know the allowable limits for meeting the emission limits or even graphs showing the influence of timing on NOx, based on the test-bed measurement results.
+.2 parameter "injection nozzle":
+.1 specification and component identification number;
+.3 parameter "injection pump":
+.1 component identification number (specifying plunger and barrel design);
+.4 parameter "fuel cam":
+.1 component identification number (specifying shape);
+.2 start and end of delivery for a certain fuel rack position (dynamic pressure measurement);
+.13 parameter "exhaust gas recirculation" (for assessment: graph showing influence on NOx): .1 load-dependent mass flow of recirculated exhaust gas (monitoring); .2 CO2 concentration in the mixture of fresh air and recirculated exhaust gas,
+i.e. in the "scavenge air" (monitoring);
+.3 O2 concentration in the "scavenge air" (monitoring);
+.14 parameter "selective catalytic reduction" (SCR):
+.1 load-dependent mass flow of reducing agent (monitoring) and additional periodical spot checks on NOx concentration after SCR (for assessment: graph showing influence on NOx).
+2 For engines with selective catalytic reduction (SCR) without feedback control, optional NOx measurement (periodical spot checks or monitoring) is useful to show that the SCR efficiency still corresponds to the state at the time of certification regardless of whether the ambient conditions or the fuel quality led to different raw emissions.
+Appendix 8
+Implementation of the Direct Measurement and Monitoring method
+(Refer to 6.4 of the NOx Technical Code)
+1 Electrical equipment: materials and design
+1.1 Electrical equipment shall be constructed of durable, flame-retardant, moisture resistant materials, which are not subject to deterioration in the installed environment and at the temperatures to which the equipment is likely to be exposed.
+1.2 Electrical equipment shall be designed such that current carrying parts with potential to earth are protected against accidental contact.
+2 Analysing equipment
+2.1 Analysers
+2.1.1 The exhaust gases shall be analysed with the following instruments. For non-linear analysers, the use of linearizing circuits is permitted. Other systems or analysers may be accepted, subject to the approval of the Administration, provided they yield equivalent results to that of the equipment referenced below:
+.1 Nitrogen oxides (NOx) analysis
+The nitrogen oxides analyser shall be of the chemiluminescent detector (CLD) or heated chemiluminescent detector (HCLD) type. The exhaust gas sampled for NOx measurement shall be maintained above its dewpoint temperature until it has passed through the NO2 to NO converter.
+Note: In the case of raw exhaust gas this temperature shall be greater than 60ºC if the engine is fuelled with ISO 8217 DM-grade type fuel and greater than 140ºC if fuelled with ISO 8217 RM-grade type fuel.
+.2 Carbon dioxide (CO2) analysis
+When required, the carbon dioxide analyser shall be of the non-dispersive infrared (NDIR) absorption type.
+.3 Carbon monoxide (CO) analysis
+When required, the carbon monoxide analyser shall be of the non-dispersive infrared (NDIR) absorption type.
+.4 Hydrocarbon (HC) analysis
+When required, the hydrocarbon analyser shall be of the heated flame ionization detector (HFID) type. The exhaust gas sampled for HC measurement shall be maintained at 190ºC ±10ºC from the sample point to the detector.
+.5 Oxygen (O2) analysis
+When required, the oxygen analyser shall be of the paramagnetic detector (PMD), zirconium dioxide (ZRDO) or electrochemical sensor (ECS) type.
+2.2 Analyser specifications
+2.2.1 The analyser specifications shall be consistent with 1.6, 1.7, 1.8, 1.9 and 1.10 of appendix 3 of this Code.
+2.2.2 The analyser range shall be such that the measured emission value is within 15% - 100% of the range used.
+2.2.3 The analysing equipment shall be installed and maintained in accordance with manufacturers' recommendations in order to meet the requirements of 1.7, 1.8, 1.9, and 1.10 of appendix 3 of this Code and sections 7 and 9 of appendix 4 of this Code.
+3 Pure and calibration gases
+3.1 Pure and calibration gases, as required, shall comply with 2.1 and 2.2 of appendix 4 of this Code. Declared concentrations shall be traceable to national and/or international standards. Calibration gases shall be in accordance with the analysing equipment manufacturers' recommendations.
+3.2 Analyser span gases shall be between 80% - 100% of the analyser scale being spanned.
+4 Gas sampling and transfer system
+4.1 The exhaust gas sample shall be representative of the average exhaust emission from all the engine's cylinders. The gas sampling system shall comply with 5.9.3 of this Code.
+4.2 The exhaust gas sample shall be drawn from a zone within 10% to 90% of the duct diameter.
+4.3 In order to facilitate the installation of the sampling probe, an example of a sample point connection flange is given in section 5.
+4.4 The exhaust gas sample for NOx measurement shall be maintained so as to prevent NO2 loss via water or acid condensation in accordance with analysing equipment manufacturers' recommendations.
+4.5 The gas sample shall not be dried by chemical driers.
+4.6 The gas sampling system shall be capable of being verified to be free of ingress leakage in accordance with analysing equipment manufacturers' recommendations.
+4.7 An additional sample point adjacent to that used shall be provided to facilitate quality control checks on the system.
+5 Sample point connection flange
+5.1 The following is an example of a general purpose sample point connection flange which shall be sited, as convenient, on the exhaust duct of each engine for which it may be required to demonstrate compliance by means of the Direct Measurement and Monitoring method.
+5.2 The flange shall be fitted to a stub pipe of suitable gauge material aligned with the exhaust duct diameter. The stub pipe shall be no longer than necessary to project beyond the exhaust duct cladding, sufficient to enable access to the far side of the flange. The stub pipe shall be insulated. The stub pipe shall terminate at an accessible position free from nearby obstructions which would interfere with the location or mounting of a sample probe and associated fittings.
+5.3 When not in use, the stub pipe shall be closed with a steel blank flange and a gasket of suitable heat resisting material. The sampling flange, and closing blank flange, when not in use, shall be covered with a readily removable and suitable heat resistant material which protects against accidental contact.
+6 Selection of load points and revised weighting factors
+6.1 As provided for by 6.4.6.3 of this Code, in the case of the E2, E3 or D2 test cycles, the minimum number of load points shall be such that the combined nominal weighting factors, as given in 3.2 of this Code, are greater than 0.50.
+6.2 In accordance with 6.1, for the E2 and E3 test cycles it would be necessary to use the 75% load point plus one or more other load points. In the case of the D2 test cycle, either the 25% or 50% load point shall be used plus either one or more load points such that the combined nominal weighting factor is greater than 0.50.
+6.3 The examples below give some of the possible combinations of load points which may be used together with the respective revised weighting factors:
+E2 and E3 test cycles
+.2 D2 test cycle
+6.4 In the case of the C1 test cycle, as a minimum, one load point from each of the rated, intermediate and idle speed sections shall be used. The examples below give some of the possible combinations of load points which may be used together with the respective revised weighting factors:
+.1 C1 test cycle
+6.5 Examples of calculation of revised weighting factors: For a given load point, revised weighting factors shall be calculated as follows: y% load = nominal weighting factor at load y ⋅ (1/(sum of the load factors for load
+points where data was acquired))
+.2 For Option A:
+75% load: revised value is calculated as: 0.5 ⋅ (1/(0.5 + 0.2)) = 0.71
+100% load: revised value is calculated as: 0.2 ⋅ (1/(0.5 + 0.2)) = 0.29
+.3 For Option F:
+75% load: revised value is calculated as: 0.25 ⋅ (1/(0.25 + 0.3 + 0.1)) = 0.38
+.4 The revised weighting factors are shown to two decimal places. However, the values to be applied to equation 18 shall be to the full precision. Hence in the Option F case above the revised weighting factor is shown as 0.38 although the actual calculated value is 0.384615. Consequently, in these examples of revised weighting factors the summation of the values shown (to two decimal places) may not sum to 1.00 due to rounding.
+7 Determination of power set point stability
+7.1 To determine set point stability, the power coefficient of variance shall be calculated over a 10-minute interval, and the sampling rate shall be at least 1-Hz. The result shall be less than or equal to five per cent (5%).
+7.2 The formulae for calculating the coefficient of variance are as follows:
+N
+Ave = 1∑ xj (1)Nj =1
+2
+S.D.=
+1 ∑ N (xi − Ave) (2)N −1 i=1
+S.D.
+%C.O.V. =⋅100 ≤ 5% (3)
+Ave
+where:
+%C.O.V. power coefficient of variance in %
+S.D. standard deviation Ave Average N total number of data points sampled xi, xj ith, jth value of power data point in kW i index variable in standard deviation formula j index variable in average formula. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,136 @@
+
+ Amendments to Annex I to the Convention On The Transboundary Effects Of Industrial Accidents   
+     Filename: 2006-Amendments-1992-TransboundaryEffectIndustrialAccidents.EN.txt 
+ Source: http://www.unece.org/env/documents/2007/teia/ECE-CP-TEIA-15-PartII.pdf     
+    ﻿Amendments to Annex I to the Convention on the Transboundary Effects of Industrial Accidents
+Source: http://www.unece.org/env/documents/2007/teia/ECE-CP-TEIA-15-PartII.pdf, downloaded 20091223
+[The Amendments were adopted at the fourth meeting of the Conference of the Parties, held in Rome from 15 to 17 November 2006 and entered into force for all Parties to the Convention on 19 March 2008. -- https://treaties.un.org/Pages/ShowMTDSGDetails.aspx?src=UNTSONLINE&amp;tabid...
+The Conference of the Parties,
+Recognizing the need to update the categories of substances and preparations and the named substances and their threshold quantities, as contained in annex I to the Convention, for the purposes of defining hazardous activities, in light of new scientific information and the lessons learned from past industrial accidents,
+Bearing in mind its decision to undertake a review of the hazardous substances and their quantities as contained in annex I and its decision 2004/4 on establishing the Working Group on the Development of the Convention,
+Acknowledging the proposal to amend annex I drawn up by the Working Group on Development on the basis of a thorough review (for reference see the minutes of two meetings: WGD2/27 June 2005 and WGD4/7 April 2006) and supported by the Bureau,
+Amends annex I to the Convention on hazardous substances for the purposes of defining hazardous activities as contained in the appendix below.
+Appendix
+Hazardous substances for the purposes of defining hazardous activities[1]
+The quantities given below relate to each activity or group of activities.
+Where a substance or preparation named in Part II also falls within a category in Part I, the threshold quantity given in Part II shall be used.
+For the identification of hazardous activities, Parties shall take into consideration the foreseeable possibility of aggravation of the hazards involved and the quantities of the hazardous substances and their proximity, whether under the charge of one or more operators.
+PART I. Categories of substances and preparations not specifically named in Part II
+Category: Threshold Quantity (metric tons)
+1. Flammable[2]: 50,000
+2a. Highly flammable[3(a) and (b)]: 200
+2b. Highly flammable[3(c)]: 50,000
+3. Extremely flammable[4]: 50
+4. Toxic[5]: 200
+5. Very toxic[6]: 20
+6. Oxidizing[7]: 200
+7a. Explosive, where the substance, preparation or article falls under Division 1.4 of the GHS criteria[8]: 200
+7b. Explosive, where the substance, preparation or article falls under Division 1.1, 1.2, 1.3, 1.5 or 1.6 of the GHS criteria[8]: 50
+8a. Dangerous for the environment - "Toxic to aquatic organisms"[9]: 500
+8b. Dangerous to the environment - "Very toxic to aquatic organisms"[10]: 200
+PART II. Named substances
+Substance: Threshold Quantity (metric tons)
+1a. Ammonium nitrate[11]: 10,000
+1b. Ammonium nitrate[12]: 5,000
+1c. Ammonium nitrate[13]: 2,500
+1d. Ammonium nitrate[14]: 50
+2a. Potassium nitrate[15]: 10,000
+2b. Potassium nitrate[16]: 5,000
+3. Chlorine: 25
+4. Ethylene oxide: 50
+5. Hydrogen: 50
+6. Toluene diisocyanate: 100
+7. Sulphur trioxide: 75
+8. Lead alkyls: 50
+9. Phosgene: 0.75
+10. Methyl isocyanate: 0.15
+11. Liquefied extremely flammable gases (including LPG) and natural gas: 200
+12. Petroleum products: gasolines and naphthas; kerosenes (including jet fuels); gas oils (including diesel fuels, home heating oils and gas oil blending streams): 25,000
+Notes
+[1.] Indicative criteria. In the absence of other appropriate criteria, Parties may use the following criteria when classifying substances or preparations for the purposes of Part I of this annex. Mixtures and preparations shall be treated in the same way as the pure substance unless they no longer exhibit equivalent properties and are not capable of producing transboundary effects.
+[2.] FLAMMABLE LIQUIDS: substances and preparations having a flash point equal to or greater than 21°C and less than or equal to 55°C, supporting combustion.
+[3.] HIGHLY FLAMMABLE LIQUIDS
+(a) Substances and preparations which may become hot and finally catch fire in contact with air at ambient temperature without any input of energy (are spontaneously flammable in air);
+(b) Substances and preparations, which have a flashpoint lower than 55°C and remain liquid under pressure, where particular processing conditions, such as high pressure or high temperature, may create major accident hazards; and
+(c) Substances and preparations having a flash point lower than 21°C and which are not extremely flammable.
+[4.] EXTREMELY FLAMMABLE GASES AND LIQUIDS
+(a) Liquid substances and preparations which have a flash point lower than 0°C and whose boiling point (or, in the case of a boiling range, initial boiling point) at normal pressure is less than or equal to 35°C;
+(b) Gases which are flammable in contact with air at ambient temperature and pressure, and which are in a gaseous or supercritical state; and
+(c) Flammable and highly flammable liquid substances and preparations maintained at a temperature above their boiling point.
+[5.] TOXIC: substances with properties corresponding to those in table 1 or table 2 and having physical and chemical properties capable of creating industrial accident hazards (LD - lethal dose; LC - lethal concentration).
+TABLE 1
+[Editor: This table had formatting that was more complicated than could be readily reproduced here. For these tables, please see the original source document, as identified at the top of this document.]
+TABLE 2
+Discriminating dose mg/kg body weight = 5
+where the acute oral toxicity in animals of the substance has been determined using the fixed-dose procedure.
+[6.] VERY TOXIC: substances with properties corresponding to those in table 3 or table 4 and which, owing to their physical and chemical properties, are capable of creating industrial accident hazards (LD - lethal dose; LC - lethal concentration).
+TABLE 3
+[Editor: This table had formatting that was more complicated than could be readily reproduced here. For these tables, please see the original source document, as identified at the top of this document.]
+TABLE 4
+Discriminating dose mg/kg body weight &lt; 5 where the acute oral toxicity in animals of the substance has been determined using the fixed-dose procedure.
+[7.] OXIDIZING: substances which give rise to highly exothermic reactions when in contact with other substances, particularly flammable substances.
+[8.] EXPLOSIVE
+(a) Substances or preparations which create the risk of an explosion by shock, friction, fire or other sources of ignition;
+(b) Substances or preparations which create extreme risks of explosion by shock, friction, fire or other sources of ignition; or
+(c) Substances, preparations or articles covered by Class 1 of the European Agreement concerning the International Carriage of Dangerous Goods by Road (UN/ADR), concluded on 30 September 1957, as amended.
+Included in this definition are pyrotechnics, which for the purposes of this Convention are defined as substances (or mixtures of substances) designated to produce heat, light, sound, gas or smoke or a combination of such effects through self-sustained exothermic chemical reactions. Substances and articles of Class 1 are classified in any of the divisions 1.1 to 1.6 in accordance with the UN/ADR classification scheme. The divisions concerned are:
+Division 1.1: "Substances and articles which have a mass explosion hazard (a mass explosion is an explosion which affects almost the entire load virtually instantaneously)."
+Division 1.2: "Substances and articles which have a projection hazard but not a mass explosion hazard."
+Division 1.3: "Substances and articles which have a fire hazard and either a minor blast hazard or a minor projection hazard or both, but not a mass explosion hazard:
+(i) combustion of which gives rise to considerable radiant heat; or
+(ii) which burn one after another, producing minor blast or projection effects or both."
+Division 1.4: "Substances and articles which present only a slight risk in the event of ignition or initiation during carriage. The effects are largely confined to the package and no projection of fragments of appreciable size or range is to be expected. An external fire shall not cause virtually instantaneous explosion of virtually the entire contents of the package."
+Division 1.5: "Very insensitive substances having a mass explosion hazard which are so insensitive that there is very little probability of initiation or of transition from burning to detonation under normal conditions of carriage. As a minimum requirement they shall not explode in the external fire test."
+Division 1.6: "Extremely insensitive articles which do not have a mass explosion hazard. The articles contain only extremely insensitive detonating substances and demonstrate a negligible probability of accidental initiation or propagation. The risk is limited to the explosion of a single article."
+Also included in this definition are explosive or pyrotechnic substances or preparations contained in articles. In the case of articles containing explosive or pyrotechnic substances or preparations, if the quantity of the substance or preparation contained is known, that quantity shall be considered for the purposes of this Convention. If the quantity is not known, then, for the purposes of this Convention, the whole article shall be treated as explosive.
+[9.] DANGEROUS FOR THE ENVIRONMENT (LC - lethal concentration; EC - effective concentration; IC - inhibiting concentration) - toxic to aquatic organisms with long-term adverse effects in the aquatic environment with:
+(a) Acute toxicity:
+(i) 96 hr LC50 (for fish): 1 mg/l &lt; LC50 ≤ 10 mg/l, or
+(ii) 48 hr EC50 (for daphnia): 1 mg/l &lt; EC50 ≤ 10 mg/l, or
+(iii) 72 hr IC50 (for algae): 1 mg/l &lt; IC50 ≤ 10 mg/l; and
+(b) Persistency: the substance is not readily degradable or the log Pow (log octanol/water partition coefficient) ≥ 3.0 (unless the experimentally determined bio¬concentration factor BCF ≤ 100).
+[10.] DANGEROUS FOR THE ENVIRONMENT (LC - lethal concentration; EC - effective concentration; IC - inhibiting concentration) - very toxic to aquatic organisms:
+(a) Substances very toxic to aquatic organisms, with acute toxicity:
+(i) 96 hr LC50 (for fish):≤ 1 mg/l, or
+(ii) 48 hr EC50 (for daphnia): ≤ 1 mg/l, or
+(iii) 72 hr IC50 (for algae): ≤ 1 mg/l
+(b) Substances very toxic to aquatic organisms with long-term adverse effects in the aquatic environment with:
+(i) Acute toxicity:
+-96 hr LC50 (for fish): ≤ 1 mg/l, or
+-48 hr EC50 (for daphnia): ≤1 mg/l, or
+-72 hr IC50 (for algae) ≤ 1 mg/l; and
+(ii) Persistency: the substance is not readily degradable or the log Pow (log octanol/water partition coefficient) ≥ 3.0 (unless the experimentally determined bio-concentration factor BCF ≤ 100).
+[11.] AMMONIUM NITRATE (10,000): fertilizers capable of self-sustaining decomposition.
+This applies to ammonium nitrate-based compound/composite fertilizers (compound/composite fertilizers containing ammonium nitrate with phosphate and/or potash) in which the nitrogen content as a result of ammonium nitrate is:
+(a) Between 15.75% and 24.5% by weight (15.75% and 24.5% nitrogen content by weight as a result of ammonium nitrate correspond to 45% and 70% ammonium nitrate, respectively) and which either contain no more than 0.4% total combustible/organic materials or fulfil the requirements of an appropriate test of resistance to detonation (e.g. 4-inch steel tube test);
+(b) 15.75% by weight or less and unrestricted combustible materials;
+and which are capable of self-sustaining decomposition according to the UN Trough Test (see United Nations Recommendations on the Transport of Dangerous Goods: Manual of Tests and Criteria, Part III, subsection 38.2).
+[12.] AMMONIUM NITRATE (5,000): fertilizer grade.
+This applies to straight ammonium nitrate-based fertilizers and to ammonium nitrate-based compound/composite fertilizers in which the nitrogen content as a result of ammonium nitrate is:
+(a) more than 24.5% by weight, except for mixtures of ammonium nitrate with dolomite, limestone and/or calcium carbonate with a purity of at least 90%;
+(b) more than 15.75% by weight for mixtures of ammonium nitrate and ammonium sulphate;
+(c) more than 28% (28% nitrogen content by weight as a result of ammonium nitrate corresponds to 80% ammonium nitrate) by weight for mixtures of ammonium nitrate with dolomite, limestone and/or calcium carbonate with a purity of at least 90%;
+and which fulfil the requirements of an appropriate test of resistance to detonation (e.g. 4-inch steel tube test).
+[13.] AMMONIUM NITRATE (2,500): technical grade.
+This applies to:
+(a) Ammonium nitrate and preparations of ammonium nitrate in which the nitrogen content as a result of ammonium nitrate is:
+(i) between 24.5% and 28% by weight and which contain not more than 0.4% combustible substances;
+(ii) more than 28% by weight, and which contain not more than 0.2% combustible substances;
+(b) Aqueous ammonium nitrate solutions in which the concentration of ammonium nitrate is more than 80% by weight.
+[14.] AMMONIUM NITRATE (50): "off-specs" material and fertilizers not fulfilling the requirements of an appropriate test of resistance to detonation (e.g. 4-inch steel tube test).
+This applies to: 
+(a) Material rejected during the manufacturing process and to ammonium nitrate and preparations of ammonium nitrate, straight ammonium nitrate-based fertilizers and ammonium nitrate-based compound/composite fertilizers referred to in notes 12 and 13 that are being or have been returned from the final user to a manufacturer, temporary storage or reprocessing plant for reworking, recycling or treatment for safe use because they no longer comply with the specifications of notes 12 and 13;
+(b) Fertilizers referred to in note 11(a) and note 12 which do not fulfil the requirements of an appropriate test of resistance to detonation (e.g. 4-inch steel tube test).
+[15.] POTASSIUM NITRATE (10,000): composite potassium nitrate-based fertilizers composed of potassium nitrate in prilled/granular form.
+[16.] POTASSIUM NITRATE (5,000): composite potassium nitrate-based fertilizers composed of potassium nitrate in crystalline form. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

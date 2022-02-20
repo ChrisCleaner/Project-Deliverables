@@ -1,0 +1,44 @@
+
+ Amendment of annex III to the Protocol On Heavy Metals To The Convention On Long-Range Transboundary Air Pollution   
+     Filename: 2012-AmendmentAnnexIII-1998-ProtocolHeavyMetals-1979-EuropeanTransboundaryAirPollution.EN.txt 
+ Source: http://www.unece.org/fileadmin/DAM/env/documents/2012/EB/Decision_2012_6.pdf     
+    ﻿Amendment of annex III to the 1998 Protocol on Heavy Metals to the Convention on Long-range Transboundary Air Pollution (Decision 2012/6)
+Source: http://www.unece.org/fileadmin/DAM/env/documents/2012/EB/Decision_2012_6..., downloaded 20130628 (ECE/EB.AIR/113/Add.1)
+The Parties to the 1998 Protocol on Heavy Metals meeting within the thirty-first session of the Executive Body,
+Decide to amend annex III to the 1998 Protocol on Heavy Metals to the Convention on Long-range Transboundary Air Pollution as follows:
+Article 1 Amendment
+For annex III the following text is substituted:
+Annex III Best available techniques for controlling emissions of heavy metals and their compounds from the source categories listed in annex II
+1. This annex aims to provide Parties with guidance on identifying best available techniques for stationary sources to enable them to meet the obligations of the Protocol. Further description of and guidance on such best available techniques are provided in a guidance document adopted by the Parties at a session of the Executive Body and may be updated as necessary by a consensus of the Parties meeting within the Executive Body.
+2. The expression “best available techniques” (BAT) means the most effective and advanced stage in the development of activities and their methods of operation which indicate the practical suitability of particular techniques for providing the basis for emission limit values (and other permit conditions) designed to prevent and, where that is not practicable, to reduce emissions and their impact on the environment as a whole:
+(a) “Techniques” includes both the technology used and the way in which the installation is designed, built, maintained, operated and decommissioned;
+(b) “Available” techniques means those developed on a scale which allows implementation in the relevant industrial sector, under economically and technically viable conditions, taking into consideration the costs and advantages, whether or not the techniques are used or produced inside the territory of the Party in question, as long as they are reasonably accessible to the operator;
+(c) “Best” means most effective in achieving a high general level of protection of the environment as a whole.
+3. Criteria for determining BAT are as follows:
+(a) The use of low-waste technology;
+(b) The use of less hazardous substances;
+(c) The furthering of recovery and recycling of substances generated and used in the process and of waste, where appropriate;
+(d) Comparable processes, facilities or methods of operation which have been tried with success on an industrial scale;
+(e) Technological advances and changes in scientific knowledge and understanding;
+(f) The nature, effects and volume of the emissions concerned;
+(g) The commissioning dates for new or existing installations;
+(h) The length of time needed to introduce the best available technique;
+(i) The consumption and nature of raw materials (including water) used in the process and energy efficiency;
+(j) The need to prevent or reduce to a minimum the overall impact of the emissions on the environment and the risks to it;
+(k) The need to prevent accidents and to minimize their consequences for the environment;
+(l) Information published by national and international organizations.
+The concept of BAT is not aimed at the prescription of any specific technique or technology, but at taking into account the technical characteristics of the installation concerned, its geographical location and the local environmental conditions.
+4. Experience with new products and new plants incorporating low-emission techniques, as well as with the retrofitting of existing plants, is growing continuously; the guidance document referred to in paragraph 1 may, therefore, need updating.
+Article 2 Entry into Force
+In accordance with article 13, paragraph 4, of the Protocol, this amendment shall become effective for those Parties which have not submitted a notification to the Depositary in accordance with article 13, paragraph 5, of the Protocol on the expiry of 90 days from the date of its communication to all Parties by the Executive Secretary of the Commission, provided that at least 16 Parties have not submitted such a notification. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

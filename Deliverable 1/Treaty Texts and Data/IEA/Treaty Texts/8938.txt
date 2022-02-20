@@ -1,0 +1,114 @@
+
+ Amendments to Annexes A and B to the Stockholm Convention on Persistent Organic Pollutants (listing of perflurooctane sulfonic acid, perfluorooctane sulfonyl fluoride, dicofol, and perfluorooctanoic acid, and PFOA-related compounds)   
+     Filename: 8938-2019-AmendmentsAnnexesAandC-Stockholm Convention on Persistent Organic Pollutants Stockholm 
+ Source: https://treaties.un.org/doc/Publication/CN/2019/CN.588.2019-Eng.pdf     
+    2019 Amendments to Annexes A and B to the Stockholm Convention on Persistent Organic Pollutants (Listing of perflurooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride, dicofol, and perfluorooctanoic acid (PFOA))
+https://treaties.un.org/doc/Publication/CN/2019/CN.588.2019-Eng.pdf
+Reference: C.N.588.2019.TREATIES-XXVII.15 (Depositary Notification)
+STOCKHOLM CONVENTION ON PERSISTENT ORGANIC POLLUTANTS
+STOCKHOLM, 22 MAY 2001
+AMENDMENTS TO ANNEXES A AND B
+At its ninth meeting held in Geneva from 29 April to 10 May 2019, the Conference of the Parties to the above Convention adopted amendments to Annexes A and B in its decisions SC-9/4, SC 9/11 and SC-9/12, to list the following chemicals in the annexes:
+Decision Amendment
+SC-9/4: Listing of perflurooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride
+SC-9/11: Listing of dicofol
+SC-9/12: Listing of perfluorooctanoic acid (PFOA), its salts and
+PFOA-related compounds
+In accordance with paragraphs 3 (b) and 3 (c) and paragraph 4 of article 22 of the Convention, any Party that is unable to accept an amendment to Annex A, B or C shall so notify the depositary, in writing, within one year from the date of communication by the depositary of the adoption of the amendment. The depositary shall without delay notify all Parties of any such notification received. A Party may at any time withdraw a previous notification of non-acceptance in respect of any amendment to Annex A, B or C, and the amendment shall thereupon enter into force for that Party subject to paragraph 3 (c) of article 22. On the expiry of one year from the date of the communication by the depositary of the adoption of the amendment to Annex A, B or C, the amendment shall enter into force for all Parties that have not submitted a notification in accordance with the provisions of paragraph 3 (b) of article 22.
+In accordance with paragraph 4 of article 22, an amendment to Annex A, B or C shall not enter into force with respect to any Party that has made a declaration with respect to any amendment to those Annexes in accordance with paragraph 4 of article 25, in which case any such amendment shall enter into force for such a Party on the ninetieth day after the date of deposit with the depositary of its instrument of ratification, acceptance, approval or accession with respect to such amendment.
+The text of the amendments to Annexes A and B, as contained in the abovementioned decisions of the Conference of the Parties, in the six authentic languages are transmitted herewith.
+3 December 2019
+C.N.588.2019.TREATIES-XXVII.15
+Annexes
+Decision/Décision SC-9/4
+SC-9/4: Perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride
+The Conference of the Parties,
+Having considered the report on the assessment of alternatives to perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride submitted by the Persistent Organic Pollutants Review Committee1and the report on the evaluation of perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride submitted by the Secretariat,2
+Taking note of the recommendations of the Persistent Organic Pollutants Review Committee on the continued need for the various acceptable purposes and specific exemptions of perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride,3
+Recalling its decision SC-7/1, in which it noted, pursuant to paragraph 9 of Article 4 of the Stockholm Convention on Persistent Organic Pollutants, that as there were no longer any Parties registered for specific exemptions for the production and use of perfluorooctane sulfonic acid, its salts and perfluorooctane sulfonyl fluoride for carpets, leather and apparel, textiles and upholstery, paper and packaging, coatings and coating additives and rubber and plastics, no new registrations may be made with respect to them,
+1. Decides to amend part I of Annex B to the Stockholm Convention on Persistent Organic Pollutants by replacing the current listing of perfluorooctane sulfonic acid (CAS No. 1763-23-1), its salts and perfluorooctane sulfonyl fluoride (CAS No. 307-35-7) with the new listing as follows:
+Chemical Activity Acceptable purpose or specific exemption
+Perfluorooctane sulfonic acid (CAS No. 1763- 23-1), its saltsaand perfluorooctane sulfonyl fluoride (CAS No. 307-35-7) a For example: potassium perfluorooctane sulfonate (CAS No. 2795-39-3); lithium perfluorooctane sulfonate (CAS No. 29457-72-5); ammonium perfluorooctane sulfonate (CAS No. 29081- 56-9); diethanolammonium perfluorooctane sulfonate (CAS No. 70225-14-8); tetraethylammonium perfluorooctane sulfonate (CAS No. 56773-42-3); didecyldimethylammonium perfluorooctane sulfonate (CAS No. 251099-16-8)
+Production 
+Acceptable purpose:
+In accordance with part III of this Annex, production of other chemicals to be used solely for the use below. Production for uses listed below.
+Specific exemption: None
+Use 
+Acceptable purpose:
+In accordance with part III of this Annex for the following acceptable purpose, or as an intermediate in the production of chemicals with the following acceptable purpose:
+• Insect baits with sulfluramid (CAS No. 4151-50-2) as an active ingredient for control of leaf-cutting ants from Atta spp. and Acromyrmex spp. for agricultural use only
+Specific exemption:
+• Metal plating (hard-metal plating) only in closed-loop systems
+• Fire-fighting foam for liquid fuel vapour suppression and liquid fuel fires (Class B fires) in installed systems, including both mobile and fixed systems, in accordance with paragraph 10 of part III of this Annex
+2. Also decides to amend part III of Annex B to the Stockholm Convention on Persistent Organic Pollutants by inserting a new paragraph 10 as follows:
+"10. Each Party that has registered for an exemption pursuant to Article 4 for the use of PFOS, its salts and PFOSF for fire-fighting foam shall:
+(a) Notwithstanding paragraph 2 of Article 3, ensure that fire-fighting foam that contains or may contain PFOS, its salts and PFOSF shall not be exported or imported except for the purpose of environmentally sound disposal as set forth in paragraph 1 (d) of Article 6;
+(b) Not use fire-fighting foam that contains or may contain PFOS, its salts and PFOSF for training;
+(c) Not use fire-fighting foam that contains or may contain PFOS, its salts and PFOSF for testing unless all releases are contained;
+(d) By the end of 2022, if it has the capacity to do so, restrict uses of fire-fighting foam that contains or may contain PFOS, its salts and PFOSF to sites where all releases can be contained;
+(e) Make determined efforts designed to lead to the environmentally sound management of fire-fighting foam stockpiles and wastes that contain or may contain PFOS, its salts and PFOSF, in accordance with paragraph 1 of Article 6, as soon as possible."
+English/anglais
+SC-9/11: Listing of dicofol
+The Conference of the Parties,
+Having considered the risk profile and the risk management evaluation for dicofol as transmitted by the Persistent Organic Pollutants Review Committee,1
+Taking note of the recommendation by the Persistent Organic Pollutants Review Committee that dicofol be listed in Annex A to the Convention without specific exemptions,2
+Decides to amend part I of Annex A to the Stockholm Convention on Persistent Organic Pollutants to list dicofol without specific exemptions by inserting the following row:
+Chemical; Activity; Specific exemption
+Dicofol; Production; None
+CAS No. 115-32-2; Use; None
+CAS No. 10606-46-9
+SC-9/12: Listing of perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds
+The Conference of the Parties,
+Having considered the risk profile, the risk management evaluation and the addendum to the risk management evaluation for perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds as transmitted by the Persistent Organic Pollutants Review Committee,1
+Taking note of the recommendation by the Persistent Organic Pollutants Review Committee that perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds be listed in Annex A to the Stockholm Convention on Persistent Organic Pollutants with specific exemptions,2
+1. Decides to amend part I of Annex A to the Stockholm Convention on Persistent Organic Pollutants to list therein perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, with specific exemptions for the production and use of perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, by inserting the following rows:
+Chemical Activity Specific exemption
+Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds
+"Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds" means the following:
+(i) Perfluorooctanoic acid (PFOA; CAS No. 335-67- 1), including any of its branched isomers;
+(ii) Its salts;
+(iii) PFOA-related compounds which, for the purposes of the Convention, are any substances that degrade to PFOA, including any substances (including salts and polymers) having a linear or branched perfluoroheptyl group with the moiety (C7F15)C as one of the structural elements;
+The following compounds are not included as PFOA-related compounds:
+(i) C8F17-X, where X= F, Cl, Br;
+(ii) Fluoropolymers that are covered by CF3[CF2]n-R', where R'=any group, n&gt;16;
+(iii) Perfluoroalkyl carboxylic and phosphonic acids (including their salts, esters, halides and anhydrides) with ≥8 perfluorinated carbons;
+(iv) Perfluoroalkane sulfonic acids (including their salts, esters, halides and anhydrides) with ≥9 perfluorinated carbons;
+(v) Perfluorooctane sulfonic acid (PFOS), its salts and perfluorooctane sulfonyl fluoride (PFOSF), as listed in Annex B to the Convention.
+Production 
+• Fire-fighting foam: None
+• For other production, as allowed for the Parties listed in the Register in accordance with the provisions of part X of this Annex
+Use In accordance with the provisions of part X of this Annex:
+• Photolithography or etch processes in semiconductor manufacturing
+• Photographic coatings applied to films
+• Textiles for oil and water repellency for the protection of workers from dangerous liquids that comprise risks to their health and safety
+• Invasive and implantable medical devices
+• Fire-fighting foam for liquid fuel vapour suppression and liquid fuel fires (Class B fires) in installed systems, including both mobile and fixed systems, in accordance with paragraph 2 of part X of this Annex
+• Use of perfluorooctyl iodide for the production of perfluorooctyl bromide for the purpose of producing pharmaceutical products, in accordance with the provisions of paragraph 3 of part X of this Annex
+• Manufacture of polytetrafluoroethylene (PTFE) and polyvinylidene fluoride (PVDF) for the production of:
+o High-performance, corrosion-resistant gas filter membranes, water filter membranes and membranes for medical textiles
+o Industrial waste heat exchanger equipment
+o Industrial sealants capable of preventing leakage of volatile organic compounds and PM2.5 particulates
+• Manufacture of polyfluoroethylene propylene (FEP) for the production of high-voltage electrical wire and cables for power transmission
+• Manufacture of fluoroelastomers for the production of O-rings, v-belts and plastic accessories for car interiors
+2. Also decides to insert a new part X in Annex A to the Stockholm Convention on Persistent Organic Pollutants, as follows:
+Part X
+Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds
+1. The production and use of perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds shall be eliminated except for Parties that have notified the Secretariat of their intention to produce and/or use them in accordance with Article 4 of the Convention.
+2. Each Party that has registered for a specific exemption pursuant to Article 4 for the use of PFOA, its salts and PFOA-related compounds for fire-fighting foam shall:
+(a) Notwithstanding paragraph 2 of Article 3, ensure that fire-fighting foam that contains or may contain PFOA, its salts and PFOA-related compounds shall not be exported or imported except for the purpose of environmentally sound disposal as set forth in paragraph 1 (d) of Article 6;
+(b) Not use fire-fighting foam that contains or may contain PFOA, its salts and PFOA-related compounds for training;
+(c) Not use fire-fighting foam that contains or may contain PFOA, its salts and PFOA-related compounds for testing unless all releases are contained;
+(d) By the end of 2022, if it has the capacity to do so, but no later than 2025, restrict uses of fire-fighting foam that contains or may contain PFOA, its salts and PFOA-related compounds to sites where all releases can be contained;
+(e) Make determined efforts designed to lead to the environmentally sound management of fire-fighting foam stockpiles and wastes that contain or may contain PFOA, its salts and PFOA-related compounds, in accordance with paragraph 1 of Article 6, as soon as possible;
+3. With regard to the specific exemption for the use of perfluorooctyl iodide for the production of perfluorooctyl bromide for the purpose of producing pharmaceutical products, at its thirteenth ordinary meeting and at every second ordinary meeting thereafter, the Conference of the Parties shall review the continued need for this specific exemption. This specific exemption shall in any case expire at the latest in 2036. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

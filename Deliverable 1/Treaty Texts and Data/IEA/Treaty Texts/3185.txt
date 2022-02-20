@@ -1,0 +1,100 @@
+
+ Amendments To Appendices I And II Of The Convention On The Conservation Of Migratory Species Of Wild Animals   
+     Filename: 1994-AmendmentsAppendixIandII-1979-MigratoryWildAnimals.EN.txt 
+ Source: UNEP/CMS/Conf.4.16, 99-102 (Annex III) [Ed: This appears to be an incomplete listing of the additions made]     
+    ﻿Additions to Appendix I and Appendix II of the Convention on the Conservation of Migratory Species of Wild Animals adopted by the Fifth Conference of the Parties (Geneva, April 1997) 
+Source: UNEP/CMS/Conf.4.16, 99-102 (Annex III) [Ed: This appears to be an incomplete listing of the additions made]
+Additions to Appendix I
+Scientific Name Order/Family, Species or spp. [TAB] Annotation (where applicable) 
+MAMMALIA
+ARTIODACTYLA
+Bovidae
+Oryx dammah
+AVES
+ANSERIFORMES
+Anatidae
+Oxyura leucocephala
+GRUIFORMES
+Otididae
+Otis tarda [TAB] Middle-European population
+MAMMALIA
+CHIROPTERA
+Molossidae
+Tadarida teniotis
+AVES
+GAVIIFORMES
+Gavia stellata [TAB] Western Palearctic populations
+Gavia arctica, ssp. artica and suschkini
+Gavial immer immer [TAB] Northwest European population 
+Gavia adamsii [TAB] Western Palearctic populations 
+PODICIPEDIFORMES
+Podicipedidae
+Podiceps grisegena grisegena
+Podiceps auritus [TAB] Western Palearctic populations
+PELECANIFORMES
+Phalacrocoracidae
+Phalacrocorax nigrogularis
+Phalacrocorax pygmaeus
+Pelecanidae
+Pelecanus onocrotalus [TAB] Western Palearctic populations
+CICONIIFORMES
+Ardeidae
+Botaurus stellaris stellaris [TAB] Western Palearctic populations
+Ixobrychus minutus minutus [TAB] Western Palearctic populations
+Ixobrychus sturmii
+Ardeola rufiventris
+Ardeola idae
+Egretta vinaceigula
+Casmerodius albus albus [TAB] Western Palearctic populations
+Ardea purpurea purpurea [TAB] populations breeding in the Western Palearctic
+Ciconiidae
+Mysteria ibis
+Ciconia episcopus microscelis
+Threskiornithidae
+Geronticus eremite
+Threskiornis aethiopicus aethiopicus
+Platalea alba [TAB] excluding Malagasy population
+GRUIFORMES
+Rallidae
+Porzana porzana [TAB] populations breeding in the Western Palearctic
+Porzana parva parva
+Porzana pusilla intermedia
+Pulica atra atra [TAB] Mediterranean and Black Sea populations
+Aenigmatolimnas marginalis
+Sarothrura boehmi
+CHARADRIIFORMES
+Dromadidae
+Dromas ardeola
+Laridae
+Larus hemprichii
+Larus leucophthalmus
+Larus ichthyaetus [TAB] West Eurasian and African population
+Larus melanocephalus
+Larus genei
+Larus audouinii
+Larus armenicus
+Sterna nilotica nilotica [TAB] West Eurasian and African populations
+Sterna caspia [TAB] West Eurasian and African populations
+Sterna maxima albidorsalis
+Sterna bergii [TAB] African and Southwest Asian populations
+Sterna bengalensis [TAB] African and Southwest Asian populations
+Sterna sandvicensis sandvicensis
+Sterna hirundo hirundo [TAB] populations breeding in the Western Palearctic
+Sterna paradisaea [TAB] Atlantic populations
+Sterna albifrons
+Sterna saundersi
+Sterna balaenarum
+Sterna repressa
+Chlidonias niger niger
+Chlidonias leucopterus [TAB] West Eurasian and African. Population 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

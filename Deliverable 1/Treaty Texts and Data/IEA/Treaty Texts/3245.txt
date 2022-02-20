@@ -1,0 +1,65 @@
+
+ Amendments To The IBC Code Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1996-AmendmentsIBC-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=6989/69(38).pdf     
+    ﻿Amendments To The IBC Code Of The International Convention For The Prevention Of Pollution From Ships)
+Source: http://www.imo.org/includes/blastData.asp/doc_id=6989/69(38).pdf
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the function of the Committee conferred upon it by international conventions for the prevention and control of marine pollution,
+RECALLING ALSO Resolution MEPC.19(22) by which it adopted the International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk (IBC Code),
+NOTING Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and Article VI of the Protocol of 1978 relating to the 1973 Convention (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confers upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+BEING DESIROUS of keeping the IBC Code up to date,
+NOTING that the Maritime Safety Committee, at its sixty-sixth session, by Resolution MSC.50(66) had adopted, in accordance with Article VIII(b)(iv) of the SOLAS Convention, amendments to the Code the text of which is set out at Annex to the present Resolution,
+CONSIDERING that it is highly desirable for the provisions of the IBC Code, which are mandatory under both the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (MARPOL 73/78) and the 1974 SOLAS Convention, to remain identical,
+HAVING CONSIDERED, at its thirty-eighth session, amendments to the Code proposed and circulated in accordance with Article 16(2)(a) of the MARPOL Convention,
+1 ADOPTS, in accordance with Article 16(2)(b) of the 1973 Convention, amendments to the IBC Code, the text of which is set out at Annex to the present Resolution;
+2. DETERMINES, in accordance with Article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 January 1998, unless prior to the date, not less than one-third of the Parties or the Parties, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments;
+3. INVITES the Parties to note that in accordance with Article 16(2)(g)(ii) of the 1973 Convention the amendments shall enter into force on 1 July 1998 in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with Article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1978 Protocol certified copies of the present Resolution and the text of the amendments contained in the Annex; and
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the Resolution and its Annex.
+ANNEX
+AMENDMENTS TO THE IBC CODE
+1 New paragraph 16.6.4 is added to Chapter 16 of the Code as follows:
+"16.6.4 In order to avoid elevated temperatures, this cargo should not be carried in deck tanks."
+2 The following new entries are added to Chapter 17 of the Code:
+a[TAB]b[TAB]c[TAB]d[TAB]e[TAB]f[TAB]g[TAB]h[TAB]i'[TAB]i"[TAB]i"'[TAB]j[TAB]k[TAB]l[TAB]m[TAB]n[TAB]o
+Product name [TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB]
+Acetochlor[TAB][TAB]A[TAB]P[TAB]2[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Alkyl(C7-C11)phenol poly(4-12) ethoxylate [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6, 16.2.6, 16.2.9
+Ammonium bisulphite solution (70% or less) [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont[TAB]No[TAB]NF[TAB]R[TAB]T[TAB]No[TAB]Y5[TAB]No[TAB]15.6.1, 16.6.1 to 16.6.3 [TAB][TAB]
+Bromochloromethane[TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont[TAB]No[TAB]NF[TAB]R[TAB]T[TAB]No[TAB]N3[TAB]No[TAB][TAB][TAB]
+iso-Propylamine (70% or less) solution [TAB][TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]FT[TAB]CD[TAB]N1[TAB]E[TAB]15.12, 15.19
+Dibromomethane[TAB][TAB]C[TAB]S/P[TAB]2[TAB]2G[TAB]Cont[TAB]No[TAB]NF[TAB]R[TAB]T[TAB]No[TAB]N3[TAB]No[TAB]15.12.3, 15.19 [TAB][TAB]
+3,4-Dichloro-1-butene[TAB][TAB]B[TAB]S/P[TAB]3[TAB]2G[TAB]Cont[TAB]No[TAB][TAB][TAB]No[TAB]C[TAB]FT[TAB]ABC[TAB][TAB]E[TAB]15.12.3, 15.17, 15.19.6
+Icosa(oxypropane-2,3-diyl)s[TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]16.2.6, 15.19.6
+N-(2-Methoxy-1-methyl ethyl)-2-ethyl-6-methyl chloroacetanilide [TAB][TAB]B[TAB]P[TAB]3[TAB]2G[TAB]Open[TAB]No[TAB][TAB][TAB]Yes[TAB]O[TAB]No[TAB]A[TAB][TAB]No[TAB]15.19.6
+Nitroethane[TAB][TAB](D)[TAB]S[TAB]3[TAB]2G[TAB]Cont[TAB]No[TAB][TAB]IIB[TAB]No[TAB]R[TAB]FT[TAB]A(u)[TAB]N4[TAB]No[TAB]15.16.1, 15.19.6, 16.6.1, 16.6.2, 16.6.4
+Nitroethane(80%)/ Nitropropane(20%) [TAB][TAB]D[TAB]S[TAB]3[TAB]2G[TAB]Cont[TAB]No[TAB][TAB]IIB[TAB]No[TAB]R[TAB]FT[TAB]A(u)[TAB]N4[TAB]No[TAB]15.16.1, 15.19.6, 16.6.1 to 16.6.3
+3 Reference to "16.6" in column "o" is replaced by "16.6.1 to 16.6.3".
+4 The existing entries of the following products are amended:
+.1 Nonyl phenol poly(4-12) ethoxylate: The product name is amended to read "Nonyl phenol poly(4+) ethoxylate"; and
+.2 Sodium silicate solution: column "i" should read "NF" and column "l" "No".
+5 The following new entries are added to Chapter 18 of the Code:
+a[TAB]b[TAB]c
+Product name [TAB]UN number [TAB]Pollution category for operational discharge (Regulation 3 of Annex II)
+Ammonium lignosulphonate solutions [TAB][TAB]III
+Calcium lignosulphonate solutions [TAB][TAB]III
+Caramel solutions [TAB][TAB]III
+2-Ethyl-2-(hydroxymethyl) propane-1,3-diol, C8-C10 ester [TAB][TAB]D
+Glycerol monooleate [TAB][TAB]D
+N-Methylglucamine solution (70% or less) [TAB][TAB]III
+Polybutenyl succinimide [TAB][TAB]D
+Zinc alkenyl carboxamide [TAB][TAB]D
+Ditridecyl Adipate [TAB][TAB]III
+[1] Adopted pursuant to IMO Marine Environment Protection Committee Resolution MEPC.69(38). 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

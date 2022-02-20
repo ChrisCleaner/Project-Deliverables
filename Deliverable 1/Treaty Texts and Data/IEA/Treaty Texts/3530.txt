@@ -1,0 +1,95 @@
+
+ Amendments of 1996 To The Technical Annex Of The Protocol To The Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Nitrogen Oxides Or Their Transboundary Fluxes   
+     Filename: 1996-AmendmentTechnicalAnnex-1988-ProtocolNitrogenOxides-1979-EuropeanTransboundaryAirPollution.EN.txt 
+ Source: http://www.bgbl.de/Xaver/text.xav?bk=Bundesanzeiger_BGBl&amp%3Bstart=//%2A%5B%40…     
+    ﻿Amendments of 1996 To The Technical Annex Of The Protocol To The Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Nitrogen Oxides Or Their Transboundary Fluxes
+Source: http://www.bgbl.de/Xaver/text.xav?bk=Bundesanzeiger_BGBl&amp;start=%2F%2F*[%..., downloaded 20120503
+Part II of the Technical Annex to the 1988 Sofia Protocol related to Control Technologies for NOx Emissions from Off-Road Vehicles and Machines, Ships and Aircraft
+Off-road vehicles and machines
+A. General aspects of control technologies for off-road vehicles and machines
+1. This section of the technical annex considers all mobile or portable machines excluding passenger cars, light-duty vehicles, heavy-duty vehicles, motorcycles and mopeds. Emissions from ships and aircraft are discussed in the sections below. Examples of such vehicles and machinery include agricultural and forestry tractors, construction equipment, lawnmowers, chain-saws etc.
+2. NOx emissions from off-road vehicles and machines are important and account for 10 to 20 per cent of national totals in the ECE region. Diesel-fuelled engines are the largest single source category. The proportion of emissions from off-road vehicles and machinery will increase as emissions from on-road vehicles and stationary sources are reduced.
+3. Estimating emission rates from some off-road sources can be time-consuming when the information required to compile the inventory is lacking.
+4. Substantial progress has been achieved in the development of diesel-engine, fuel and after-treatment technologies, making it possible to reduce NOx emissions from off-road vehicles and machines at reasonable cost.
+5. It is important to ensure that new engine emission standards are maintained in service. This can be done through inspection and maintenance programmes, ensuring conformity of production, full useful-life durability, warranty of emission-control components, and recall of defective vehicles and machines.
+6. Enforcement, maintenance and inspection programmes for off-road vehicles and machines will be more diffficult to implement than for road vehicles.
+7. Fiscal incentives can encourage the introduction of desirable, lower-emission technology.
+B. Control technologies for NOx emissions from off-road vehicles and machines
+8. State-of-the-art control technology options for off-road diesel engines are: improved combustion chamber design, exhaust gas recirculation, electronic engine management, improved injection systems and turbocharging and intercooling.
+9. Limit values for agricultural and forestry tractors and other off-road-vehicle/machine engines are listed in table 1. Stage I is based on the ECE regulation 96 "Uniform provisions concerning the approval of compression - ignition (C.l.) engines to be installed in agricultural and forestry tractors with regard to the emissions of pollutants by engine". A second stage with lower emission limit values has also been proposed.
+10. The limit values contained in table 1 are based on lower-emission engine technology only. Vehicles which already comply with stage II are commercially available. However, if best available technology without exhaust gas after treatment is applied, the lower limit for diesel engine emissions is 3.5 g NOx/kWh and 0.05 g particulate/kWh. Beyond these limits alternative fuel engines or new after-treatment technologies will be required.
+11. Many alternative fuels for diesel-engine applications have been proposed and investigated such as: methanol, ethanol, vegetable oils, compressed natural gas (CNG), liquefied petroleum gas (LPG), and dimethyl ether (DME). The last shows the lowest emission rates for NOx and particulate matter. Highly reformulated diesel fuels, such as the Swedish Class I fuel, can bring about modest reductions in NOx emissions of the order of 5 -10 %.
+12. According to the estimates available from international organizations, the additional investment costs required to develop new engines which meet stage I and stage II emission limits are ECU 1400 and ECU 2600 for 1 tonne of abated pollutants (of which 2/3 are NOx emissions). Retail prices would increase by up to 3 per cent and up to 8 per cent for stage I and II respectively. In general, the marginal costs associated with developing new, cleaner engines are lower for larger engines.
+Ships
+A. General aspects of control technology for NOx emissions from ships
+13. The NOx emission estimates from maritime activities are steadily growing and those from the North-East Atlantic alone are comparable to some larger countries' national totals. In some countries the emissions from inland waterways are also significant. Although maritime traffic emissions are dispersed over large areas, they contribute significantly to acidic deposition. National and international studies have clearly demonstrated the benefits of controlling marine NOx sources as compared to other major NOx source categories.
+14. The location of emissions from shipping (with respect to sensitive areas) and their contribution to acidification should be taken into account when defining control areas.
+15. Uncontrolled ship diesel engines generate the highest NOx emissions per unit of energy used. If control measures are not applied to ships, their relative importance will grow within NOx emission inventories as emissions from land-based sources are reduced progressively.
+16. Reducing the sulphur content of fuel oil for ships has two possible benefits. The first is to reduce the direct impact of sulphur with respect to acidification. The second is to allow the use of cleaner, more environmentally sound engine technology and support the implementation of NOx reduction after treatment.
+17. Due to the long lifetime of ship engines, marine NOx emissions will decrease by only one per cent per year, if NOx control measures are applied only to new engines. In order to reduce emissions more rapidly, measures to reduce emissions should also be applied to existing engines.
+18. Fiscal incentives can encourage the introduction of lower-emission technologies.
+B. Control technologies for NOx emissions from ships
+19. The selected technologies for controlling NOx emissions from diesel engines with a power output of more than 100 kW installed on ships are listed in table 2. These include primary measures, after treatment, and fuel technology and relate to both existing and new engines. The control measures are economically feasible as their cost, depending on the measure, varies between ECU 0.5 and 2/kg of reduced NOx. Therefore, their implementation and in-service compliance may be viewed as a political issue. Key figures concerning marine selective catalytic reduction (SCR) are given in table 3.
+20. The appropriate technology should be selected for each individual case. There is no universal solution.
+21. Emissions of NOx from small petrol engines (e.g. outboard motors) are less significant than those from diesel engines but are expected to increase as 4-stroke engines replace their 2-stroke counterparts in order to reduce volatile organic compound (VOC) emissions.
+22. The survey of engines and control equipment applied in accordance with this annex shall be harmonized and conducted according to the technical guidance developed by a competent intemational organization, e.g. the Intemational Maritime Organization (IMO).
+Aircraft
+A. General aspects of control technology for NOx emissions from aircraft
+23. This section deals with all aircraft engines.
+24. The limits on aircraft engine emissions of oxides of nitrogen as contained in Annex 16, volume II to the Convention on International Civil Aviation (the Chicago Convention) and as may be amended from time to time, may be used for controlling the NOx emissions from turbo-jet and turbofan engines during landing and take-off (LTO) cycles within the Convention on Long-range Transboundary Air Pollution.
+25. Only LTO emissions have so far been covered by the Convention on Long-range Transboundary Air Pollution with respect to emission inventories as part of national totals. Cruise emissions from domestic flights can also be considered as another part of national totals. Cruise level emissions may be more harmful. However, emission factors from the cruise phase are more uncertain than from LTO cycles.
+26. Aircraft engines (other than turbo-jets and turbofans) and all aircraft with engines smaller than 26.7 kW/thrust are included in emission inventories but are not subject to international regulation at present. If they become subject to regulation, it should be borne in mind that an aircraft's lifetime is about 30 years and, therefore, new technology penetrates slowly. Retrofitting should therefore be considered when changing engines.
+27. Fiscal incentives can encourage the introduction of lower-emission technology.
+B. Control technologies for NOx emissions from aircraft
+28. State-of-the-art control technology for aircraft engine emissions encompasses fuel-air management optimization for existing engine types (NOx reduction potential of 10 - 20 per cent) and two staged fuel combustion concepts for some medium to high-thrust subsonic aircraft engine types (NOx reduction potential of 30 - 40 per cent), which are beginning to enter into service.
+29. Other combustion concepts such as lean/premixed/prevaporized (LPP) and rich burn/quick mix/lean burn (RQL) are being investigated for application to a second generation of supersonic aircraft engines. The target is a cruise NOx level of 5 g/kg of fuel burnt, which corresponds to a reduction of at least 80 % of NOx as compared to conventional combustion. However, such engines are not expected to enter into service until at least 2006.
+Table 1: Limit values (stage I) for agricultural and forestry tractors and other non-road mobile machine engines (ECE regulation 96)
+Net power (P) (kW) / Carbon monoxide (CO) (g/kWh) / Particulates (PT) (g/kWh)
+130 ≤ P &lt; 560 / 5 / 9.2 / 0.54
+75 ≤ P &lt; 130 / 5 / 9.2 / 0.70
+37 ≤ P &lt; 75 / 6.5 / 9.2 / 0.85
+Note: The emissions of carbon monoxide, oxides of nitrogen and particulates obtained shall not exceed the amount shown in the table. These limits are engine-out limits and shall be achieved before any exhaust after-treatment device.
+Limit values (stage II) for non-road mobile machine engines
+Net power (P) (kW) / Carbon monoxide (CO) (g/kWh) / Particulates (PT) (g/kWh)
+130 ≤ P &lt; 560 / 3.5 / 6.0 / 0.2
+75 ≤ P &lt; 130 / 5.0 / 6.0 / 0.3
+37 ≤ P &lt; 75 / 5.0 / 7.0 / 0.4
+18 ≤ P &lt; 37 / 5.5 / 8.0 / 0.8
+Table 2: Evaluation of selected technologies to reduce NOx emissions from ships with diesel engines
+Measure / NOx-reduction % / Remarks / Applicable to existing engines? / Availability
+Conventional (injection, swirl etc.) / 30-40 / Penalty in specific fuel consumption and smoke / Conditionally yes / State of the art
+Common-rail-injection / 30-40 / / No / Under development
+Heavy fuel oil-water emulsion / 30 / Visible smoke reduction / Yes, but reduction in power output / Available
+&gt;10% EGR (exhaust gas recirculation) / 10-40 / Further development of high temperature filter and small penalty in specific fuel consumption / Conditionally yes / Under development
+Direct water injection / 25-50 / Requires large amounts of clean water / No / Field testing
+Humidified low temperature air intake / 30-60 / Sea water could be used / Yes / Under development
+SCR (selective catalytic reduction) / &gt;90 / Also reduces hydrocarbons / Yes / Available
+Table 3: Marine SCR in combination with oxidation - Key figures (1995) 
+NOx reduction / 95 - 99 % at 10 - 100 % maximum continuous rating (MCR)
+HC reduction / 75 - 95 % at 10 - 100 % MCR
+CO reduction / 20 - 50 % at 10 - 50 % MCR
+PM reduction / 0 - 50 % at 10 - 100 % MCR
+Noise reduction / &gt; 25 dB (A)
+NH3 Slip / &lt; 5 ppmv at 95 % NOx reduction
+Temp span / 270 - 500 °C (200 °C)
+Fuel / MDO, HFO (preferably low sulphur content 0.5 - 1.0 %)
+Weight / Silencer + 30 %
+Space / Same or smaller than Silencer (30 dB (A))
+Cost / kUSD 50 - 100/MW prime mover power
+Operating cost / USD 4/MWh (reagent and catalyst wear etc.)
+Total cost / USD 1/kg NOx (including capital cost)
+Urea consumption / 6 kg/MWh, at 10 g NOx/kWh and 90 % NOx reduction
+Urea solution / 15 litre/MWh, at 40 % solution
+Typical lifetime / 20 000 - 40 000 h, before replacement of one catalyst layer
+Note: The above-mentioned methods may be used in parallel to achieve the most cost-effective solution, i.e. matching of lower NOx engines in combination with SCR technique decreases the need for NOx-reducing agents. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

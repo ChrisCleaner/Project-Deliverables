@@ -1,0 +1,165 @@
+
+ Agreement of Application of the Agreement On Flood Warning For The Catchment Basin Of The Mosel   
+     Filename: 2007-AdditionalAgreement-1987-FloodsMosel.FR.txt 
+ Source: http://www.doc.diplomatie.gouv.fr/BASIS/pacte/webext/multinde/DDD/20070037.pdf     
+    ﻿Agreement of Application of the Agreement On Flood Warning For The Catchment Basin Of The Mosel (Accord d'application de l'accord du 1er octobre 1987 relatif à l'annonce des crues dans le bassin versant de la Moselle)
+Source: http://www.doc.diplomatie.gouv.fr/BASIS/pacte/webext/multinde/DDD/200700..., downloaded 20091223
+le Gouvernement de la République française,
+Le Gouvernement de la République fédérale d'Allemagne,
+et le Gouvernement du Grand-Duché de Luxembourg
+sont convenus, sur la base de l'accord du octobre 1987 entre le Gouvernement de la République française, le Gouvernement de la République fédérale d'Allemagne et le Gouvernement du Grand-Duché de Luxembourg relatif à l'annonce des crues dans le bassin versant de la Moselle et notamment son article 8, des principes d'application suivants :
+Article 1er
+(1) Le présent accord d'application a pour objet de définir une coopération étroitement concertée entre les Parties contractantes.
+(2) La coopération comprend:
+- l'échange de données utiles à la prévision des crues,
+- le développement et l'application des modèles hydrologiques et des systèmes pour la prévision des crues,
+- l'amélioration et l'extension des échanges d'informations et d'expériences,
+- la réalisation d'exercices d'alerte réguliers entre les services de prévision des crues,
+- la formation bilingue continue dans le domaine de la prévision des crues.
+(3) En vue d'une coopération transfrontalière efficace entre les services compétents en situation de crue et de crise, les Parties contractantes promeuvent la connaissance de la langue de l'autre dans leurs services.
+(4) La coopération bénéficie du soutien du secrétariat des Commissions internationales pour la protection de la Moselle et de la Sarre (CIPMS). Les CIPMS sont en charge de la problématique de la protection contre les inondations dans le bassin versant de la Moselle et de la Sarre depuis l'année 1995 sur la base d'une part, des protocoles signés le 20 décembre 1961 à Paris entre les Gouvernements de la République fédérale d'Allemagne, de la République française et du Grand-Duché de Luxembourg concernant la constitution d'une Commission internationale pour la protection de la Moselle contre la pollution et entre les Gouvernements de la République fédérale d'Allemagne et de la République française concernant la constitution d'une Commission internationale pour la protection de la Sarre contre la pollution et d'autre part, du protocole complémentaire signé le 22 mars 1990 à Bruxelles et du protocole complémentaire n° 2 signé le 13 novembre 1992 à Maria Laach.
+Article 2
+(1) L'échange de données s'effectue entre les services figurant en annexe 1.
+(2) Les Parties contractantes conviennent de l'échange mutuel de données hydrologiques et hydro-météorologiques pouvant être utiles à la prévision de crues. Les détails de l'échange de données figurent en annexe 2.
+(3) Les Parties contractantes conviennent de l'échange mutuel de prévisions de crues et de toutes informations disponibles sur la gestion des barrages. Les détails de l'échange de données figurent en annexe 3.
+(4) L'échange de données et de prévisions appartenant à des tiers, qui ne sont pas partie contractante, n'est autorisé que si ces derniers ont expressément donné leur accord. Les Parties contractantes s'engagent à respecter les prescriptions faites en la matière par ces tiers.
+(5) Les données sont échangées par voie électronique. Les modalités pratiques de l'échange figurent aux annexes 2 et 3. Les données sont échangées dès lors qu'elles sont disponibles auprès du gestionnaire du réseau de mesures. La fréquence d'interrogation des stations de mesure mentionnées à l'annexe 2 détermine par conséquent la fréquence de l'échange de données entre les services. Cet échange s'effectue au minimum une fois par jour, à l'exception du cas mentionné à l'article 5 alinéa 2.
+(6) Les données échangées en temps réel ne sont pas encore validées. L'exactitude des données échangées n'est pas garantie. Les Parties contractantes n'assument aucune responsabilité, chacune vis-à-vis des deux autres, pour les dommages résultant de l'utilisation des données fournies.
+(7) Le service qui met ses données à disposition se réserve tous les droits de propriété intellectuelle y afférents.
+(8) Les Parties contractantes se soutiennent mutuellement pour obtenir les données supplémentaires nécessaires à la prévision des crues.
+Article 3
+(1) Les données échangées en temps réel servent de données d'entrée aux modèles opérationnels pour le calcul en continu des prévisions des niveaux d'eau et des débits. Chaque service établit et diffuse des informations et des prévisions de crue relevant exclusivement de son domaine de compétence, excepté lorsque deux Parties contractantes s'accordent sur une démarche commune.
+(2) Seules des données validées sont utilisées aux fins d'étude. Les données validées peuvent être demandées auprès des services visés à l'article 2 alinéa 1.
+Article 4
+(1) Les Parties contractantes sont autorisées à stocker les données échangées dans leurs bases de données centrales.
+(2) Les données échangées peuvent être reproduites pour information dans les avis d'annonces de crues des différents services. Le cas échéant, ces avis de crues sont envoyés à diverses instances.
+(3) Les données échangées peuvent être diffusées aux fins de la gestion opérationnelle de l'eau à l'adresse des autorités locales compétentes en matière d'eau. Les données échangées ne peuvent pas être utilisées à des fins commerciales, ni être mises à la disposition de tiers sans l'accord des producteurs de ces données.
+(4) Toute utilisation des données s'accompagne de la mention du producteur de la donnée.
+Article 5
+(1) Pour assurer la continuité de la transmission des données, les services se communiquent en temps utile toute modification technique qui pourrait nuire au bon fonctionnement de l'échange des données.
+(2) Les services s'engagent à contrôler régulièrement le fonctionnement de ces échanges électroniques. En cas d'interruption de l'échange de données ou de problèmes sur une ou plusieurs stations hydrométriques mentionnées à l'annexe 2, les autres Parties contractantes en sont informées. Les services entreprennent aussitôt les actions nécessaires pour régler rapidement le problème et précisent le délai nécessaire à la résolution du problème.
+(3) A l'issue de chaque interruption de l'échange de données, les données manquantes sont transmises dans les meilleurs délais aux autres services.
+Article 6
+(1) Le comité technique, instauré conformément à l'article 5 de l'accord du 1er octobre 1987 relatif à l'annonce des crues dans le bassin versant de la Moselle, bénéficie, dans la limite des moyens disponibles, du soutien du secrétariat des CIPMS basé à Trèves.
+(2) Le comité technique décide à l'unanimité de tous les détails nécessaires à l'exécution du présent accord.
+(3) Le comité technique décide - si nécessaire - des modifications à apporter aux annexes du présent accord.
+Article 7
+(1) Dans la limite de la disponibilité de leurs moyens budgétaires, les Parties contractantes s'engagent à mettre en oeuvre les propositions du comité technique dans leur domaine respectif de compétence. Au-delà, les coûts supplémentaires sont supportés par les Parties contractantes conformément à une clé de répartition fixée, au cas par cas, par le comité technique et validée par les CIPMS.
+(2) L'échange de données s'effectue à titre gracieux.
+Article 8
+(1) Le présent accord d'application entre en vigueur le jour de sa signature.
+(2) Le présent accord d'application peut être dénoncé par chacune des Parties contractantes moyennant un préavis de trois mois avant la fin de l'année en cours.
+Article 9
+(1) Toute modification au présent accord d'application s'effectue par écrit.
+(2) Le présent accord d'application fera l'objet d'une évaluation à l'issue de la première année, puis d'une évaluation approfondie à l'issue de la troisième année.
+Fait à Metz le 20 mars 2007 en trois exemplaires originaux, chacun en langues allemande et française, tous les textes faisant également foi.
+Pour le Gouvernement de la République fédérale d'Allemagne,
+Pour le Gouvernement de la République française,
+Pour le Gouvernement du Grand-Duché de Luxembourg,
+ANNEXE 1
+Annexe 1 à l'accord d'application de l'accord du l'octobre 1987 entre le Gouvernement de la République française, le Gouvernement de la République fédérale d'Allemagne et le Gouvernement du Grand-Duché de Luxembourg relatif à l'annonce des crues dans le bassin versant de la Moselle
+L'échange de données s'effectue entre les services suivants:
+DIREN Lorraine 19, Avenue Foch F-57005 Metz Cedex 1
+Service de la Navigation Strasbourg 24, rue du Maréchal Juin F- 67084 Strasbourg Cedex
+Service Central d'Hydrométéorologie et d'Appui à la Prévision des Inondations (SCHAPI) 42, avenue Gaspard Coriolis F-31057 Toulouse Cedex 01
+Administration de la Gestion de l'Eau 51, rue de Merl L-2146 Luxembourg
+Administration des Services de Secours 1, rue Robert Stümper L-2557 Luxembourg
+Service de la Navigation Grevenmacher 36, rue de Machtum L-6753 Grevenmacher
+Hochwassermeldezentrum Mosel bei der Struktur- und Genehmigungsdirektion Nord Regionalstelle Wasserwirtschaft, Abfallwirtschaft, Bodenschutz Trier Deworastral3e 8
+D-54290 Trier
+Wasser- und Schifffahrtsamt Trier Pacelliufer 16 D-54290 Trier
+Hochwassermeldezentrum Rhein in der Wasser- und Schifffahrtsdirektion Südwest Brucknerstral3e 2 D-55127 Mainz
+Landesarnt fiir Umwelt, Wasserwirtschaft und Gewerbeaufsicht Rheinland-Pfalz Amtsgerichtsplatz 1 D-55276 Oppenhéim
+Bundesanstalt fiir Gewâsserkunde Am Mainzer Tor 1 D-56068 Koblenz
+Landesamt fiirUmwelt- und Arbeitsschutz des Saarlandes Don-Bosco-StraBe 1 D-66119 Saarbrücken
+Wasser- und Schifffahrtsamt Saarbrücken Bismarckstral3e 133 D-66121 Saarbrttcken
+ANNEXE 2
+Annexe 2 à l'accord d'application de l'accord du 1' octobre 1987 entre
+le Gouvernement de la République française, le Gouvernement de la République fédérale d'Allemagne et le Gouvernement du Grand-Duché de Luxembourg relatif à l'annonce des crues dans le bassin versant de la Moselle
+1. Services producteurs de données et échange de données hydrologiques et hydrométéorologiques
+1. La DIREN Lorraine met à disposition les données suivantes :
+a) données de précipitation et de température à toutes ses stations dans le bassin de la Moselle et à celles en zone limitrophe du bassin de la Meuse
+b) données limnimétriques et données de débit à toutes les stations dans le bassin de la Moselle et des Nieds qui sont télétransmises au Service de Prévision des Crues
+c) hydrogrammes pour les stations mentionnées au point b)
+d) métadonnées (coordonnées géographiques, altitude etc.) pour les stations mentionnées aux points a) et b).
+2. Le Service de la Navigation Strasbourg met à disposition les données suivantes :
+a) données de précipitation et de température à toutes ses stations dans
+le bassin de la Sarre et à celles en zone limitrophe avec l'Alsace
+b) données limnimétriques et données de débit à toutes les stations dans
+le bassin de la Sarre qui sont télétransmises au Service de Prévision
+des Crues
+c) hydrogrammes pour les stations mentionnées au point b)
+d) métadonnées (coordonnées géographiques, altitude etc.) pour les stations mentionnées aux points a) et b).
+3. L'Administration de la Gestion de l'Eau, l'Administration des Services de Secours et le Service de la Navigation de Grevenmacher mettent à disposition les données suivantes :
+a) données de précipitation, données de température et données de neige à toutes leurs stations pluviométriques
+b) toutes les données météorologiques dont disposent les administrations . citées ci-dessus
+c) données lirnnimétriques et données de débit à toutes les stations qui sont télétransmises au Service de Prévision des Crues
+d) hydrogrammes pour les stations mentionnées au point c)
+e) métadonnées (coordonnées géographiques, altitude etc.) pour les stations mentionnées aux points a) à c).
+4. Le Landesamt fur Umwelt, Wasserwirtschaft und Gewerbeaufsicht Rheinland-Pfalz met à disposition les données suivantes :
+a) données de précipitation à toutes ses stations dans le bassin de la Sûre, du Schwarzbach et du Hombach (affluents de la Blies)
+b) données limnimétriques et données de débit à toutes les stations limnimétriques dans le bassin de la Sûre, du Schwarzbach et du Hombach (affluents de la Blies) qui sont intégrées dans le Service d'Annonce des Crues
+c) hydrogrammes pour les stations mentionnées au point b)
+d) métadonnées (coordonnées géographiques, altitude etc.) pour les stations mentionnées aux points a) et b).
+e) données radar étalonnées pour la zone de couverture du radar Neuheilenbach[l].
+5. Le Landesamt fur Umwelt- und Arbeitsschutz des Saarlandes met à disposition les données suivantes :
+a) données de précipitation à toutes ses stations équipées de télétransmission dans le bassin de la Nahe, de la Sarre et de la Blies
+b) données limnimétriques et données de débit à toutes les stations limnimétriques dans le bassin de la Nahe, de la Sarre et de la Blies qui sont intégrées dans le Service d'annonce des Crues
+c) hydrogrammes pour les stations mentionnées au point b)
+d) métadonnées (coordonnées géographiques, altitude etc.) pour les stations mentionnées aux points a) et b).
+6. La Wasser- und Schifffahrtsverwaltung des Bundes met à disposition les données suivantes :
+a) données limnimétriques et données de débit à toutes les stations limnimétriques dans le bassin de la Moselle et de la Sarre qui sont gérées par l'Administration des Eaux et de la Navigation
+b) données limnimétriques à toutes les stations internationales situées dans la partie française du bassin de la Moselle et de la Sarre
+c) hydrogrammes pour les stations mentionnées au point a)
+d) métadonnées (coordonnées géographiques, altitude etc.) pour les stations mentionnées au point a).
+II. Modalités pratiques d'échange de données
+Les producteurs de données mettent à disposition, à l'aide d'un serveur ftp, les données à échanger ainsi que les modalités d'accès à celles-ci.
+En complément de la mise à disposition de données par ftp, les Parties contractantes peuvent également, le cas échéant, se mettre d'accord sur la possibilité d'un accès direct aux stations.
+La mise à disposition des données s'effectue selon les formats texte ASCII, XML, XML Sandre, liste HMZ. Les Parties contractantes s'échangent mutuellement les descriptions des formats mis à disposition.
+La conversion des données échangées au format utilisateur incombe à l'utilisateur.
+Annexe 3 à l'accord d'application de l'accord du 1er octobre 1987 entre
+le Gouvernement de la République française,
+le Gouvernement de la République fédérale d'Allemagne
+et le Gouvernement du Grand-Duché de Luxembourg relatif à l'annonce des crues dans le bassin versant de la Moselle
+I. Services producteurs de données et échange de prévisions et d'informations sur la gestion des barrages
+1. La DIREN Lorraine met à disposition les données suivantes :
+a) données de prévision en hauteur ou en débit à toutes les stations limnimétriques dans le bassin de la Moselle qui sont intégrées dans le modèle de prévision LARSIM
+b) cartes de vigilance crue et bulletins associés
+c) des informations sur la gestion des barrages situés sur la Moselle à l'aval de Custines, qu'elle reçoit du Service de la navigation du Nord-Est.
+2. Le Service de la Navigation de Strasbourg met à disposition les données suivantes :
+a) données de prévision en hauteur ou en débit à toutes les stations limnimétriques dans le bassin de la Sarre qui sont intégrées dans le modèle de prévision LARSIM
+b) cartes de vigilance crue et bulletins associés.
+3. L'Administration de la Gestion de l'Eau, l'Administration des Services de Secours et le Service de la Navigation de Grevenmacher mettent à disposition les données suivantes:
+a) données de prévision en hauteur ou en débit à toutes les stations limnimétriques dans le bassin de la Sûre
+b) bulletins de crue
+c) des informations sur la gestion des barrages de la Moselle, du bassin de la Moselle et du bassin de la Sûre.
+4. Le Hochwassermeldezentrum Mosel de Trèves met à disposition les données suivantes :
+a) données de prévision en hauteur ou en débit à toutes les stations limnimétriques dans le bassin de la Moselle, de la Sarre et de la Sûre qui sont intégrées dans le modèle de prévision LARSIM
+b) bulletins de crue.
+5. Le Landesamt fia. Umwelt, Wasserwirtschaft und Gewerbeaufsicht Rheinland Pfalz met à disposition les données suivantes :
+a) prévisions météorologiques numériques (LME et GME) du DWD [2] (Deutscher Wetterdienst)
+b) prévisions de la fonte des neiges (SNOW) du DWD[2] (Deutscher Wetterdienst).
+6. Le Landesamt far Umwelt- und Arbeitsschutz des Saarlandes met à disposition les données suivantes :
+a) Données de prévision en hauteur ou en débit à toutes les stations limnimétriques dans le bassin de la Sarre qui sont intégrées dans le modèle de prévision du Land de Sarre
+b) bulletins de crue.
+7. La Wasser- und Schifffahrtsverwaltung des Bundes met à disposition les données suivantes :
+a) données de prévision en hauteur ou en débit à toutes les stations limnimétriques de la Schifffahrtsverwaltung sur la Moselle et la Sarre
+b) informations SUI' la gestion des barrages de la Moselle.
+II Modalités pratiques d'échange de données
+Les producteurs de données mettent à disposition, à l'aide d'un serveur ftp, les données à échanger ainsi que les modalités d'accès à celles-ci.
+Les bulletins de crue sont transmis par télécopieur ou par courriel ou conformément à la procédure écrite définie dans le règlement d'information sur les crues du pays ou du land producteur de l'information.
+La mise à disposition des données s'effectue selon les formats texte ASCII, XML, XML Sandre ou liste HMZ. Les Parties contractantes s'échangent mutuellement les descriptions des formats mis à disposition.
+Footnotes:
+[1] Sous réserve de l'accord du DWD (Deutscher Wetterdienst) et après signature d'une déclaration d'engagement par les destinataires des données.
+[2] Pour les Parties contractantes du Luxembourg et de la France, sous réserve de l'accord du DWD (Deutscher Wetterdienst) et après signature, par les destinataires des données, d'une déclaration d'engagement de n'utiliser les données du DWD que dans le cadre des besoins des Services de Prévision des Crues. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

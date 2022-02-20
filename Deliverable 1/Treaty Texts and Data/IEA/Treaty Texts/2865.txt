@@ -1,0 +1,141 @@
+
+ Convention On Civil Liability For Oil Pollution Damage Resulting From Exploration For And Exploitation Of Seabed Mineral Resources   
+     Filename: 1977-CivilLiabilityOilPollutionDamageExplorationExploitationSeaBedMineralResources.EN.txt 
+ Source: http://sedac.ciesin.org/entri/texts/pollution.damage.seabed.mineral.resources.19…     
+    ﻿CONVENTION ON CIVIL LIABILITY FOR OIL POLLUTION DAMAGE RESULTING FROM EXPLORATION FOR AND EXPLOITATION OF SEABED MINERAL RESOURCES
+Source: http://sedac.ciesin.org/entri/texts/pollution.damage.seabed.mineral.reso...
+The States Parties to this Convention,
+Conscious of the dangers of oil pollution posed by the exploration for, and exploitation of, certain seabed mineral resources,
+Convinced of the need to ensure that adequate compensation is available to persons who suffer damage caused by such pollution,
+Desiring to adopt uniform rules and procedures for determining questions of liability and provide adequate compensation in such cases,
+Have agreed as follows:
+Article 1
+For the purposes of this Convention:
+1. a) "Oil" means crude oil and natural gas liquids, whether or not such oil or liquids are mixed with or present in other substances; and
+b) "crude oil" includes crude oil treated to render it suitable for transmission, for example, by adding or removing certain fractions.
+2. "Installation" means:
+a) any well or other facility, whether fixed or mobile, which is used for the purpose of exploring for, producing, treating, storing, transmitting or regaining control of the flow of crude oil from the seabed or its subsoil;
+b) any well which has been used for the purpose of exploring for, producing or regaining control of the flow of crude oil from the seabed or its subsoil and which has been abandoned after the entry into force of this Convention for the Controlling State concerned;
+c) any well which is used for the purpose of exploring for, producing or regaining control of the flow of gas or natural gas liquids from the seabed or its subsoil during the period that any such well is being drilled, including completion, or worked upon except for normal maintenance operations;
+d) any well which is used for the purpose of exploring for any mineral resources other than crude oil, gas or natural gas liquids, where such exploration involves the deep penetration of the subsoil of the seabed; and
+e) any facility which is normally used for storing crude oil from the seabed or its subsoil; which, or a substantial part of which, is located seaward of the low-water line along the coast as marked on large-scale charts officially recognized by the Controlling State; provided, however, that
+(i) where a well or a number of wells is directly connected to a platform or similar facility, the well or wells together with such platform or facility shall constitute one installation; and
+(ii) a ship as defined in the International Convention on Civil Liability for Oil Pollution Damage, done at Brussels on 29 November 1969 shall not be considered to be an installation.
+3. "Operator" means the person, whether licensee or not, designated as operator for the purposes of this Convention by the Controlling State, or, in the absence of such designation, the person who is in overall control of the activities carried on at the installation.
+4. "Controlling State" means the State Party which exercises sovereign rights for the purpose of exploring for and exploiting the resources of the seabed and its subsoil in the area in or above which the installator is situated. In the case of an installation extending over areas in which two or more States Parties exercise such rights, these States may agree which of them shall be the Controlling State.
+5. "Person" means any individual or partnership or any public or private body, whether corporate or not, including a State or any of its constituent subdivisions.
+6. "Pollution damage" means loss or damage outside the installation caused by contamination resulting from the escape or discharge of oil from the installation and includes the cost of preventive measures and further loss or damage outside the installation caused by preventive measures.
+7. "Preventive measures" means any reasonable measures taken by any person in relation to a particular incident to prevent or minimize pollution damage with the exception of well control measures and measures taken to protect, repair or replace an installation.
+8. "Incident" means any occurrence, or series of occurrences having the same origin, which causes pollution damage.
+9. "Special Drawing Right" means Special Drawing Right as defined by the International Monetary Fund and used for its own operations and transactions.
+Article 2
+This Convention shall apply exclusively to pollution damage:
+a) resulting from an incident which occurred beyond the coastal low-water line at an installation under the jurisdiction of a Controlling State, and
+b) suffered in the territory, including the internal waters and territorial sea, of a State Party or in the areas in which, in accordance with international law, it has sovereign rights over natural resources, and to preventive measures, wherever taken, to prevent or minimize such pollution damage.
+Article 3
+1. Except as provided in paragraphs 3, 4 and 5 of this Article, the operator of the installation at the time of an incident shall be liable for any pollution damage resulting from the incident. When the incident consists of a series of occurrences, liability for pollution damage arising out of each occurrence shall attach to the operator of the installation at the time of that occurrence.
+2. Where an installation has more than one operator they shall be jointly and severally liable.
+3. No liability for pollution damage shall attach to the operator if he proves that the damage resulted from an act of war, hostilities, civil war, insurrection, or a natural phenomenon of an exceptional, inevitable and irresistible character.
+4. No liability for pollution damage shall attach to the operator of an abandoned well if he proves that the incident which caused the damage occurred more than five years after the date on which the well was abandoned under the authority and in accordance with the requirements of the Controlling State. Where a well has been abandoned in other circumstances, the liability of the operator shall be governed by the applicable national law.
+5. If the operator proves that the pollution damage resulted wholly or partly either from an act of omission done with intent to cause damage by the person who suffered the damage or from the negligence of that person, the operator may be exonerated wholly or partly from his liability to such person.
+Article 4
+1. No claim for compensation for pollution damage shall be made against the operator otherwise in accordance with this Convention.
+2. No claim for compensation for pollution damage under this Convention or otherwise may be made against the servants or agents of the operator.
+3. Nothing in this Convention shall prejudice the question whether the operator liable for damage in accordance with its provisions has a right of recourse.
+Article 5
+1. When oil has escaped or has been discharged from two or more installations, and pollution damage results therefrom, the operators of all the installations concerned, unless exonerated under Article 3, shall be jointly and severally liable for all such damage which is not reasonably separable.
+2. When oil has escaped or has been discharged from one installation as a result of an incident, and pollution damage results therefrom, and during the course of the incident there is a change of operator, all operators of the installation, unless exonerated under Article 3, shall be jointly and severally liable for all such damage which is not reasonably separable.
+Article 6
+1. The operator shall be entitled to limit his liability under this Convention for each installation and each incident to the amount of 30 million Special Drawing Rights until five years have elapsed from the date on which the Convention is opened for signature and to the amount of 40 million Special Drawing Rights thereafter. 2. Where operators of different installations are liable in accordance with paragraph 1 of Article 5, the liability of the operator of any one installation shall not for any one incident exceed any limit which may be applicable to him in accordance with the provisions of this Article and of Article 15.
+3. When in the case of any one installation more than one operator is liable under this Convention, the aggregate liability of all of them in respect of any one incident shall not exceed the highest amount that could be awarded against any of them, but none of them shall be liable for an amount in excess of the limit applicable to him.
+4. The operator shall not be entitled to limit his liability if it is proved that the pollution damage occurred as a result of an act or omission by the operator himself, done deliberately with actual knowledge that pollution damage would result.
+5. For the purpose of availing himself of the benefit of limitation to which he may be entitled under paragraph 1 of this Article, the operator shall constitute a fund for the total sum representing the limit of his liability with the court or other competent authority of any one of the States Parties in which action is brought under Article 11. A fund constituted by one of the operators mentioned in paragraph 2 of Article 3 shall be deemed to be constituted by all of them. The fund can be constituted either by depositing the sum or by producing a bank guarantee or other guarantee, acceptable under the legislation of the State Party where the fund is constituted, and considered to be adequately by the court or other competent liability.
+6. The fund shall be distributed among the claimants in proportion to the amounts of their established claims. 
+7. If before the fund is distributed the operator or any of his servants or agents or any person providing him with insurance or other financial security, has, as a result of the incident in question, paid compensation for pollution damage, such person shall, up to the amount he has paid, acquire by subrogation the rights which the person so compensated would have enjoyed under this Convention.
+8. The right of subrogation provided for in paragraph 7 of this Article may also be exercised by a person other than those mentioned therein in respect of any amount of compensation for pollution damage which he may have paid but only to the extent that such subrogation is permitted under the applicable national law.
+9. Where the operator or any other person establishes that he may be compelled to pay at a later date in whole or in part any such amount of compensation, with regard to which such person would have enjoyed a right of subrogation under paragraph 7 or 8 of this Article, had the compensation been paid before the fund was distributed, the court or other competent authority of the State Party where the fund has been constituted may order that a sufficient sum shall be provisionally set aside to enable such person at such later date to enforce his claim against the fund.
+10. An operator who has taken preventive measures shall in respect of those measures have the same rights against the fund as any other claimant.
+11. The amount referred to in paragraph 1 of this Article shall be converted into the national currency of the State Party in which the fund is constituted on the basis of the value of that currency by reference to the average, during the thirty days immediately preceding the date on which the fund is constituted, of the Special Drawing Rights as published by the International Monetary Fund.
+12. The insurer or other person providing financial security shall be entitled, alone or together with the operator, to constitute a fund in accordance with this Article on the same conditions and having the same effect as if it were constituted by the operator. Such a fund may be constituted even where the pollution damage occurred as a result of an act or omission by the operator himself, done deliberately with actual knowledge that pollution damage would result, but the constitution of the fund shall in that case not prejudice the rights of any claimant against the operator.
+Article 7
+1. Where the operator, after an incident, has constituted a fund in accordance with Article 6 and is entitled to limit his liability:
+a) no person having a claim for pollution damage arising out of that incident shall be entitled to exercise any right against any other assets of the operator in respect of such claim;
+b) the court or other competent authority of any State Party shall order the release of any property belonging to the operator which has been arrested in respect of a claim for pollution damage arising out of that incident, and shall similarly release any bail or other security furnished to avoid such arrest.
+2. Paragraph 1 of this Article shall, however, only apply if the claimant has access to the court administering the fund and the fund is actually available in respect of his claim.
+Article 8
+1. To cover his liability under this Convention, the operator shall be required to have and maintain insurance or other financial security to such amount, of such type and on such terms as the Controlling State shall specify, provided that the amount shall not be less than 22 million Special Drawing Rights until five years have elapsed from the date on which this Convention is opened for signature and not less than 35 million Special Drawing Rights thereafter. However the Controlling State may exempt the operator wholly or in part from the requirement to have and maintain such insurance or other financial security to cover his liability for pollution damage wholly caused by an act of sabotage or terrorism.
+2. An insurance or other financial security shall not satisfy the requirements of this Article if it can cease, for reasons other than the expiry of the period of validity of the insurance or security, before two months have elapsed from the date on which notice of its termination is given to the competent public authority of the Controlling State. The foregoing provision shall similarly apply to any modification which results in the insurance or security no longer satisfying the requirements of this Article.
+3. Any claim for compensation for pollution damage may be brought directly against the insurer or other person providing financial security for the operator's liability for pollution damage. In such case the liability of the defendant shall be limited to the amount specified in accordance with paragraph 1 of this Article irrespective of the fact that the pollution damage occurred as a result of an act or omission by the operator himself, done deliberately with actual knowledge that pollution damage would result. The defendant may further avail himself of the defences, other than the bankruptcy or winding-up of the operator, which the operator himself would have been entitled to invoke. Furthermore, the defendant may avail himself of the defence that the pollution damage resulted from the wilful misconduct of the operator himself, but the defendant may not avail himself of any other defence which he might have been entitled to invoke in proceedings brought by the operator against him. The defendant shall in any event have the right to require the operator to be joined in the proceedings.
+4. Any sums provided by insurance or by other financial security maintained in accordance with paragraph 1 of this Article shall be available in the first place for the satisfaction of claims under this Convention.
+5. Where the operator is a State Party, the operator shall not be required to maintain insurance or other financial security to cover its liability.
+Article 9
+1. A Committee composed of a representative of each State Party is hereby established.
+2. If a State Party considers that any of the amounts currently applicable under Article 6 or 8 is no longer adequate, or is otherwise unrealistic, it may convene a meeting of the Committee to consider the matter. States which have signed this Convention but are not yet Parties will be invited to participate in the work of the Committee as observers. The Committee may recommend to the States Parties an amendment to any of the amounts if representatives of at least three-quarters of the States Parties to this Convention vote in favour of such a recommendation. In making such a recommendation, the Committee shall take into account:
+a) any information concerning events causing or likely to cause pollution damage having a bearing on the objects of this Convention;
+b) any information on increases and decreases occurring after the entry into force of this Convention in the costs of goods and services of the kinds involved in the treatment and remedying of marine oil spillages;
+c) the availability of reliable insurance cover against the risk of liability for pollution damage.
+3. Any amount recommended in accordance with paragraph 2 of this Article shall be notified by the depositary Government to all States Parties. It shall replace the amount currently applicable thirty days after its acceptance by all States Parties. A State Party which has, within six months of such notification or such other period as has been specified in the recommendation, notified the depositary Government that it is unable to accept the recommended amount, shall be deemed to have accepted it.
+4. If the recommended amount has not been accepted by all States Parties within six months, or such other period as has been specified in the recommendation, after it has been notified by the depositary Government it shall, thirty days thereafter, replace the amount currently applicable as between those States Parties which have accepted it. Any other State Party may subsequently accept the recommended amount which shall become applicable to it thirty days thereafter.
+5. A State acceding to this Convention shall be bound by any recommendation of the Committee which has been unanimously accepted by States Parties. Where a recommendation has not been so accepted, an acceding State shall be deemed to have accepted it unless, at the time of its accession, that State notifies the depositary Government that it does not accept such a recommendation.
+Article 10
+Rights of compensation under this Convention shall be extinguished unless, within twelve months of the date on which the person suffering the damage knew or ought reasonably to have known of the damage, the claimant has in writing notified the operator of his claim or has brought an action in respect of it. However in no case shall an action be brought after four years from the date of the incident which caused the damage. Where the incident consists of a series of occurrences, the four years' period shall run from the date of the last occurrence.
+Article 11
+1. Actions for compensation under this Convention may be brought only in the courts of any State Party where pollution damage was suffered as a result of the incident or in the courts of the Controlling State. For the purpose of determining where the damage was suffered, damage suffered in an area in which, in accordance with international law, a State has sovereign rights over natural resources shall be deemed to have been suffered in that State.
+2. Each State Party shall ensure that its courts possess the necessary jurisdiction to entertain such actions for compensation.
+3. After the fund has been constituted in accordance with Article 6, the courts of the State Party in which the fund is constituted shall be exclusively competent to determine all matters relating to the apportionment and distribution of the fund.
+Article 12
+1. Any judgement given by a court with jurisdiction in accordance with Article 11, which is enforceable in the State of origin where it is no longer subject to ordinary forms of review, shall be recognized in any State Party, except:
+a) where the judgement was obtained by fraud; or
+b) where the defendant was not given reasonable notice and a fair opportunity to present his case.
+2. A judgement recognized under paragraph 1 of this Article shall be enforceable in each State Party as soon as the formalities required in that State have been complied with. The formalities shall not permit the merits of the case to be re-opened, nor a reconsideration of the applicable law.
+Article 13
+Where a State Party is the operator, such State shall be subject to suit in the jurisdictions set forth in Article 11 and shall waive all defences based on its status as a sovereign State.
+Article 14
+No liability shall arise under this Convention for damage caused by a nuclear incident:
+a) if the operator of a nuclear installation is liable for such damage under either the Paris Convention of 29 July 1960 on Third Party Liability in the Field of Nuclear Energy or the Vienna Convention of 21 May 1963 on Civil Liability for Nuclear Damage, or if the operator of a nuclear ship is liable for such damage under the Brussels Convention of 25 May 1962 on the Liability of Operators of Nuclear Ships; or
+b) if the operator of a nuclear installation or the operator of a nuclear ship is liable for such damage by virtue of a national law governing the liability for such damage, provided that such law is in all respects as favourable to persons who may suffer damage as, in the case of the operator of a nuclear installation, either the Paris or the Vienna Convention or, in the case of the operator of a nuclear ship, the Brussels Convention.
+Article 15
+1. This Convention shall not prevent a State from providing for unlimited liability or a higher limit of liability than that currently applicable under Article 6 for pollution damage caused by installations for which it is the Controlling State and suffered in that State or in another State Party; provided however that in so doing it shall not discriminate on the basis of nationality. Such provision may be based on the principle of reciprocity.
+2. The courts of each State Party shall apply the law of the Controlling State in order to determine whether the operator is entitled under the provisions of this Article and paragraph 1 of Article 6 to limit his liability and, if so, the amount of such liability.
+3. Nothing in this Article shall affect the amount of compensation available for pollution damage suffered in States Parties in respect of which the provision made in accordance with paragraph 1 of this Article does not apply.
+4. For the purposes of this Article, pollution damage suffered in a State Party means pollution damage suffered in the territory of that State or in the areas in which, in accordance with international law, it has sovereign rights over natural resources.
+Article 16
+This Convention shall be open for signature at London from 1 May 1977 until 30 April 1978 by the States invited to participate in the Intergovernmental Conference on the Convention on Civil Liability for Oil Pollution Damage from Offshore Operations, held there from 20 October to 31 October 1975 and from 13 December to 17 December 1976, and shall thereafter be open for accession by such States.
+Article 17
+This Convention shall be subject to ratification, acceptance or approval.
+Article 18
+The States Parties may unanimously invite to accede to this Convention other States which have coastlines on the North Sea, the Baltic Sea or that part of the Atlantic Ocean to the north of 360 North latitude.
+Article 19
+The instruments of ratification, acceptance, approval and accession shall be deposited with the Government of the United Kingdom of Great Britain and Northern Ireland.
+Article 20
+1. This Convention shall enter into force on the ninetieth day following the date of deposit of the fourth instrument of ratification, acceptance, approval or accession.
+2. For each State ratifying, accepting, approving or acceding to the Convention after the deposit of the fourth instrument, the Convention shall enter into force on the ninetieth day after deposit by such State of its instrument.
+Article 21
+A State Party may denounce this Convention at any time by means of a notice in writing addressed to the depositary Government. Any such denunciation shall take effect twelve months after the date on which the depositary Government has received such notice, or at such later date as may be specified in the notice.
+Article 22
+1. Any State may, at the time of ratification, acceptance, approval or accession or at any later date, declare by means of a notice in writing addressed to the depositary Government that this Convention shall apply to all or any of the territories for whose international relations it is responsible, provided that they are situated within the area defined in Article 18.
+2. Such declaration shall take effect on the ninetieth day after its receipt by the depositary Government or, if on such date the Convention has not yet entered into force, from the date of its entry into force.
+3. Each State Party which has made a declaration in accordance with paragraph 1 of this Article may, in accordance with Article 21, denounce this Convention in relation to all or any of the territories concerned.
+Article 23
+Any State Party may, after having obtained the agreement of at least one-third of the States Parties, convene a Conference of States Parties for the revision or amendment of this Convention.
+Article 24
+No reservation may be made to this Convention.
+Article 25
+The depositary Government shall inform the States referred to in Article 16 and the acceding States:
+a) of signatures to this Convention, of the deposit of instruments of ratification, acceptance, approval or accession, of the receipt of notices in accordance with Article 22, and of the receipt of notices of denunciation;
+b) of the date on which the Convention will enter into force; and
+c) of the recommendations of the Committee convened under Article 9, of the acceptances and non-acceptances of such recommendations, and of the dates on which these recommendations take effect.
+Article 26
+The original of this Convention, of which the English and French texts are equally authentic, shall be deposited with the Government of the United Kingdom of Great Britain and Northern Ireland, which shall send certified copies thereof to the States referred to in Article 16 and the acceding States and which, upon its entry into force, shall transmit a certified copy to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
+In witness whereof the undersigned, being duly authorised thereto, have signed this Convention. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

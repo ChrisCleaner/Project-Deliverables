@@ -1,0 +1,72 @@
+
+ Amendments To IBC Code Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1997-AmendmentsIBC-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=6993/73(39).pdf     
+    ﻿Amendments To IBC Code Of The International Convention For The Prevention Of Pollution From Ships
+Source: http://www.imo.org/includes/blastData.asp/doc_id=6993/73(39).pdf
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the function of the Committee conferred upon it by international conventions for the prevention and control of marine pollution,
+RECALLING ALSO Resolution MEPC.19(22) by which it adopted the International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk (IBC Code),
+NOTING Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and Article VI of the Protocol of 1978 relating to the 1973 Convention (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confers upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+NOTING that the Maritime Safety Committee at its sixty-seventh session by Resolution MSC.58(67) had adopted, in accordance with Article VIII(b)(iv) of the International Convention for the Safety of Life at Sea, 1974 (SOLAS 74), amendments to the Code on the vague expressions of the Code which are expected to enter into force on 1 July 1998,
+CONSIDERING that it is highly desirable for the provisions of the IBC Code, which are mandatory under both MARPOL 73/78 and SOLAS 74, to remain identical,
+HAVING CONSIDERED the recommendation of the Sub-Committee on Bulk Liquid and Gases, at its first session, which was circulated in accordance with Article 16(2)(a) of the 1973 Convention,
+1. ADOPTS, in accordance with Article 16(2)(b) of the 1973 Convention, amendments to the IBC Code, the text of which is set out at Annex to the present Resolution;
+2. DETERMINES, in accordance with Article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 10 January 1998, unless, prior to the date, not less than one-third of the Parties or the Parties, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments;
+3. INVITES the Parties to note that in accordance with Article 16(2)(g)(ii) of the 1973 Convention the amendments shall enter into force on 10 July 1998 in accordance with paragraph 2 above;
+4. INVITES FURTHER the Parties to implement the requirements of the Code as amended from 1 July 1998 without awaiting formal entry into force of the amendments on 10 July 1998;
+5. REQUESTS the Secretary-General, in conformity with Article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1978 Protocol certified copies of the present Resolution and the text of the amendments contained in the Annex; and
+6. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the Resolution and its Annex.
+ANNEX
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)
+CHAPTER 1 - GENERAL
+1 The following new paragraph 1.3.22A is added after existing paragraph 1.3.22:
+"1.3.22A Recognized standards are applicable international or national standards acceptable to the Administration or standards laid down and maintained by an organization which complies with the standards adopted by the Organization and which is recognized by the Administration."
+CHAPTER 2 - SHIP SURVIVAL CAPABILITY AND LOCATION OF CARGO TANKS
+2 In paragraph 2.3.3, the words "should be a type acceptable to the Administration and" are deleted and the words "and should comply with recognized standards" are added at the end of the paragraph.
+CHAPTER 3 - SHIP ARRANGEMENTS
+3 In paragraph 3.2.3, in the fourth sentence, the words "permitted by the Administration" are replaced by the word "fitted".
+4 In paragraph 3.7.1, in the first sentence, the words "Subject to the approval of the Administration," are deleted and the word "cargo" is replaced by the word "Cargo".
+CHAPTER 4 - CARGO CONTAINMENT
+5 In paragraph 4.1.3, in the third sentence, the words "according to the standards of the Administration" are replaced by the words "according to recognized standards".
+6 In paragraph 4.1.4, in the second sentence, the words "according to the standards of the Administration" are replaced by the words "according to recognized standards".
+CHAPTER 5 - CARGO TRANSFER
+7 In paragraph 5.1.1, the definition of the efficiency factor "e" is replaced by the following:
+"e = efficiency factor equal to 1.0 for seamless pipes and for longitudinally or spirally welded pipes, delivered by approved manufacturers of welded pipes, which are considered equivalent to seamless pipes when non-destructive testing on welds is carried out in accordance with recognized standards. In other cases, an efficiency factor of less than 1.0, in accordance with recognized standards, may be required depending on the manufacturing process."
+8 In paragraph 5.1.6.1, the asterisk and related footnote are deleted.
+9 In paragraph 5.1.6.3, the words "to a standard acceptable to the Administration" are replaced by the words "in accordance with recognized standards".
+10 In paragraph 5.2.1, in the second sentence, the words "However, the Administration may accept relaxations from these requirements" are replaced by the words "However, relaxations from these requirements may be accepted in accordance with recognized standards".
+11 In paragraph 5.2.3.2, in the first sentence, the words "satisfactory to the Administration" are replaced by the words "in accordance with recognized standards".
+12 In paragraph 5.2.3.3, the words "acceptable to the Administration" are replaced by the words "in accordance with recognized standards".
+13 The existing text of paragraph 5.2.4.1 is replaced by the following:
+".1 Bellows in accordance with recognized standards maybe specially considered."
+14 In paragraph 5.3.2, the words "standards acceptable to the Administration" are replaced by the words "recognized standards".
+15 The existing text of the second sentence of paragraph 5.4.1 is replaced by the following:
+"However, relaxations from these requirements may be accepted in accordance with recognized standards for piping inside tanks and open-ended piping."
+16 In paragraph 5.5.2, in the last sentence, the existing text of the introductory phrase is replaced by the following:
+"A totally enclosed hydraulically-operated valve located outside the cargo tank may, however, be accepted, provided that the valve is:"
+CHAPTER 6 - MATERIALS OF CONSTRUCTION
+17 In paragraph 6.1.1, in the first sentence, the words "to the satisfaction of the Administration" are replaced by the words "in accordance with recognized standards".
+18 In paragraph 6.2.5, in the second sentence, the words "may be permitted by the Administration" are replaced by the words "may be fitted".
+CHAPTER 8 - CARGO TANK VENT SYSTEMS
+19 In paragraph 8.3.4, the words "of a type approved by the Administration" are replaced by the words "of an approved type".
+CHAPTER 10 - ELECTRICAL INSTALLATIONS
+20 In paragraph 10.2.3.4.2, in the second sentence, the words "to the satisfaction of the Administration" are replaced by the words "in accordance with recognized standards".
+CHAPTER 11 - FIRE PROTECTION AND FIRE EXTINCTION
+21 In paragraph 11.2.3, in the first sentence, the words "it can be demonstrated to the Administration that" are deleted and the words "halogenated hydrocarbons" are replaced by the words "equivalent media".
+CHAPTER 15 - SPECIAL REQUIREMENTS
+22 In paragraph 15.8.8, in the first sentence, the words "or other materials acceptable to the Administration" are replaced by the words "in accordance with recognized standards" and the second sentence is deleted.
+23 In paragraph 15.8.9, in the third sentence, the words "by the Administration" are deleted.
+24 In paragraph 15.12.1.4, the words "of a type approved by the Administration" are replaced by the words "of an approved type".
+25 In paragraph 15.19.7.3, the words "port Administrations" are replaced by the words "port State authority". 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

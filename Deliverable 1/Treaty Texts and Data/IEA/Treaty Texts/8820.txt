@@ -1,0 +1,52 @@
+
+ Amendments to regulation B-3 (Implementation schedule of ballast water management for ships) of the International Convention for the Control and Management of Ships&#039; Ballast Water and Sediments   
+     Filename: Amendments to regulation B-3 (Implementation schedule of ballast water management for ships) of the International Convention for the Control and Management of Ships&#039; Ballast Water and Sediments 
+ Source: http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Marine-Environment-P…     
+    ANNEX 2: RESOLUTION MEPC.297(72) (adopted on 13 April 2018)
+Source: http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Marine-Envir...
+AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE CONTROL AND MANAGEMENT OF SHIPS' BALLAST WATER AND SEDIMENTS, 2004
+Amendments to regulation B-3
+(Implementation schedule of ballast water management for ships)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee conferred upon it by international conventions for the prevention and control of marine pollution from ships,
+NOTING article 19 of the International Convention for the Control and Management of Ships' Ballast Water and Sediments, 2004 (the BWM Convention), which specifies the amendment procedure and confers upon the Marine Environment Protection Committee of the Organization the function of considering amendments thereto for adoption by the Parties,
+HAVING CONSIDERED, at its seventy-second session, proposed amendments to regulation B-3 of the BWM Convention concerning the implementation schedule of ballast water management for ships,
+RECALLING resolution MEPC.287(71), by which it resolved that the Parties should implement the amended regulation B-3 immediately after the entry into force of the BWM Convention, in lieu of the implementation schedule recommended in resolution A.1088(28) on the application of the BWM Convention and notwithstanding the schedule set forth in regulation B-3, with a view to avoiding the creation of a dual treaty regime during the time period between the entry into force of the BWM Convention and the entry into force of the amended regulation B-3,
+1 ADOPTS, in accordance with article 19(2)(c) of the BWM Convention, amendments to regulation B-3, the text of which is set out in the annex to the present resolution;
+2 DETERMINES, in accordance with article 19(2)(e)(ii) of the BWM Convention, that the amendments shall be deemed to have been accepted on 13 April 2019 unless, prior to that date, more than one-third of the Parties have notified the Secretary-General that they object to the amendments;
+3 INVITES the Parties to note that, in accordance with article 19(2)(f)(ii) of the BWM Convention, the said amendments shall enter into force on 13 October 2019 upon their acceptance in accordance with paragraph 2 above;
+4 REQUESTS the Secretary-General, for the purposes of article 19(2)(d) of the BWM Convention, to transmit certified copies of the present resolution and the text of the amendments contained in the annex to all Parties to the BWM Convention;
+5 REQUESTS ALSO the Secretary-General to transmit copies of the present resolution and its annex to Members of the Organization which are not Parties to the BWM Convention;
+6 REQUESTS FURTHER the Secretary-General to prepare a consolidated certified text of the BWM Convention.
+ANNEX
+AMENDMENTS TO THE ANNEX TO THE BWM CONVENTION 
+(Implementation schedule of ballast water management for ships) 
+Section B – Management and control requirements for ships
+Regulation B-3 – Ballast water management for ships
+1 The text of regulation B-3 is replaced with the following: "1 A ship constructed before 2009:
+.1 with a ballast water capacity of between 1,500 and 5,000 cubic metres, inclusive, shall conduct ballast water management that at least meets the standard described in regulation D-1 or regulation D-2 until the renewal survey described in paragraph 10, after which time it shall at least meet the standard described in regulation D-2;
+.2 with a ballast water capacity of less than 1,500 or greater than 5,000 cubic metres shall conduct ballast water management that at least meets the standard described in regulation D-1 or regulation D-2 until the renewal survey described in paragraph 10, after which time it shall at least meet the standard described in regulation D-2.
+2 A ship constructed in or after 2009 and before 8 September 2017 with a ballast water capacity of less than 5,000 cubic metres shall conduct ballast water management that at least meets the standard described in regulation D-2 from the date of the renewal survey described in paragraph 10.
+3 A ship constructed in or after 2009, but before 2012, with a ballast water capacity of 5,000 cubic metres or more shall conduct ballast water management in accordance with paragraph 1.2.
+4 A ship constructed in or after 2012 and before 8 September 2017 with a ballast water capacity of 5,000 cubic metres or more shall conduct ballast water management that at least meets the standard described in regulation D-2 from the date of the renewal survey described in paragraph 10.
+5 A ship constructed on or after 8 September 2017 shall conduct ballast water management that at least meets the standard described in regulation D-2.
+6 The requirements of this regulation do not apply to ships that discharge ballast water to a reception facility designed taking into account the Guidelines developed by the Organization for such facilities.
+7 Other methods of ballast water management may also be accepted as alternatives to the requirements described in paragraphs 1 to 5 and paragraph 8, provided that such methods ensure at least the same level of protection to the environment, human health, property or resources, and are approved in principle by the Committee.
+8 A ship constructed before 8 September 2017 to which the renewal survey described in paragraph 10 does not apply, shall conduct ballast water management that at least meets the standard described in regulation D-2 from the date decided by the Administration, but not later than 8 September 2024.
+9 A ship subject to paragraphs 2, 4 or 8 will be required to comply with either regulation D-1 or regulation D-2, until such time as it is required to comply with regulation D-2.
+10 Notwithstanding regulation E-1.1.2, the renewal survey referred to in paragraphs 1.1, 1.2, 2 and 4 is:
+.1 the first renewal survey, as determined by the Committee, on or after 8 September 2017 if:
+.1 this survey is completed on or after 8 September 2019; or
+.2 a renewal survey is completed on or after 8 September 2014 but prior to 8 September 2017; and
+.2 the second renewal survey, as determined by the Committee, on or after 8 September 2017 if the first renewal survey on or after 8 September 2017 is completed prior to 8 September 2019, provided that the conditions of paragraph 10.1.2 are not met." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

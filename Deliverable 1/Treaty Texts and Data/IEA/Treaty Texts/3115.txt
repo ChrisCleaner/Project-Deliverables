@@ -1,0 +1,169 @@
+
+ Amendments To Annex I Of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1992-AmendmentsAnnex1Reg13FG-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=6972/52(32).pdf     
+    ﻿IMO Amendments To The Annex Of The Protocol Of 1978 Relating To The International Convention For The Prevention Of Pollution From Ships, 73/78 (New regulations 13F and 13G and related amendments to Annex I of MARPOL 73/78)
+SRC: http://www.austlii.edu.au/au/other/dfat/seldoc/1992/4007.html and http://www.imo.org/includes/blastDataOnly.asp/data_id%3D15626/52%2832%29..., downloaded 20070807
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Committee,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention"), and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol"), which confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+NOTING ALSO resolution A.675(16) on prevention of oil pollution,
+RECOGNIZING the severity of marine pollution incidents resulting from tanker casualties,
+DESIRING to improve the requirements for the design and construction of oil tankers to prevent oil pollution in the event of collision or grounding,
+HAVING CONSIDERED, at its thirty-second session, amendments to the 1978 Protocol proposed and circulated in accordance with article 16(2)(a) of the 1973 Convention,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, amendments to the Annex of the 1978 Protocol, the text of which is set out in the Annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 6 January 1993, unless prior to this date one third or more of the Parties, or the Parties the combined merchant fleets of which constitute fifty per cent or more of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments;
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the amendments shall enter into force on 6 July 1993 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. FURTHER REQUESTS the Secretary-General to transmit copies of the resolution and its Annex to the Members of the Organization which are not Parties to MARPOL 73/78;
+6. AGREES to develop as a matter of urgency:
+(a) guidelines for approval of alternative methods of design and construction of oil tankers as called for in regulation 13F(5);
+(b) guidelines for approval of alternative structural or operational arrangements as called for in regulation 13G(7); and
+(c) guidelines for an enhanced programme of surveys and inspections as called for in regulation 13G(3).
+ANNEX
+AMENDMENTS TO ANNEX I OF MARPOL 73/78
+Regulation 1
+Definitions
+The following new paragraph (8)(c) is inserted after the existing paragraph (8)(b):
+"(c) Notwithstanding the provisions of subparagraph (a) of this paragraph, conversion of an existing oil tanker to meet the requirements of regulation 13F or 13G of this Annex shall not be deemed to constitute a major conversion for the purpose of this Annex."
+New regulations 13F and 13G
+The following new regulations 13F and 13G are inserted after the existing regulation 13E:
+REGULATION 13F OF ANNEX I OF MARPOL 73/78
+Prevention of oil pollution in the event of collision or stranding
+(1) This regulation shall apply to oil tankers of 600 tons deadweight and above:
+(a) for which the building contract is placed on or after 6 July 1993, or
+(b) in the absence of a building contract, the keels of which are laid or which are at a similar stage of construction on or after 6 January 1994, or
+(c) the delivery of which is on or after 6 July 1996; or
+(d) which have undergone a major conversion:
+(i) for which the contract is placed after 6 July 1993; or
+(ii) in the absence of a contract, the construction work of which is begun after 6 January 1994; or
+(iii) which is completed after 6 July 1996.
+(2) Every oil tanker of 5,000 tons deadweight and above shall:
+(a) in lieu of regulation 13E, as applicable, comply with the requirements of paragraph (3) unless it is subject to the provisions of paragraphs (4) and (5); and
+(b) comply, if applicable, with the requirements of paragraph (6).
+(3) The entire cargo tank length shall be protected by ballast tanks or spaces other than cargo and fuel oil tanks as follows:
+(a) Wing tanks or spaces
+Wing tanks or spaces shall extend either for the full depth of the ship's side or from the top of the double bottom to the uppermost deck, disregarding a rounded gunwale where fitted. They shall be arranged such that the cargo tanks are located inboard of the moulded line of the side shell plating, nowhere less than the distance w which, as shown in figure 1, is measured at any cross-section at right angles to the side shell, as specified below:
+w = 0.5 + DW (m) or
+20,000
+w = 2.0 m, whichever is the lesser.
+The minimum value of w = 1.0 m.
+(b) Double bottom tanks or spaces
+At any cross-section the depth of each double bottom tank or space shall be such that the distance h between the bottom of the cargo tanks and the moulded line of the bottom shell plating measured at right angles to the bottom shell plating as shown in figure 1 is not less than specied below:
+h = B/15 (m) or
+h = 2.0 m, whichever is the lesser.
+The minimum value of h = 1.0 m.
+(c) Turn of the bilge area or at locations without a clearly defined turn of the bilge
+When the distances h and w are different, the distance w shall have preference at levels exceeding 1.5 h above the baseline as shown in figure 1.
+(d) The aggregate capacity of ballast tanks
+On crude oil tankers of 20,000 tons deadweight and above and product carriers of 30,000 tons deadweight and above, the aggregate capacity of wing tanks, double bottom tanks, forepeak tanks and afterpeak tanks shall not be less than the capacity of segregated ballast tanks necessary to meet the requirements of regulation 13. Wing tanks or spaces and double bottom tanks used to meet the requirements of regulation 13 shall be located as uniformly as practicable along the cargo tank length. Additional segregated ballast capacity provided for reducing longitudinal hull girder bending stress, trim, etc., may be located anywhere within the ship.
+(e) Suction wells in cargo tanks
+Suction wells in cargo tanks may protrude into the double bottom below the boundary line defined by the distance h provided that such wells are as small as practicable and the distance between the well bottom and bottom shell plating is not less than 0.5 h.
+(f) Ballast and cargo piping
+Ballast piping and other piping such as sounding and vent piping to ballast tanks shall not pass through cargo tanks. Cargo piping and similar piping to cargo tanks shall not pass through ballast tanks. Exemptions to this requirement may be granted for short lengths of piping, provided that they are completely welded or equivalent.
+(4) (a) Double bottom tanks or spaces as required by paragraph (3)(b) may be dispensed with, provided that the design of the tanker is such that the cargo and vapour pressure exerted on the bottom shell plating forming a single boundary between the cargo and the sea does not exceed the external hydrostatic water pressure, as expressed by the following formula:
+f . hc . c . g + 100p . dn . s . g
+where:
+h c = height of cargo in contact with the bottom shell plating in
+metres
+c = maximum cargo density in t/m3
+d n = minimum operating draught under any expected loading
+condition in metres
+s = density of sea water in t/m3
+p = maximum set pressure of pressure/vacuum valve provided
+for the cargo tank in bars
+f = safety factor = 1.1
+g = standard acceleration of gravity (9.81 m/s2 ).
+(b) Any horizontal partition necessary to fulfil the above requirements shall be located at a height of not less than B/6 or 6 metres, whichever is the lesser, but not more than 0.6D, above the baseline where D is the moulded depth amidships.
+(c) The location of wing tanks or spaces shall be as defined in paragraph (3)(a) except that, below a level 1.5 h above the baseline where h is as defined in paragraph (3)(b), the cargo tank boundary line may be vertical down to the bottom plating, as shown in figure 2.
+(5) Other methods of design and construction of oil tankers may also be accepted as alternatives to the requirements prescribed in paragraph (3), provided that such methods ensure at least the same level of protection against oil pollution in the event of collision or stranding and are approved in principle by the Marine Environment Protection Committee based on guidelines developed by the Organization.
+(6) For oil tankers of 20,000 tons deadweight and above the damage assumptions prescribed in regulation 25(2)(b) shall be supplemented by the following assumed bottom raking damage:
+(a) longitudinal extent:
+(i) ships of 75,000 tons deadweight and above:
+0.6 L measured from the forward perpendicular
+(ii) ships of less than 75,000 tons deadweight:
+0.4 L measured from the forward perpendicular
+(b) transverse extent: B/3 anywhere in the bottom
+(c) vertical extent: breach of the outer hull.
+(7) Oil tankers of less than 5,000 tons deadweight shall:
+(a) at least be fitted with double bottom tanks or spaces having such a depth that the distance h specified in paragraph (3)(b) complies with the following:
+h = B/15 (m) with a minimum value of h = 0.76 m;
+in the turn of the bilge area and at locations without a clearly defined turn of the bilge, the cargo tank boundary line shall run parallel to the line of the mid-ship flat bottom as shown in figure 3; and
+(b) be provided with cargo tanks so arranged that the capacity of each cargo tank does not exceed 700 m3 unless wing tanks or spaces are arranged in accordance with paragraph (3)(a) complying with the following:
+w = 0.4 + 2.4 DW (m)
+20,000
+with a minimum value of w = 0.76 m.
+(8) Oil shall not be carried in any space extending forward of a collision bulkhead located in accordance with regulation II-1/11 of the International Convention for the Safety of Life at Sea, 1974, as amended. An oil tanker that is not required to have a collision bulkhead in accordance with that regulation shall not carry oil in any space extending forward of the transverse plane perpendicular to the centreline that is located as if it were a collision bulkhead located in accordance with that regulation.
+(9) In approving the design and construction of oil tankers to be built in accordance with the provisions of this regulation, Administrations shall have due regard to the general safety aspects including the need for the maintenance and inspections of wing and double bottom tanks or spaces.
+Figure 1: Cargo tank boundary lines for the purpose of paragraph (3).
+Figure 2: Cargo tank boundary lines for the purpose of paragraph (4).
+Figure 3: Cargo tank boundary lines for the purpose of paragraph (7).
+REGULATION 13G OF ANNEX I OF MARPOL 73/78
+Prevention of oil pollution in the event of collision or stranding
+Measures for existing tankers
+(1) This regulation shall:
+(a) apply to crude oil tankers of 20,000 tons deadweight and above and to product carriers of 30,000 tons deadweight and above, which are contracted, the keels of which are laid, or which are delivered before the dates specified in regulation 13F(1) of this Annex; and
+(b) not apply to oil tankers complying with regulation 13F of this Annex, which are contracted, the keels of which are laid, or are delivered before the dates specified in regulation 13F(1) of this Annex; and
+(c) not apply to oil tankers covered by subparagraph (a) above which comply with regulation 13F(3)(a) and (b) or 13F(4) or 13F(5) of this Annex, except that the requirement for minimum distances between the cargo tank boundaries and the ship side and bottom plating need not be met in all respects. In that event, the side protection shall not be less than those specified in the International Bulk Chemical Code for type 2 cargo tank location and the bottom protection shall comply with regulation 13(4)(b) of this Annex.
+(2) The requirements of this regulation shall take effect as from 6 July 1995.
+(3) (a) An oil tanker to which this regulation applies shall be subject to an enhanced programme of inspections during periodical, intermediate and annual surveys, the scope and frequency of which shall at least comply with the guidelines developed by the Organization.
+(b) An oil tanker over five years of age to which this regulation applies shall have on board, available to the competent authority of any Government of a State Party to the present Convention, a complete file of the survey reports, including the results of all scantling measurement required, as well as the statement of structural work carried out.
+(c) This file shall be accompanied by a condition evaluation report, containing conclusions on the structural condition of the ship and its residual scantlings, endorsed to indicate that it has been accepted by or on behalf of the flag Administration. This file and condition evaluation report shall be prepared in a standard format as contained in the guidelines developed by the Organization.
+(4) An oil tanker not meeting the requirements of a new oil tanker as defined in regulation 1(26) of this Annex shall comply with the requirements of regulation 13F of this Annex not later than 25 years after its date of delivery, unless wing tanks or double bottom spaces, not used for the carriage of oil and meeting the width and height requirements of regulation 13E(4), cover at least 30% of Lt for the full depth of the ship on each side or at least 30% of the projected bottom shell area within the length Lt , where Lt is as defined in regulation 13E(2), in which case compliance with regulation 13F is required not later than 30 years after its date of delivery.
+(5) An oil tanker meeting the requirements of a new oil tanker as defined in regulation 1(26) of this Annex shall comply with the requirements of regulation 13F of this Annex not later than 30 years after its date of delivery.
+(6) Any new ballast and load conditions resulting from the application of paragraph (4) of this regulation shall be subject to approval of the Administration which shall have regard, in particular, to longitudinal and local strength, intact stability and, if applicable, damage stability.
+(7) Other structural or operational arrangements such as hydrostatically balanced loading may be accepted as alternatives to the requirements prescribed in paragraph (4), provided that such alternatives ensure at least the same level of protection against oil pollution in the event of collision or stranding and are approved by the Administration based on guidelines developed by the Organization.
+Regulation 24(4)
+Limitation of size and arrangement of cargo tanks
+The existing text of paragraph (4) is replaced by the following:
+"(4) The length of each cargo tank shall not exceed 10 metres or one of the following values, whichever is the greater:
+(a) Where no longitudinal bulkhead is provided inside the cargo tanks:
+(0.5 bi + 0.1) L
+B
+but not to exceed 0.2 L
+(b) Where a centreline longitudinal bulkhead is provided inside the cargo tanks:
+(0.25 bi + 0.15) L
+B
+(c) Where two or more longitudinal bulkheads are provided inside the cargo tanks:
+(i) for wing cargo tanks:
+0.2 L
+(ii) for centre cargo tanks:
+(1) if bi is equal to or greater than one fifth:
+B
+0.2 L
+(2) if bi is less than one fifth:
+B
+- Where no centreline longitudinal bulkhead is provided:
+(0.5 bi + 0.1) L
+B
+- Where a centreline longitudinal bulkhead is provided:
+(0.25 bi + 0.15) L
+B
+(d) "bi" is the minimum distance from the ship's side to the outer longitudinal bulkhead of the tank in question measured inboard at right angles to the centreline at the level corresponding to the assigned summer freeboard."
+AMENDMENTS TO THE RECORD OF CONSTRUCTION AND EQUIPMENT FOR OIL TANKERS (FORM B)
+The following new paragraph 5.8 is inserted after the existing paragraph 5.7:
+"5.8 Double hull construction
+5.8.1 The ship is required to be constructed according to regulation 13F and complies with the requirements of:
+.1 paragraph (3) (double hull construction)
+.2 paragraph (4) (mid-height deck tankers with double
+side construction)
+.3 paragraph (5) (alternative method approved by the
+Marine Environment Protection Committee)
+5.8.2 The ship is required to be constructed according to and complies with the requirements of regulation 13F(7) (double bottom requirements)
+5.8.3 The ship is not required to comply with the requirements of regulation
+13F
+5.8.4 The ship is subject to regulation 13G and:
+.1 is required to comply with regulation 13F not later than ..................
+.2 is so arranged that the following tanks or spaces are not used for the carriage of oil .................................................................................
+5.8.5 The ship is not subject to regulation 13G " 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

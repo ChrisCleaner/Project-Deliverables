@@ -1,0 +1,402 @@
+
+ Amendment of Annexes 2 and 3 and Table 1 to the Agreement On The Conservation Of African-Eurasian Migratory Waterbirds   
+     Filename: 2015-amendments-1995-agreementconservationafrican-eurasianmigratorywaterbirdsentxt. 
+ Source: http://www.unep-aewa.org/en/document/adoption-amendments-aewa-annexes-2     
+    Amendment of Annexes 2 and 3 and Table 1 to the Agreement On The Conservation Of African-Eurasian Migratory Waterbirds
+Source: http://www.unep-aewa.org/sites/default/files/document/aewa_mop6_res1_ado..., downloaded 20170508
+RESOLUTION 6.1: ADOPTION OF AMENDMENTS TO THE AEWA ANNEXES
+Recalling Article X of the Agreement concerning the procedures for amendments to the Agreement and its annexes,
+Further recalling Resolution 4.11 which, inter alia, requested the Technical Committee to review taxonomic classifications of birds and suggest the most appropriate classification for the purposes of the Agreement, including application to Annex 2,
+Recognising the work of the Technical Committee and the Secretariat over the past two triennia to address this request and their involvement and input into the work of the CMS Scientific Council Intersessional Working Group on Bird Taxonomy and Nomenclature from 2009 to 2011 and the Ad Hoc Meeting on Harmonisation of Bird Taxonomy which was convened by the Chair of the CMS Scientific Council in Formia, Italy on 8 October 2013,
+Noting the CMS Resolution 11.19 on the Taxonomy and Nomenclature of Birds Listed on the CMS Appendices adopted by COP11 (4-9 November 2014, Quito, Ecuador),
+Taking into account the recommendation of the Technical Committee, provided at its 12th Meeting on 3-6 March 2015 in Bonn, Germany, on the most appropriate classification for the purposes of the Agreement,
+Taking into account the findings of the sixth edition of the Report on the Conservation Status of Migratory Waterbirds in the Agreement Area (document AEWA/MOP 6.14),
+Acknowledging the proposals for amendments to Annex 2 and Annex 3 (Table 1) submitted by the Government of Norway and the comments received from Contracting Parties concerning these proposals, all of which are presented in the document AEWA/MOP 6.22,
+Acknowledging the recent global Red Listing of the Common Eider (Somateria mollissima), Common Pochard (Aythya ferina), Horned Grebe (Podiceps auritus), Eurasian Oystercatcher (Haematopus ostralegus), Northern Lapwing (Vanellus vanellus), Bar-tailed Godwit (Limosa lapponica), Red Knot (Calidris canutus), Curlew Sandpiper (Calidris ferruginea), Armenian Gull (Larus armenicus), Atlantic Puffin (Fratercula arctica) and Razorbill (Alca torda), and noting the importance of considering the implications of these changes in listings for MOP7.
+The Meeting of the Parties:
+1. Adopts the reference recommended by the 12th Meeting of the Technical Committee as the AEWA standard reference for waterbird species taxonomy and nomenclature: Handbook of the Birds of the World/BirdLife International Illustrated Checklist of the Birds of the World, Volume 1: Non-passerines, by Josep del Hoyo, Nigel J. Collar, David A. Christie, Andrew Elliot and Lincoln D.C. Fishpool (2014);
+2. Decides to amend the list of waterbird species to which the Agreement applies in Annex 2 to the Agreement, as presented in Appendix I to this Resolution, following the adoption of the new standard reference for waterbird species taxonomy and nomenclature;
+3. Decides to amend Annex 3 to the Agreement by replacing the current Table 1 of the Action Plan and the associated explanatory text with the Table and explanatory text set out in Appendix II to this Resolution;
+4. Requests the Secretariat and the Depositary to incorporate all approved amendments into Annexes 2 and 3 to the Agreement and to update and disseminate the revised English and French language (online and hard copy) versions in a timely manner and encourages the Secretariat and the Depositary to have the Arabic and Russian language versions revised, according to resources available;
+5. Requests the Technical Committee to monitor the changes in the waterbird species taxonomy and nomenclature to be reflected in the adopted AEWA standard taxonomic and nomenclature reference and to advise on the updates of Annex 2 to the Agreement, when appropriate.
+Annex 2
+Waterbird species to which the Agreement applies
+Family ANATIDAE (ducks, geese, swans)
+Dendrocygna viduata -- White faced Whistling-duck
+Dendrocygna bicolor -- Fulvous Whistling duck
+Thalassornis leuconotus -- White backed Duck
+Oxyura maccoa -- Maccoa Duck
+Oxyura leucocephala -- White headed Duck
+Cygnus olor -- Mute Swan
+Cygnus cygnus -- Whooper Swan
+Cygnus columbianus -- Tundra Swan
+Branta bernicla -- Brent Goose
+Branta leucopsis -- Barnacle Goose
+Branta ruficollis -- Red breasted Goose
+Anser anser -- Greylag Goose
+Anser fabalis -- Bean Goose
+Anser brachyrhynchus -- Pink footed Goose
+Anser albifrons -- Greater White fronted Goose
+Anser erythropus -- Lesser White fronted Goose
+Clangula hyemalis -- Long tailed Duck
+Somateria spectabilis -- King Eider
+Somateria mollissima -- Common Eider
+Polysticta stelleri -- Steller's Eider
+Melanitta fusca -- Velvet Scoter
+Melanitta nigra -- Common Scoter
+Bucephala clangula -- Common Goldeneye
+Mergellus albellus -- Smew
+Mergus merganser -- Goosander
+Mergus serrator -- Red breasted Merganser
+Alopochen aegyptiaca -- Egyptian Goose
+Tadorna tadorna -- Common Shelduck
+Tadorna ferruginea -- Ruddy Shelduck
+Tadorna cana -- South African Shelduck
+Plectropterus gambensis -- Spur winged Goose
+Sarkidiornis melanotos -- African Comb Duck
+Nettapus auritus -- African Pygmy goose
+Marmaronetta angustirostris -- Marbled Teal
+Netta rufina -- Red crested Pochard
+Netta erythrophthalma -- Southern Pochard
+Aythya ferina -- Common Pochard
+Aythya nyroca -- Ferruginous Pochard
+Aythya fuligula -- Tufted Duck
+Aythya marila -- Greater Scaup
+Spatula querquedula -- Garganey
+Spatula hottentota -- Hottentot Teal
+Spatula clypeata -- Northern Shoveler
+Mareca strepera -- Gadwall
+Mareca penelope -- Eurasian Wigeon
+Anas undulata -- Yellow billed Duck
+Anas platyrhynchos -- Mallard
+Anas capensis -- Cape Teal
+Anas erythrorhyncha -- Red billed Teal
+Anas acuta -- Northern Pintail
+Anas crecca -- Common Teal
+Family PODICIPEDIDAE (grebes)
+Tachybaptus ruficollis -- Little Grebe
+Podiceps grisegena -- Red necked Grebe
+Podiceps cristatus -- Great Crested Grebe
+Podiceps auritus -- Horned Grebe
+Podiceps nigricollis -- Black-necked Grebe
+Family PHOENICOPTERIDAE (flamingos)
+Phoenicopterus roseus -- Greater Flamingo
+Phoeniconaias minor -- Lesser Flamingo
+Family PHAETHONTIDAE (tropicbirds)
+Phaethon aetheras -- Red-billed Tropicbird
+Phaethon rubricauda -- Red-tailed Tropicbird
+Phaethon lepturus -- White-tailed Tropicbird
+Family RALLIDAE (rails, gallinules, coots)
+Sarothrura elegans -- Buff-spotted Flufftail
+Sarothrura boehmi -- Streaky breasted Flufftail
+Sarothrura ayresi -- White-winged Flufftail
+Rallus aquaticus -- Western Water Rail
+Rallus caerulescens -- African Rail
+Crex egregia -- African Crake
+Crex crex -- Corncrake
+Porzana porzana -- Spotted Crake
+Zapornia flavirostra -- Black Crake
+Zapornia parva -- Little Crake
+Zapornia pusilla -- Baillon's Crake
+Amaurornis marginalis -- Striped Crake
+Porphyrio alleni -- Allen’s Gallinule
+Gallinula chloropus -- Common Moorhen
+Gallinula angulata -- Lesser Moorhen
+Fulica cristata -- Red-knobbed Coot
+Fulica atra -- Common Coot
+Family GRUIDAE (cranes)
+Balearica regulorum -- Grey Crowned-crane
+Balearica pavonina -- Black Crowned-crane
+Leucogeranus leucogeranus -- Siberian Crane
+Bugeranus carunculatus -- Wattled Crane
+Anthropoides paradiseus -- Blue Crane
+Anthropoides virgo -- Demoiselle Crane
+Grus grus -- Common Crane
+Family GAVIIDAE (loons / divers)
+Gavia stellata -- Red throated Loon
+Gavia arctica -- Black-throated Loon
+Gavia immer -- Common Loon
+Gavia adamsii -- Yellow billed Loon
+Family SPHENISCIDAE (penguins)
+Spheniscus demersus -- African Penguin
+Family CICONIIDAE (storks)
+Leptoptilos crumenifer -- Marabou
+Mycteria ibis -- Yellow billed Stork
+Anastomus lamelligerus -- African Openbill
+Ciconia nigra -- Black Stork
+Ciconia abdimii -- Abdim’s Stork
+Ciconia microscelis -- African Woollyneck
+Ciconia ciconia -- White Stork
+Family THRESKIORNITHIDAE (ibises, spoonbills)
+Platalea alba -- African Spoonbill
+Platalea leucorodia -- Eurasian Spoonbill
+Threskiornis aethiopicus -- African Sacred Ibis
+Geronticus eremita -- Northern Bald Ibis
+Plegadis falcinellus -- Glossy Ibis
+Family ARDEIDAE (herons)
+Botaurus stellaris -- Eurasian Bittern
+Ixobrychus minutus -- Common Little Bittern
+Ixobrychus sturmii -- Dwarf Bittern
+Nycticorax nycticorax -- Black-crowned Night-heron
+Ardeola ralloides -- Squacco Heron
+Ardeola idae -- Madagascar Pond heron
+Ardeola rufiventris -- Rufous bellied Heron
+Bubulcus ibis -- Cattle Egret
+Ardea cinerea -- Grey Heron
+Ardea melanocephala -- Black-headed Heron
+Ardea purpurea -- Purple Heron
+Ardea alba -- Great White Egret
+Ardea brachyrhyncha -- Yellow-billed Egret
+Egretta ardesiaca -- Black Heron
+Egretta vinaceigula -- Slaty Egret
+Egretta garzetta -- Little Egret
+Egretta gularis -- Western Reef-egret
+Family BALAENICIPITIDAE (shoebill)
+Balaeniceps rex -- Shoebill
+Family PELECANIDAE (pelicans)
+Pelecanus crispus -- Dalmatian Pelican
+Pelecanus rufescens -- Pink-backed Pelican
+Pelecanus onocrotalus -- Great White Pelican
+Family FREGATIDAE (frigatebirds)
+Fregata ariel -- Lesser Frigatebird
+Fregata minor -- Great Frigatebird
+Family SULIDAE (gannets, boobies)
+Morus bassanus -- Northern Gannet
+Morus capensis -- Cape Gannet
+Sula dactylatra -- Masked Booby
+Family PHALACROCORACIDAE (cormorants)
+Microcarbo coronatus -- Crowned Cormorant
+Microcarbo pygmaeus -- Pygmy Cormorant
+Phalacrocorax carbo -- Great Cormorant
+Phalacrocorax capensis -- Cape Cormorant
+Phalacrocorax nigrogularis -- Socotra Cormorant
+Phalacrocorax neglectus -- Bank Cormorant
+Family BURHINIDAE (thick-knees)
+Burhinus senegalensis -- Senegal Thick-knee
+Family PLUVIANIDAE (Egyptian plover)
+Pluvianus aegyptius -- Egyptian Plover
+Family HAEMATOPODIDAE (oystercatchers)
+Haematopus moquini -- African Oystercatcher
+Haematopus ostralegus -- Eurasian Oystercatcher
+Family RECURVIROSTRIDAE (avocets, stilts)
+Recurvirostra avosetta -- Pied Avocet
+Himantopus himantopus -- Black winged Stilt
+Family CHARADRIIDAE (plovers)
+Pluvialis squatarola -- Grey Plover
+Pluvialis apricaria -- Eurasian Golden Plover
+Pluvialis fulva -- Pacific Golden Plover
+Eudromias morinellus -- Eurasian Dotterel
+Charadrius hiaticula -- Common Ringed Plover
+Charadrius dubius -- Little Ringed Plover
+Charadrius pecuarius -- Kittlitz's Plover
+Charadrius tricollaris -- African Three banded Plover
+Charadrius forbesi -- Forbes's Plover
+Charadrius marginatus -- White fronted Plover
+Charadrius alexandrinus -- Kentish Plover
+Charadrius pallidus -- Chestnut banded Plover
+Charadrius mongolus -- Lesser Sandplover
+Charadrius leschenaultii -- Greater Sandplover
+Charadrius asiaticus -- Caspian Plover
+Vanellus vanellus -- Northern Lapwing
+Vanellus spinosus -- Spur winged Lapwing
+Vanellus albiceps -- White headed Lapwing
+Vanellus lugubris -- Senegal Lapwing
+Vanellus melanopterus -- Black winged Lapwing
+Vanellus coronatus -- Crowned Lapwing
+Vanellus senegallus -- Wattled Lapwing
+Vanellus superciliosus -- Brown chested Lapwing
+Vanellus gregarius -- Sociable Lapwing
+Vanellus leucurus -- White tailed Lapwing
+Family SCOLOPACIDAE (sandpipers, snipes, phalaropes)
+Numenius phaeopus -- Whimbrel
+Numenius tenuirostris -- Slender billed Curlew
+Numenius arquata -- Eurasian Curlew
+Limosa lapponica -- Bar tailed Godwit
+Limosa limosa -- Black tailed Godwit
+Arenaria interpres -- Ruddy Turnstone
+Calidris tenuirostris -- Great Knot
+Calidris canutus -- -- Red Knot
+Calidris pugnax -- Ruff
+Calidris falcinellus -- Broad billed Sandpiper
+Calidris ferruginea -- Curlew Sandpiper
+Calidris temminckii -- Temminck's Stint
+Calidris alba -- Sanderling
+Calidris alpina -- Dunlin
+Calidris maritima -- Purple Sandpiper
+Calidris minuta -- Little Stint
+Scolopax rusticola -- Eurasian Woodcock
+Gallinago stenura -- Pintail Snipe
+Gallinago media -- Great Snipe
+Gallinago gallinago -- Common Snipe
+Lymnocryptes minimus -- Jack Snipe
+Phalaropus lobatus -- Red necked Phalarope
+Phalaropus fulicarius -- Red Phalarope
+Xenus cinereus -- Terek Sandpiper
+Actitis hypoleucos -- Common Sandpiper
+Tringa ochropus -- Green Sandpiper
+Tringa erythropus -- Spotted Redshank
+Tringa nebularia -- Common Greenshank
+Tringa totanus -- Common Redshank
+Tringa glareola -- Wood Sandpiper
+Tringa stagnatilis -- Marsh Sandpiper
+Family DROMADIDAE (crab-plover)
+Dromas ardeola -- Crab-plover
+Family GLAREOLIDAE (coursers, pratincoles)
+Glareola pratincola -- Collared Pratincole
+Glareola nordmanni -- Black winged Pratincole
+Glareola ocularis -- Madagascar Pratincole
+Glareola nuchalis -- Rock Pratincole
+Glareola cinerea -- Grey Pratincole
+Family LARIDAE (gulls, terns, skimmers)
+Anous stolidus -- Brown Noddy
+Anous tenuirostris -- Lesser Noddy
+Rynchops flavirostris -- African Skimmer
+Hydrocoloeus minutus -- Little Gull
+Xema sabini -- Sabine’s Gull
+Rissa tridactyla -- Black-legged Kittiwake
+Larus genei -- Slender billed Gull
+Larus ridibundus -- Black-headed Gull
+Larus hartlaubii -- Hartlaub’s Gull
+Larus cirrocephalus -- Grey-headed Gull
+Larus ichthyaetus -- Pallas’s Gull
+Larus melanocephalus -- Mediterranean Gull
+Larus hemprichii -- Sooty Gull
+Larus leucophthalmus -- White-eyed Gull
+Larus audouinii -- Audouin's Gull
+Larus canus -- Mew Gull
+Larus dominicanus -- Kelp Gull
+Larus fuscus -- Lesser Black-backed Gull
+Larus argentatus -- European Herring Gull
+Larus armenicus -- Armenian Gull
+Larus michahellis -- Yellow-legged Gull
+Larus cachinnans -- Caspian Gull
+Larus glaucoides -- Iceland Gull
+Larus hyperboreus -- Glaucous Gull
+Larus marinus -- Great Black-backed Gull
+Onychoprion fuscatus -- Sooty Tern
+Onychoprion anaethetus -- Bridled Tern
+Sternula albifrons -- Little Tern
+Sternula saundersi -- Saunders's Tern
+Sternula balaenarum -- Damara Tern
+Gelochelidon nilotica -- Common Gull billed Tern
+Hydroprogne caspia -- Caspian Tern
+Chlidonias hybrida -- Whiskered Tern
+Chlidonias leucopterus -- White winged Tern
+Chlidonias niger -- Black Tern
+Sterna dougallii -- Roseate Tern
+Sterna hirundo -- Common Tern
+Sterna repressa -- White cheeked Tern
+Sterna paradisaea -- Arctic Tern
+Sterna vittata -- Antarctic Tern
+Thalasseus bengalensis -- Lesser Crested Tern
+Thalasseus sandvicensis -- Sandwich Tern
+Thalasseus maximus -- Royal Tern
+Thalasseus bergii -- Greater Crested Tern
+Family STERCORARIIDAE (skuas)
+Stercorarius longicaudus -- Long-tailed Jaeger
+Catharacta skua -- Great Skua
+Family ALCIDAE (auks)
+Fratercula arctica -- Atlantic Puffin
+Cepphus grylle -- Black Guillemot
+Alca torda -- Razorbill
+Alle alle -- Little Auk
+Uria lomvia -- Thick-billed Murre
+Uria aalge -- Common Murre
+Annex 3
+Table 1 a/
+STATUS OF THE POPULATIONS OF MIGRATORY WATERBIRDS
+KEY TO CLASSIFICATION
+The following key to Table 1 is a basis for implementation of the Action Plan:
+Column A
+Category 1: 
+(a) Species, which are included in Appendix I to the Convention on the Conservation of Migratory species of Wild Animals;
+(b) Species, which are listed as threatened on the IUCN Red list of Threatened Species, as reported in the most recent summary by BirdLife International; or
+(c) Populations, which number less than around 10,000 individuals.
+Category 2: Populations numbering between around 10,000 and around 25,000 individuals.
+Category 3: Populations numbering between around 25,000 and around 100,000 individuals and considered to be at risk as a result of:
+(a) Concentration onto a small number of sites at any stage of their annual cycle;
+(b) Dependence on a habitat type, which is under severe threat;
+(c) Showing significant long-term decline; or
+(d) Showing large fluctuations in population size or trend.
+Category 4: Species, which are listed as Near Threatened on the IUCN Red List of Threatened species, as reported in the most recent summary by BirdLife International, but do not fulfil the conditions in respect of Category 1, 2 or 3, as described above, and which are pertinent for international action.
+For species listed in Categories 2, 3 and 4 above, see paragraph 2.1.1 of the Action Plan contained in Annex 3 to the Agreement.
+Column B
+Category 1: Populations numbering between around 25,000 and around 100,000 individuals and which do not fulfil the conditions in respect of Column A, as described above.
+Category 2: Populations numbering more than around 100,000 individuals, which do not fulfil the conditions in respect of Column A, and considered to be in need of special attention as a result of:
+(a) Concentration onto a small number of sites at any stage of their annual cycle;
+(b) Dependence on a habitat type, which is under severe threat;
+(c) Showing significant long-term decline; or
+(d) Showing large fluctuations in population size or trend.
+Column C
+Category 1: Populations numbering more than around 100,000 individuals which could significantly benefit from international cooperation and which do not fulfil the conditions in respect of either Column A or Column B, above.
+REVIEW OF TABLE 1
+The Table shall be:
+(a) Reviewed regularly by the Technical Committee in accordance with article VII, paragraph 3(b), of the Agreement; and
+(b) Amended as necessary by the Meeting of the Parties, in accordance with article VI, paragraph 9(d) of the Agreement, in light of the conclusions of such reviews.
+DEFINITION OF GEOGRAPHICAL TERMS USED IN RANGE DESCRIPTIONS
+Note that waterbird ranges respect biological, not political, boundaries and that precise alignment of biological and political entities is extremely unusual. The range descriptions used have no political significance and are for general guidance only, and for concise, mapped summaries of waterbird ranges, practitioners should consult the Critical Site Network Tool internet portal:
+http://wow.wetlands.org/informationflyway/criticalsitenetworktool/tabid/...
+North Africa: Algeria, Egypt, Libya, Morocco, Tunisia.
+West Africa: Benin, Burkina Faso, Cameroon, Cabo Verde, Chad, Côte d'Ivoire, the Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo.
+Eastern Africa: Burundi, Djibouti, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Sudan, Uganda, the United Republic of Tanzania.
+North-west Africa: Morocco, Algeria and Tunisia.
+North-east Africa: Djibouti, Egypt, Eritrea, Ethiopia, Somalia, South Sudan, Sudan.
+Southern Africa: Angola, Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Swaziland, Zambia, Zimbabwe.
+Central Africa: Cameroon, Central African Republic, Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Sao Tome and Principe.
+Sub-Saharan Africa: All African states south of the Sahara.
+Tropical Africa: Sub-Saharan Africa excluding Lesotho, Namibia, South Africa and Swaziland.
+Western Palearctic: As defined in Handbook of the Birds of Europe, the Middle East and North Africa (Cramp &amp; Simmons 1977).
+North-west Europe: Belgium, Denmark, Finland, France, Germany, Iceland, Ireland, Luxembourg, the Netherlands, Norway, Sweden, the United Kingdom of Great Britain and Northern Ireland.
+Western Europe: North-west Europe with Portugal and Spain.
+North-east Europe: The northern part of the Russian Federation west of the Urals.
+North Europe: North-west Europe and North-east Europe, as defined above.
+Eastern Europe: Belarus, the Russian Federation west of the Urals, Ukraine.
+Central Europe: Austria, the Czech Republic, Estonia, Germany, Hungary, Latvia, Liechtenstein, Lithuania, Poland, the Russian Federation around the Gulf of Finland and Kaliningrad, Slovakia, Switzerland.
+South-west Europe: Mediterranean France, Italy, Malta, Monaco, Portugal, San Marino, Spain.
+South-east Europe: Albania, Armenia, Bosnia &amp; Herzegovina, Bulgaria, Croatia, Cyprus, Georgia, Greece, FYR Macedonia, Moldova, Montenegro, Romania, Serbia, Slovenia and Turkey.
+South Europe: South-west Europe and South-east Europe, as defined above.
+North Atlantic: Faroes, Greenland, Iceland, Ireland, Norway, the north-west coast of the Russian Federation, Svalbard, the United Kingdom of Great Britain and Northern Ireland.
+East Atlantic: Atlantic seaboard of Europe and North Africa from northern Norway to Morocco.
+Western Siberia: The Russian Federation east of the Urals to the Yenisey River and south to the Kazakhstan border.
+Central Siberia: The Russian Federation from the Yenisey River to the eastern boundary of the Taimyr Peninsula and south to the Altai Mountains.
+West Mediterranean: Algeria, France, Italy, Malta, Monaco, Morocco, Portugal, San Marino, Spain, Tunisia.
+East Mediterranean: Albania, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, Greece, Israel, Lebanon, Libya, Montenegro, Serbia, Slovenia, the Syrian Arab Republic, The Former Yugoslav Republic of Macedonia, Turkey.
+Black Sea: Armenia, Bulgaria, Georgia, Republic of Moldova, Romania, the Russian Federation, Turkey, Ukraine.
+Caspian: Azerbaijan, Islamic Republic of Iran, Kazakhstan, South-west Russia, Turkmenistan, Uzbekistan.
+South-west Asia: Bahrain, Iraq, Islamic Republic of Iran, Israel, Jordan, Kazakhstan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, the Syrian Arab Republic, eastern Turkey, Turkmenistan, the United Arab Emirates, Uzbekistan, Yemen.
+Gulf: the Persian Gulf, Gulf of Oman and Arabian Sea west to the Gulf of Aden.
+Western Asia: Western parts of the Russian Federation east of the Urals and the Caspian countries.
+Central Asia: Afghanistan, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.
+Southern Asia: Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka.
+Indian Ocean: Comoros, Madagascar, Mauritius, Seychelles.
+KEY TO ABBREVIATIONS AND SYMBOLS
+bre: breeding 
+win: wintering
+N: Northern 
+E: Eastern
+S: Southern 
+W: Western
+NE: North-eastern 
+NW: North-western
+SE: South-eastern 
+SW: South-western
+(): Population status unknown. Conservation status estimated.
+*: By way of exception for those populations listed in Categories 2 and 3 in Column A and which are marked by an asterisk, hunting may continue on a sustainable use basis. This sustainable use shall be conducted within the framework of special provisions of an international species action plan, which shall seek to implement the principles of adaptive harvest management (see paragraph 2.1.2 of Annex 3 to the Agreement).
+NOTES
+1. The population data used to compile Table 1 as far as possible correspond to the number of individuals in the potential breeding stock in the Agreement area. The status is based on the best available published population estimates.
+2. Suffixes (bre) or (win) in population listings are solely aids to population identification. They do not indicate seasonal restrictions to actions in respect of these populations under the Agreement and Action Plan.
+3. The brief descriptions used to identify the populations are based on the descriptions used in the most recently published edition of Waterbird Population Estimates.
+4. Slash signs (/) are used to separate breeding areas from wintering areas.
+5. Where a species’ population is listed in Table 1 with multiple categorisations, the obligations of the Action Plan relate to the strictest category listed.
+[Editors note: Populations Chart – see original source document – Chart nor reproducible in text format] 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

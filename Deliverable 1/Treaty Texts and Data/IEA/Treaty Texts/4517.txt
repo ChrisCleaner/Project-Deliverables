@@ -1,0 +1,89 @@
+
+ Amendments To The International Convention For The Safety Of Life At Sea - Adoption of Resolution and Annexes on Ship Reporting Systems for North Atlantic Right Whales off the Northeastern and Southeastern Coasts of the United States   
+     Filename: 1998-AmendmentsWhaling-1974-InternationalConventionSafetyLifeSea.EN.txt 
+ Source: https://iea.uoregon.edu/MarineMammals/engine/Documents/2-0437-0444.html     
+    ﻿Amendment (Adoption of Resolution and Annexes on Ship Reporting Systems for North Atlantic Right Whales off the Northeastern and Southeastern Coasts of the United States) to the International Convention for the Safety of Life at Sea of 1974
+Source: https://iea.uoregon.edu/MarineMammals/engine/Documents/2-0437-0444.html
+RESOLUTION MSC.85(70)
+MANDATORY SHIP REPORTING SYSTEMS
+THE MARITIME SAFETY COMMITTEE,
+RECALLING Article 28(b) of the Convention on the International Maritime Organization concerning the functions of the Committee,
+RECALLING ALSO regulation V/8-1 of the International Convention for the Safety of Life at Sea (SOLAS), 1974 concerning the adoption by the Organization of ship reporting systems,
+RECALLING FURTHER resolution A.858(20) which authorizes the Committee to perform the function of adopting ship reporting systems on behalf of the Organization,
+TAKING INTO ACCOUNT the Guidelines and criteria for ship reporting systems adopted by MSC.43(64),
+HAVING CONSIDERED the recommendations of the Sub-Committee on Safety of Navigation at its forty-fourth session,
+1. ADOPTS, in accordance with SOLAS regulation V/8-1, the mandatory ship reporting systems:
+- Off the northeastern and the southeastern coasts of the United States area described in Annex 1 to the present resolution; and
+- In the Strait of Dover/Pas-de-Calais area described in Annex 2.
+2. DECIDES that the aforementioned mandatory ship reporting systems will enter into force at 0000 hours UTC on 1 July 1999.
+3. REQUESTS the Secretary-General to bring this resolution and its Annexes to the attention of ­Member Governments and Contracting Governments to the 1974 SOLAS Convention.
+ANNEX 1
+DESCRIPTION OF THE MANDATORY SHIP REPORTING SYSTEMS FOR PROTECTION OF ENDANGERED NORTH ATLANTIC RIGHT WHALES IN SEA AREAS OFF THE NORTHEASTERN AND
+SOUTHEASTERN COASTS OF THE UNITED STATES
+1 Categories of ships required to participate in the system
+All ships of 300 gross tonnage or greater are required to participate in the reporting systems, except sovereign immune vessels which are exempt from reporting by regulation V/8-1 (c).
+2 Geographical coverage of the proposed systems and the number and edition of the ­reference chart used for the delineation of the system
+2.1 Northeastern United States: Geographical boundaries of the proposed northeast area include the water of Cape Cod Bay, Massachusetts Bay, and the Great South Channel east and southeast of Massachusetts (Appendix 1). Co-ordinates of the proposed area are as follows: from a point on Cape Ann, Massachusetts at 42°39'.00 N, 70°37'.00 W; then northeast to 42°45'.00 N, 70°13'.00 W; then southeast to 42°10'00 N, 68°31'.00 W; then south to 41°00'.00 N, 68°31'.00 W; then west to 41°00'.00 N, 69°17'.00 W; then northeast to 42°05'.00 N, 70°02'.00 W, then west to 42°04'.00 N, 70°l0'.00 W; and then along the Massachusetts shoreline of Cape Cod Bay and Massachusetts Bay back to the point on Cape Anne at 42°39'.00 N, 70°37'.00 W. NOAA Chart No. 13009.
+2.2 Southeastern United States. Geographical boundaries of the proposed southeast area include coastal waters within about 25 nautical miles along a 90 nautical miles stretch of the Atlantic seaboard in Florida and Georgia (Appendix 2). The area extends from the shoreline east to longitude 80°51'.60 W with the southern and northern boundary at latitudes 30°00'.00 N and 31°27'.00 N, respectively. NOAA Chart No. 11009.
+3 Format, content of report, times and geographical positions for submitting reports, authority to whom the reports should be sent, available services
+3.1 Format
+The format for reporting is as set forth in paragraph 2 of the appendix to resolution A.851(20). An example of a transmission between ship and shore is at Appendix 3.
+3.2 Content
+Ships are required to provide the following information: the name of the ship; call sign or IMO identification number if applicable; position when entering the system; course; speed; route; and destination. Commercially sensitive information received in conjunction with the reporting system shall be kept confidential.
+3.3 Geographical position for submitting reports
+Participating ships are required to report to a shore-based authority only when entering the reporting area during a single voyage (that is, a voyage in which a ship is in the area to visit one or multiple ports or traverse the area before leaving for a port outside the reporting area); ships will not be required to report in again after leaving a port in the area or when exiting the system.
+3.4 Authority
+The authority for both areas of the system is the United States Coast Guard.
+4 Information to be provided to participating ships and procedures to be followed
+Ships will be provided with the following information:
+4.1 Mariners shall be informed that they are entering an area of critical importance for the protection of the highly endangered right whale; that such whales are present; and that ship strikes pose a serious threat to whales and may cause damage to ships. Communication systems between ship and shore are described in paragraphs 7 and 8, below.
+4.2 To obtain seasonal right whale advisories which are broadcast periodically, mariners would also be advised to monitor Coast Guard Broadcast Notice to Mariners, NAVTEX, NOAA Weather Radio, and, in the northeastern ship reporting system area only, the Cape Cod Canal Vessel Traffic Control and the Bay of Fundy Vessel Traffic Control. These advisories are based on surveys that are flown seasonally and in daylight and good weather conditions only. The sighting information may be useful only for brief periods as the whales move and surveys detect a small percentage of the whales present.
+4.3 Mariners would be advised to consult with NAVTEX, Inmarsat-C SafetyNET (satellite text broadcasts), the United States Coast Pilot, Notice to Mariners, the nautical charts for information on the boundaries of the right whale critical habitat and the national marine sanctuary, applicable regulations, and precautionary measures that mariners may take to reduce the risk of hitting right whales. Mariners will further be advised that information placards, videos, and other educational materials are available from shipping agents, port authorities, pilots, relevant state agencies, the Coast Guard, and the National Marine Fisheries Service.
+4.4 In the message back to the ship, mariners would also be requested to report any whale sightings and dead, injured, or entangled marine mammals to the nearest local Coast Guard station.
+4.5 Where available, specific and timely information on whale locations will be provided to ships.
+5 Radio communications required for the system, frequencies on which reports should be transmitted and the information to be reported
+5.1 The reporting system in the northeastern United States will operate independently of the system in the southeastern United States. The system in the northeastern United States will operate year round, and the system in the southeastern United States will operate from 15 November through 15 April.
+5.2 The systems will require ships to report in standard format preferably through Inmarsat-C. For ships using Inmarsat-C, the message will be sent to the shore-based authority described in paragraph 7.1 and a message will be automatically transmitted back to the ship also via Inmarsat-C.
+5.3 Ships not equipped with Inmarsat-C will be required to report in standard format to the shore-based authority described in paragraph 7.2, either through direct-printing telegraphy (Inmarsat A/B, HF, MF or VHF) or by telephony (Inmarsat A/B, MF, HF or VHF). Ships reporting through such direct-printing telegraphy systems will receive a message from the shore-based authority described in paragraph 7.2.
+5.4 The language used for reports in the system will be English, using the IMO Standard Marine Communication Phrases where necessary. Standard phrases in a prescribed format will be used in all direct-printing telegraphy and radiotelephony communications.
+5.5 Commercially sensitive information will be kept confidential.
+5.6 The United States will review the ship reporting systems no later than five years after their implementation date, to examine advances made in ship communication technologies and to ensure effective operation of the systems.
+6 Rules and regulations in force in the areas of the system
+The United States has taken appropriate action to implement international conventions to which it is a party including, where appropriate, adopting domestic legislation and promulgating regulations through domestic law. Relevant laws in force include domestic legislation and regulations to implement the International Convention on Collision Regulations, the Safety of Life at Sea Convention, the International Convention on the Prevention of Pollution from Ships, the International Convention on Oil Pollution, Preparedness, Response and Co-operation, the Convention on the International Trade in Endangered Species of Wild Fauna and Flora, the International Convention for the Regulation of Whaling, and other treaties. Relevant domestic legislation includes the Ports and Waterways Safety Act, the Endangered Species Act, the Whaling Convention Act, the Marine Mammal Protection Act, the Marine Protection Resources and Sanctuaries Act, and a variety of other acts. In some cases, rules have been promulgated including those relating specifically to right whales or governing ship operations. For example, a regulation has been promulgated which prohibits most approaches within 500 yards (460 meters) of a northern right whale. This regulation, as well as other domestic law, is implemented and enforced consistent with international law.
+7 Shore-based facilities to support operation of the system
+7.1 The shore-based authority for those ships reporting via Inmarsat-C is the United States Coast Guard. The e-mail address to be used for this reporting will be provided well in advance of implementation of the systems through Notices to Mariners.
+7.2 The small percentage of ships that do not have Inmarsat-C capabilities will be required to contact the nearest Coast Guard communication station through appropriate communication channels. The United States Coast Guard maintains communication stations along the United States east coast. Information about these stations can be found in the GMDSS Master Plan (GMDSS/Circ.7) or National Imagary and Mapping Agency (NIMA) Publication 117. Information received from the ships will be sent electronically to a central location for data storage, handling, and retrieval.
+8 Alternative communications if the communication facilities of the shore-based authority fails
+Short-term failure of the reporting systems due to communications problems will not result in a loss of life, and will have minimal impact on the safety of vessels. NAVTEX Broadcast Notice to Mariners can be used to notify mariners of the temporary failure of the system and can provide mariners with basic information necessary to avoid right whales. Downtime is likely to be minimal and is not expected to result in increased ship strikes and whale mortality. For those ships reporting through INMARSAT C or direct printing radiotelegraphy, the standard protocol now used for such systems will be used to re-route incoming and outgoing communications through an alternate address and it is expected that this will minimize the system's downtime, though some delay may occur.
+The Coast Guard operated MF, HF, VHF voice communications systems, by design, have built in redundancies and overlapping coverage areas and an individual equipment or site failure are unlikely to affect the ability of a mariner to contact a Coast Guard facility to make a required report.
+Appendix 1
+[MAP omitted - see original source]
+Appendix 2
+[MAP omitted - see original source]
+Appendix 3
+Example of Message from the Ship
+A Ship Name
+B Call Sign or IMO Identification Number
+D Course
+E Speed
+H Entry
+I Destination
+L Route
+Example of Message Back to the Ship
+00016April1999
+From: Shore-based Authority
+To: M/V Ship
+You are entering an area where North Atlantic right whales exist. Right whales are critically endangered and at risk from ship strikes. Whales can damage ships' sonar dome, propeller, and shaft. Recommend monitoring Coast Guard Broadcast Notice to Mariners, NAVTEX, NOAA Weather Radio, or, in the northeast only, Cape Cod Canal Vessel Traffic Control and Bay of Fundy Vessel Traffic Control for latest advisories and sightings reports. These advisories and reports are based on surveys which are conducted seasonally; however, such surveys only locate only a small percentage of the whales, the information from them remains valid only for a short period of time because the whales move, and they cannot be conducted at night or in inclement weather.
+Urge exercising prudent seamanship to avoid approaching right whales. Recommend consulting NAVTEX, Inmarsat-C SafetyNET, the United States Coast Pilot, and Notices to Mariners for information on precautionary measures that may be taken to reduce the risk of hitting right whales and for applicable regulations. Right whale critical habitat and the Stellwagen Bank National Marine Sanctuary are also marked on charts.
+Right whale information placards, videos, and other educational material are available from shipping agents, port authorities, relevant state agencies, the United States Coast Guard, and the National Marine Fisheries Service. Mariners are requested to report right whale sightings, whale entanglements, or dead whales to the Coast Guard on VHF Channel 16. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

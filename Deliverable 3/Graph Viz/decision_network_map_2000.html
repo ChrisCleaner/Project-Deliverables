@@ -1,0 +1,116 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 750px;
+            background-color: #222222;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"font": {"color": "white"}, "id": "Convention On Wetlands Of International Importance Especially As Waterfowl Habitat", "label": "Convention On Wetlands Of International Importance Especially As Waterfowl Habitat", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Convention On Biological Diversity", "label": "Convention On Biological Diversity", "shape": "dot", "size": 8}, {"font": {"color": "white"}, "id": "Paris Agreement under the United Nations Framework Convention on Climate Change", "label": "Paris Agreement under the United Nations Framework Convention on Climate Change", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "United Nations Framework Convention On Climate Change", "label": "United Nations Framework Convention On Climate Change", "shape": "dot", "size": 10}, {"font": {"color": "white"}, "id": "Convention On The Prior Informed Consent Procedure For Certain Hazardous Chemicals And Pesticides In International Trade", "label": "Convention On The Prior Informed Consent Procedure For Certain Hazardous Chemicals And Pesticides In International Trade", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Convention On Persistent Organic Pollutants", "label": "Convention On Persistent Organic Pollutants", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Convention On The Control Of Transboundary Movements Of Hazardous Wastes And Their Disposal", "label": "Convention On The Control Of Transboundary Movements Of Hazardous Wastes And Their Disposal", "shape": "dot", "size": 8}, {"font": {"color": "white"}, "id": "Montreal Protocol On Substances That Deplete The Ozone Layer", "label": "Montreal Protocol On Substances That Deplete The Ozone Layer", "shape": "dot", "size": 12}, {"font": {"color": "white"}, "id": "Convention For The Protection Of The Ozone Layer", "label": "Convention For The Protection Of The Ozone Layer", "shape": "dot", "size": 4}, {"font": {"color": "white"}, "id": "International Treaty On Plant Genetic Resources For Food And Agriculture", "label": "International Treaty On Plant Genetic Resources For Food And Agriculture", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Convention On International Trade In Endangered Species Of Wild Fauna And Flora", "label": "Convention On International Trade In Endangered Species Of Wild Fauna And Flora", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Convention For The Protection Of The World Cultural And Natural Heritage", "label": "Convention For The Protection Of The World Cultural And Natural Heritage", "shape": "dot", "size": 24}, {"font": {"color": "white"}, "id": "International Convention For The Conservation Of Atlantic Tunas", "label": "International Convention For The Conservation Of Atlantic Tunas", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Protocol To Amend The Convention On Wetlands Of International Importance Especially As Waterfowl Habitat", "label": "Protocol To Amend The Convention On Wetlands Of International Importance Especially As Waterfowl Habitat", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Constitution Of The Food And Agriculture Organization Of The United Nations", "label": "Constitution Of The Food And Agriculture Organization Of The United Nations", "shape": "dot", "size": 8}, {"font": {"color": "white"}, "id": "Protocol To The United Nations Framework Convention On Climate Change", "label": "Protocol To The United Nations Framework Convention On Climate Change", "shape": "dot", "size": 6}, {"font": {"color": "white"}, "id": "Protocol On Liability And Compensation For Damage Resulting From Transboundary Movements Of Hazardous Wastes And Their Disposal", "label": "Protocol On Liability And Compensation For Damage Resulting From Transboundary Movements Of Hazardous Wastes And Their Disposal", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "International Plant Protection Convention", "label": "International Plant Protection Convention", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Convention On The Conservation Of Antarctic Marine Living Resources", "label": "Convention On The Conservation Of Antarctic Marine Living Resources", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "European Landscape Convention", "label": "European Landscape Convention", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Convention Concerning The Protection Of The Alps", "label": "Convention Concerning The Protection Of The Alps", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "International Convention On Civil Liability For Oil Pollution Damage", "label": "International Convention On Civil Liability For Oil Pollution Damage", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "International Convention On The Establishment Of An International Fund For Compensation For Oil Pollution Damage", "label": "International Convention On The Establishment Of An International Fund For Compensation For Oil Pollution Damage", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Protocol To The International Convention On Civil Liability For Oil Pollution Damage", "label": "Protocol To The International Convention On Civil Liability For Oil Pollution Damage", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Statutes Of The Intergovernmental Oceanographic Commission", "label": "Statutes Of The Intergovernmental Oceanographic Commission", "shape": "dot", "size": 2}, {"font": {"color": "white"}, "id": "Convention For The Protection Of The Natural Resources And Environment Of The South Pacific Region", "label": "Convention For The Protection Of The Natural Resources And Environment Of The South Pacific Region", "shape": "dot", "size": 2}]);
+        edges = new vis.DataSet([{"arrows": "to", "from": "Convention On Biological Diversity", "to": "Protocol To The United Nations Framework Convention On Climate Change"}, {"arrows": "to", "from": "Convention On Biological Diversity", "to": "United Nations Framework Convention On Climate Change"}, {"arrows": "to", "from": "Convention On Biological Diversity", "to": "Constitution Of The Food And Agriculture Organization Of The United Nations"}, {"arrows": "to", "from": "Convention On Biological Diversity", "to": "International Treaty On Plant Genetic Resources For Food And Agriculture"}, {"arrows": "to", "from": "United Nations Framework Convention On Climate Change", "to": "Constitution Of The Food And Agriculture Organization Of The United Nations"}, {"arrows": "to", "from": "United Nations Framework Convention On Climate Change", "to": "Protocol To The United Nations Framework Convention On Climate Change"}, {"arrows": "to", "from": "Convention On The Control Of Transboundary Movements Of Hazardous Wastes And Their Disposal", "to": "Convention On The Prior Informed Consent Procedure For Certain Hazardous Chemicals And Pesticides In International Trade"}, {"arrows": "to", "from": "Convention On The Control Of Transboundary Movements Of Hazardous Wastes And Their Disposal", "to": "Protocol On Liability And Compensation For Damage Resulting From Transboundary Movements Of Hazardous Wastes And Their Disposal"}, {"arrows": "to", "from": "Convention On The Control Of Transboundary Movements Of Hazardous Wastes And Their Disposal", "to": "Convention On Persistent Organic Pollutants"}, {"arrows": "to", "from": "Convention On The Control Of Transboundary Movements Of Hazardous Wastes And Their Disposal", "to": "Constitution Of The Food And Agriculture Organization Of The United Nations"}, {"arrows": "to", "from": "Montreal Protocol On Substances That Deplete The Ozone Layer", "to": "United Nations Framework Convention On Climate Change"}, {"arrows": "to", "from": "Montreal Protocol On Substances That Deplete The Ozone Layer", "to": "Paris Agreement under the United Nations Framework Convention on Climate Change"}, {"arrows": "to", "from": "Montreal Protocol On Substances That Deplete The Ozone Layer", "to": "Protocol To The United Nations Framework Convention On Climate Change"}, {"arrows": "to", "from": "Montreal Protocol On Substances That Deplete The Ozone Layer", "to": "International Plant Protection Convention"}, {"arrows": "to", "from": "Montreal Protocol On Substances That Deplete The Ozone Layer", "to": "Constitution Of The Food And Agriculture Organization Of The United Nations"}, {"arrows": "to", "from": "Montreal Protocol On Substances That Deplete The Ozone Layer", "to": "Convention For The Protection Of The Ozone Layer"}, {"arrows": "to", "from": "Convention For The Protection Of The Ozone Layer", "to": "United Nations Framework Convention On Climate Change"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "International Convention For The Conservation Of Atlantic Tunas"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "Convention On Wetlands Of International Importance Especially As Waterfowl Habitat"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "Protocol To Amend The Convention On Wetlands Of International Importance Especially As Waterfowl Habitat"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "Convention On The Conservation Of Antarctic Marine Living Resources"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "European Landscape Convention"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "Convention Concerning The Protection Of The Alps"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "International Convention On Civil Liability For Oil Pollution Damage"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "International Convention On The Establishment Of An International Fund For Compensation For Oil Pollution Damage"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "Protocol To The International Convention On Civil Liability For Oil Pollution Damage"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "Statutes Of The Intergovernmental Oceanographic Commission"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "Convention On International Trade In Endangered Species Of Wild Fauna And Flora"}, {"arrows": "to", "from": "Convention For The Protection Of The World Cultural And Natural Heritage", "to": "Convention For The Protection Of The Natural Resources And Environment Of The South Pacific Region"}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.3,
+            "damping": 0.09,
+            "gravitationalConstant": -80000,
+            "springConstant": 0.001,
+            "springLength": 250
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

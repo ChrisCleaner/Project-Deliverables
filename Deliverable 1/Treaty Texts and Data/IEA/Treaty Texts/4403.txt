@@ -1,0 +1,256 @@
+
+ Amendments to the BCH Code To The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2006-AmendmentsBCHCode-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D15760/144%2854%29.pdf     
+    ﻿Amendments To The Code For The Construction And Equipment Of Ships Carrying Dangerous Chemicals In Bulk (BCH Code)
+Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D15760/144%2854%2..., downloaded 20070610
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+RECALLING ALSO resolution MEPC.20(22) by which the Committee adopted the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (BCH Code),
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+CONSIDERING that it is highly desirable for the provisions of the BCH Code which are mandatory under MARPOL 73/78 and recommendatory from a safety standpoint, to remain identical, when adopted by the Marine Environment Protection Committee and the Maritime Safety Committee,
+HAVING CONSIDERED the proposed amendments to the BCH Code,
+1. ADOPTS, in accordance with article 16(2)(b), (c) and (d) of the 1973 Convention, the amendments to the BCH Code, the text of which is set out at the annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments to the BCH Code shall be deemed to have been accepted on 1 February 2007 unless, prior to that date, not less than one-third of the Parties or Parties, the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the amendments to the BCH Code shall enter into force on 1 August 2007 upon their acceptance in accordance with paragraph 2 above;
+4. INVITES ALSO the Maritime Safety Committee to note this resolution and take action as appropriate;
+5. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments to the BCH Code contained in the annex; and
+6. REQUESTS FURTHER the Secretary-General to transmit copies of the present resolution and its annex to the Members of the Organization which are not Parties to MARPOL 73/78.
+ANNEX
+AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+The BCH Code is amended as follows:
+Preamble
+1 The following new paragraph is added:
+"7 The Code has been revised to reflect the 2007 revision of MARPOL Annex II"
+CHAPTER I
+General
+1.1 Purpose
+2 In the second sentence, the words "as defined in regulation 1(1) of Annex II thereof" are deleted and the references to (Pollution Category) "A, B or C" are replaced by "X, Y or Z".
+1.4 Definitions
+3 Paragraph 1.4.16A is replaced by the following:
+"1.4.16A Noxious Liquid Substance means any substance indicated in the Pollution Category column of chapter 17 or 18 of the International Bulk Chemical Code, or the current MEPC.2/Circular or provisionally assessed under the provisions of regulation 6.3 of the amendments to the Annex of the Protocol of 1978 relative to the International Convention for the Prevention of Pollution from Ships, 1973, as falling into Category X, Y or Z."
+4 In paragraph 1.4.16B the existing text is deleted and the word "Deleted" is inserted.
+5 The paragraph number of the definition of "anniversary date" which was adopted as "1.4.16C" by resolution MEPC.41(29) is amended to read "1.4.16D".
+1.7 Effective date
+6 In the second sentence of paragraph 1.7.2, the reference to "regulation 1(12)" is replaced by "regulation 1.17".
+1.8 New products
+7 In the first sentence of paragraph 1.8, the reference to (Pollution Category) "A, B or C" is replaced by "X, Y or Z".
+CHAPTER II
+Cargo Containment
+G - MATERIALS OF CONSTRUCTION
+2.17 General
+8 The existing text is replaced by the following:
+"2.17.1 Structural materials used for tank construction, together with associated piping, pumps, valves, vents and their jointing materials, should be suitable at the temperature and pressure for the cargo to be carried in accordance with recognized standards. Steel is assumed to be the normal material of construction.
+2.17.2 Where applicable, the following should be taken into account in selecting the material of construction:
+.1 notch ductility at the operating temperature;
+.2 corrosive effect of the cargo; and
+.3 possibility of hazardous reactions between the cargo and the material of construction.
+2.17.3 The shipper of the cargo is responsible for providing compatibility information to the ship operator and/or master. This must be done in a timely manner before transportation of the product. The cargo shall be compatible with all materials of construction such that:
+.1 no damage to the integrity of the materials of construction is incurred; and
+.2 no hazardous, or potentially hazardous reaction is created.
+2.17.4 When a product is submitted to IMO for evaluation, and where compatibility of the product with materials referred to in paragraph 2.17 renders special requirements, the GESAMP/EHS Product Data Reporting Form shall provide information on the required materials of construction. These requirements shall be reflected in chapter IV and consequentially be referred to in column o of chapter 17 of the IBC Code. The reporting form shall also indicate if no special requirements are necessary. The producer of the product is responsible for providing the correct information."
+2.18 Additional requirements
+9 In paragraph 2.18, the existing text is deleted and the word "Deleted" is inserted.
+CHAPTER III
+Safety equipment and related considerations
+E - FIRE PROTECTION
+10 After the heading, the following words are inserted:
+"(SOLAS regulations referred to in Part E mean, unless expressly provided otherwise, regulations in chapter II-2 of the International Convention for the Safety of Life at Sea, 1974 and its relevant amendments adopted before by resolution MSC.99(73))".
+3.13 Fire safety arrangements
+11 In paragraph 3.13.3 the existing text is deleted and the word "Deleted" is inserted.
+12 The following new paragraph 3.13.5 is added:
+"3.13.5 The following requirements in SOLAS chapter II-2, as adopted by MSC.99(73), should apply:
+(a) regulations II-2/4.5.10.1.1 and 4.5.10.1.4 and a system for continuous monitoring of the concentration of flammable vapours shall be fitted on ships of 500 tons gross tonnage and over by the date of the first scheduled dry-docking after [the date of entry into force of the amendment], but not later than [3 years after the date of entry into force of the amendment]. Sampling points or detector heads should be located in suitable positions in order that potentially dangerous leakages are readily detected. When the flammable vapour concentration reaches a pre-set level which shall not be higher than 10% of the lower flammable limit, a continuous audible and visual alarm signal shall be automatically effected in the pump-room and cargo control room to alert personnel to the potential hazard. However, existing monitoring systems already fitted having a pre-set level not greater than 30% of the lower flammable limit may be accepted. Notwithstanding the above provisions, the Administration may exempt ships not engaged on international voyages from those requirements;
+(b) regulations 13.3.4.2 to 13.3.4.5 and 13.4.3 should apply to ships of 500 tons gross tonnage and over;
+(c) regulations in Part E of chapter II-2 of SOLAS Convention except regulations 16.3.2.2 and 16.3.2.3 thereof, should apply to ships, regardless of their sizes;
+(d) where deep-fat cooking equipment is newly installed, regulation 10.6.4 should apply; and
+(e) fire-extinguishing systems using Halon 1211, 1301, and 2402 and perfluorocarbons should not be newly installed as prohibited by regulation 10.4.1.3.".
+F - PERSONAL PROTECTION
+13 After the heading, the following words are inserted:
+"(SOLAS regulations referred to in Part F mean, unless expressly provided otherwise, regulations in chapter II-2 of the International Convention for the Safety of Life at Sea, 1974 and its relevant amendments adopted before by resolution MSC.99(73))".
+CHAPTER IV
+Special requirements
+4.12 Materials of construction
+14 In paragraph 4.12, the existing text is deleted and the word "Deleted" is inserted.
+4.15 Cargo contamination
+15 In paragraph 4.15.1, the existing text is deleted and the word "Deleted" is inserted.
+CHAPTER V
+Operational requirements
+5.2 Cargo information
+16 In paragraph 5.2.5, the viscosity figure "25 mPa", which appears twice, is replaced with "50 mPa".
+17 In paragraph 5.2.6, the existing text is deleted and the word "Deleted" is inserted.
+18 In paragraph 5.2.7, the existing text is deleted and the word "Deleted" is inserted.
+CHAPTER VA
+Additional measures for the protection of the marine environment
+19 The existing text is deleted and the word "Deleted" is inserted.
+CHAPTER VI
+Summary of minimum requirements
+20 The IBC/BCH cross-references to the requirements under Materials of construction (column m) and the following cross-references under special requirements (column o) are deleted:
+"IBC Code reference [TAB] BCH Code reference
+15.16.1 [TAB] 4.15.1
+16.2.7 [TAB] 5.2.6
+16.2.8 [TAB] 5.2.7
+16A.2.2 [TAB] 5A.2.2"
+CHAPTER VIII
+Transport of liquid chemical wastes
+21 In paragraph 8.3.2.2 reference to "chapter 19" of the IBC Code is replaced by "chapter 20".
+APPENDIX
+Model form of Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk
+22 The existing form is replaced by the following:
+"MODEL FORM OF CERTIFICATE OF FITNESS FOR THE CARRIAGE OF DANGEROUS CHEMICALS IN BULK
+CERTIFICATE OF FITNESS FOR THE CARRIAGE OF DANGEROUS CHEMICALS IN BULK
+(Official seal)
+Issued under the provisions of the
+CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK
+(resolutions MSC.9(53) and MEPC.20(22), as amended)
+under the authority of the Government of
+(full official designation of country) 
+By
+(full designation of the competent person or organization recognized by the Administration)
+Particulars of ship [1]
+Name of ship
+Distinctive number or letters
+Port of registry
+Gross tonnage
+Ship Type (Code paragraph 2.2.4)
+IMO Number [2]
+Date on which keel was laid or on which the ship was at a similar stage of construction or (in the case of a converted ship) date on which conversion to chemical tanker was commenced
+The ship also complies fully with the following amendments to the Code:
+The ship is exempted from compliance with the following provisions of the Code:
+THIS IS TO CERTIFY:
+1 That the ship has been surveyed in accordance with the provisions of section 1.6 of the Code;
+2 That the survey showed that the construction and equipment of the ship and the condition thereof are in all respects satisfactory and that the ship:
+.1 complies with the relevant provisions of the Code applicable to ships referred to in 1.7.2;
+.2 complies with the relevant provisions of the Code applicable to ships referred to in 1.7.3;
+3 That the ship has been provided with a manual in accordance with Appendix 4 of MARPOL Annex II as called for by regulation 14 of the Annex, and that the arrangements and equipment of the ship prescribed in the Manual are in all respects satisfactory;
+4 That the ship meets the requirements for the carriage in bulk of the following products, provided that all relevant operational provisions of the Code and MARPOL Annex II are observed:
+Product :[TAB]: Conditions of Carriage (tank numbers, etc.) [TAB] Pollution Category
+[Editor's Note: Black Table Removed]
+Continued on attachment 1, additional signed and dated sheets [3]
+Tank numbers referred to in this list are identified on attachment 2, signed and dated tank plan.
+5 That, in accordance with 1.7.3/2.2.53, the provisions of the Code are modified in respect of the ship in the following manner:
+6 That the ship must be loaded:
+.1 in accordance with the loading conditions provided in the approved loading manual, stamped and dated and signed by a responsible officer of the Administration, or of an organization recognized by the Administration [3];
+.2 in accordance with the loading limitations appended to this Certificate [3].
+Where it is required to load the ship other than in accordance with the above instruction, then the necessary calculations to justify the proposed loading conditions should be communicated to the certifying Administration who may authorize in writing the adoption of the proposed loading condition [4].
+This Certificate is valid until [5]
+subject to surveys in accordance with 1.6 of the Code.
+Completion date of the survey on which this certificate is based: (dd/mm/yyyy)
+Issued at (Place of issue of certificate)
+(Date of Issue)
+(Signature of authorized official issuing the certificate)
+(Seal or stamp of the authority, as appropriate)
+Notes on completion of Certificate:
+1 The Certificate can be issued only to ships entitled to fly the flags of States which are a Party to MARPOL 73/78.
+2 Ship Type: Any entry under this column must relate to all relevant recommendations, e.g., an entry "Type 2" should mean Type 2 in all respects prescribed by the Code. This column would not usually apply in the cases of an existing ship and in such a case should be noted "see paragraph 2.2".
+3 Products: Products listed in chapter 17 of the Code, or which have been evaluated by the Administration in accordance with 1.8 of the Code, should be listed. In respect of the latter "new" products, any special requirements provisionally prescribed should be noted.
+4 Products: The list of products the ship is suitable to carry should include the noxious liquid substances of Category Z which are not covered by the Code and should be identified as "chapter 18 Category Z".
+5 deleted
+6 Conditions of carriage: If a Certificate is issued to a ship which is modified in accordance with the provision of regulation 1(12) of MARPOL Annex II the Certificate should indicate in the top of the table of products and conditions of carriage the following statement: "This ship is certificated to carry only pollution hazard chemicals".
+ENDORSEMENT FOR ANNUAL AND INTERMEDIATE SURVEYS
+THIS IS TO CERTIFY that at a survey required by 1.6.2 of the Code the ship was found to comply with the relevant provisions of the Code.
+Annual survey:
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+Annual/Intermediate [3] survey:
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+Annual/Intermediate [3] survey:
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+Annual survey:
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE WITH PARAGRAPH 1.6.6.8.3
+THIS IS TO CERTIFY that, at an annual/intermediate [3] survey in accordance with paragraph 1.6.6.8.3 of the Code, the ship was found to comply with the relevant provisions of the Convention:
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+ENDORSEMENT TO EXTEND THE CERTIFICATE IF VALID FOR LESS THAN 5 YEARS WHERE PARAGRAPH 1.6.6.3 APPLIES
+The ship complies with the relevant provisions of the Convention, and this Certificate shall, in accordance with paragraph 1.6.6.3 of the Code, be accepted as valid until
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+ENDORSEMENT WHERE THE RENEWAL SURVEY HAS BEEN COMPLETED AND PARAGRAPH 1.6.6.4 APPLIES
+The ship complies with the relevant provisions of the Convention, and this Certificate shall, in accordance with paragraph 1.6.6.4 of the Code, be accepted as valid until
+Annual survey:
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE UNTIL REACHING THE PORT OF SURVEY OR FOR A PERIOD OF GRACE WHERE PARAGRAPH 1.6.6.5 OR 1.6.6.6 APPLIES
+This Certificate shall, in accordance with paragraph 1.6.6.5/1.6.6.63 of the Code, be accepted as valid until
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+ENDORSEMENT FOR ADVANCEMENT OF ANNIVERSARY DATE WHERE PARAGRAPH 1.6.6.8 APPLIES
+In accordance with paragraph 1.6.6.8 of the Code, the new anniversary date is
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+In accordance with paragraph 1.6.6.8, the new anniversary date is
+Signed (Signature of duly authorized official)
+Place
+Date (dd/mm/yyyy)
+(Seal or stamp of the Authority, as appropriate)
+ATTACHMENT 1 TO THE CERTIFICATE OF FITNESS FOR THE CARRIAGE OF DANGEROUS CHEMICALS IN BULK
+Continued list of products to those specified in section 3, and their conditions of carriage.
+Products [TAB] Conditions of Carriage (tank numbers, etc.) [TAB] Pollution Category
+[Editor's Note: Blank Table Removed]
+Date (as for Certificate)
+(Signature of official issuing the Certificate and/or seal of issuing authority)
+ATTACHMENT 2 TO THE CERTIFICATE OF FITNESS FOR THE CARRIAGE OF DANGEROUS CHEMICALS IN BULK
+TANK PLAN (specimen)
+Name of ship:
+Distinctive number or letters:
+[Editor's Note: Graphic Removed]
+Date: (as for Certificate)
+(Signature of official issuing the Certificate and/or seal of issuing authority)"
+ANNEX 6
+RESOLUTION MEPC.145(54)
+Adopted on 24 March 2006
+EARLY AND EFFECTIVE APPLICATION OF THE 2006 AMENDMENTS TO THE CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (BCH CODE)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention of the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+RECALLING ALSO resolution MEPC.20(22) by which the Committee adopted the Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (BCH Code),
+HAVING ADOPTED, by resolution MEPC.144(54), the 2006 amendments to the BCH Code,
+NOTING that article 16(2)(f)(iii) of the International Convention for the Prevention of Pollution from Ships, 1973 (the 1973 Convention) provides that the aforesaid amendments to the BCH Code shall be deemed to have been accepted on 1 February 2007, unless, prior to that date, not less than one third of the Parties to MARPOL 73/78 or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objections to the amendments,
+NOTING ALSO that in accordance with article 16(2)(g)(ii) of the 1973 Convention, the aforesaid amendments to the BCH Code, shall enter into force on 1 August 2007 upon their deemed acceptance in accordance with article 16(2)(f)(iii) of the 1973 Convention,
+NOTING IN PARTICULAR that the purpose of the BCH Code is to recommend suitable design criteria, construction standards and other safety measures for ships transporting dangerous and noxious chemical substances in bulk to minimize the risk to the ship, its crew and the environment,
+1. INVITES Parties to MARPOL 73/78 to consider the application of the aforesaid amendments to the BCH Code, as soon as practically possible to ships entitled to fly their flag, taking into account that the revised Annex II of MARPOL 73/78 and the amended International Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk (IBC Code) are expected to enter into force on 1 January 2007;
+2. INVITES ALSO the maritime industry to implement the aforesaid amendments to the BCH Code, as soon as possible taking note of the expected entry into force date of the instruments referred to in paragraph 1 above; and
+3. INVITES FURTHER the Maritime Safety Committee to note this resolution and take action as appropriate.
+ANNEX 7
+UNIFIED INTERPRETATION TO REGULATION 12A OF THE REVISED MARPOL ANNEX I
+In applying regulation 12A of the revised MARPOL Annex I to Column Stabilized Units (MODUs) as defined in the MODU Code, for the purpose of placing the oil fuel tanks, the location limitations of paragraphs 7 and 8 of the regulation apply to those areas subject to damage as follows:
+.1 only those columns, underwater hulls and braces on the periphery of the unit shall be assumed to be damaged and the damage shall be assumed in the exposed portions of the columns, underwater hulls and braces;
+.2 columns and braces shall be assumed to be damaged at any level between 5.0 m above and 3.0 m below the range of draughts in the MODUs operating manual for normal and severe weather operations; and
+.3 underwater hull and footings shall be assumed to be damaged when operating in a transit condition in the same manner as indicated in .1 and .2, having regard to their shape.
+[1] Alternatively, the particulars of the ship may be placed horizontally in boxes.
+[2] In accordance with IMO ship identification number scheme adopted by the Organization by resolution A.600(15).
+[3] Delete as appropriate.
+[4] Instead of being incorporated in the Certificate, this text may be appended to the Certificate if signed and stamped.
+[5] Insert the date of expiry as specified by the Administration in accordance with 1.6.6.1 of the Code. The day and the month of this day correspond to the anniversary date as defined in 1.4.16D of the Code, unless amended in accordance with 1.6.6.8 of the Code. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

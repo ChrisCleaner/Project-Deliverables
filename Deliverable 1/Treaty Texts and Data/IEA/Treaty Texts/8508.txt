@@ -1,0 +1,183 @@
+
+ Amendments to Annex I of the Convention on the Transboundary Effects of Industrial Accidents   
+     Filename: 2014-Amendment-1992-transboundaryeffectindustrialaccidentsentxt 
+ Source: https://treaties.un.org/doc/source/docs/ECE_CP.TEIA_30_Add.1-E.pdf     
+    Amendment to Annex I of the Convention on the Transboundary Effects of Industrial Accidents
+Source: https://treaties.un.org/doc/source/docs/ECE_CP.TEIA_30_Add.1-E.pdf downloaded on 8 December 2017
+[The Amendments were adopted at the eighth meeting of the Conference of the Parties, held in Geneva from 3 to 5 December 2014 and entered into force for all Parties to the Convention on 19 December 2015.]
+Decision 2014/2: Amending annex I to the Convention
+The Conference of the Parties,
+Recognizing the need to update the categories of substances and mixtures and the named substances and their threshold quantities, as contained in annex I to the Convention on the Transboundary Effects of Industrial Accidents, for the purposes of introducing the criteria of the United Nations Globally Harmonized System of Classification and Labelling of Chemicals (ST/SG/AC.10/30/Rev.4) and of maintaining consistency with the corresponding European Union legislation,
+Bearing in mind its decision to undertake a revision of the hazardous substances and their quantities as contained in annex I, and its decision 2004/4 on establishing the Working Group on the Development of the Convention,
+Acknowledging the proposal to amend annex I, drawn up by the Working Group on the basis of a thorough review,
+Amends annex I to the Convention on hazardous substances for the purposes of defining hazardous activities by replacing it with the text set out in the annex to this decision.
+Annex [Ed note: reformatted to present in plain text -- tabs replaced by ........]
+Hazardous substances for the purposes of defining hazardous activities1
+Where a substance or mixture named in Part II also falls within one or more categories in Part I, the threshold quantity given in Part II shall be used.
+For the identification of hazardous activities, Parties shall take into consideration the actual or anticipated hazardous properties and/or quantities of all hazardous substances present or of hazardous substances which it is reasonable to foresee may be generated during loss of control of an activity, including storage activities, within a hazardous activity.
+Part I.
+Categories of substances and mixtures not specifically named in Part II
+Category in accordance with the United Nations Globally Harmonized System (GHS) of Classification and Labelling of Chemicals ......... Threshold quantity (metric tons)
+1. Acute toxic, Category 1, all exposure routes2 ......... 20
+2. Acute toxic:
+Category 2, all exposure routes3 Category 3, inhalation exposure route4 ......... 200
+3. Specific Target Organ Toxicity (STOT) — Single Exposure (SE) STOT, Category 15 ......... 200
+4. Explosives — unstable explosives or explosives, where the substance, mixture or article falls under division 1.1, 1.2, 1.3, 1.5 or 1.6 of chapter 2.1.2 of the GHS criteria or substances or mixtures having explosive properties according to Test series 2 of Part I of the United Nations Recommendations on the Transport of Dangerous Goods:
+Manual of Tests and Criteria (Manual of Tests and Criteria) and do not belong to the hazard classes Organic peroxides or Self-reactive substances and mixtures6,7 ......... 50
+5. Explosives, where the substance, mixture or article falls under division 1.4 of chapter 2.1.2 of the GHS7,8 ......... 200
+6. Flammable gases, Category 1 or 29 ......... 50
+7. Aerosols,10 Category 1 or 2, containing flammable gases Category 1 or 2 or flammable liquids Category 1 ......... 500 (net)
+8. Aerosols,10 Category 1 or 2, not containing flammable gases Category 1 or 2 nor flammable liquids Category 111 ......... 50 000 (net)
+9. Oxidizing gases, category 112 ......... 200
+10. Flammable liquids:
+Flammable liquids, Category 1, or
+Flammable liquids, Category 2 or 3, maintained at a temperature above their boiling point,13 or
+Other liquids with a flash point ≤ 60°C, maintained at a temperature above their boiling point14 ......... 50
+11. Flammable liquids:
+Flammable liquids, Category 2 or 3, where particular processing conditions, such as high pressure or high temperature, may create industrial accident hazards,15 or
+Other liquids with a flash point ≤ 60°C where particular processing conditions, such as high pressure or high temperature, may create industrial accident hazards14 ......... 200
+12. Flammable liquids, Categories 2 or 3, not covered by 10 and 1116 ......... 50 000
+13. Self-reactive substances and mixtures and organic peroxides: Self-reactive substances and mixtures, Type A or B, or Organic peroxides, Type A or B17 ......... 50
+14. Self-reactive substances and mixtures and organic peroxides: Self-reactive substances and mixtures, Type C, D, E or F, or Organic peroxides, Type C, D, E, or F18 ......... 200
+15. Pyrophoric liquids and solids, Category 1 ......... 200
+16. Oxidizing liquids and solids, Category 1, 2 or 3 ......... 200
+17. Hazardous to the aquatic environment, Category Acute 1 or Chronic 119 ......... 200
+18. Hazardous to the aquatic environment, Category Chronic 220 ......... 500
+19. Substances and mixtures which react violently with water, such as acetyl chloride, titanium tetrachloride ......... 500
+20. Substances and mixtures which in contact with water emit flammable gases, Category 121 ......... 500
+21. Substances and mixtures which in contact with water liberate toxic gas (substances and mixtures which in contact with water or damp air evolve gases classified for acute toxicity in category 1, 2 or 3, such as aluminium phosphide or phosphorus pentasulphide) ......... 200
+Part II.
+Named substances ......... Substance ......... Threshold quantity (metric tons)
+1a. Ammonium nitrate22 ......... 10 000
+1b. Ammonium nitrate23 ......... 5 000
+1c. Ammonium nitrate24 ......... 2 500
+1d. Ammonium nitrate25 ......... 50
+2a. Potassium nitrate26 ......... 10 000
+2b. Potassium nitrate27 ......... 5 000
+3. Arsenic pentoxide, arsenic (V) acid and/or salts ......... 2
+4. Arsenic trioxide, arsenious (III) acid and/or salts ......... 0.1
+5. Bromine ......... 100
+6. Chlorine ......... 25
+7. Nickel compounds in inhalable powder form: nickel monoxide, nickel dioxide, nickel sulphide, trinickel disulphide, dinickel trioxide ......... 1
+8. Ethyleneimine ......... 20
+9. Fluorine ......... 20
+10. Formaldehyde (concentration ≥ 90 %) ......... 50
+11. Hydrogen ......... 50
+12. Hydrogen chloride (liquefied gas) ......... 250
+13. Lead alkyls ......... 50
+14. Liquefied flammable gases, Category 1 or 2 (including liquefied petroleum gas) and natural gas28 ......... 200
+15. Acetylene ......... 50
+16. Ethylene oxide ......... 50
+17. Propylene oxide ......... 50
+18. Methanol ......... 5 000
+19. 4, 4′-Methylene bis (2-chloraniline) and/or salts, in powder form ......... 0.01
+20. Methyl isocyanate ......... 0.15
+21. Oxygen ......... 2 000
+22. Toluene diisocyanate (2,4 -Toluene diisocyanate and 2,6 -Toluene diisocyanate) ......... 100
+23. Carbonyl dichloride (phosgene) ......... 0.75
+24. Arsine (arsenic trihydride) ......... 1
+25. Phosphine (phosphorus trihydride) ......... 1
+26. Sulphur dichloride ......... 1
+27. Sulphur trioxide ......... 75
+28. Polychlorodibenzofurans and polychlorodibenzodioxins (including tetrachlorodibenzodioxin (TCDD)), calculated in TCDD equivalent29 ......... 0.001
+29. The following carcinogens or the mixtures containing the following carcinogens at concentrations above 5% by weight:
+4-Aminobiphenyl and/or its salts, Benzotrichloride, Benzidine and/or salts, Bis (chloromethyl) ether, Chloromethyl methyl ether,
+1,2-Dibromoethane, Diethyl sulphate, Dimethyl sulphate, ......... 2
+.........
+Substance ......... Threshold quantity
+(metric tons)
+Dimethylcarbamoyl chloride, 1,2-Dibromo-3-chloropropane, 1,2-Dimethylhydrazine, Dimethylnitrosamine,
+Hexamethylphosphorictriamide, Hydrazine, 2- Naphthylamine and/or salts, 4-Nitrodiphenyl, and 1,3 Propanesultone .........
+30. Petroleum products and alternative fuels:
+(a) Gasolines and naphthas;
+(b) Kerosenes (including jet fuels);
+(c) Gas oils (including diesel fuels, home heating oils and gas oil blending streams);
+(d) Heavy fuel oils;
+(e) Alternative fuels serving the same purposes and with similar properties as regards flammability and environmental hazards as the products referred to in points (a) to (d) ......... 25 000
+31. Anhydrous ammonia ......... 200
+32. Boron trifluoride ......... 20
+33. Hydrogen sulphide ......... 20
+34. Piperidine ......... 200
+35. Bis(2-dimethylaminoethyl) (methyl)amin ......... 200
+36. 3-(2-Ethylhexyloxy)propylamin ......... 200
+37. Mixtures of sodium hypochlorite classified as Aquatic Acute Category 1 [H400] containing &lt; than 5% active chlorine and not classified under any of the other hazard categories in Part 1 of annex I.30 ......... 500
+38. Propylamine31 ......... 2 000
+39. Tert-butyl acrylate31 ......... 500
+40. 2-Methyl-3-butenenitrile31 ......... 2 000
+41. Tetrahydro-3,5-dimethyl-1,3,5,-thiadiazine-2-thione (dazomet)31 ......... 200
+42. Methyl acrylate31 ......... 2 000
+43. 3-Methylpyridine31 ......... 2 000
+44. Bromo-3-chloropropane31 ......... 2 000
+Notes
+1 Criteria according the United Nations Globally Harmonized System (GHS) of Classification and Labelling of Chemicals (ST/SG/AC.10/30/Rev.4). Parties should use these criteria when classifying substances or mixtures for the purposes of Part I of this annex, unless other legally binding criteria have been adopted in the national legislation. Mixtures shall be treated in the same way as the pure substance, provided they remain within concentration limits set according to their properties in accordance with the GHS unless a percentage composition or other description is specifically given.
+2 According to the criteria in chapters 3.1.2 and 3.1.3 of GHS.
+3 According to the criteria in chapters 3.1.2 and 3.1.3 of GHS.
+4 Substances that fall within acute toxic Category 3 via the oral route shall fall under entry 2 acute toxic in those cases where neither acute inhalation toxicity classification nor acute dermal toxicity classification can be derived, for example due to lack of conclusive inhalation and dermal toxicity data.
+5 Substances that have produced significant toxicity in humans, or that, on the basis of evidence from studies in experimental animals can be presumed to have the potential to produce significant toxicity in humans following single exposure. Further guidance is given in figure 3.8.1. and table 3.8.1 of part 3 of GHS.
+6 Testing for explosive properties of substances and mixtures is only necessary if the screening procedure according to appendix 6, part 3, of the Manual of Tests and Criteria identifies the substance or mixture as potentially having explosive properties.
+7 The hazard class Explosives includes explosive articles. If the quantity of the explosive substance or mixture contained in the article is known, that quantity shall be considered for the purposes of this Convention. If the quantity of the explosive substance or mixture contained in the article is not known, then, for the purposes of this Convention, the whole article shall be treated as explosive.
+8 If Explosives of division 1.4 are unpacked or repacked, they shall be assigned to the entry 4 (Explosive), unless the hazard is shown to still correspond to division 1.4, in accordance with GHS.
+9 According to the criteria in chapter 2.2.2 of GHS.
+10 Aerosols are classified according to the criteria in chapter 2.3 of GHS and the Manual of Tests and Criteria, Part III, section 31 referred to therein.
+11 In order to use this entry, it must be documented that the aerosol dispenser does not contain flammable gas Category 1 or 2 nor flammable liquid Category 1.
+12 According to the criteria in chapter 2.4.2 of GHS.
+13 According to the criteria in chapter 2.6.2 of GHS.
+14 Liquids with a flash point of more than 35°C may be regarded as non-flammable liquids for some regulatory purposes (e.g., transport) if negative results have been obtained in sustained combustibility test L.2, in part III, section 32 of the Manual of Tests and Criteria. This is, however, not valid under elevated conditions such as high temperature or pressure, and therefore such liquids are included in this entry.
+15 According to the criteria in chapter 2.6.2 of GHS.
+16 According to the criteria in chapter 2.6.2 of GHS.
+17 According to the criteria in chapters 2.8.2 and 2.15.2.2 of GHS.
+18 According to the criteria in chapters 2.8.2 and 2.15.2.2 of GHS.
+19 According to the criteria in chapter 4.1.2 of GHS.
+20 According to the criteria in chapter 4.1.2 of GHS.
+21 According to the criteria in chapter 2.12.2 of GHS.
+22 Ammonium nitrate (10,000): fertilizers capable of self-sustaining decomposition.
+This applies to ammonium nitrate–based compound/composite fertilizers (compound/composite fertilizers containing ammonium nitrate with phosphate and/or potash), which are capable of self- sustaining decomposition according to the Trough Test (see Manual of Tests and Criteria, part III, subsection 38.2), and in which the nitrogen content as a result of ammonium nitrate is:
+(a) Between 15.75% and 24.5% by weight (15.75% and 24.5% nitrogen content by weight as a result of ammonium nitrate correspond to 45% and 70% ammonium nitrate, respectively) and which either contain not more than 0.4% total combustible/organic materials or fulfil the requirements of an appropriate test of resistance to detonation (e.g., 4-inch-steel-tube test);
+(b) 15.75% by weight or less and unrestricted combustible materials.
+23 Ammonium nitrate (5,000): fertilizer grade.
+This applies to straight ammonium nitrate-based fertilizers and to ammonium nitrate-based compound/composite fertilizers in which the nitrogen content as a result of ammonium nitrate is:
+(a) More than 24.5% by weight, except for mixtures of straight ammonium nitrate-based fertilizers with dolomite, limestone and/or calcium carbonate with a purity of at least 90%;
+(b) More than 15.75% by weight for mixtures of ammonium nitrate and ammonium sulphate;
+(c) More than 28% (28% nitrogen content by weight as a result of ammonium nitrate corresponds to 80% ammonium nitrate) by weight for mixtures of straight ammonium nitrate-based fertilizers with dolomite, limestone and/or calcium carbonate with a purity of at least 90%; and which fulfil the requirements of an appropriate test of resistance to detonation (e.g., 4-inch-steel- tube test).
+24 Ammonium nitrate (2,500): technical grade.
+This applies to:
+(a) Ammonium nitrate and mixtures of ammonium nitrate in which the nitrogen content as a result of ammonium nitrate is:
+(i) Between 24.5% and 28% by weight and which contain not more than 0.4% combustible substances;
+(ii) More than 28% by weight, and which contain not more than 0.2% combustible substances;
+(b) Aqueous ammonium nitrate solutions in which the concentration of ammonium nitrate is more than 80% by weight.
+25 Ammonium nitrate (50): “off-specs” material and fertilizers not fulfilling the requirements of an appropriate test of resistance to detonation (e.g., 4-inch-steel-tube test). This applies to:
+(a) Material rejected during the manufacturing process and to ammonium nitrate and mixtures of ammonium nitrate, straight ammonium nitrate-based fertilizers and ammonium nitrate-based compound/composite fertilizers referred to in notes 23 and 24 that are being or have been returned from the final user to a manufacturer, temporary storage or reprocessing plant for reworking, recycling or treatment for safe use because they no longer comply with the specifications in notes 23 and 24;
+(b) Fertilizers referred to in note 22 (a) and note 23 which do not fulfil the requirements of an appropriate test of resistance to detonation (e.g., 4-inch-steel-tube test).
+26 Potassium nitrate (10,000): composite potassium nitrate-based fertilizers (in prilled/granular form) which have the same properties as pure potassium nitrate.
+27 Potassium nitrate (5,000): composite potassium nitrate-based fertilizers (in crystalline form) which have the same hazardous properties as pure potassium nitrate.
+28 Upgraded biogas: for the purpose of the implementation of the Convention, upgraded biogas may be classified under entry 14 of Part 2 of annex I where it has been processed in accordance with applicable standards for purified and upgraded biogas ensuring a quality equivalent to that of natural gas, including the content of methane, and which has a maximum of 1% oxygen.
+29 Polychlorodibenzofurans and polychlorodibenzodioxins.
+The quantities of polychlorodibenzofurans and polychlorodibenzodioxins are calculated using the following World Health Organization (WHO) human and mammalian toxic equivalency factors (TEF) for dioxins and dioxin-like compounds as re-evaluated in 2005:
+WHO 2005 TEF
+Dioxins ......... TEF ......... Furans ......... TEF
+2,3,7,8-TCDD ......... 1 ......... 2,3,7,8-TCDF ......... 0.1
+1,2,3,7,8-PeCDD ......... 1 ......... 2,3,4,7,8-PeCDF ......... 0.3
+1,2,3,4,7,8-HxCDD ......... 0.1 ......... 1,2,3,7,8-PeCDF ......... 0.03
+1,2,3,6,7,8-HxCDD ......... 0.1 ......... 1,2,3,4,7,8-HxCDF ......... 0.1
+1,2,3,7,8,9-HxCDD ......... 0.1 ......... 1,2,3,7,8,9-HxCDF ......... 0.1
+1,2,3,4,6,7,8-HpCDD ......... 0.01 ......... 2,3,4,6,7,8-HxCDF ......... 0.1
+OCDD ......... 0.0003 ......... 1,2,3,7,8,9-HxCDF ......... 0.1
+......... ......... 1,2,3,4,6,7,8-HpCDF ......... 0.01
+......... ......... 1,2,3,4,7,8,9-HpCDF ......... 0.01
+......... ......... OCDF ......... 0.0003
+Abbreviations: Hx = hexa, Hp = hepta, O = octa, P = penta, T = tetra.
+Reference: Martin Van den Berg and others, “The 2005 World Health Organization Reevaluation of Human and Mammalian Toxic Equivalency Factors for Dioxins and Dioxin-like Compounds”, Toxicological Sciences, vol. 93, No. 2 (October 2006), pp. 223–241.
+30 Provided that the mixture in the absence of sodium hypochlorite would not be classified as aquatic acute, Category 1.
+31 In cases where this dangerous substance falls within the category 10 flammable liquids or category 11 flammable liquids, for the purposes of the Convention the lowest qualifying quantities shall apply.
+/ 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

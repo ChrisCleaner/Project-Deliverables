@@ -1,0 +1,59 @@
+
+ Amendment to Annex IV of the Convention on the Protection of the Rhine against Chemical Pollution (reductions for 1990 of pollution by chloroform)   
+     Filename: 8982-1988-Amendment- 1976-Chemical-1963-RhineCommission-IEA#2858 
+ Source: https://zoek.officielebekendmakingen.nl/trb-1989-7.pdf     
+    Proposition de la Commission internationale pour la protection du Rhin contre la pollution visant à compléter l'annexe IV à la Convention relative à la protection du Rhin contre la pollution chimique, signée à Bonn le 3 décembre 1976
+Source: https://zoek.officielebekendmakingen.nl/trb-1989-7.pdf Downloaded on 20210416
+La Commission internationale pour la Protection du Rhin contre la Pollution,
+se référant à la Convention relative à la protection du Rhin contre la pollution chimique, signée à Bonn le 3 décembre 1976,
+considérant en particulier les articles 3, 4, 5 et 14 de cette Convention,
+propose aux Parties contractantes à la Convention que l'annexe IV à la Convention soit complétée comme suit en ce qui concerne le chloroforme.
+[note: for original table see source document above]
+Substance ou groupe de substances 
+1 
+Chloroforme
+Origine 
+2 
+1. Production de chlorométhanes 
+2. Transformation en chlorofluorocarbones
+Valeur-limite exprimée en concentration maximale d'une substance 
+3 
+1,0 milligrammes par litre d'eau usée 
+Valeur-limite exprimée en quantité maximale d'une substance 
+4 
+10 grammes de chloroforme par tonne de capacité de production de chlorométhanes
+Limite du délai pour les rejets existants
+5 
+1.1.1990
+Observations 
+6 
+(n1), (n2), (n3), (n4), (n5)
+(n6)
+[end of table]
+En cas de besoin, des valeurs-limites pour d'autres secteurs industriels, tels que les établissements de fabrication de vinyle monomère par pyrolyse de dichloroéthane et de production de pâtes à papier blanchies ainsi que les établissements utilisant le chloroforme comme solvant sont proposées par la Commission Internationale à un stade ultérieur. Entre-temps, les Gouvernements fixent de manière autonome, conformément aux articles 3 et 4 de la Convention, des normes d'émission pour le chloroforme. Ces normes doivent tenir compte des meilleurs moyens techniques disponibles et ne doivent pas être moins strictes que la valeur-limite la plus comparable de l'annexe IV.
+Les dispositions de ce paragraphe s'appliquent également lorsqu'un établissement industriel compte des activités autres que celles pour lesquelles des valeurs limites sont fixées dans le tableau ci-dessus et qui sont susceptibles d'être à l'origine de rejets de chloroforme.
+En application des articles 14 et 19 de la Convention, ces dispositions entreront en vigueur après adoption unanime par les Parties contractantes à la Convention.
+Les Parties contractantes notifieront leur adoption au Gouvernement de la Confédération Suisse, qui les informera de la réception de ces déclarations.
+Notes
+(n1) Les valeurs-limites indiquées dans le tableau correspondent aux valeurs maximales de la concentration moyenne mensuelle (valeurs-limites exprimées en concentration) ou à la charge mensuelle rejetée valeurs-limites exprimées en poids).
+Les quantités de chloroforme rejetées sont exprimées en fonction de l'élément caractéristique de l'activité polluante, à savoir, pour le secteur de la production des chlorométhanes la capacité totale de production de chlorométhanes de l'établissement industriel.
+(n2) Dans tous les cas, les valeurs-limites exprimées en concentration maximale ne peuvent être supérieures à celles exprimées en quantités maximales divisées par les besoins en eau rapportés à l'élément caractéristique de l'activité polluante.
+Toutefois, étant donné que la concentration de chloroforme dans les effluents dépend du volume d'eau impliqué, qui diffère selon les différents procédés et établissements, les valeurs-limites, exprimées en quantité de chloroforme rapportée à l'élément caractéristique de l'activité polluante, doivent être respectées dans tous les cas.
+(n3) Les valeurs-limites indiquées dans le tableau ci-dessus se réfèrent à la détermination du chloroforme contenu dans un échantillon de l'ensemble des eaux usées résultant du site de l'installation industrielle.
+Si les eaux usées contenant du chloroforme sont traitées hors de l'établissement industriel dans une installation de traitement destinée à son élimination, les Gouvernements peuvent permettre que les valeurs-limites soient appliquées au point où les eaux usées sortent de l'installation de traitement.
+Compte tenu de la volatilité du chloroforme et en vue d'éviter un transfert de la pollution vers d'autres milieux (air, sol), dans le cas où un procédé faisant appel à une agitation à l'air libre des effluents contenant le chloroforme est utilisé, les Gouvernements exigent le respect des valeurs-limites en amont des installations correspondantes; ils s'assurent que l'ensemble des eaux susceptibles d'être polluées soit bien pris en compte.
+(n4) Les valeurs-limites des moyennes journalières sont égales au double des valeurs-limites des moyennes mensuelles correspondantes figurant dans le tableau.
+(n5) En ce qui concerne les méthodes de mesures, d'analyses et de prélèvement, voir les recommandations de la Commission Internationale du 6 juillet 1988.
+(n6) II n'est pas possible pour le moment d'arrêter des valeurs-limites pour ce secteur. La Commission Internationale proposera à un stade ultérieur de telles valeurs aux Parties contractantes à la Convention.
+(Bruxelles, le 6 juillet 1988) 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

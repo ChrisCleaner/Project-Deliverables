@@ -1,0 +1,757 @@
+
+ Convention On The Regulation Of Antarctic Mineral Resource Activities   
+     Filename: 1988-AntarcticMineralResources.EN.txt 
+ Source: http://sedac.ciesin.org/entri/texts/acrc/cramra.txt.html     
+    ﻿CONVENTION ON THE REGULATION OF ANTARCTIC MINERAL RESOURCE ACTIVITIES
+Source: http://sedac.ciesin.org/entri/texts/acrc/cramra.txt.html, and 27 ILM 868 (1988)
+PREAMBLE
+THE STATES PARTIES TO THIS CONVENTION, hereinafter referred to as the Parties,
+RECALLING the provisions of the Antarctic Treaty;
+CONVINCED that the Antarctic Treaty system has proved effective in promoting international harmony in furtherance of the purposes and principles of the Charter of the United Nations, in ensuring the absence of any measures of a military nature and the protection of the Antarctic environment and in promoting freedom of scientific research in Antarctica;
+REAFFIRMING that it is in the interest of all mankind that the Antarctic Treaty area shall continue forever to be used exclusively for peaceful purposes and shall not become the scene or object of international discord;
+NOTING the possibility that exploitable mineral resources may exist in Antarctica;
+BEARING IN MIND the special legal and political status of Antarctica and the special responsibility of the Antarctic Treaty Consultative Parties to ensure that all activities in Antarctica are consistent with the purposes and principles of the Antarctic Treaty;
+BEARING IN MIND also that a regime for Antarctic mineral resources must be consistent with Article IV of the Antarctic Treaty and in accordance therewith be without prejudice and acceptable to those States which assert rights of or claims to territorial sovereignty in Antarctica, and those States which neither recognise nor assert such rights or claims, including those States which assert a basis of claim to territorial sovereignty in Antarctica;
+NOTING the unique ecological, scientific and wilderness value of Antarctica and the importance of Antarctica to the global environment;
+RECOGNISING that Antarctic mineral resource activities could adversely affect the Antarctic environment or dependent or associated ecosystems;
+BELIEVING that the protection of the Antarctic environment and dependent and associated ecosystems must be a basic consideration in decisions taken on possible Antarctic mineral resource activities;
+CONCERNED to ensure that Antarctic mineral resource activities, should they occur, are compatible with scientific investigation in Antarctica and other legitimate uses of Antarctica;
+BELIEVING that a regime governing Antarctic mineral resource activities will further strengthen the Antarctic Treaty system;
+CONVINCED that participation in Antarctic mineral resource activities should be open to all States which have an interest in such activities and subscribe to a regime governing them and that the special situation of developing country Parties to the regime should be taken into account;
+BELIEVING that the effective regulation of Antarctic mineral resource activities is in the interest of the international community as a whole;
+HAVE AGREED as follows:
+CHAPTER I: GENERAL PROVISIONS
+Article 1
+Definitions
+For the purposes of this Convention:
+1. "Antarctic Treaty" means the Antarctic Treaty done at Washington on 1 December 1959.
+2. "Antarctic Treaty Consultative Parties" means the Contracting Parties to the Antarctic Treaty entitled to appoint representatives to participate in the meetings referred to in Article IX of that Treaty.
+3. "Antarctic Treaty area" means the area to which the provisions of the Antarctic Treaty apply in accordance with Article VI of that Treaty.
+4. "Convention for the Conservation of Antarctic Seals" means the Convention done at London on 1 June 1972.
+5. "Convention on the Conservation of Antarctic Marine Living Resources" means the Convention done at Canberra on 20 May 1980.
+6. "Mineral resources" means all non-living natural non-renewable resources, including fossil fuels, metallic and non-metallic minerals.
+7. "Antarctic mineral resource activities" means prospecting, exploration or development, but does not include scientific research activities within the meaning of Article III of the Antarctic Treaty.
+8. "Prospecting" means activities, including logistic support, aimed at identifying areas of mineral resource potential for possible exploration and development, including geological, geochemical and geophysical investigations and field observations, the use of remote sensing techniques and collection of surface, seafloor and sub-ice samples. Such activities do not include dredging and excavations, except for the purpose of obtaining small-scale samples, or drilling, except shallow drilling into rock and sediment to depths not exceeding 25 metres, or such other depth as the Commission may determine for particular circumstances.
+9. "Exploration" means activities, including logistic support, aimed at identifying and evaluating specific mineral resource occurrences or deposits, including exploratory drilling, dredging and other surface or subsurface excavations required to determine the nature and size of mineral resource deposits and the feasibility of their development, but excluding pilot projects or commercial production.
+10. "Development" means activities, including logistic support, which take place following exploration and are aimed at or associated with exploitation of specific mineral resource deposits, including pilot projects, processing, storage and transport activities.
+11. "Operator" means:
+(a) a Party; or
+(b) an agency or instrumentality of a Party; or
+(c) a juridical person established under the law of a Party; or
+(d) a joint venture consisting exclusively of any combination of any of the foregoing,
+which is undertaking Antarctic mineral resource activities and for which there is a Sponsoring State.
+12. "Sponsoring State" means the Party with which an Operator has a substantial and genuine link, through being:
+(a) in the case of a Party, that Party;
+(b) in the case of an agency or instrumentality of a Party, that Party;
+(c) in the case of a juridical person other than an agency or instrumentality of a Party, the Party:
+(i) under whose law that juridical person is established and to whose law it is subject, without prejudice to any other law which might be applicable, and
+(ii) in whose territory the management of that juridical person is located, and
+(iii) to whose effective control that juridical person is subject;
+(d) in the case of a joint venture not constituting a juridical person:
+(i) where the managing member of the joint venture is a Party or an agency or instrumentality of a Party, that Party; or
+(ii) in any other case, where in relation to a Party the managing member of the joint venture satisfies the requirements of subparagraph (c) above, that Party.
+13. "Managing member of the joint venture" means that member which the participating members in the joint venture have by agreement designated as having responsibility for central management of the joint venture, including the functions of organising and supervising the activities to be undertaken, and controlling the financial resources involved.
+14. "Effective control" means the ability of the Sponsoring State to ensure the availability of substantial resources of the Operator for purposes connected with the implementation of this Convention, through the location of such resources in the territory of the Sponsoring State or otherwise.
+15. "Damage to the Antarctic environment or dependent or associated ecosystems" means any impact on the living or non-living components of that environment or those ecosystems, including harm to atmospheric, marine or terrestrial life, beyond that which is negligible or which has been assessed and judged to be acceptable pursuant to this Convention.
+16. "Commission" means the Antarctic Mineral Resources Commission established pursuant to Article 18.
+17. "Regulatory Committee" means an Antarctic Mineral Resources Regulatory Committee established pursuant to Article 29.
+18. "Advisory Committee" means the Scientific, Technical and Environmental Advisory Committee established pursuant to Article 23.
+19. "Special Meeting of Parties" means the Meeting referred to in Article 28.
+20. "Arbitral Tribunal" means an Arbitral Tribunal constituted as provided for in the Annex, which forms an integral part of this Convention
+Article 2
+Objectives and general principles
+1. This Convention is an integral part of the Antarctic Treaty system, comprising the Antarctic Treaty, the measures in effect under that Treaty, and its associated separate legal instruments, the prime purpose of which is to ensure that Antarctica shall continue forever to be used exclusively for peaceful purposes and shall not become the scene or object of international discord. The Parties provide through this Convention, the principles it establishes, the rules it prescribes, the institutions it creates and the decisions adopted pursuant to it, a means for:
+(a) assessing the possible impact on the environment of Antarctic mineral resource activities;
+(b) determining whether Antarctic mineral resource activities are acceptable;
+(c) governing the conduct of such Antarctic mineral resource activities as may be found acceptable; and
+(d) ensuring that any Antarctic mineral resource activities are undertaken in strict conformity with this Convention.
+2. In implementing this Convention, the Parties shall ensure that Antarctic mineral resource activities, should they occur, take place in a manner consistent with all the components of the Antarctic Treaty system and the obligations flowing therefrom.
+3. In relation to Antarctic mineral resource activities, should they occur, the Parties acknowledge the special responsibility of the Antarctic Treaty Consultative Parties for the protection of the environment and the need to:
+(a) protect the Antarctic environment and dependent and associated ecosystems;
+(b) respect Antarctica's significance for, and influence on, the global environment;
+(c) respect other legitimate uses of Antarctica;
+(d) respect Antarctica's scientific value and aesthetic and wilderness qualities;
+(e) ensure the safety of operations in Antarctica;
+(f) promote opportunities for fair and effective participation of all Parties; and
+(g) take into account the interests of the international community as a whole.
+Article 3
+Prohibition of Antarctic mineral resource activities outside this Convention
+No Antarctic mineral resource activities shall be conducted except in accordance with this Convention and measures in effect pursuant to it and, in the case of exploration or development, with a Management Scheme approved pursuant to Article 48 or 54.
+Article 4
+Principles concerning judgments on Antarctic mineral resource activities
+1. Decisions about Antarctic mineral resource activities shall be based upon information adequate to enable informed judgments to be made about their possible impacts and no such activities shall take place unless this information is available for decisions relevant to those activities.
+2. No Antarctic mineral resource activity shall take place until it is judged, based upon assessment of its possible impacts on the Antarctic environment and on dependent and on associated ecosystems, that the activity in question would not cause:
+(a) significant adverse effects on air and water quality;
+(b) significant changes in atmospheric, terrestrial or marine environments;
+(c) significant changes in the distribution, abundance or productivity of populations of species of fauna or flora;
+(d) further jeopardy to endangered or threatened species or populations of such species; or
+(e) degradation of, or substantial risk to, areas of special biological, scientific, historic, aesthetic or wilderness significance.
+3. No Antarctic mineral resource activity shall take place until it is judged, based upon assessment of its possible impacts, that the activity in question would not cause significant adverse effects on global or regional climate or weather patterns.
+4. No Antarctic mineral resource activity shall take place until it is judged that:
+(a) technology and procedures are available to provide for safe operations and compliance with paragraphs 2 and 3 above;
+(b) there exists the capacity to monitor key environmental parameters and ecosystem components so as to identify any adverse effects of such activity and to provide for the modification of operating procedures as may be necessary in the light of the results of monitoring or increased knowledge of the Antarctic environment or dependent or associated ecosystems; and
+(c) there exists the capacity to respond effectively to accidents, particularly those with potential environmental effects.
+5. The judgments referred to in paragraphs 2, 3 and 4 above shall take into account the cumulative impacts of possible Antarctic mineral resource activities both by themselves and in combination with other such activities and other uses of Antarctica.
+Article 5
+Area of application
+1. This Convention shall, subject to paragraphs 2, 3 and 4 below, apply to the Antarctic Treaty area.
+2. Without prejudice to the responsibilities of the Antarctic Treaty Consultative Parties under the Antarctic Treaty and measures pursuant to it, the Parties agree that this Convention shall regulate Antarctic mineral resource activities which take place on the continent of Antarctica and all Antarctic islands, including all ice shelves, south of 60o south latitude and in the seabed and subsoil of adjacent offshore areas up to the deep seabed.
+3. For the purposes of this Convention "deep seabed" means the seabed and subsoil beyond the geographic extent of the continental shelf as the term continental shelf is defined in accordance with international law.
+4. Nothing in this Article shall be construed as limiting the application of other Articles of this Convention in so far as they relate to possible impacts outside the area referred to in paragraphs 1 and 2 above, including impacts on dependent or on associated ecosystems.
+Article 6
+Cooperation and international participation
+In the implementation of this Convention cooperation within its framework shall be promoted and encouragement given to international participation in Antarctic mineral resource activities by interested Parties which are Antarctic Treaty Consultative Parties and by other interested Parties, in particular, developing countries in either category. Such participation may be realised through the Parties themselves and their Operators.
+Article 7
+Compliance with this Convention
+1. Each Party shall take appropriate measures within its competence to ensure compliance with this Convention and any measures in effect pursuant to it.
+2. If a Party is prevented by the exercise of jurisdiction by another Party from ensuring compliance in accordance with paragraph 1 above, it shall not, to the extent that it is so prevented, bear responsibility for that failure to ensure compliance.
+3. If any jurisdictional dispute related to compliance with this Convention or any measure in effect pursuant to it arises between two or more Parties, the Parties concerned shall immediately consult together with a view to reaching a mutually acceptable solution.
+4. Each Party shall notify the Executive Secretary, for circulation to all other Parties, of the measures taken pursuant to paragraph 1 above.
+5. Each Party shall exert appropriate efforts, consistent with the Charter of the United Nations, to the end that no one engages in any Antarctic mineral resource activities contrary to the objectives and principles of this Convention.
+6. Each Party may, whenever it deems it necessary, draw the attention of the Commission to any activity which in its opinion affects the implementation of the objectives and principles of this Convention.
+7. The Commission shall draw the attention of all Parties to any activity which, in the opinion of the Commission, affects the implementation of the objectives and principles of this Convention or the compliance by any Party with its obligations under this Convention and any measures in effect pursuant to it.
+8. The Commission shall draw the attention of any State which is not a Party to this Convention to any activity undertaken by that State, its agencies or instrumentalities, natural or juridical persons, ships, aircraft or other means of transportation which, in the opinion of the Commission, affects the implementation of the objectives and principles of this Convention. The Commission shall inform all Parties accordingly.
+9. Nothing in this Article shall affect the operation of Article 12(7) of this Convention or Article VIII of the Antarctic Treaty.
+Article 8
+Response action and liability
+1. An Operator undertaking any Antarctic mineral resource activity shall take necessary and timely response action, including prevention, containment, clean up and removal measures, if the activity results in or threatens to result in damage to the Antarctic environment or dependent or associated ecosystems. The Operator, through its Sponsoring State, shall notify the Executive Secretary, for circulation to the relevant institutions of this Convention and to all Parties, of action taken pursuant to this paragraph.
+2. An Operator shall be strictly liable for:
+(a) damage to the Antarctic environment or dependent or associated ecosystems arising from its Antarctic mineral resource activities, including payment in the event that there has been on restoration to the status quo ante ;
+(b) loss of or impairment to an established use, as referred to in Article 15, or loss of or impairment to an established use of dependent or associated ecosystems, arising directly out of damage described in subparagraph (a) above;
+(c) loss of or damage to property of a third party or loss of life or personal injury of a third party arising directly out of damage described in subparagraph (a) above; and
+(d) reimbursement of reasonable costs by whomsoever incurred relating to necessary response action, including prevention, containment, clean up and removal measures, and action taken to restore the status quo ante where Antarctic mineral resource activities undertaken by that Operator result in or threaten to result in damage to the Antarctic environment or dependent or associated ecosystems.
+3. (a) Damage of the kind referred to in paragraph 2 above which would not have occurred or continued if the Sponsoring State had carried out its obligations under this Convention with respect to its Operator shall, in accordance with international law, entail liability of that Sponsoring State. Such liability shall be limited to that portion of liability not satisfied by the Operator or otherwise.
+(b) Nothing in subparagraph (a) above shall affect the application of the rules of international law applicable in the event that damage not referred to in that subparagraph would not have occurred or continued if the Sponsoring State had carried out its obligations under this Convention with respect to its Operator.
+4. An Operator shall not be liable pursuant to paragraph 2 above if it proves that the damage has been caused directly by, and to the extent that it has been caused directly by:
+(a) an event constituting in the circumstances of Antarctica a natural disaster of an exceptional character which could not reasonably have been foreseen; or
+(b) armed conflict, should it occur notwithstanding the Antarctic Treaty, or an act of terrorism directed against the activities of the Operator, against which no reasonable precautionary measures could have been effective.
+5. Liability of an Operator for any loss of life, personal injury or loss of or damage to property other than that governed by this Article shall be regulated by applicable law and procedures.
+6. If an Operator proves that damage has been caused totally or in part by an intentional or grossly negligent act or omission of the party seeking redress, that Operator may be relieved totally or in part from its obligation to pay compensation in respect of the damage suffered by such party.
+7. (a) Further rules and procedures in respect of the provisions on liability set out in this Article shall be elaborated through a separate Protocol which shall be adopted by consensus by the members of the Commission and shall enter into force according to the procedure provided for in Article 62 for the entry into force of this Convention.
+(b) Such rules and procedures shall be designed to enhance the protection of the Antarctic environment and dependent and associated ecosystems.
+(c) Such rules and procedures:
+(i) may contain provisions for appropriate limits on liability, where such limits can be justified;
+(ii) without prejudice to Article 57, shall prescribe means and mechanisms such as a claims tribunal or other fora by which claims against Operators pursuant to this Article may be assessed and adjudicated;
+(iii) shall ensure that a means is provided to assist with immediate response action, and to satisfy liability under paragraph 2 above in the event, inter alia , that an Operator liable is financially incapable of meeting its obligation in full, that it exceeds any relevant limits of liability, that there is a defence to liability or that the loss or damage is of undetermined origin. Unless it is determined during the elaboration of the Protocol that there are other effective means of meeting these objectives, the Protocol shall establish a Fund or Funds and make provision in respect of such Fund or Funds, inter alia , for the following:
+- financing by Operators or on industry wide bases;
+- ensuring the permanent liquidity and mandatory supplementation thereof in the event of insufficiency;
+- reimbursement of costs of response action, by whomsoever incurred.
+8. Nothing in paragraphs 4, 6 and 7 above or in the Protocol adopted pursuant to paragraph 7 shall affect in any way the provisions of paragraph 1 above.
+9. No application for an exploration or development permit shall be made until the Protocol provided for in paragraph 7 above is in force for the Party lodging such application.
+10. Each Party, pending the entry into force for it of the Protocol provided for in paragraph 7 above, shall ensure, consistently with Article 7 and in accordance with its legal system, that recourse is available in its national courts for adjudicating liability claims pursuant to paragraphs 2, 4 and 6 above against Operators which are engaged in prospecting. Such recourse shall include the adjudication of claims against any Operator it has sponsored. Each Party shall also ensure, in accordance with its legal system, that the Commission has the right to appear as a party in its national courts to pursue relevant liability claims under paragraph 2(a) above.
+11. Nothing in this Article or in the Protocol provided for in paragraph 7 above shall be construed so as to:
+(a) preclude the application of existing rules on liability, and the development in accordance with international law of further such rules, which may have application to either States or Operators; or
+(b) affect the right of an Operator incurring liability pursuant to this Article to seek redress from another party which caused or contributed to the damage in question.
+12. When compensation has been paid other than under this Convention liability under this Convention shall be offset by the amount of such payment.
+Article 9
+Protection of legal positions under the Antarctic Treaty
+Nothing in this Convention and no acts or activities taking place while this Convention is in force shall:
+(a) constitute a basis for asserting, supporting or denying a claim to territorial sovereignty in the Antarctic Treaty area or create any rights of sovereignty in the Antarctic Treaty area;
+(b) be interpreted as a renunciation or diminution by any Party of, or as prejudicing, any right or claim or basis of claim to territorial sovereignty in Antarctica or to exercise coastal state jurisdiction under international law;
+(c) be interpreted as prejudicing the position of any Party as regards its recognition or non-recognition of any such right, claim or basis of claim; or
+(d) affect the provision of Article IV(2) of the Antarctic Treaty that no new claim, or enlargement of an existing claim, to territorial sovereignty in Antarctica shall be asserted while the Antarctic Treaty is in force.
+Article 10
+Consistency with the other components of the Antarctic Treaty system
+1. Each Party shall ensure that Antarctic mineral resource activities take place in a manner consistent with the components of the Antarctic Treaty system, including the Antarctic Treaty, the Convention for the Conservation of Antarctic Seals and the Convention on the Conservation of Antarctic Marine Living Resources and the measures in effect pursuant to those instruments.
+2. The Commission shall consult and cooperate with the Antarctic Treaty Consultative Parties, the Contracting Parties to the Convention for the Conservation of Antarctic Seals, and the Commission for the Conservation of Antarctic Marine Living Resources with a view to ensuring the achievement of the objectives and principles of this Convention and avoiding any interference with the achievement of the objectives and principles of the Antarctic Treaty, the Convention for the Conservation of Antarctic Seals or the Convention on the Conservation of Antarctic Marine Living Resources, or inconsistency between the measures in effect pursuant to those instruments and measures in effect pursuant to this Convention.
+Article 11
+Inspection under the Antarctic Treaty
+All stations, installations and equipment, in the Antarctic Treaty area, relating to Antarctic mineral resource activities, as well as ships and aircraft supporting such activities at points of discharging or embarking cargoes or personnel at such stations and installations, shall be open at all times to inspection by observers designated under Article VII of the Antarctic Treaty for the purposes of that Treaty.
+Article 12
+Inspection under this Convention
+1. In order to promote the objectives and principles and to ensure the observance of this Convention and measures in effect pursuant to it, all stations, installations and equipment relating to Antarctic mineral resource activities in the area in which these activities are regulated by this Convention, as well as ships and aircraft supporting such activities at points of discharging or embarking cargoes or personnel anywhere in that area shall be open at all times to inspection by:
+(a) observers designated by any member of the Commission who shall be nationals of that member; and
+(b) observers designated by the Commission or relevant Regulatory Committees.
+2. Aerial inspection may be carried out at any time over the area in which Antarctic mineral resource activities are regulated by this Convention.
+3. The Commission shall maintain an up-to-date list of observers designated pursuant to paragraph 1(a) and (b) above.
+4. Reports from the observers shall be transmitted to the Commission and to any Regulatory Committee having competence in the area where the inspection has been carried out.
+5. Observers shall avoid interference with the safe and normal operations of stations, installations and equipment visited and shall respect measures adopted by the Commission to protect confidentiality of data and information.
+6. Inspections undertaken pursuant to paragraph 1(a) and (b) above shall be compatible and reinforce each other and shall not impose an undue burden on the operation of stations, installations and equipment visited.
+7. In order to facilitate the exercise of their functions under this Convention, and without prejudice to the respective positions of the Parties relating to jurisdiction over all other persons in the area in which Antarctic mineral resource activities are regulated by this Convention, observers designated under this Article shall be subject only to the jurisdiction of the Party of which they are nationals in respect of all acts or omissions occurring while they are in that area for the purpose of exercising their functions.
+8. No exploration or development shall take place in an area identified pursuant to Article 41 until effective provision has been made for inspection in that area.
+Article 13
+Protected areas
+1. Antarctic mineral resource activities shall be prohibited in any area designated as a Specially Protected Area or a Site of Special Scientific Interest under Article IX(1) of the Antarctic Treaty. Such activities shall also be prohibited in any other area designated as a protected area in accordance with Article IX(1) of the Antarctic Treaty, except to the extent that the relevant measure provides otherwise. Pending any designation becoming effective in accordance with Article IX(4) of the Antarctic Treaty, no Antarctic mineral resource activities shall take place in any such area which would prejudice the purpose for which it was designated.
+2. The Commission shall also prohibit or restrict Antarctic mineral resource activities in any area which, for historic, ecological, environmental, scientific or other reasons, it has designated as a protected area.
+3. In exercising its powers under paragraph 2 above or under Article 41 the Commission shall consider whether to restrict or prohibit Antarctic mineral resource activities in any area, in addition to those referred to in paragraph 1 above, protected or set aside pursuant to provisions of other components of the Antarctic Treaty system, to ensure the purposes for which they are designated.
+4. In relation to any area in which Antarctic mineral resource activities are prohibited or restricted in accordance with paragraph 1, 2 or 3 above, the Commission shall consider whether, for the purposes of Article 4(2)(e), it would be prudent, additionally, to prohibit or restrict Antarctic mineral resource activities in adjacent areas for the purpose of creating a buffer zone.
+5. The Commission shall give effect to Article 10(2) in acting pursuant to paragraphs 2, 3 and 4 above.
+6. The Commission shall, where appropriate, bring any decisions it takes pursuant to this Article to the attention of the Antarctic Treaty Consultative Parties, the Contracting Parties to the Convention for the Conservation of Antarctic Seals, the Commission for the Conservation of Antarctic Marine Living Resources and the Scientific Committee on Antarctic Research.
+Article 14
+Non-discrimination
+In the implementation of this Convention there shall be no discrimination against any Party or its Operators.
+Article 15
+Respect for other uses of Antarctica
+1. Decisions about Antarctic mineral resource activities shall take into account the need to respect other established uses of Antarctica, including:
+(a) the operation of stations and their associated installations, support facilities and equipment in Antarctica;
+(b) scientific investigation in Antarctica and cooperation therein;
+(c) the conservation, including rational use, of Antarctic marine living resources;
+(d) tourism;
+(e) the preservation of historic monuments; and
+(f) navigation and aviation,
+that are consistent with the Antarctic Treaty system.
+2. Antarctic mineral resource activities shall be conducted so as to respect any uses of Antarctica as referred to in paragraph 1 above.
+Article 16
+Availability and confidentiality of data and information
+Data and information obtained from Antarctic mineral resource activities shall, to the greatest extent practicable and feasible, be made freely available, provided that:
+(a) as regards data and information of commercial value deriving from prospecting, they may be retained by the Operator in accordance with Article 37;
+(b) as regards data and information deriving from exploration or development, the Commission shall adopt measures relating, as appropriate, to their release and to ensure the confidentiality of data and information of commercial value.
+Article 17
+Notifications and provisional exercise of functions of the Executive Secretary
+1. Where in this Convention there is a reference to the provision of information, a notification or a report to any institution provided for in this Convention and that institution has not been established, the information, notification or report shall be provided to the Executive Secretary who shall circulate it as required.
+2. Where in this Convention a function is assigned to the Executive Secretary and no Executive Secretary has been appointed under Article 33, that function shall be performed by the Depositary.
+CHAPTER II: INSTITUTIONS
+Article 18
+Commission
+1. There is hereby established the Antarctic Mineral Resources Commission.
+2. Membership of the Commission shall be as follows:
+(a) each Party which was an Antarctic Treaty Consultative Party on the date when this Convention was opened for signature; and
+(b) each other Party during such time as it is actively engaged in substantial scientific, technical or environmental research in the area to which this Convention applies directly relevant to decisions about Antarctic mineral resource activities, particularly the assessments and judgments called for in Article 4; and
+(c) each other Party sponsoring Antarctic mineral resource exploration or development during such time as the relevant Management Scheme is in force.
+3. A Party seeking to participate in the work of the Commission pursuant to subparagraph (b) or (c) above shall notify the Depositary of the basis upon which it seeks to become a member of the Commission. In the case of a Party which is not an Antarctic Treaty Consultative Party, such notification shall include a declaration of intent to abide by recommendations pursuant to Article IX(1) of the Antarctic Treaty. The Depositary shall communicate to each member of the Commission such notification and accompanying information.
+4. The Commission shall consider the notification at its next meeting. In the event that a Party referred to in paragraph 2(b) above submitting a notification pursuant to paragraph 3 above is an Antarctic Treaty Consultative Party, it shall be deemed to have satisfied the requirements for Commission membership unless more than one-third of the members of the Commission object at the meeting at which such notification is considered. Any other Party submitting a notification shall be deemed to have satisfied the requirements for Commission membership if no member of the Commission objects at the meeting at which such notification is considered.
+5. Each member of the Commission shall be represented by one representative who may be accompanied by alternate representatives and advisers.
+6. Observer status in the Commission shall be open to any Party and to any Contracting Party to the Antarctic Treaty which is not a Party to this Convention.
+Article 19
+Commission meetings
+1. (a) The first meeting of the Commission, held for the purpose of taking organisational, financial and other decisions necessary for the effective functioning of this Convention and its institutions, shall be convened within six months of the entry into force of this Convention.
+(b) After the Commission has held the meeting or meetings necessary to take the decisions referred to in subparagraph (a) above, the Commission shall not hold further meetings except in accordance with paragraph 2 or 3 below.
+2. Meetings of the Commission shall be held within two months of:
+(a) receipt of a notification pursuant to Article 39;
+(b) a request by at least six members of the Commission; or
+(c) a request by a member of a Regulatory Committee in accordance with Article 49(1).
+3. The Commission may establish a regular schedule of meetings if it determines that it is necessary for the effective functioning of this Convention.
+4. Unless the Commission decides otherwise, its meetings shall be convened by the Executive Secretary.
+Article 20
+Commission procedure
+1. The Commission shall elect from among its members a Chairman and two Vice-Chairmen, each of whom shall be a representative of a different Party.
+2. (a) Until such time as the Commission has established a regular schedule of meetings in accordance with Article 19(3), the Chairman and Vice-Chairmen shall be elected to serve for a period of two years, provided that if no meeting is held during that period they shall continue to serve until the conclusion of the first meeting held thereafter.
+(b) When a regular schedule of meetings has been established, the Chairman and Vice-Chairmen shall be elected to serve for a period of two years.
+3. The Commission shall adopt its rules of procedure. Such rules may include provisions concerning the number of terms of office which the Chairman and Vice-Chairmen may serve and for the rotation of such offices.
+4. The Commission may establish such subsidiary bodies as are necessary for the performance of its functions.
+5. The Commission may decide to establish a permanent headquarters which shall be in New Zealand.
+6. The Commission shall have legal personality and shall enjoy in the territory of each Party such legal capacity as may be necessary to perform its functions and achieve the objectives of this Convention.
+7. The privileges and immunities to be enjoyed by the Commission, the Secretariat and representatives attending meetings in the territory of a Party shall be determined by agreement between the Commission and the Party concerned.
+Article 21
+Functions of the Commission
+1. The functions of the Commission shall be:
+(a) to facilitate and promote the collection and exchange of scientific, technical and other information and research projects necessary to predict, detect and assess the possible environmental impact of Antarctic mineral resource activities, including the monitoring of key environmental parameters and ecosystem components;
+(b) to designate areas in which Antarctic mineral resource activities shall be prohibited or restricted in accordance with Article 13, and to perform the related functions assigned to it in that Article;
+(c) to adopt measures for the protection of the Antarctic environment and dependent and associated ecosystems and for the promotion of safe and effective exploration and development techniques and, as it may deem appropriate, to make available a handbook of such measures;
+(d) to determine, in accordance with Article 41, whether or not to identify an area for possible exploration and development, and to perform the related functions assigned to it in Article 42;
+(e) to adopt measures relating to prospecting applicable to all relevant Operators:
+(i) to determine for particular circumstances maximum drilling depths in accordance with Article 1(8);
+(ii) to restrict or prohibit prospecting consistently with Articles 13, 37 and 38;
+(f) to ensure the effective application of Articles 12(4), 37(7) and (8), 38(2) and 39(2), which require the submission to the Commission of information, notifications and reports;
+(g) to give advance public notice of matters upon which it is requesting the advice of the Advisory Committee;
+(h) to adopt measures relating to the availability and confidentiality of data and information, including measures pursuant to Article 16;
+(i) to elaborate the principle of non-discrimination set forth in Article 14;
+(j) to adopt measures with respect to maximum block sizes;
+(k) to perform the functions assigned to it in Article 29;
+(l) to review action by Regulatory Committees in accordance with Article 49;
+(m) to adopt measures in accordance with Articles 6 and 41(1)(d) related to the promotion of cooperation and to participation in Antarctic mineral resource activities;
+(n) to adopt general measures pursuant to Article 51(6);
+(o) to take decisions on budgetary matters and adopt financial regulations in accordance with Article 35;
+(p) to adopt measures regarding fees payable in connection with notifications submitted pursuant to Articles 37 and 39 and applications lodged pursuant to Articles 44 and 53, the purpose of which fees shall be to cover the administrative costs of handling such notifications and applications;
+(q) to adopt measures regarding levies payable by Operators engaged in exploration and development, the principal purpose of which levies shall be to cover the costs of the institutions of this Convention;
+(r) to determine in accordance with Article 35(7) the disposition of revenues, if any, accruing to the Commission which are surplus to the requirements for financing the budget pursuant to Article 35;
+(s) to perform the functions assigned to it in Article 7(7) and (8);
+(t) to perform the functions relating to inspection assigned to it in Article 12;
+(u) to consider monitoring reports received pursuant to Article 52;
+(v) to perform the functions relating to dispute settlement assigned to it in Article 59;
+(w) to perform the functions relating to consultation and cooperation assigned to it in Articles 10(2) and 34;
+(x) to keep under review the conduct of Antarctic mineral resource activities with a view to safeguarding the protection of the Antarctic environment in the interest of all mankind; and
+(y) to perform such other functions as are provided for elsewhere in this Convention.
+2. In performing its functions the Commission shall seek and take full account of the views of the Advisory Committee provided in accordance with Article 26.
+3. Each measure adopted by the Commission shall specify the date on which it comes into effect.
+4. The Commission shall, subject to Article 16 and measures in effect pursuant to it and paragraph 1(h) above, ensure that a publicly available record of its meetings and decisions and of information, notifications and reports submitted to it is maintained.
+Article 22
+Decision making in the Commission
+1. The Commission shall take decisions on matters of substance by a three-quarters majority of the members present and voting. When a question arises as to whether a matter is one of substance or not, that matter shall be treated as one of substance unless otherwise decided by a three-quarters majority of the members present and voting.
+2. Notwithstanding paragraph 1 above, consensus shall be required for the following:
+(a) the adoption of the budget and decisions on budgetary and related matters pursuant to Article 21(1)(p), (q) and (r) and Article 35(1), (2), (3), (4) and (5);
+(b) decisions taken pursuant to Article 21(1)(i);
+(c) decisions taken pursuant to Article 41(2).
+3. Decisions on matters of procedure shall be taken by a simple majority of the members present and voting.
+4. Nothing in this Article shall be interpreted as preventing the Commission, in taking decisions on matters of substance, from endeavouring to reach a consensus.
+5. For the purposes of this Article, consensus means the absence of a formal objection. If, with respect to any decision covered by paragraph 2(c) above, the Chairman of the Commission determines that there would be such an objection he shall consult the members of the Commission. If, as a result of these consultations, the Chairman determines that an objection would remain, he shall convene those members most directly interested for the purpose of seeking to reconcile the differences and producing a generally acceptable proposal.
+Article 23
+Advisory Committee
+1. There is hereby established the Scientific, Technical and Environmental Advisory Committee.
+2. Membership of the Advisory Committee shall be open to all Parties.
+3. Each member of the Advisory Committee shall be represented by one representative with suitable scientific, technical or environmental competence who may be accompanied by alternate representatives and by experts and advisers.
+4. Observer status in the Advisory Committee shall be open to any Contracting Party to the Antarctic Treaty or to the Convention on the Conservation of Antarctic Marine Living Resources which is not a Party to this Convention.
+Article 24
+Advisory Committee meetings
+1. Unless the Commission decides otherwise, the Advisory Committee shall be convened for its first meeting within six months of the first meeting of the Commission. It shall meet thereafter as necessary to fulfil its functions on the basis of a schedule established by the Commission.
+2. Meetings of the Advisory Committee, in addition to those scheduled pursuant to paragraph 1 above, shall be convened at the request of at least six members of the Commission or pursuant to Article 40(1).
+3. Unless the Commission decides otherwise, the meetings of the Advisory Committee shall be convened by the Executive Secretary.
+Article 25
+Advisory Committee procedure
+1. The Advisory Committee shall elect from among its members a Chairman and two Vice-Chairmen, each of whom shall be a representative of a different Party.
+2. (a) Until such time as the Commission has established a schedule of meetings in accordance with Article 24(1), the Chairman and Vice-Chairmen shall be elected to serve for a period of two years, provided that if no meeting is held during that period they shall continue to serve until the conclusion of the first meeting held thereafter.
+(b) When a schedule of meetings has been established, the Chairman and Vice-Chairmen shall be elected to serve for a period of two years.
+3. The Advisory Committee shall give advance public notice of its meetings and of matters to be considered at each meeting so as to permit the receipt and consideration of views on such matters from international organisations having an interest in them. For this purpose the Advisory Committee may, subject to review by the Commission, establish procedures for the transmission of relevant information to these organisations.
+4. The Advisory Committee shall, by a two-thirds majority of the members present and voting, adopt its rules of procedure. Such rules may include provisions concerning the number of terms of office which the Chairman and Vice-Chairmen may serve and for the rotation of such offices. The rules of procedure and any amendments thereto shall be subject to approval by the Commission.
+5. The Advisory Committee may establish such subcommittees, subject to budgetary approval, as may be necessary for the performance of its functions.
+Article 26
+Functions of the Advisory Committee
+1. The Advisory Committee shall advise the Commission and Regulatory Committees, as required by this Convention, or as requested by them, on the scientific, technical and environmental aspects of Antarctic mineral resource activities. It shall provide a forum for consultation and cooperation concerning the collection, exchange and evaluation of information related to the scientific, technical and environmental aspects of Antarctic mineral resource activities.
+2. It shall provide advice to:
+(a) the Commission relating to its functions under Articles 21(1)(a) to (f), (u) and (x) and 35(7)(a) (in matters relating to scientific research) as well as on the implementation of Article 4; and
+(b) Regulatory Committees with respect to:
+(i) the implementation of Article 4;
+(ii) scientific, technical and environmental aspects of Articles 43(3) and (5), 45, 47, 51, 52 and 54;
+(iii) data to be collected and reported in accordance with Articles 47 and 52; and
+(iv) the scientific, technical and environmental implications of reports and reported data provided in accordance with Articles 47 and 52.
+3. It shall provide advice to the Commission and to Regulatory Committees on:
+(a) criteria in respect of the judgments required under Article 4(2) and (3) for the purposes of Article 4(1);
+(b) types of data and information required to carry out its functions, and how they should be collected, reported and archived;
+(c) scientific research which would contribute to the base of data and information required in subparagraph (b) above;
+(d) effective procedures and systems for data and information analysis, evaluation, presentation and dissemination to facilitate the judgments referred to in Article 4; and
+(e) possibilities for scientific, technical and environmental cooperation amongst interested Parties which are developing countries and other Parties.
+4. The Advisory Committee, in providing advice on decisions to be taken in accordance with Articles 41, 43, 45 and 54 shall, in each case, undertake a comprehensive environmental and technical assessment of the proposed actions. Such assessments shall be based on all information, and any amplifications thereof, available to the Advisory Committee, including the information provided pursuant to Articles 39(2)(e), 44(2)(b)(iii) and 53(2)(b). The assessments of the Advisory Committee shall, in each case, address the nature and scope of the decisions to be taken and shall include consideration, as appropriate, of, inter alia :
+(a) the adequacy of existing information to enable informed judgments to be made;
+(b) the nature, extent, duration and intensity of likely direct environmental impacts resulting from the proposed activity;
+(c) possible indirect impacts;
+(d) means and alternatives by which such direct or indirect impacts might be reduced, including environmental consequences of the alternative of not proceeding;
+(e) cumulative impacts of the proposed activity in the light of existing or planned activities;
+(f) capacity to respond effectively to accidents with potential environmental effects;
+(g) the environmental significance of unavoidable impacts; and
+(h) the probabilities of accidents and their environmental consequences.
+5. In preparing its advice the Advisory Committee may seek information and advice from other scientists and experts or scientific organisations as may be required on an ad hoc basis.
+6. The Advisory Committee shall, with a view to promoting international participation in Antarctic mineral resource activities as provided for in Article 6, provide advice concerning the availability to interested developing country Parties and other Parties, of the information referred to in paragraph 3 above, of training programmes related to scientific, technical and environmental matters bearing on Antarctic mineral resource activities, and of opportunities for cooperation among Parties in these programmes.
+Article 27
+Reporting by the Advisory Committee
+The Advisory Committee shall present a report on each of its meetings to the Commission and to any relevant Regulatory Committee. The report shall cover all matters considered at the meeting and shall reflect the conclusions reached and all the views expressed by members of the Advisory Committee. The report shall be circulated by the Executive Secretary to all Parties, and to observers attending the meeting, and shall thereupon be made publicly available.
+Article 28
+Special Meeting of Parties
+1. A Special Meeting of Parties shall, as required, be convened in accordance with Article 40(2) and shall have the functions, in relation to the identification of an area for possible exploration and development, specified in Article 40(3).
+2. Membership of a Special Meeting of Parties shall be open to all Parties, each of which shall be represented by one representative who may be accompanied by alternate representatives and advisers.
+3. Observer status at a Special Meeting of Parties shall be open to any Contracting Party to the Antarctic Treaty which is not a Party to this Convention.
+4. Each Special Meeting of Parties shall elect from among its members a Chairman and Vice-Chairman, each of whom shall serve for the duration of that meeting. The Chairman and Vice-Chairman shall not be representatives of the same Party.
+5. The Special Meeting of Parties shall, by a two-thirds majority of the members present and voting, adopt its rules of procedure. Until such time as this has been done the Special Meeting of Parties shall apply provisional rules of procedure drawn up by the Commission.
+6. Unless the Commission decides otherwise, a Special Meeting of Parties shall be convened by the Executive Secretary and shall be held at the same venue as the meeting of the Commission convened to consider the identification of an area for possible exploration and development.
+Article 29
+Regulatory committees
+1. An Antarctic Mineral Resources Regulatory Committee shall be established for each area identified by the Commission pursuant to Article 41.
+2. Subject to paragraph 6 below, each Regulatory Committee shall consist of 10 members. Membership shall be determined by the Commission in accordance with this Article and, taking into account Article 9, shall include:
+(a) the member, if any, or if there are more than one, those members of the Commission identified by reference to Article 9(b) which assert rights or claims in the identified area;
+(b) the two members of the Commission also identified by reference to Article 9(b) which assert a basis of claim in Antarctica;
+(c) other members of the Commission determined in accordance with this Article so that the Regulatory Committee shall, subject to paragraph 6 below, consist, in total, of 10 members:
+(i) four members identified by reference to Article 9(b) which assert rights or claims, including the member or members, if any, referred to in subparagraph (a) above; and
+(ii) six members which do not assert rights or claims as described in Article 9(b), including the two members referred to in subparagraph (b) above.
+3. Upon the identification of an area in accordance with Article 41(2), the Chairman of the Commission shall, as soon as possible and in any event within 90 days, make a recommendation to the Commission concerning the membership of the Regulatory Committee. To this end the Chairman shall consult, as appropriate, with the Chairman of the Advisory Committee and all members of the Commission. Such recommendation shall comply with the requirements of paragraphs 2 and 4 of this Article and shall ensure:
+(a) the inclusion of members of the Commission which, whether through prospecting, scientific research or otherwise, have contributed substantial scientific, technical or environmental information relevant to the identification of the area by the Commission pursuant to Article 41;
+(b) adequate and equitable representation of developing country members of the Commission, having regard to the overall balance between developed and developing country members of the Commission, including at least three developing country members of the Commission;
+(c) that account is taken of the value of a rotation of membership of Regulatory Committees as a further means of ensuring equitable representation of members of the Commission.
+4. (a) When there are one or more members of the Regulatory Committee referred to in paragraph 2(a) above, the Chairman of the Commission shall make the recommendation in respect of paragraph 2(c)(i) above upon the nomination, if any, of such member or members which shall take into account paragraph 3 above, in particular subparagraph (b) of that paragraph.
+(b) In making the recommendation in respect of paragraph 2(c)(ii) above, the Chairman of the Commission shall give full weight to the views (which shall take into account paragraph 3 above) which may be presented on behalf of those members of the Commission which do not assert rights of or claims to territorial sovereignty in Antarctica and, with reference to the requirements of paragraph 3(b) above, to the views which may be presented on behalf of the developing countries among them.
+5. The recommendation of the Chairman of the Commission shall be deemed to have been approved by the Commission if it does not decide otherwise at the same meeting as the recommendation is submitted. In taking any decision in accordance with this Article the Commission shall ensure that the requirements of paragraphs 2 and 3 above are complied with and that the nomination, if any, referred to in paragraph 4(a) above is given effect.
+6. (a) If a member of the Commission which has sponsored prospecting in the identified area and submitted the notification pursuant to Article 39 upon which the Commission based its identification of the area pursuant to Article 41, is not a member of the Regulatory Committee by virtue of paragraphs 2 and 3 above, that member of the Commission shall be a member of the Regulatory Committee until such time as an application for an exploration permit is lodged pursuant to Article 44.
+(b) If a Party lodging an application for an exploration permit pursuant to Article 44 is not a member of the Regulatory Committee by virtue of paragraphs 2 and 3 above, that Party shall be a member of the Regulatory Committee for its consideration of that application. Should such application result in approval of a Management Scheme pursuant to Article 48, the Party in question shall remain a member of the Regulatory Committee during such time as that Management Scheme is in force with the right to take part in decisions on matters affecting that Management Scheme.
+7. Nothing in this Article shall be interpreted as affecting Article IV of the Antarctic Treaty.
+Article 30
+Regulatory Committee procedure
+1. The first meeting of each Regulatory Committee shall be convened by the Executive Secretary in accordance with Article 43(1). Each Regulatory Committee shall meet thereafter when and where necessary to fulfil its functions.
+2. Each member of a Regulatory Committee shall be represented by one representative who may be accompanied by alternate representatives and advisers.
+3. Each Regulatory Committee shall elect from among its members a Chairman and Vice-Chairman. The Chairman and Vice-Chairman shall not be representatives of the same Party.
+4. Any Party may attend meetings of a Regulatory Committee as an observer.
+5. Each Regulatory Committee shall adopt its rules of procedure. Such rules may include provisions concerning the period and number of terms of office which the Chairman and Vice-Chairman may serve and for the rotation of such offices.
+Article 31
+Functions of regulatory committees
+1. The functions of each Regulatory Committee shall be:
+(a) to undertake the preparatory work provided for in Article 43;
+(b) to consider applications for exploration and development permits in accordance with Articles 45, 46 and 54;
+(c) to approve Management Schemes and issue exploration and development permits in accordance with Articles 47, 48 and 54;
+(d) to monitor exploration and development activities in accordance with Article 52;
+(e) to perform the functions assigned to it in Article 51;
+(f) to perform the functions relating to inspection assigned to it in Article 12;
+(g) to perform the functions relating to dispute settlement assigned to it in Article 47(r); and
+(h) to perform such other functions as are provided for elsewhere in this Convention.
+2. In performing its functions each Regulatory Committee shall seek and take full account of the views of the Advisory Committee provided in accordance with Article 26.
+3. Each Regulatory Committee shall, subject to Article 16 and measures in effect pursuant to it and Article 21(1)(h), ensure that a publicly available record of its decisions, and of Management Schemes in force, is maintained.
+Article 32
+Decision making in regulatory committees
+1. Decisions by a Regulatory Committee pursuant to Articles 48 and 54(5) shall be taken by a two-thirds majority of the members present and voting, which majority shall include a simple majority of those members present and voting referred to in Article 29(2)(c)(i) and also a simple majority of those members present and voting referred to in Article 29(2)(c)(ii).
+2. Decisions by a Regulatory Committee pursuant to Article 43(3) and (5) shall be taken by a two-thirds majority of the members present and voting, which majority shall include at least half of those members present and voting referred to in Article 29(2)(c)(i) and also at least half of those members present and voting referred to in Article 29(2)(c)(ii).
+3. Decisions on all other matters of substance shall be taken by a two-thirds majority of the members present and voting. When a question arises as to whether a matter is one of substance or not, that matter shall be treated as one of substance unless otherwise decided by a two-thirds majority of the members present and voting.
+4. Decisions on matters of procedure shall be taken by a simple majority of the members present and voting.
+5. Nothing in this Article shall be interpreted as preventing a Regulatory Committee, in taking decisions on matters of substance, from endeavouring to reach a consensus.
+Article 33
+Secretariat
+1. The Commission may establish a Secretariat to serve the Commission, Regulatory Committees, the Advisory Committee, the Special Meeting of Parties and any subsidiary bodies established.
+2. The Commission may appoint an Executive Secretary, who shall be the head of the Secretariat, according to such procedures and on such terms and conditions as the Commission may determine. The Executive Secretary shall serve for a four year term and may be reappointed.
+3. The Commission may, with due regard to the need for efficiency and economy, authorise such staff establishment for the Secretariat as may be necessary. The Executive Secretary shall appoint, direct and supervise the staff according to such rules and procedures and on such terms and conditions as the Commission may determine.
+4. The Secretariat shall perform the functions specified in this Convention and, subject to the approved budget, the tasks entrusted to it by the Commission, Regulatory Committees, the Advisory Committee and the Special Meeting of Parties.
+Article 34
+Cooperation with international organisations
+1. The Commission and, as appropriate, the Advisory Committee shall cooperate with the Antarctic Treaty Consultative Parties, the Contracting Parties to the Convention for the Conservation of Antarctic Seals, the Commission for the Conservation of Antarctic Marine Living Resources, and the Scientific Committee on Antarctic Research.
+2. The Commission shall cooperate with the United Nations, its relevant Specialised Agencies, and, as appropriate, any international organisation which may have competence in respect of mineral resources in areas adjacent to those covered by this Convention.
+3. The Commission shall also, as appropriate, cooperate with the International Union for the Conservation of Nature and Natural Resources, and with other relevant international organisations, including non-governmental organisations, having a scientific, technical or environmental interest in Antarctica.
+4. The Commission may, as appropriate, accord observer status in the Commission and in the Advisory Committee to such relevant international organisations, including non-governmental organisations, as might assist in the work of the institution in question. Observer status at a Special Meeting of Parties shall be open to such organisations as have been accorded observer status in the Commission or the Advisory Committee.
+5. The Commission may enter into agreements with the organisations referred to in this Article.
+Article 35
+Financial provisions
+1. The Commission shall adopt a budget, on an annual or other appropriate basis, for:
+(a) its activities and the activities of Regulatory Committees, the Advisory Committee, the Special Meeting of Parties, any subsidiary bodies established and the Secretariat; and
+(b) the progressive reimbursement of any contributions paid under paragraphs 5 and 6 below whenever revenues under paragraph 4 below exceed expenditure.
+2. The first draft budget shall be submitted by the Depositary at least 90 days before the first meeting of the Commission. At that meeting the Commission shall adopt its first budget and decide upon arrangements for the preparation of subsequent budgets.
+3. The Commission shall adopt financial regulations.
+4. Subject to paragraph 5 below, the budget shall be financed, inter alia , by:
+(a) fees prescribed pursuant to Articles 21(1)(p) and 43(2)(b);
+(b) levies on Operators, subject to any measures adopted by the Commission in accordance with Article 21(1)(q), pursuant to Article 47(k)(i); and
+(c) such other financial payments by Operators pursuant to Article 47(k)(ii) as may be required to be paid to the institutions of this Convention.
+5. If the budget is not fully financed by revenues in accordance with paragraph 4 above, and subject to reimbursement in accordance with paragraph 1(b) above, the budget shall, to the extent of any shortfall and subject to paragraph 6 below, be financed by contributions from the members of the Commission. To this end, the Commission shall adopt as soon as possible a method of equitable sharing of contributions to the budget. The budget shall, in the meantime, to the extent of any shortfall, be financed by equal contributions from each member of the Commission.
+6. In adopting the method of contributions referred to in paragraph 5 above the Commission shall consider the extent to which members of and observers at institutions of this Convention may be called upon to contribute to the costs of those institutions.
+7. The Commission, in determining the disposition of revenues accruing to it, which are surplus to the requirements for financing the budget pursuant to this Article, shall:
+(a) promote scientific research in Antarctica, particularly that related to the Antarctic environment and Antarctic resources, and a wide spread of participation in such research by all Parties, in particular developing country Parties;
+(b) ensure that the interests of the members of Regulatory Committees have the most direct interest in the matter in relation to the areas in question are respected in any disposition of that surplus.
+8. The finances of the Commission, Regulatory Committees, the Advisory Committee, the Special Meeting of Parties, any subsidiary bodies established and the Secretariat shall accord with the financial regulations adopted by the Commission and shall be subject to an annual audit by external auditors selected by the Commission.
+9. Each member of the Commission, Regulatory Committees, the Advisory Committee, the Special Meeting of Parties and any subsidiary bodies established, as well as any observer at a meeting of any of the institutions of this Convention, shall meet its own expenses arising from attendance at meetings.
+10. A member of the Commission that fails to pay its contribution for two consecutive years shall not, during the period of its continuing subsequent default, have the right to participate in the taking of decisions in any of the institutions of this Convention. If it continues to be in default for a further two consecutive years, the Commission shall decide what further action should be taken, which may include loss by that member of the right to participate in meetings of the institutions of this Convention. Such member shall resume the full enjoyment of its rights upon payment of the outstanding contributions.
+11. Nothing in this Article shall be construed as prejudicing the position of any member of a Regulatory Committee on the outcome of consideration by the Regulatory Committee of terms and conditions in a Management Scheme pursuant to Article 47(k)(ii).
+Article 36
+Official and working languages
+The official and working languages of the Commission, Regulatory Committees, the Advisory Committee, the Special Meeting of Parties and any meeting convened under Article 64 shall be English, French, Russian and Spanish.
+CHAPTER III: PROSPECTING
+Article 37
+Prospecting
+1. Prospecting shall not confer upon any Operator any right to Antarctic mineral resources.
+2. Prospecting shall at all times be conducted in compliance with this Convention and with measures in effect pursuant to this Convention, but shall not require authorisation by the institutions of this Convention.
+3. (a) The Sponsoring State shall ensure that its Operators undertaking prospecting maintain the necessary financial and technical means to comply with Article 8(1), and, to the extent that any such Operator fails to take response action as required in Article 8(1), shall ensure that this is undertaken.
+(b) The Sponsoring State shall also ensure that its Operators undertaking prospecting maintain financial capacity, commensurate with the nature and level of the activity undertaken and the risks involved, to comply with Article 8(2).
+4. In cases where more than one Operator is engaged in prospecting in the same general area, the Sponsoring State or States shall ensure that those Operators conduct their activities with due regard to each others' rights.
+5. Where an Operator wishes to conduct prospecting in an area identified under Article 41 in which another Operator has been authorised to undertake exploration or development, the Sponsoring State shall ensure that such prospecting is carried out subject to the rights of any authorised Operator and any requirements to protect its rights specified by the relevant Regulatory Committee.
+6. Each Operator shall ensure upon cessation of prospecting the removal of all installations and equipment and site rehabilitation. On the request of the Sponsoring State, the Commission may waive the obligation to remove installations and equipment.
+7. The Sponsoring State shall notify the Commission at least nine months in advance of the commencement of planned prospecting. The notification shall be accompanied by such fees as may be established by the Commission in accordance with Article 21(1)(p) and shall:
+(a) identify, by reference to coordinates of latitude and longitude or identifiable geographic features, the general area in which the prospecting is to take place;
+(b) broadly identify the mineral resource or resources which are to be the subject of the prospecting;
+(c) describe the prospecting, including the methods to be used, and the general programme of work to be undertaken and its expected duration;
+(d) provide an assessment of the possible environmental and other impacts of the prospecting, taking into account possible cumulative impacts as referred to in Article 4(5);
+(e) describe the measures, including monitoring programmes, to be adopted to avoid harmful environmental consequences or undue interference with other established uses of Antarctica, and outline the measures to be put into effect in the event of any accident and contingency plans for evacuation in an emergency;
+(f) provide details on the Operator and certify that it:
+(i) has a substantial and genuine link with the Sponsoring State as defined in Article 1(12); and
+(ii) is financially and technically qualified to carry out the proposed prospecting in accordance with this Convention; and
+(g) provide such further information as may be required by measures adopted by the Commission.
+8. The Sponsoring State shall subsequently provide to the Commission:
+(a) notification of any changes to the information referred to in paragraph 7 above;
+(b) notification of the cessation of prospecting, including removal of any installations and equipment as well as site rehabilitation; and
+(c) a general annual report on the prospecting undertaken by the Operator.
+9. Notifications and reports submitted pursuant to this Article shall be circulated by the Executive Secretary without delay to all Parties and observers attending Commission meetings.
+10. Paragraphs 7, 8 and 9 above shall not be interpreted as requiring the disclosure of data and information of commercial value.
+11. The Sponsoring State shall ensure that basic data and information of commercial value generated by prospecting are maintained in archives and may at any time release part of or all such data and information, on conditions which it shall establish, for scientific or environmental purposes.
+12. The Sponsoring State shall ensure that basic data and information, other than interpretative data, generated by prospecting are made readily available when such data and information are not, or are no longer, of commercial value and, in any event, no later than 10 years after the year the data and information were collected, unless it certifies to the Commission that the data and information continue to have commercial value. It shall review at regular intervals whether such data and information may be released and shall report the results of such reviews to the Commission.
+13. The Commission may adopt measures consistent with this Article relating to the release of data and information of commercial value including requirements for certifications, the frequency of reviews and maximum time limits for extensions of the protection of such data and information.
+Article 38
+Consideration of prospecting by the Commission
+1. If a member of the Commission considers that a notification submitted in accordance with Article 37(7) or (8), or ongoing prospecting, causes concern as to consistency with this Convention or measures in effect pursuant thereto, that member may request the Sponsoring State to provide a clarification. If that member considers that an adequate response is not forthcoming from the Sponsoring State within a reasonable time, the member may request that the Commission be convened in accordance with Article 19(2)(b) to consider the question and take appropriate action.
+2. If measures applicable to all relevant Operators are adopted by the Commission following a request made in accordance with paragraph 1 above, Sponsoring States that have submitted notifications in accordance with Article 37(7) or (8), and Sponsoring States whose Operators are conducting prospecting, shall ensure that the plans and activities of their Operators are modified to the extent necessary to conform with those measures within such time limit as the Commission may prescribe, and shall notify the Commission accordingly.
+CHAPTER IV: EXPLORATION
+Article 39
+Requests for identification of an area for possible exploration and development
+1. Any Party may submit to the Executive Secretary a notification requesting that the Commission identify an area for possible exploration and development of a particular mineral resource or resources.
+2. Any such notification shall be accompanied by such fees as may be established by the Commission in accordance with Article 21(1)(p) and shall contain:
+(a) a precise delineation, including coordinates, of the area proposed for identification;
+(b) specification of the resource or resources for which the area would be identified and any relevant data and information, excluding data and information of commercial value, concerning that resource or those resources, including a geological description of the proposed area;
+(c) a detailed description of the physical and environmental characteristics of the proposed area;
+(d) a description of the likely scale of exploration and development for the resource or resources involved in the proposed area and of the methods which could be employed in such exploration and development;
+(e) a detailed assessment of the environmental and other impacts of possible exploration and development for the resource or resources involved, taking into account Articles 15 and 26(4); and
+(f) such other information as may be required pursuant to measures adopted by the Commission.
+3. A notification under paragraph 1 above shall be referred promptly by the Executive Secretary to all Parties and shall be circulated to observers attending the meeting of the Commission to be convened pursuant to Article 19(2)(a).
+Article 40
+Action by the Advisory Committee and Special Meeting of Parties
+1. The Advisory Committee shall meet as soon as possible after the meeting of the Commission convened pursuant to Article 19(2)(a) has commenced. The Advisory Committee shall provide advice to the Commission on the notification submitted pursuant to Article 39(1). The Commission may prescribe a time limit for the provision of such advice.
+2. A Special Meeting of Parties shall meet as soon as possible after circulation of the report of the Advisory Committee and in any event not later than two months after that report has been circulated.
+3. The Special Meeting of Parties shall consider whether identification of an area by the Commission in accordance with the request contained in the notification would be consistent with this Convention, and shall report thereon to the Commission as soon as possible and in any event not later than 21 days from the commencement of the meeting.
+4. The report of the Special Meeting of Parties to the Commission shall reflect the conclusions reached and all the views expressed by Parties participating in the meeting.
+Article 41
+Action by the Commission
+1. The Commission shall, as soon as possible after receipt of the report of the Special Meeting of Parties, consider whether or not it will identify an area as requested. Taking full account of the views and giving special weight to the conclusions of the Special Meeting of Parties, and taking full account of the views and the conclusions of the Advisory Committee, the Commission shall determine whether such identification would be consistent with this Convention. For this purpose:
+(a) the Commission shall ensure that an area to be identified shall be such that, taking into account all factors relevant to such identification, including the physical, geological, environmental and other characteristics of such area, it forms a coherent unit for the purposes of resource management. The Commission shall thus consider whether an area to be identified should include all or part of that which was requested in the notification and, subject to the necessary assessments having been made, adjacent areas not covered by that notification;
+(b) the Commission shall consider whether there are, within an area requested or to be identified, any areas in which exploration and development are or should be prohibited or restricted in accordance with Article 13;
+(c) the Commission shall specify the mineral resource or resources for which the area would be identified;
+(d) the Commission shall give effect to Article 6, by elaborating opportunities for joint ventures or different forms of participation, up to a defined level, including procedures for offering such participation, in possible exploration and development, within the area, by interested Parties which are Antarctic Treaty Consultative Parties and by other interested Parties, in particular, developing countries in either category;
+(e) the Commission shall prescribe any additional associated conditions necessary to ensure that an area to be identified is consistent with other provisions of this Convention and may prescribe general guidelines relating to the operational requirements for exploration and development in an area to be identified including measures establishing maximum block sizes and advice concerning related support activities; and
+(f) the Commission shall give effect to the requirement in Article 59 to establish additional procedures for the settlement of disputes.
+2. After it has completed its consideration in accordance with paragraph 1 above, the Commission shall identify an area for possible exploration and development if there is a consensus of Commission members that such identification is consistent with this Convention.
+Article 42
+Revision in the scope of an identified area
+1. If, after an area has been identified in accordance with Article 41, a Party requests identification of an area, all or part of which is contained within the boundaries of the area already identified but in respect of a mineral resource or resources different from any resource in respect of which the area has already been identified, the request shall be dealt with in accordance with Articles 39, 40 and 41. Should the Commission identify an area in respect of such different mineral resource or resources, it shall have regard, in addition to the requirements of Article 41(1)(a), to the desirability of specifying the boundaries of the area in such a way that it can be assigned to the Regulatory Committee with competence for the area already identified.
+2. In the light of increased knowledge bearing on the effective management of the area, and after seeking the views of the Advisory Committee and the relevant Regulatory Committee, the Commission may amend the boundaries of any area it has identified. In making any such amendment the Commission shall ensure that authorised exploration and development in the area are not adversely affected. Unless there are compelling reasons for doing so, the Commission shall not amend the boundaries of an area it has identified in such a way as to involve a change in the composition of the relevant Regulatory Committee.
+Article 43
+Preparatory work by regulatory committees
+1. As soon as possible after the identification of an area pursuant to Article 41, the relevant Regulatory Committee established in accordance with Article 29 shall be convened.
+2. The Regulatory Committee shall:
+(a) subject to any measures adopted by the Commission pursuant to Article 21(1)(j) relating to maximum block sizes, divide its area of competence into blocks in respect of which applications for exploration and development may be submitted and make provision for a limit in appropriate circumstances on the number of blocks to be accorded by any Party;
+(b) subject to any measures adopted by the Commission pursuant to Article 21(1)(p), establish fees to be paid with any application for an exploration or development permit lodged pursuant to Article 44 or 53;
+(c) establish periods within which applications for exploration and development may be lodged, all applications received within each such period being considered as simultaneous;
+(d) establish procedures for the handling of applications; and
+(e) determine a method of resolving competing applications which are not resolved in accordance with Article 45(4)(a), which method shall, provided that all other requirements of this Convention are satisfied and consistently with measures adopted pursuant to Article 41(1)(d), include priority for the application with the broadest participation among interested Parties which are Antarctic Treaty Consultative Parties and other interested Parties, in particular, developing countries in either category.
+3. The Regulatory Committee shall adopt guidelines which are consistent with, and which taken together with, the provisions of this Convention and measures of general applicability adopted by the Commission, as well as associated conditions and general guidelines adopted by the Commission when identifying the area, shall, by addressing the relevant items in Article 47, identify the general requirements for exploration and development in its area of competence.
+4. Upon adoption of guidelines under paragraph 3 above the Executive Secretary shall, without delay, inform all members of the Commission of the decisions taken by the Regulatory Committee pursuant to paragraphs 2 and 3 above and shall make them publicly available together with relevant measures, associated conditions and general guidelines adopted by the Commission.
+5. The Regulatory Committee may from time to time revise guidelines adopted under paragraph 3 above, taking into account any views of the Commission.
+6. In performing its functions under paragraphs 3 and 5 above, the Regulatory Committee shall seek and take full account of the views of the Advisory Committee provided in accordance with Article 26.
+Article 44
+Application for an exploration permit
+1. Following completion of the work undertaken pursuant to Article 43, any Party, on behalf of an Operator for which it is the Sponsoring State, may lodge with the Regulatory Committee an application for an exploration permit within the periods established by the Regulatory Committee pursuant to Article 43(2)(c).
+2. An application shall be accompanied by the fees established by the Regulatory Committee in accordance with Article 43(2)(b) and shall contain:
+(a) a detailed description of the Operator, including its managerial structure, financial composition and resources and technical expertise, and, in the case of an Operator being a joint venture, the inclusion of a detailed description of the degree to which Parties are involved in the Operator through, inter alia , juridical persons with which Parties have substantial and genuine links, so that each component of the joint venture can be easily attributed to a Party or Parties for the purposes of identifying the level of Antarctic mineral resource activities thereof, which description of substantial and genuine links shall include a description of equity sharing;
+(b) a detailed description of the proposed exploration activities and a description in as much detail as possible of proposed development activities, including:
+(i) an identification of the mineral resource or resources and the block to which the application applies;
+(ii) a detailed explanation of how the proposed activities conform with the general requirements referred to in Article 43(3);
+(iii) a detailed assessment of the environmental and other impacts of the proposed activities, taking into account Articles 15 and 26(4); and
+(iv) a description of the capacity to respond effectively to accidents, especially those with potential environmental effects;
+(c) a certification by the Sponsoring State of the capacity of the Operator to comply with the general requirements referred to in Article 43(3);
+(d) a certification by the Sponsoring State of the technical competence and financial capacity of the Operator and that the Operator has a substantial and genuine link with it as defined in Article 1(12);
+(e) a description of the manner in which the application complies with any measures adopted by the Commission pursuant to Article 41(1)(d); and
+(f) such further information as may be required by the Regulatory Committee or in measures adopted by the Commission.
+Article 45
+Examination of applications
+1. The Regulatory Committee shall meet as soon as possible after an application has been lodged pursuant to Article 44, for the purpose of elaborating a Management Scheme. In performing this function it shall:
+(a) determine whether the application contains sufficient or adequate information pursuant to Article 44(2). To this end, it may at any time seek further information from the Sponsoring State consistent with Article 44(2);
+(b) consider the exploration and development activities proposed in the application, and such elaborations, revisions or adaptations as necessary:
+(i) to ensure their consistency with this Convention as well as measures in effect pursuant thereto and the general requirements referred to in Article 43(3); and
+(ii) to prescribe the specific terms and conditions of a Management Scheme in accordance with Article 47.
+2. At any time during the process of consideration described above, the Regulatory Committee may decline the application if it considers that the activities proposed therein cannot be elaborated, revised or adapted to ensure consistency with this Convention as well as measures in effect pursuant thereto and the general requirements referred to in Article 43(3).
+3. In performing its functions under this Article, the Regulatory Committee shall seek and take full account of the views of the Advisory Committee. To that end the Regulatory Committee shall refer to the Advisory Committee all parts of the application which are necessary for it to provide advice pursuant to Article 26, together with any other relevant information.
+4. If two or more applications meeting the requirements of Article 44(2) are lodged in respect of the same block:
+(a) the competing applicants shall be invited by the Regulatory Committee to resolve the competition amongst themselves, by means of their own choice within a prescribed period;
+(b) if the competition is not resolved pursuant to subparagraph (a) above it shall be resolved by the Regulatory Committee in accordance with the method determined by it pursuant to Article 43(2)(e).
+Article 46
+Management Scheme
+In performing its functions under Article 45, including the preparation of a Management Scheme, and under Article 54, the Regulatory Committee shall have recourse to the Sponsoring State and the member or members, if any, referred to in Article 39(2)(a) and, as may be required, one or two additional members of the Regulatory Committee.
+Article 47
+Scope of the Management Scheme
+The Management Scheme shall prescribe the specific terms and conditions for exploration and development of the mineral resource or resources concerned within the relevant block. Such terms and conditions shall be consistent with the general requirements referred to in Article 43(3), and shall cover, inter alia :
+(a) duration of exploration and development permits;
+(b) measures and procedures for the protection of the Antarctic environment and dependent and associated ecosystems, including methods, activities and undertakings by the Operator to minimise environmental risks and damage;
+(c) provision for necessary and timely response action, including prevention, containment and clean up and removal measures, for restoration to the status quo ante , and for contingency plans, resources and equipment to enable such action to be taken;
+(d) procedures for the implementation of different stages of exploration and development;
+(e) performance requirements;
+(f) technical and safety specifications, including standards and procedures to ensure safe operations;
+(g) monitoring and inspection;
+(h) liability;
+(i) procedures for the development of mineral deposits which extend outside the area covered by a permit;
+(j) resource conservation requirements;
+(k) financial obligations of the Operator including:
+(i) levies in accordance with measures adopted pursuant to Article 21(1)(q);
+(ii) payments in the nature of and similar to taxes, royalties or payments in kind;
+(l) financial guarantees and insurance;
+(m) assignment and relinquishment;
+(n) suspension and modification of the Management Scheme, or cancellation of the Management Scheme, exploration or development permit, and the imposition of monetary penalties, in accordance with Article 51;
+(o) procedures for agreed modifications;
+(p) enforcement of the Management Scheme;
+(q) applicable law to the extent necessary;
+(r) effective additional procedures for the settlement of disputes;
+(s) provisions to avoid and to resolve conflict with other legitimate uses of Antarctica;
+(t) data and information collection, reporting and notification requirements;
+(u) confidentiality; and
+(v) removal of installations and equipment, as well as site rehabilitation.
+Article 48
+Approval of the Management Scheme
+A Management Scheme prepared in accordance with Articles 45, 46 and 47 shall be subject to approval pursuant to Article 32. Such approval shall constitute authorisation for the issue without delay of an exploration permit by the Regulatory Committee. The exploration permit shall accord exclusive rights to the Operator to explore and, subject to Articles 53 and 54, to develop the mineral resource or resources which are the subject of the Management Scheme exclusively in accordance with the terms and conditions of the Management Scheme.
+Article 49
+Review
+1. Any member of the Commission, or any member of a Regulatory Committee, may within one month of a decision by that Regulatory Committee to approve a Management Scheme or issue a development permit, request that the Commission be convened in accordance with Article 19(2)(b) or (c), as the case may be, to review the decision of the Regulatory Committee for consistency with the decision taken by the Commission to identify the area pursuant to Article 41 and any measures in effect relevant to that decision.
+2. The Commission shall complete its consideration within three months of a request made pursuant to paragraph 1 above. In performing its functions the Commission shall not assume the functions of the Regulatory Committee, nor shall it substitute its discretion for that of the Regulatory Committee.
+3. Should the Commission determine that a decision to approve a Management Scheme or issue a development permit is inconsistent with the decision taken by the Commission to identify the area pursuant to Article 41 and any measures in effect relevant to that decision, it may request that Regulatory Committee to reconsider its decision.
+Article 50
+Rights of authorised operators
+1. No Management Scheme shall be suspended or modified and no Management Scheme, exploration or development permit shall be cancelled without the consent of the Sponsoring State except pursuant to Article 51, or Article 54 or the Management Scheme itself.
+2. Each Operator authorised to conduct activities pursuant to a Management Scheme shall exercise its rights with due regard to the rights of other Operators undertaking exploration or development in the same identified area.
+Article 51
+Suspension, modification or cancellation of the Management Scheme and monetary penalties
+1. If a Regulatory Committee determines that exploration or development authorised pursuant to a Management Scheme has resulted or is about to result in impacts on the Antarctic environment or dependent or associated ecosystems beyond those judged acceptable pursuant to this Convention, it shall suspend the relevant activities and as soon as possible modify the Management Scheme so as to avoid such impacts. If such impacts cannot be avoided by the modification of the Management Scheme, the Regulatory Committee shall suspend it, or cancel it and the exploration or development permit.
+2. In performing its functions under paragraph 1 above a Regulatory Committee shall, unless emergency action is required, seek and take into account the views of the Advisory Committee.
+3. If a Regulatory Committee determines that an Operator has failed to comply with this Convention or with measures in effect pursuant to it or a Management Scheme applicable to that Operator, the Regulatory Committee may do all or any of the following:
+(a) modify the Management Scheme;
+(b) suspend the Management Scheme;
+(c) cancel the Management Scheme and the exploration or development permit; and
+(d) impose a monetary penalty.
+4. Sanctions determined pursuant to paragraph 3(a) to (d) above shall be proportionate to the seriousness of the failure to comply.
+5. A Regulatory Committee shall cancel a Management Scheme and the exploration or development permit if an Operator ceases to have a substantial and genuine link with the Sponsoring State as defined in Article 1(12).
+6. The Commission shall adopt general measures, which may include mitigation, relating to action by Regulatory Committees pursuant to paragraphs 1 and 3 above and, as appropriate, to the consequences of such action. No application pursuant to Article 44 may be lodged until such measures have come into effect.
+Article 52
+Monitoring in relation to Management Schemes
+1. Each Regulatory Committee shall monitor the compliance of Operators with Management Schemes within its area of competence.
+2. Each Regulatory Committee, taking into account the advice of the Advisory Committee, shall monitor and assess the effects on the Antarctic environment and on dependent and on associated ecosystems of Antarctic mineral resource activities within its area of competence, particularly by reference to key environmental parameters and ecosystem components.
+3. Each Regulatory Committee shall, as appropriate, inform the Commission and the Advisory Committee in a timely fashion of monitoring under this Article.
+CHAPTER V: DEVELOPMENT
+Article 53
+Application for a development permit
+1. At any time during the period in which an approved Management Scheme and exploration permit are in force for an Operator, the Sponsoring State may, on behalf of that Operator, lodge with the Regulatory Committee an application for a development permit.
+2. An application shall be accompanied by the fees established by the Regulatory Committee in accordance with Article 43(2)(b) and shall contain:
+(a) an updated description of the planned development identifying any modifications proposed to the approved Management Scheme and any additional measures to be taken, consequent upon such modifications, to ensure consistency with this Convention, including any measures in effect pursuant thereto and the general requirements referred to in Article 43(3);
+(b) a detailed assessment of the environmental and other impacts of the planned development, taking into account Articles 15 and 26(4);
+(c) a recertification by the Sponsoring State of the technical competence and financial capacity of the Operator and that the Operator has a substantial and genuine link with it as defined in Article 1(12);
+(d) a recertification by the Sponsoring State of the capacity of the Operator to comply with the general requirements referred to in Article 43(3);
+(e) updated information in relation to all other matters specified in Article 44(2); and
+(f) such further information as may be required by the Regulatory Committee or in measures adopted by the Commission.
+Article 54
+Examination of applications and issue of development permits
+1. The Regulatory Committee shall meet as soon as possible after an application has been lodged pursuant to Article 53.
+2. The Regulatory Committee shall determine whether the application contains sufficient or adequate information pursuant to Article 53(2). In performing this function it may at any time seek further information from the Sponsoring State consistent with Article 53(2).
+3. The Regulatory Committee shall consider whether:
+(a) the application reveals modifications to the planned development previously envisaged;
+(b) the planned development would cause previously unforeseen impacts on the Antarctic environment or dependent or associated ecosystems, either as a result of any modifications referred to in subparagraph (a) above or in the light of increased knowledge.
+4. The Regulatory Committee shall consider any modifications to the Management Scheme necessary in the light of paragraph 3 above to ensure that the development activities proposed would be undertaken consistently with this Convention as well as measures in effect pursuant thereto and the general requirements referred to in Article 43(3). However, the financial obligations specified in the approved Management Scheme may not be revised without the consent of the Sponsoring State, unless provided for in the Management Scheme itself.
+5. If the Regulatory Committee in accordance with Article 32 approves modifications under paragraph 4 above, or if it does not consider that such modifications are necessary, the Regulatory Committee shall issue without delay a development permit.
+6. In performing its functions under this Article, the Regulatory Committee shall seek and take full account of the views of the Advisory Committee. To that end the Regulatory Committee shall refer to the Advisory Committee all parts of the application which are necessary for it to provide advice pursuant to Article 26, together with any other relevant information.
+CHAPTER VI: DISPUTES SETTLEMENT
+Article 55
+Disputes between two or more Parties
+Articles 56, 57 and 58 apply to disputes between two or more Parties.
+Article 56
+Choice of procedure
+1. Each Party, when signing, ratifying, accepting, approving or acceding to this Convention, or at any time thereafter, may choose, by written declaration, one or both of the following means for the settlement of disputes concerning the interpretation or application of this Convention:
+(a) the International Court of Justice;
+(b) the Arbitral Tribunal.
+2. A declaration made under paragraph 1 above shall not affect the operation of Article 57(1), (3), (4) and (5).
+3. A Party that has not made a declaration under paragraph 1 above or in respect of which a declaration is no longer in force shall be deemed to have accepted the competence of the Arbitral Tribunal.
+4. If the parties to a dispute have accepted the same means for the settlement of a dispute, the dispute may be submitted only to that procedure, unless the parties otherwise agree.
+5. If the parties to a dispute have not accepted the same means for the settlement of a dispute, or if they have both accepted both means, the dispute may be submitted only to the Arbitral Tribunal, unless the parties otherwise agree.
+6. A declaration made under paragraph 1 above shall remain in force until it expires in accordance with its terms or until 3 months after written notice of revocation has been deposited with the Depositary.
+7. A new declaration, a notice of revocation or the expiry of a declaration shall not in any way affect proceedings pending before the International Court of Justice or the Arbitral Tribunal, unless the parties to the dispute otherwise agree.
+8. Declarations and notices referred to in this Article shall be deposited with the Depositary who shall transmit copies thereof to all Parties.
+Article 57
+Procedure for dispute settlement
+1. If a dispute arises concerning the interpretation or application of this Convention, the parties to the dispute shall, at the request of any one of them, consult among themselves as soon as possible with a view to having the dispute resolved by negotiation, enquiry, mediation, conciliation, arbitration, judicial settlement or other peaceful means of their choice.
+2. If the parties to a dispute concerning the interpretation or application of this Convention have not agreed on a means for resolving it within 12 months of the request for consultation pursuant to paragraph 1 above, the dispute shall be referred, at the request of any party to the dispute, for settlement in accordance with the procedure determined by the operation of Article 56(4) and (5).
+3. If a dispute concerning the interpretation or application of this Convention relates to a measure in effect pursuant to this Convention or a Management Scheme and the parties to such a dispute:
+(a) have not agreed on a means for resolving the dispute within 6 months of the request for consultation pursuant to paragraph 1 above, the dispute shall be referred, at the request of any party to the dispute, for discussion in the institution which adopted the instrument in question;
+(b) have not agreed on a means for resolving the dispute within 12 months of the request for consultation pursuant to paragraph 1 above, the dispute shall be referred for settlement, at the request of any party to the dispute, to the Arbitral Tribunal.
+4. The Arbitral Tribunal shall not be competent to decide or otherwise rule upon any matter within the scope of Article 9. In addition, nothing in this Convention shall be interpreted as conferring competence or jurisdiction on the International Court of Justice or any other tribunal established for the purpose of settling disputes between Parties to decide or otherwise rule upon any matter within the scope of Article 9.
+5. The Arbitral Tribunal shall not be competent with regard to the exercise by an institution of its discretionary powers in accordance with this Convention; in no case shall the Arbitral Tribunal substitute its discretion for that of an institution. In addition, nothing in this Convention shall be interpreted as conferring competence or jurisdiction on the International Court of Justice or any other tribunal established for the purpose of settling disputes between Parties with regard to the exercise by an institution of its discretionary powers or to substitute its discretion for that of an institution.
+Article 58
+Exclusion of categories of disputes
+1. Any Party, when signing, ratifying, accepting, approving or acceding to this Convention, or at any time thereafter, may, by written declaration, exclude the operation of Article 57(2) or (3) without its consent with respect to a category or categories of disputes specified in the declaration. Such declaration may not cover disputes concerning the interpretation or application of:
+(a) any provision of this Convention or of any measure in effect pursuant to it relating to the protection of the Antarctic environment or dependent or associated ecosystems;
+(b) Article 7(1);
+(c) Article 8;
+(d) Article 12;
+(e) Article 14;
+(f) Article 15; or
+(g) Article 37.
+2. Nothing in paragraph 1 above or in any declaration made under it shall affect the operation of Article 57(1), (4) and (5).
+3. A declaration made under paragraph 1 above shall remain in force until it expires in accordance with its terms or until 3 months after written notice of revocation has been deposited with the Depositary.
+4. A new declaration, a notice of revocation or the expiry of a declaration shall not in any way affect proceedings pending before the International Court of Justice or the Arbitral Tribunal, unless the parties to the dispute otherwise agree.
+5. Declarations and notices referred to in this Article shall be deposited with the Depositary who shall transmit copies thereof to all Parties.
+6. A Party which, by declaration made under paragraph 1 above, has excluded a specific category or categories of disputes from the operation of Article 57(2) or (3) without its consent shall not be entitled to submit any dispute falling within that category or those categories for settlement pursuant to Article 57(2) or (3), as the case may be, without the consent of the other party or parties to the dispute.
+Article 59
+Additional dispute settlement procedures
+1. The Commission, in conjunction with its responsibilities pursuant to Article 41(1), shall establish additional procedures for third-party settlement, by the Arbitral Tribunal or through other similar procedures, of disputes which may arise if it is alleged that a violation of this Convention has occurred by virtue of:
+(a) a decision to decline a Management Scheme;
+(b) a decision to decline the issue of a development permit; or
+(c) a decision to suspend, modify or cancel a Management Scheme or to impose monetary penalties.
+2. Such procedures shall:
+(a) permit, as appropriate, Parties and Operators under their sponsorship, but not both in respect of any particular dispute, to initiate proceedings against a Regulatory Committee;
+(b) require disputes to which they relate to be referred in the first instance to the relevant Regulatory Committee for consideration;
+(c) incorporate the rules in Article 57(4) and (5).
+CHAPTER VII: FINAL CLAUSES
+Article 60
+Signature
+This Convention shall be open for signature at Wellington from 25 November 1988 to 25 November 1989 by States which participated in the final session of the Fourth Special Antarctic Treaty Consultative Meeting.
+Article 61
+Ratification, acceptance, approval or accession
+1. This Convention is subject to ratification, acceptance or approval by Signatory States.
+2. After 25 November 1989 this Convention shall be open for accession by any State which is a Contracting Party to the Antarctic Treaty.
+3. Instruments of ratification, acceptance, approval or accession shall be deposited with the Government of New Zealand, hereby designated as the Depositary.
+Article 62
+Entry into force
+1. This Convention shall enter into force on the thirtieth day following the date of deposit of instruments of ratification, acceptance, approval or accession by 16 Antarctic Treaty Consultative Parties which participated as such in the final session of the Fourth Special Antarctic Treaty Consultative Meeting, provided that number includes all the States necessary in order to establish all of the institutions of the Convention in respect of every area of Antarctica, including 5 developing countries and 11 developed countries.
+2. For each State which, subsequent to the date of entry into force of this Convention, deposits an instrument of ratification, acceptance, approval or accession, the Convention shall enter into force on the thirtieth day following such deposit.
+Article 63
+Reservations, declarations and statements
+1. Reservations to this Convention shall not be permitted. This does not preclude a State, when signing, ratifying, accepting, approving or acceding to this Convention, from making declarations or statements, however phrased or named, with a view, inter alia , to the harmonisation of its laws and regulations with this Convention, provided that such declarations or statements do not purport to exclude or to modify the legal effect of this Convention in its application to that State.
+2. The provisions of this Article are without prejudice to the right to make written declarations in accordance with Article 58.
+Article 64
+Amendment
+1. This Convention shall not be subject to amendment until after the expiry of 10 years from the date of its entry into force. Thereafter, any Party may, by written communication addressed to the Depositary, propose a specific amendment to this Convention and request the convening of a meeting to consider such proposed amendment.
+2. The Depositary shall circulate such communication to all Parties. If within 12 months of the date of circulation of the communication at least one-third of the Parties reply favourable to the request, the Depositary shall convene the meeting.
+3. The adoption of an amendment considered at such a meeting shall require the affirmative votes of two-thirds of the Parties present and voting, including the concurrent votes of the members of the Commission attending the meeting.
+4. The adoption of any amendment relating to the Special Meeting of Parties or to the Advisory Committee shall require the affirmative votes of three-quarters of the Parties present and voting, including the concurrent votes of the members of the Commission attending the meeting.
+5. An amendment shall enter into force for those Parties having deposited instruments of ratification, acceptance or approval thereof 30 days after the Depositary has received such instruments of ratification, acceptance or approval from all the members of the Commission.
+6. Such amendment shall thereafter enter into force for any other Party 30 days after the Depositary has received its instrument of ratification, acceptance or approval thereof.
+7. An amendment that has entered into force pursuant to this Article shall be without prejudice to the provisions of any Management Scheme approved before the date on which the amendment entered into force.
+Article 65
+Withdrawal
+1. Any Party may withdraw from this Convention by giving to the Depositary notice in writing of its intention to withdraw. Withdrawal shall take effect two years after the date of receipt of such notice by the Depositary.
+2. Any Party which ceases to be a Contracting Party to the Antarctic Treaty shall be deemed to have withdrawn from this Convention on the date that it ceases to be a Contracting Party to the Antarctic Treaty.
+3. Where an amendment has entered into force pursuant to Article 64(5), any Party from which no instrument of ratification, acceptance or approval of the amendment has been received by the Depositary within a period of two years from the date of the entry into force of the amendment shall be deemed to have withdrawn from this Convention on the date of the expiration of a further two year period.
+4. Subject to paragraphs 5 and 6 below, the rights and obligations of any Operator pursuant to this Convention shall cease at the time its Sponsoring State withdraws or is deemed to have withdrawn from this Convention.
+5. Such Sponsoring State shall ensure that the obligations of its Operators have been discharged no later than the date on which its withdrawal takes effect.
+6. Withdrawal from this Convention by any Party shall not affect its financial or other obligations under this Convention pending on the date withdrawal takes effect. Any dispute settlement procedure in which that Party is involved and which has been commenced prior to that date shall continue to its conclusion unless agreed otherwise by the parties to the dispute.
+Article 66
+Notifications by the Depositary
+The Depositary shall notify all Contracting Parties to the Antarctic Treaty of the following:
+(a) signatures of this Convention and the deposit of instruments of ratification, acceptance, approval or accession;
+(b) the deposit of instruments of ratification, acceptance or approval of any amendment adopted pursuant to Article 64;
+(c) the date of entry into force of this Convention and of any amendment thereto;
+(d) the deposit of declarations and notices pursuant to Articles 56 and 58;
+(e) notifications pursuant to Article 18; and
+(f) the withdrawal of a Party pursuant to Article 65.
+Article 67
+Authentic texts, certified copies and registration with the United Nations
+1. This Convention of which the Chinese, English, French, Russian and Spanish texts are equally authentic shall be deposited with the Government of New Zealand which shall transmit duly certified copies thereof to all Signatory and Acceding States.
+2. The Depositary shall also transmit duly certified copies to all Signatory and Acceding States of the text of this Convention in any additional language of a Signatory or Acceding State which submits such text to the Depositary.
+3. This Convention shall be registered by the Depositary pursuant to Article 102 of the Charter of the United Nations.
+DONE at Wellington this second day of June 1988.
+IN WITNESS WHEREOF, the undersigned, duly authorised, have signed this Convention.
+ANNEX FOR AN ARBITRAL TRIBUNAL
+Article 1
+The Arbitral Tribunal shall be constituted and shall function in accordance with this Convention, including this Annex.
+Article 2
+1. Each Party shall be entitled to designate up to three Arbitrators, at least one of whom shall be designated within three months of the entry into force of this Convention for that Party. Each Arbitrator shall be experienced in Antarctic affairs, with knowledge of international law and enjoying the highest reputation for fairness, competence and integrity. The names of the persons so designated shall constitute the list of Arbitrators. Each Party shall at all times maintain the name of at least one Arbitrator on the list.
+2. Subject to paragraph 3 below, an Arbitrator designated by a Party shall remain on the list for a period of five years and shall be eligible for redesignation by that Party for additional five year periods.
+3. An Arbitrator may by notice given to the Party which designated that person withdraw his name from the list. If an Arbitrator dies or gives notice of withdrawal of his name from the list or if a Party for any reason withdraws from the list the name of an Arbitrator designated by it, the Party which designated the Arbitrator in question shall notify the Executive Secretary promptly. An Arbitrator whose name is withdrawn from the list shall continue to serve on any Arbitral Tribunal to which that Arbitrator has been appointed until the completion of proceedings before that Arbitral Tribunal.
+4. The Executive Secretary shall ensure that an up-to-date list is maintained of the Arbitrators designated pursuant to this Article.
+Article 3
+1. The Arbitral Tribunal shall be composed of three Arbitrators who shall be appointed as follows:
+(a) The party to the dispute commencing the proceedings shall appoint one Arbitrator, who may be its national, from the list referred to in Article 2 of this Annex. This appointment shall be included in the notification referred to in Article 4 of this Annex.
+(b) Within 40 days of the receipt of that notification, the other party to the dispute shall appoint the second Arbitrator, who may be its national, from the list referred to in Article 2 of this Annex.
+(c) Within 60 days of the appointment of the second Arbitrator, the parties to the dispute shall appoint by agreement the third Arbitrator from the list referred to in Article 2 of this Annex. The third Arbitrator shall not be either a national of, or a person designated by, a party to the dispute, or of the same nationality as either of the first two Arbitrators. The third Arbitrator shall be the Chairman of the Arbitral Tribunal.
+(d) If the second Arbitrator has not been appointed within the prescribed period, or if the parties to the dispute have not reached agreement within the prescribed period on the appointment of the third Arbitrator, the Arbitrator or Arbitrators shall be appointed, at the request of any party to the dispute and within 30 days of the receipt of such request, by the President of the International Court of Justice from the list referred to in Article 2 of this Annex and subject to the conditions prescribed in subparagraphs (b) and (c) above. In performing the functions accorded him in this subparagraph, the President of the Court shall consult the parties to the dispute and the Chairman of the Commission.
+(e) If the President of the International Court of Justice is unable to perform the functions accorded him in subparagraph (d) above or is a national of a party to the dispute, the functions shall be performed by the Vice-President of the Court, except that if the Vice-President is unable to perform the functions or is a national of a party to the dispute the functions shall be performed by the next most senior member of the Court who is available and is not a national of a party to the dispute.
+2. Any vacancy shall be filled in the manner prescribed for the initial appointment.
+3. In disputes involving more than two Parties, those Parties having the same interest shall appoint one Arbitrator by agreement within the period specified in paragraph 1(b) above.
+Article 4
+The party to the dispute commencing proceedings shall so notify the other party or parties to the dispute and the Executive Secretary in writing. Such notification shall include a statement of the claim and the grounds on which it is based. The notification shall be transmitted by the Executive Secretary to all Parties.
+Article 5
+1. Unless the parties to the dispute agree otherwise, arbitration shall take place at the headquarters of the Commission, where the records of the Arbitral Tribunal shall be kept. The Arbitral Tribunal shall adopt its own rules of procedure. Such rules shall ensure that each party to the dispute has a full opportunity to be heard and to present its case and shall also ensure that the proceedings are conducted expeditiously.
+2. The Arbitral Tribunal may hear and decide counterclaims arising out of the dispute.
+Article 6
+1. The Arbitral Tribunal, where it considers that prima facie it has jurisdiction under this Convention, may:
+(a) at the request of any party to a dispute, indicate such provisional measures as it considers necessary to preserve the respective rights of the parties to the dispute;
+(b) prescribe any provisional measures which it considers appropriate under the circumstances to prevent serious harm to the Antarctic environment or dependent or associated ecosystems.
+2. The parties to a dispute shall comply promptly with any provisional measures prescribed under paragraph 1(b) above pending an award under Article 9 of this Annex.
+3. Notwithstanding Article 57(1), (2) and (3) of this Convention, a party to any dispute that may arise falling within the categories specified in Article 58(1)(a) to (g) of this Convention may at any time, by notification to the other party or parties to the dispute and to the Executive Secretary in accordance with Article 4 of this Annex, request that the Arbitral Tribunal be constituted as a matter of exceptional urgency to indicate or prescribe emergency provisional measures in accordance with this Article. In such case, the Arbitral Tribunal shall be constituted as soon as possible in accordance with Article 3 of this Annex, except that the time periods in Article 3(1)(b), (c) and (d) shall be reduced to 14 days in each case. The Arbitral Tribunal shall decide upon the request for emergency provisional measures within two months of the appointment of its Chairman.
+4. Following a decision by the Arbitral Tribunal upon a request for emergency provisional measures in accordance with paragraph 3 above, settlement of the dispute shall proceed in accordance with Articles 56 and 57 of this Convention.
+Article 7
+Any Party which believes it has a legal interest, whether general or individual, which may be substantially affected by the award of an Arbitral Tribunal, may, unless the Arbitral Tribunal decides otherwise, intervene in the proceedings.
+Article 8
+The parties to the dispute shall facilitate the work of the Arbitral Tribunal and, in particular, in accordance with their law and using all means at their disposal, shall provide it with all relevant documents and information, and enable it, when necessary, to call witnesses or experts and receive their evidence.
+Article 9
+If one of the parties to the dispute does not appear before the Arbitral Tribunal or fails to defend its case, any other party to the dispute may request the Arbitral Tribunal to continue the proceedings and make its award.
+Article 10
+1. The Arbitral Tribunal shall decide, on the basis of this Convention and other rules of law not incompatible with it, such disputes as are submitted to it.
+2. The Arbitral Tribunal may decide, ex aequo et bono , a dispute submitted to it, if the parties to the dispute so agree.
+Article 11
+1. Before making its award, the Arbitral Tribunal shall satisfy itself that it has competence in respect of the dispute and that the claim or counterclaim is well founded in fact and law.
+2. The award shall be accompanied by a statement of reasons for the decision and shall be communicated to the Executive Secretary who shall transmit it to all Parties.
+3. The award shall be final and binding on the parties to the dispute and on any Party which intervened in the proceedings and shall be complied with without delay. The Arbitral Tribunal shall interpret the award at the request of a party to the dispute or of any intervening Party.
+4. The award shall have no binding force except in respect of that particular case.
+5. Unless the Arbitral Tribunal decides otherwise, the expenses of the Arbitral Tribunal, including the remuneration of the Arbitrators, shall be borne by the parties to the dispute in equal shares.
+Article 12
+All decision of the Arbitral Tribunal, including those referred to in Articles 5, 6 and 11 of this Annex, shall be made by a majority of the Arbitrators who may not abstain from voting. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,35 @@
+
+ Agreement On The Preservation Of Confidentiality Of Data Concerning Deep Seabed Areas   
+     Filename: 1986-PreservationConfidentialityDataDeepSeaBedAreas.EN.txt 
+ Source: http://www.ecolex.org/en/treaties/treaties_fulltext.php?docnr=2801&amp     
+    ﻿AGREEMENT ON THE PRESERVATION OF THE CONFIDENTIALITY OF DATA CONCERNING DEEP SEABED AREAS
+Source: http://www.ecolex.org/en/treaties/treaties_fulltext.php?docnr=2801&amp;langu...
+The Government of the Kingdom of Belgium, the Government of Canada, the Government of the Republic of Italy, and the Government of the Kingdom of the Netherlands, the Government of the Union of Soviet Socialist Republics, hereinafter referred to as the "Parties",
+Have agreed as follows:
+Article 1
+1. The Parties shall take appropriate measures, within the framework of existing legislation, to ensure confidentiality of the co-ordinates of the deep seabed areas, as well as of other proprietary or confidential information concerning those areas, received from the other Parties in confidence.
+2. In particular, the Parties shall take appropriate measures to ensure that juridicial and natural persons subject to the applicable jurisdiction, having access to that information, preserve its confidentiality.
+Article 2
+1. The Parties shall preserve the confidentiality of the co-ordinates referred to in Article 1 for two years from the date of receipt of such co-ordinates.
+2. The Parties shall preserve the confidentiality of other information referred to in Article 1 for five years from the date of receipt of such other information.
+3. Notwithstanding paragraphs 1 and 2 of this Article, the obligations set out in Article 1 shall continue beyond the times established therein for the period agreed upon pursuant to paragraph 4 of this Article if the Party that provided the co-ordinates or other information notifies all other Parties before the expiry of the applicable time period that such co-ordinates or other information continue to be commercially sensitive. The Party providing such notice shall propose a specific period of prolongation of the relevant time period mentioned in paragraph 1 or 2 of this Article.
+4. The obligations specified in paragraph 3 of this Article shall continue for a specific time period that shall be negotiated and agreed upon by all the Parties based solely on the need to protect legitimate commercial interests.
+Article 3
+The obligations set out in Article 1 and 2 of a Party receiving co-ordinates or other information shall cease upon the publication or other non-confidential disclosure of such co- ordinates or other information by the Party that provided it. However, in any other case of publication or other non-confidential disclosure of such co-ordinates or other information, the Parties will consult with a view to considering whether the obligations set out in Articles 1 and 2 should be maintained, as well as any related questions.
+Article 4
+1. Any Party may denounce this Agreement by written notice to all other Parties. Such denunciation shall become effective 90 days from the date of the latest receipt of such notice.
+2. Denunciation by a Party, pursuant to paragraph 1 of this Article, shall not affect the obligations of that Party concerning confidentiality as set out in this Agreement.
+Article 5
+This Agreement shall enter into force on the date of its signature and, subject to Article 4, shall remain in force until otherwise agreed by the Parties.
+Done in Moscow, on the 5th of December 1986, in the French, English, Italian, Dutch and Russian languages, all texts being equally authentic. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

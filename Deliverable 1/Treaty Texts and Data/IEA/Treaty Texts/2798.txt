@@ -1,0 +1,95 @@
+
+ Amendments To The International Convention for the Prevention of Pollution of the Sea by Oil Concerning Tank Arrangements And Limitation Of Tank Size   
+     Filename: 1971-AmendmentsTankArrangements-1954-OilPollution.EN.txt 
+ Source: http://sedac.ciesin.org/entri/texts/pollution.of.sea.by.oil.1954.html     
+    ﻿AMENDMENTS TO THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION OF THE SEA BY OIL
+Source: http://sedac.ciesin.org/entri/texts/pollution.of.sea.by.oil.1954.html
+The Seventh Assembly of the Inter-Governmental Maritime Consultative Organization adopted on 15 October 1971, by Resolution A.246 (VII), the following amendments to the International Convention for the Prevention of Pollution of the Sea by Oil, 1954. In accordance with Article XVI (4) of the Convention, the amendments will come into force twelve months after the date on which they are accepted by two-thirds of the Contracting Governments.
+The Assembly,
+Noting Article 16 (i) of the Convention on the Inter-Governmental Maritime Consultative Organization concerning the functions of the Assembly,
+Being conscious of the responsibility of the Organization for taking effective measures for the prevention and control of pollution of the marine environment which may arise from maritime activities,
+Realizing that notwithstanding the adoption by the Organization of various measures for preventing collisions and strandings of ships, it is not possible to eliminate entirely accidents which may lead to release of oil, but desiring to minimize ensuing damage to the environment,
+Recognizing that construction of oil tankers of large size without accompanying control of size or internal arrangement of cargo tanks leads to the possibility, in the event of a single accident, of serious environmental pollution,
+Having examined the Recommendations relating to tank arrangements and to the limitation of tank size prepared by the Maritime Safety Committee at its twenty-third session.
+Considering that the universal implementation of such requirements can best be achieved by amending the International Convention for the Prevention of Pollution of the Sea by Oil, 1954,
+Noting that Article XVI of the International Convention for the Prevention of Pollution of the Sea by Oil 1954 provides for procedures of amendment involving participation by the Organization,
+Adopts the following amendments to the Articles and Annexes to that Convention, the texts of which are attached to this Resolution:
+a) the addition of a new Article VIbis, and
+b) the addition of a new Annex C,
+Requests the Secretary-General of the Organization, in conformity with sub-paragraph (2) (a) of Article XVI to communicate for consideration and acceptance, certified copies of this Resolution and its Annexes, to all Contracting Governments to the International Convention for the Prevention of Pollution of the Sea by Oil, 1954, together with copies to all Members of the Organization,
+Invites all governments concerned to accept the amendments at the earliest possible date, and
+Determines in accordance with paragraph (5) of Article XVI that these amendments are of such an important nature that any Contracting Government which makes a declaration under paragraph (4) of Article XVI and which does not accept the amendments within a period of 12 months after the amendments come into force, shall, upon the expiry of this period, cease to be a Party to the present Convention.
+ANNEX 1
+Add new Article VIbis as follows:
+Article VIbis
+1. Every tanker to which the present Convention applies and for which the building contract is placed on or after the date of coming into force of this Article shall be constructed in accordance with the provisions of Annex C. In addition, every tanker to which the present Convention applies and for which the building contract is placed, or in the absence of a building contract the keel of which is laid or which is at a similar stage of construction, before the date of coming into force of this Article shall be required, within two years after that date, to comply with the provisions of Annex C, where such a tanker falls into either of the following categories:
+a) a tanker, the delivery of which is after 1 January 1977; or
+b) a tanker to which both the following conditions apply:
+(i) delivery is not later than 1 January 1977; and
+(ii) the building contract is placed after 1 January 1972, or in cases where no building contract has previously been placed the keel is laid, or the tanker is at a similar stage of construction, after 30 June 1972.
+2. A tanker required under paragraph (1) of this Article to be constructed in accordance with Annex C and so constructed shall carry on board a certificate issued or authorized by the responsible Contracting Government attesting such compliance. A tanker which under paragraph (l) of this Article is not required to be constructed in accordance with Annex C shall carry on board a certificate to that effect issued or authorized by the responsible Contracting Government, or if the tanker does comply with Annex C although not required to do so, it may carry on board a certificate issued or authorized by the responsible Contracting Government attesting such compliance. A Contracting Government shall not permit such tankers under its flag to trade unless the appropriate certificate has been issued.
+3. Certificates issued under the authority of a Contracting Government shall be accepted by the other Contracting Governments for all purposes covered by the present Convention. They shall be regarded by the other Contracting Governments as having the same force as certificates issued by them.
+4. If a Contracting Government has clear grounds for believing that a tanker required under paragraph (1) of this Article to be constructed in accordance with Annex C entering ports in its territory or using off-shore terminals under its control does not in fact comply with Annex C, such Contracting Government may request consultation with the Government with which the tanker is registered. If, after such consultation or otherwise, the Contracting Government is satisfied that the tanker does not comply with Annex C, such Contracting Government may for this reason deny such a tanker access to ports in its territorial waters or to off-shore terminals under its control until such time as the Contracting Government is satisfied that the tanker does comply.
+Add new Annex C as follows:
+ANNEX C[1]
+REQUIREMENTS RELATING TO TANK ARRANGEMENTS AND TO THE LIMITATION OF TANK SIZE
+1. Assumed extent of damage
+In the following paragraphs three dimensions of the extent of damage of a parallelepiped due to both collision and stranding are assumed. In the case of stranding, two conditions are set forth to be applied individually to the stated portions of the ship. These values represent the maximum assumed damage in such accidents and are to be used to determine by trial at all conceivable locations the worst combination of compartments which would be breached by such an accident.
+1.1 Collision
+Longitudinal extent (lc)1/3 x L x 2/3or14.5 metres, whichever is less
+Transverse extent (tc) B/5 or11.5 metres, inboard from the ship's side atwhichever right angles to the centreline is less at the level of the load line
+Vertical extent (vc) from the baseline upwards without limit
+1.2 StrandingFor O.3L from Any other the forward part of perpendicular the ship of the ship
+Longitudinal extent (ls) L/105 metres
+Transverse extent (ts) B/6 or 10 metres, 5 metres whichever is less
+Vertical extent (vs) B/15or6 metres, from the base line whichever is less, for any part of the ship where:
+L, B in metres and perpendicular are as defined in Regulation 3 of the International Convention on Load Lines, 1966.
+2. Hypothetical oil outflow from tanks assumed to be breached as a result of the accident
+The hypothetical oil outflow in the case of collision (Oc) and stranding (Os) shall be calculated by the following formulae with respect to compartments breached by each assumed location of damage as defined in Section 1.
+2.1 Collision
+Oc = sigmaWi + sigmaKiCi............................(1)
+2.2 Stranding
+Os = 1/3(sigmaZiWi + sigma ZiCi)....................(2)
+where:
+Wi = volume of a wing tank in cubic metres breached by the damage assumed in Section l; Wi for a clean ballast tank may be taken equal to zero,
+Ci = volume of a centre tank in cubic metres breached by the damage assumed in Section l; Ci for a clean ballast tank may be taken equal to zero,
+Ki = 1- bi/tc;when bi is equal to or greater than tc, Ki shall be taken equal to zero,
+Zi = 1- hi/vs; when hi is equal to or greater than vs, Zi shall be taken equal to zero,
+bi = width of wing tank in metres under consideration.
+hi = minimum depth of the bottom in metres under consideration; where no double bottom is fitted, shall be taken equal to zero,
+wing tank = any tank adjacent to the side shell plating, centre tank = any tank inboard a longitudinal bulkhead.
+2.3 Special requirements
+2.3.1 If a void space or clean water ballast tank of a length less than lc as defined in 1.1 is located between wing oil tanks, Oc in formula (1) may be calculated on the basis of volume Wi being the actual volume of one such tank (where they are of equal capacity) or the smaller of the two tanks (if they differ in capacity) adjacent to such space, multiplied by Si as defined below and taking for all other wing tanks involved in such a collision the value of the actual full volume.
+Si = 1 - li/lc
+where: li = length in metres of void space or clean ballast tank under consideration.
+2.3.2 a) Credit shall only be given in respect of double bottom tanks which are either empty or carrying clean water when cargo is carried in the tanks above.
+b) Where the double bottom does not extend for the full length and width of the tank involved, the double bottom is considered non-existent and the volume of the tanks above the area of the stranding damage shall be included in formula (2) even if the tank is not considered breached because of the installation of such a partial double bottom.
+c) Suction wells may be neglected in the determination of the value hi provided such wells are not excessive in area and extend below the tank for a minimum distance and in no case more than half the height of the double bottom. If the depth of such a well exceeds half the height of the double bottom, hi shall be equal to the double bottom height minus the well height. Piping serving such wells if installed within the double bottom shall be fitted with valves or other closing arrangements located at the point of connection to the tank served to prevent oil outflow in the event of damage of the piping during stranding. Such piping shall be installed as high from the bottom shell as possible.
+2.3.3. In the case where stranding damage simultaneously involves four centre tanks, the value of Os may be calculated according to the formula
+Os = 1/4(sigmaZiWi + sigmaZiCi) ........................(3)
+2.3.4 An Administration may credit as reducing oil outflow in case of stranding, an installed cargo transfer system having an emergency high suction in each cargo oil tank, capable of transferring from a breaching tank or tanks to segregated ballast tanks or to available cargo tankage if it can be assured that such tanks will have sufficient ullage. Credit for such a system would be governed by ability to transfer in two hours of operation, oil equal to one half of the largest of the breached tanks involved and by availability of equivalent receiving capacity in ballast or cargo tanks. The credit shall be confined to permitting calculation of Os according to formula (3). The pipes for such suction shall be installed at least at a height not less than the vertical extent of the stranding damage vs.
+The Administration shall supply the Organization with the information concerning the arrangements accepted by it, for circulation to other governments.
+3. Limitations of size of cargo oil tanks
+3.1 Limitation of hypothetical oil outflow
+The hypothetical oil outflow Oc or Os calculated in accordance with the formulae in Section 2 shall not exceed 30,000 cubic metres or 400 square root of DW, whichever is the greater but subject to a maximum of 40,000 cubic metres, where DW = deadweight of the ship in metric tons.
+3.2 Limitation of volume of single rank
+The volume of a wing tank shall not exceed seventy-five per cent of the limits of hypothetical oil outflow referred to in 3.1. The volume of a centre tank shall not exceed 50,000 cubic metres.
+3.3 Limitation of tank length
+The length of each tank shall not exceed 10 metres or one of the following values, whichever is the greater:
+a) where no longitudinal bulkhead is provided: 0. 1L b) where a longitudinal bulkhead is provided at the centreline only: 0.15L c) where two or more longitudinal bulkheads are provided:
+(i) for wing tanks: 0.2L
+(ii) for centre tanks: (1) if bi/B is equal to or greater than 1/5: 0.2L (2) if bi/B is less than 1/5:
+- where no centreline longitudinal bulkhead is provided: (0.5 bi/B + 0.1)L
+- where a centreline longitudinal bulkhead is provided: (0.25 bi/B + 0.15)L
+[1] where these Amendments enter into force, the Annex (Form of Oil Record Book) will become Annex A and this Annex will become Annex B 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

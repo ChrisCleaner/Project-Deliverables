@@ -1,0 +1,221 @@
+
+ Amendments Regarding The Bulk Carriage (IBC Code) To The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1990-AmendmentsIBC-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=6960/40(29).pdf     
+    ﻿AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE) (Harmonized System of Survey and Certification)
+Source: http://www.imo.org/includes/blastData.asp/doc_id=6960/40(29).pdf
+(London, 16 March 1990)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38 of the Convention on the International Maritime Organization concerning the functions of the Committee,
+RECALLING ALSO Resolution MEPC.19(22) by which the Committee adopted the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC Code),
+NOTING Article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention"), and Article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol"), which confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+RECALLING Resolution 10 of the International Conference on Tanker Safety and Pollution Prevention, 1978, and Resolution 4 of the International Conference on the Harmonized System of Survey and Certification, 1988, which recommended that IMO take the necessary action to introduce the harmonized system of survey and certification into various conventions and codes,
+NOTING FURTHER Resolution MEPC.39(29) by which the Committee adopted amendments to the Annex of the 1978 Protocol, introducing the harmonized system of survey and certification thereto,
+HAVING CONSIDERED, at its twenty-ninth session, amendments to the IBC Code proposed and circulated in accordance with Article 16(2)(a) of the 1973 Convention,
+1. ADOPTS, in accordance with Article 16(2)(d) of the 1973 Convention, amendments to the IBC Code, the text of which is set out in the Annex to the present Resolution;
+2. REQUESTS the Secretary-General, in conformity with Article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1978 Protocol certified copies of the present Resolution and the text of the amendments contained in the Annex;
+3. DETERMINES, in accordance with Article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on the same date on which the amendments to the Annex to the 1978 Protocol adopted by the Committee by Resolution MEPC.39(29) are accepted, unless, prior to that date, objections are communicated to the Organization as provided for in Article 16(2)(f)(iii);
+4. INVITES the Parties to note that, in accordance with Article 16(2)(g)(ii) of the 1973 Convention, the amendments shall enter into force six months after their acceptance in accordance with paragraph 3 above;
+5. REQUESTS the Secretary-General to inform all Parties when the conditions for the entry into force of both the 1988 SOLAS Protocol and the 1988 Load Line Protocol are met and, in conformity with Article 16(8) of the Convention, when the amendments to the IBC Code contained in the Annex to the present Resolution will enter into force;
+6. FURTHER REQUESTS the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1978 Protocol copies of the resolution and its Annex and to inform them when the amendments enter into force.
+ANNEX
+AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)
+1.3 Definitions
+A new definition should be added as follows:
+"1.3.2.3 "Anniversary date" means the day and the month of each year which will correspond to the date of expiry of the International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk."
+1.5 Survey and Certification
+The existing text of section 1.5 should be replaced by the following:
+"1.5.1 Survey procedure
+1.5.1.1 The survey of ships, so far as regards the enforcement of the provisions of the regulations and granting of exemptions therefrom, should be carried out by officers of the Administration. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it.
+1.5.1.2 The Administration nominating surveyors or recognizing organizations to conduct surveys should, as a minimum, empower any nominated surveyor or recognized organization to:
+.1 require repairs to a ship; and
+.2 carry out surveys if requested by the appropriate authorities of a port State.
+The Administration should notify the Organization of the specific responsibilities of the nominated surveyors or recognized organizations and of the conditions of the authority delegated to them for circulation to the Contracting Governments.
+1.5.1.3 When a nominated surveyor or recognized organization determines that the condition of the ship or its equipment does not correspond substantially with the particulars of the International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk, or is such that the ship in not fit to proceed to sea without danger to the ship, or persons on board, or without presenting unreasonable threat of harm to the marine environment, such surveyor or organization should immediately ensure that corrective action is taken and should in due course notify the Administration. If such corrective action in not taken, the Certificate should be withdrawn and the Administration should be notified immediately; and, if the ship is in a port of another Contracting Government, the appropriate authorities of the port State should also be notified immediately. When an officer of the Administration, a nominated surveyor or a recognized organization has notified the appropriate authorities of the port State, the Government of the port State concerned should give such officer, surveyor or organization any necessary assistance to carry out their obligations under this paragraph. When applicable, the Government of the port State concerned should take such steps as will ensure that the ship does not sail until it can proceed to sea or leave the port for the purpose of proceeding to the nearest appropriate repair yard available without danger to the ship or persons on board or without presenting an unreasonable threat of harm to the marine environment.
+1.5.1.4 In every case, the Administration should guarantee the completeness and efficiency of the survey, and should undertake to ensure the necessary arrangements to satisfy this obligation.
+1.5.2 Survey requirements
+1.5.2.1 The structure, equipment, fittings, arrangements and material (other than items in respect of which a Cargo Ship Safety Construction Certificate, Cargo Ship Safety Equipment Certificate and Cargo Ship Safety Radio Certificate or Cargo Ship Safety Certificate are issued) of a chemical tanker should be subjected to the following surveys:
+.1 an initial survey before the ship is put in service or before the International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk is issued for the first time, which should include a complete examination of its structure, equipment, fittings, arrangements and material in so far as the ship is covered by the Code. This survey should be such as to ensure that the structure, equipment, fittings, arrangements and material fully comply with the applicable provisions of the Code.
+.2 a renewal survey at intervals specified by the Administration, but not exceeding 5 years, except where 1.5.6.2.2, 1.5.6.5, 1.5.6.6 or 1.5.6.7 is applicable. The renewal survey should be such as to ensure that the structure, equipment, fittings, arrangements and material fully comply with the applicable provisions of the Code.
+.3 an intermediate survey within 3 months before or after the second anniversary date or within 3 months before or after the third anniversary date of the Certificate, which should take the place of one of the annual surveys specified in 1.5.2.1.4. The intermediate survey should be such as to ensure that the safety equipment, and other equipment, and associated pump and piping systems fully comply with the applicable provisions of the Code and are in good working order. Such intermediate surveys should be endorsed on the Certificate issued under 1.5.4 or 1.5.5.
+.4 an annual survey within 3 months before or after each anniversary date of the Certificate, including a general inspection of the structure, equipment, fittings, arrangements and material referred to in 1.5.2.1.1 to ensure that they have been maintained in accordance with 1.5.3 and that they remain satisfactory for the service for which the ship is intended. Such annual surveys should be endorsed on the Certificate issued under 1.5.4 or 1.5.5.
+.5 an additional survey, either general or partial according to the circumstances, should be made when required after an investigation prescribed in 1.5.3.3, or whenever any important repairs or renewals are made. Such a survey should ensure that the necessary repairs or renewals have been effectively made, that the material and workmanship of such repairs or renewals are satisfactory; and that the ship is fit to proceed to sea without danger to the ship or persons on board or without presenting unreasonable threat of harm to the marine environment.
+1.5.3 Maintenance of conditions after survey
+1.5.3.1 The condition of the ship and its equipment should be maintained to conform with the provisions of the Code to ensure that the ship will remain fit to proceed to sea without danger to the ship or persons on board or without presenting an unreasonable threat of harm to the marine environment.
+1.5.3.2 After any survey of the ship under 1.5.2 has been completed, no change should be made in the structure, equipment, fittings, arrangements and material covered by the survey, without the sanction of the Administration, except by direct replacement.
+1.5.3.3 Whenever an accident occurs to a ship or a defect in discovered, either of which affects the safety of the ship or the efficiency or completeness of its life-saving appliances or other equipment covered by the Code, the master or owner of the ship should report at the earliest opportunity to the Administration, the nominated surveyor or recognized organization responsible for issuing the Certificate, who should cause investigations to be initiated to determine whether a survey, an required by 1.5.2.1.5, in necessary. If the ship is in a port of another Contracting Government, the master or owner should also report immediately to the appropriate authorities of the port State and the nominated surveyor or recognized organization should ascertain that such a report has been made.
+1.5.4 Issue or endorsement of International Certificate of Fitness
+1.5.4.1 A Certificate called an International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk, should be issued after an initial or renewal survey to a chemical tanker engaged in international voyages which complies with the relevant provisions of the Code.
+1.5.4.2 An International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk should be drawn up in the form corresponding to the model given in the appendix. If the language used is neither English nor French, the text should include the translation into one of these languages.
+1.5.4.3 The Certificate issued under provisions of this section should he available on board for examination at all times.
+1.5.4.4 Notwithstanding any other provisions of the amendments to this Code adopted by the Marine Environment Protection Committee (MEPC) by Resolution MEPC.40(29) and the Maritime Safety Committee (MSC) by Resolution MSC.16(58), any International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk, which is current when these amendments enter into force, should remain valid until it expires under the terms of this Code prior to the amendments entering into force.
+1.5.5 Issue or endorsement of International Certificate of Fitness by another Government
+1.5.5.1 A Government that in both a Contracting Government to the 1974 SOLAS Convention and a Party to MARPOL 73/78 may, at the request of another such Government, cause a ship entitled to fly the flag of the other State to be surveyed and, if satisfied that the provisions of the Code are complied with, issue or authorize the issue of the International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk to the ship, and, where appropriate, endorse or authorize the endorsement of the Certificate on board the ship in accordance with the Code. Any Certificate so issued should contain a statement to the effect that it has been issued at the request of the Government of the State whose flag the ship is entitled to fly.
+1.5.6 Duration and validity of International Certificate of Fitness
+1.5.6.1 An International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk should be issued for a period specified by the Administration which should not exceed 5 years.
+1.5.6.2.1 Notwithstanding the provisions of 1.5.6.1, when the renewal survey is completed within 3 months before the expiry date of the existing Certificate, the new Certificate should be valid from the date of completion of the renewal survey to a date not exceeding 5 years from the date of expiry of the existing Certificate.
+1.5.6.2.2 When the renewal survey in completed after the expiry date of the existing Certificate, the new Certificate should be valid from the date of completion of the renewal survey to a date not exceeding 5 years from the date of expiry of the existing Certificate.
+1.5.6.2.3 When the renewal survey in completed more than 3 months before the expiry date of the existing Certificate, the new Certificate should be valid from the date of completion of the renewal survey to a date not exceeding 5 years from the date of completion of the renewal survey.
+1.5.6.3 If a Certificate is issued for a period of less than 5 years, the Administration may extend the validity of the Certificate beyond the expiry date to the maximum period specified in 1.5.6.1, provided that the surveys referred to in 1.5.2.1.3 and 1.5.2.1.4, applicable when a Certificate is issued for a period of 5 years, are carried out as appropriate.
+1.5.6.4 If a renewal survey has been completed and a new Certificate cannot be issued or placed on board the ship before the expiry date of the existing Certificate, the person or organization authorized by the Administration may endorse the existing Certificate and such a Certificate should be accepted as valid for a further period which should not exceed 5 months from the expiry date.
+1.5.6.5 If a ship, at the time when a Certificate expires, is not in a port in which it is to be surveyed, the Administration may extend the period of validity of the Certificate but this extension should be granted only for the purpose of allowing the ship to complete its voyage to the port in which it is to be surveyed, and then only in cases where it appears proper and reasonable to do so. No Certificate should be extended for a period longer than 3 months, and a ship to which an extension is granted should not, on its arrival in the port in which it is to be surveyed, be entitled by virtue of such extension to leave that port without having a new Certificate. When the renewal survey is completed, the new Certificate should be valid to a date not exceeding 5 years from the date of expiry of the existing Certificate before the extension was granted.
+1.5.6.6 A Certificate issued to a ship engaged on short voyages which has not been extended under the foregoing provisions of this section way be extended by the Administration for a period of grace of up to one month from the date of expiry stated on it. When the renewal survey is completed, the new Certificate should be valid to a date not exceeding 5 years from the date of expiry of the existing Certificate before the extension was granted.
+1.5.6.7 In special circumstances, as determined by the Administration, a new Certificate need not be dated from the date of expiry of the existing Certificate as required by 1.5.6.2.2, 1.5.6.5 or 1.5.6.6. In these special circumstances, the new Certificate should be valid to a date not exceeding 5 years from the date of completion of the renewal survey.
+1.5.6.8 If an annual or intermediate survey is completed before the period specified in 1.5.2, then:
+.1 the anniversary date shown on the Certificate should be amended by endorsement to a date which should not be more than 3 months later than the date on which the survey was completed;
+.2 the subsequent annual or intermediate survey required by 1.5.2 should be completed at the intervals prescribed by that section using the new anniversary date;
+.3 the expiry date may remain unchanged provided one or more annual or intermediate surveys, as appropriate, are carried out so that the maximum intervals between the surveys prescribed by 1.5.2 are not exceeded.
+1.5.6.9 A Certificate issued under 1.5.4 or 1.5.5 should cease to be valid in any of the following cases:
+.1 if the relevant surveys are not completed within the periods specified under 1.5.2;
+.2 if the Certificate is not endorsed in accordance with 1.5.2.1.3 or 1.5.2.1.4;
+.3 upon transfer of the ship to the flag of another State. A new Certificate should only be issued when the Government issuing the new Certificate is fully satisfied that the ship is in compliance with the requirements of 1.5.3.1 and 1.5.3.2. In the case of a transfer between Governments that are both a Contracting Government to the 1974 SOLAS Convention and a Party to MARPOL 73/78, if requested within 3 months after the transfer has taken place, the Government of the State whose flag the ship was formerly entitled to fly should, as soon as possible, transmit to the Administration copies of the Certificate carried by the ship before the transfer and, if available, copies of the relevant survey reports."
+Appendix
+MODEL FORM OF INTERNATIONAL CERTIFICATE OF FITNESS FOR THE CARRIAGE OF DANGEROUS CHEMICALS IN BULK
+The existing Model Form of Certificate should be replaced by the following:
+"INTERNATIONAL CERTIFICATE OF FITNESS FOR THE CARRIAGE OF DANGEROUS CHEMICALS IN BULK
+(Official seal)
+Issued under the provisions of the
+INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK
+(Resolutions MSC.4(48) and MEPC.19(22), as amended by Resolutions MSC.16(58) and MEPC.40(29))
+under the authority of the Government of ..............................................................
+(full designation of country)
+by ..............................................................................................................................
+(full designation of the competent person or organization recognized by the Administration)
+Particulars of ship1/
+Name of ship .............................................................................
+Distinctive number or letters .....................................................
+Port of registry ...........................................................................
+Gross tonnage ............................................................................
+Ship type (Code paragraph 2.1.2) ..............................................
+IMO Number2/ ............................................................................
+Date on which keel was laid or ship was at a similar stage of construction or, (in the case of a converted ship) date on which conversion to a chemical tanker was commenced ............................................................................................................
+The ship also complies fully with the following amendments to the Code:
+....................................................................................................................................
+The ship is exempted from compliance with the following provisions of the Code:
+.....................................................................................................................................
+THIS IS TO CERTIFY:
+1 That the ship has been surveyed in accordance with the provisions of 1.5 of the Code.
+2 That the survey showed that the construction and equipment of the ship and the condition thereof are in all respects satisfactory and that the ship complies with the relevant provisions of the Code.
+3 That the ship in an incinerator ship complying also with the supplementary and modified requirements of Chapter 19 of the Code.3/
+4 That the ship has been provided with a Manual in accordance with the Standards for Procedures and Arrangements an called for by Regulations 5, 5A and 8 of Annex II of MARPOL 73/78, and that the arrangements and equipment of the ship prescribed in the Manual are in all respects satisfactory and comply with the applicable requirements of the said Standards.
+5 That the ship is suitable for the carriage in bulk of the following products, provided that all relevant operational provisions of the Code are observed.
+Products
+Conditions of carriage (tank numbers, etc.)
+Continued on attachment 1.3/
+Tank numbers referred to in this list are identified on attachment 2.
+6 That, in accordance with 1.4/2.8.23/, the provisions of the Code are modified in respect of the ship in the following manner: ............................................................
+7 That the ship must be loaded:
+.1 in accordance with the loading conditions provided in the approved loading Manual, stamped and dated ...................................................... and signed by a responsible officer of the Administration, or of an organization recognized by the Administration;3/
+.2 in accordance with the loading limitations appended to this Certificate.3/
+Where it is required to load the ship other than in accordance with the above instruction, then the necessary calculations to justify the proposed loading conditions should be communicated to the certifying Administration which may authorize in writing the adoption of the proposed loading condition.4/
+This Certificate is valid until ....................................................5/ subject to surveys in accordance with 1.5 of the Code.
+Issued at ......................................................................
+(Place of issue of Certificate)
+............................. ...............................................................................
+(Date of issue) (Signature of authorized official issuing the Certificate)
+(Seal or stamp of the authority, as appropriate)
+Notes on completion of Certificate:
+1/ The Certificate can be issued only to ships entitled to fly the flags of States which are both a Contracting Government to the 1974 SOLAS Convention and a Party to MARPOL 73/78.
+2/ Ship type: Any entry must relate to all relevant recommendations, e.g. an entry "type 2" should mean type 2 in all respects prescribed by the Code.
+3/ Products: Products listed in Chapter 17 of the Code, or which have been evaluated by the Administration in accordance with 1.1.3 of the Code, should be listed. In respect of the latter "new" products, any special requirements provisionally prescribed should be noted. It should be noted that for incinerator ships "liquid chemical waste" is to be entered in lieu of the individual product names.
+4/ Products: The list of products the ship is suitable to carry should include the noxious liquid substances of category D which are not covered by the Code and should be identified as "Chapter 18 category D".
+5/ Conditions of carriage: The limitations on the carriage of category B or category C substances under 16A.2 of the Code should also be indicated.
+ENDORSEMENT FOR ANNUAL AND INTERMEDIATE SURVEYS
+THIS IS TO CERTIFY that, at a survey required by 1.5.2 of the Code the ship was found to comply with the relevant provisions of the Code:
+Annual survey: Signed ..............................................................
+(Signature of authorized official)
+Place .................................................................
+Date ..................................................................
+(Seal or stamp of the authority, as appropriate)
+Annual/Intermediate3/ survey: Signed ................................................................
+(Signature of authorized official)
+Place ..................................................................
+Date ...................................................................
+(Seal or stamp of the authority, as appropriate)
+Annual/Intermediate3/ survey: Signed .................................................................
+(Signature of authorized official)
+Place ....................................................................
+Date ......................................................................
+(Seal or stamp of the authority, as appropriate)
+Annual survey: Signed ..................................................................
+(Signature of authorized official)
+Place ....................................................................
+Date ......................................................................
+(Seal or stamp of the authority, as appropriate)
+Annual/intermediate survey in accordance with 1.5.6.8.3
+THIS IS TO CERTIFY that, at an annual/intermediate3/ survey in accordance with 1.5.6.8.3 of the Code, the ship was found to comply with the relevant provisions of the Code.
+Signed .........................................................................
+(Signature of authorized official)
+Place ...........................................................................
+Date ............................................................................
+(Seal or stamp of the authority, as appropriate)
+Endorsement to extend the Certificate if valid for less than 5 years where 1.5.6.3 applies
+The ship complies with the relevant provisions of the Code, and this Certificate should, in accordance with 1.5.6.3 of the Code, be accepted as valid until ..................................
+Signed ............................................................................
+(Signature of authorized official)
+Place ..............................................................................
+Date .................................................................................
+(Seal or stamp of the authority, as appropriate)
+Endorsement where the renewal survey has been completed and 1.5.6.4 applies
+The ship complies with the relevant provisions of the Code, and this Certificate should, in accordance with 1.5.6.4 of the Code, be accepted as valid until ..................................
+Signed ............................................................................
+(Signature of authorized official)
+Place ..............................................................................
+Date .................................................................................
+(Seal or stamp of the authority, as appropriate)
+Endorsement to extend the validity of the Certificate until reaching the port of survey for a period of grace where 1.5.6.5/1.5.6.6 applies
+This Certificate should, in accordance with 1.5.6.5/1.5.6.63/ of the Code, be accepted as valid until .......................................
+Signed ............................................................................
+(Signature of authorized official)
+Place ..............................................................................
+Date .................................................................................
+(Seal or stamp of the authority, as appropriate)
+Endorsement for advancement of anniversary date where 1.5.6.8 applies
+In accordance with 1.5.6.8 of the Code, the new anniversary date is ................................
+Signed ............................................................................
+(Signature of authorized official)
+Place ..............................................................................
+Date .................................................................................
+(Seal or stamp of the authority, as appropriate)
+In accordance with 1.5.6.8 of the Code, the new anniversary date is ................................
+Signed ............................................................................
+(Signature of authorized official)
+Place ..............................................................................
+Date .................................................................................
+(Seal or stamp of the authority, as appropriate)
+_________________
+1/ Alternatively, the particulars of the ship may be placed horizontally in boxes.
+2/ In accordance with Resolution A.600(15) - IMO Ship Identification Number Scheme, this information may be included voluntarily.
+3/ Delete as appropriate.
+4/ Instead of being incorporated in the Certificate, this text may be appended to the Certificate if duly signed and stamped.
+5/ Insert the date of expiry as specified by the Administration in accordance with 1.5.6.1 of the Code. The day and the month of this date correspond to the anniversary date as defined in 1.3.2.3 of the Code, unless amended in accordance with 1.5.6.8 of the Code.
+____________________
+ATTACHMENT 1 TO THE INTERNATIONAL CERTIFICATE OF FITNESS FOR THE CARRIAGE OF DANGEROUS CHEMICALS IN BULK
+Continuation of the list of products specified in section 5, and the conditions of their carriage
+Products
+Conditions of carriage (tank numbers, etc.)
+Date ............................... .........................................................................................
+(as for Certificate) (Signature of official issuing the Certificate and/or seal or stamp of issuing authority)
+____________________
+ATTACHMENT 2 TO THE INTERNATIONAL CERTIFICATE OF FITNESS FOR THE CARRIAGE OF DANGEROUS CHEMICALS IN BULK
+TANK PLAN (specimen)
+Name of ship: ...................................................................
+Distinctive number or letters: ..........................................
+? Cargo area ?
+[aft]
+Diagrammatic tank plan to be drawn in this area
+[fore]
+Date .............................. .........................................................................................
+(as for Certificate) (Signature of official issuing the Certificate and/or seal or stamp of issuing authority)"
+[1] Adopted pursuant to IMO Marine Environment Protection Committee Resolution MEPC.40(29). 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

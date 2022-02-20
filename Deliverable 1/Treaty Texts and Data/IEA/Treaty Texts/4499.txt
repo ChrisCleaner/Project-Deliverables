@@ -1,0 +1,45 @@
+
+ Amendment to Annex I to the Protocol To The Convention On The Prevention Of Marine Pollution By Dumping Of Wastes And Other Matter (Regulating Carbon Sequestration in Sub-Seabed Geological Formations)   
+     Filename: 2006-Amendment-1996-Protocol-1972-MarinePollutionDumpingWastesOtherMatter.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D16639/5.pdf     
+    ﻿Amendments to the Protocol To The Convention On The Prevention Of Marine Pollution By Dumping Of Wastes And Other Matter
+Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D16639/5.pdf
+RESOLUTION LP.1(1) ON THE AMENDMENT TO INCLUDE CO2 SEQUESTRATION IN SUB-SEABED GEOLOGICAL FORMATIONS IN ANNEX 1 TO THE LONDON PROTOCOL
+THE FIRST MEETING OF CONTRACTING PARTIES TO THE 1996 PROTOCOL TO THE CONVENTION ON THE PREVENTION OF MARINE POLLUTION BY DUMPING OF WASTES AND OTHER MATTER 1972,
+RECALLING the objectives of the 1996 Protocol to the London Convention (.London Protocol.) that include the protection and preservation of the marine environment from all sources of pollution;
+BEING SERIOUSLY CONCERNED by the implications for the marine environment of climate change and ocean acidification due to elevated concentrations of carbon dioxide in the atmosphere;
+EMPHASIZING the need to further develop low carbon forms of energy;
+CONSIDERING that carbon dioxide capture and sequestration is one of a portfolio of options to reduce levels of atmospheric carbon dioxide;
+RECOGNIZING that carbon dioxide capture and sequestration represents an important interim solution;
+RECOGNIZING ALSO that carbon dioxide capture and sequestration should not be considered as a substitute to other measures to reduce carbon dioxide emissions;
+NOTING that regulating such action is within the scope of the London Protocol;
+NOTING ALSO that, since the adoption of the London Protocol, developments in technology have made it possible to capture carbon dioxide from industrial and energy-related sources, transport it and inject it into sub-seabed geological formations for long-term isolation from the atmosphere;
+NOTING FURTHER that this resolution is restricted solely to carbon dioxide sequestration in sub-seabed geological formations;
+WELCOMING the work of the Consultative Meetings. Intersessional Legal and Related Issues Working Group on CO2 Sequestration and its conclusions, as set out in its report LC/CM-CO2 1/5;
+WELCOMING ALSO the work of the Scientific Group Intersessional Technical Working Group on CO2 Sequestration and its conclusions, as set out in its report LC/SG-CO2 1/7;
+WELCOMING FURTHER the work of the Intergovernmental Panel on Climate Change and in particular its Special Report on Carbon Capture and Storage;
+DESIRING to regulate the sequestration of captured carbon dioxide streams into sub-seabed geological formations to seek to ensure protection of the marine environment;
+DESIRING ALSO, to update the London Protocol in light of these objectives;
+STRESSING that this amendment may not be interpreted as legitimizing the disposal of any other waste or other matter for the purpose of disposing of those other wastes or other matter;
+RECOGNIZING that guidance informing Parties on the means by which sub-seabed geological sequestration of carbon dioxide can be conducted in a manner that is safe for the marine environment, over the long and short term, should be developed as soon as possible, and will, when finalized form an important part of the regulation of sub-seabed geological sequestration of carbon dioxide.
+1 ADOPTS the following amendment to Annex 1 to the London Protocol, in accordance with Article 22 of the Protocol, as set out in the Annex to this resolution;
+2 REQUESTS the Scientific Group of the London Protocol to develop specific guidance on the application of Annex 2 to the Protocol to carbon dioxide sequestration in sub-seabed geological formations for consideration, with a view to adopting it, at the 2nd Meeting of Contracting Parties, and to collaborate with the Scientific Group of the London Convention; and
+3 INVITES Parties that issue permits to use, until specific guidance is completed, the best available guidance relevant to carbon dioxide sequestration in sub-seabed geological formations to ensure the protection of the marine environment, while also recognizing the requirements of Annex 2 to the London Protocol.
+ANNEX
+AMENDMENT TO ANNEX 1 TO THE LONDON PROTOCOL
+1.8 Carbon dioxide streams from carbon dioxide capture processes for sequestration .................. 4 Carbon dioxide streams referred to in paragraph 1.8 may only be considered for dumping, if:
+.1 disposal is into a sub-seabed geological formation; and
+.2 they consist overwhelmingly of carbon dioxide. They may contain incidental associated substances derived from the source material and the capture and sequestration processes used; and
+.3 no wastes or other matter are added for the purpose of disposing of those wastes or other matter.
+In paragraph 3, replace .1.7. with .1.8., to take account of the new paragraph 1.8. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

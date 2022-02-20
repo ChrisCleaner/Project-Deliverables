@@ -1,0 +1,51 @@
+
+ Amendments To Annex I (Condition Assessment Scheme) of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2005-AmendmentsCAS-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/blast/blastDataHelper.asp?data_id=15734&filename=131%2853%29.…     
+    ﻿Amendments To Annex I (Condition Assessment Scheme) of The International Convention For The Prevention Of Pollution From Ships
+Source: RESOLUTION MEPC.131(53), Adopted on 22 July 2005
+AMENDMENTS TO THE CONDITION ASSESSMENT SCHEME (CAS)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL 73/78),
+NOTING ALSO that regulation 13G of Annex I of MARPOL 73/78 specifies that the Condition Assessment Scheme, adopted by resolution MEPC.94(46), may be amended provided such amendments shall be adopted, brought into force and take effect in accordance with the provisions of article 16 of the 1973 Convention relating to amendment procedures applicable to an appendix to an Annex,
+RECALLING ALSO resolutions MEPC.99(48) and MEPC.112(50), by which the Committee adopted amendments to the Condition Assessment Scheme, in accordance with the provisions of article 16 of the 1973 Convention relating to amendment procedures applicable to an appendix to an Annex,
+HAVING ADOPTED, at its fifty-second session, the revised Annex I of MARPOL73/78 by resolution MEPC.117(52),
+RECOGNIZING the need to amend the Condition Assessment Scheme for the purpose of bringing its cross-references to MARPOL Annex I regulations in line with the new numbering system in the revised Annex I once it has entered into force,
+HAVING CONSIDERED, at its fifty-third session, the proposed amendments to the Condition Assessment Scheme,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the amendments to the Condition Assessment Scheme, the text of which is set out at Annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 July 2006, unless, prior to that date, not less than one third of the Parties to MARPOL 73/78 or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have notified to the Organization their objections to the amendments;
+3. INVITES Parties to MARPOL 73/78 to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 January 2007 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL 73/78 certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. REQUESTS FURTHER the Secretary-General to transmit copies of this resolution and its Annex to Members of the Organization which are not Parties to MARPOL 73/78;
+6. INVITES the Maritime Safety Committee to note the amendments to the Condition Assessment Scheme and take action as appropriate in the review of the Guidelines on the Enhanced Programme of Inspections during Surveys of Bulk Carriers and Oil Tankers adopted by resolution A.744(18), as amended.
+ANNEX
+AMENDMENTS TO THE CONDITION ASSESSMENT SCHEME (CAS)
+(Adopted by resolution MEPC.94(46), as amended by resolutions MEPC.99(48) and MEPC.112(50))
+The text of the CAS is amended as follows:
+1 The reference to regulation "1(26)" in paragraph 3.5 is replaced by "1.28.4". 2 The reference to regulation "4(3)" in paragraph 3.3 is replaced by "6.3". 3 The references to regulation "8(3)" in paragraphs 12.3 and 13.9.1 are replaced by "10.3". 4 The references to regulation "13F" in paragraphs 10.2.3.1 and 10.2.3.13 are replaced
+by "19".
+5 The reference to regulation "13G" in paragraph 10.2.3.13 is replaced by "20". 6 The reference to regulation "13G(3)(a) or b" in paragraph 3.6, is replaced by "20.3.1 or 20.3.2". 7 The references to regulation "13G(6)" in paragraphs 2, 5.1.1, 5.3.2, 6.1.1.7, 10.2.2.1,
+13.1.1 and 13.7 are replaced by "20.6".
+8 The references to regulation "13G(7)" in paragraphs 2, 4.3, 5.1.2, 5.3.3, 5.3.5, 6.1.1.7,
+10.2.2.2 and 13.1.2 are replaced by "20.7".
+9 The references to regulation "13H(6)(a)" in paragraphs 2, 5.1.3, 5.3.4, 6.1.1.7, 10.2.2.1,
+13.1.1 and 13.7 are replaced by "21.6.1". 10 The references to "tons" in paragraphs 3.5, 3.6, 5.1.1, 5.1.3, are replaced by "tonnes". 11 The word "metric" in the expression "metric tonnes" in paragraph 10.2.3.1 is deleted.
+The text of appendix 2 to CAS is amended as follows:
+1 The reference to regulation "13F" under heading Particulars is replaced by "19".
+2 The word "metric" in the expressio n "metric tonnes" under the heading Particulars is deleted.
+The text of appendix 3 to CAS is amended as follows:
+1 The reference to regulation "13F" in table Basic Information and Particulars is replaced by "19".
+The word "metric" in the expression "metric tonnes" in table Basic Information and Particulars is deleted.
+*** 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

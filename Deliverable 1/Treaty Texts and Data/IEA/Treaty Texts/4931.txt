@@ -1,0 +1,48 @@
+
+ Amendments to the Protocol Adopting Annex VI - Regulations For The Prevention Of Air Pollution From Ships To The International Convention For The Prevention Of Pollution From Ships - Regional arrangements for port reception facilities under MARPOL Annex VI and Certification of marine diesel engines fitted with Selective Catalytic Reduction systems under the NOx Technical Code 2008   
+     Filename: 2012-Amendment-1997-ProtocolAddingAnnexVI-1973-PollutionFromShips.EN.txt 
+ Source: http://www.amsa.gov.au/marine_environment_protection/revision_of_annexes_i_and_i…     
+    ﻿Amendments to the Protocol Adopting Annex VI - Regulations For The Prevention Of Air Pollution From Ships To The International Convention For The Prevention Of Pollution From Ships - Regional arrangements for port reception facilities under MARPOL Annex VI and Certification of marine diesel engines fitted with Selective Catalytic Reduction systems under the NOx Technical Code 2008
+Source: http://www.amsa.gov.au/marine_environment_protection/revision_of_annexes..., downloaded 20130625
+RESOLUTION MEPC.217(63) Adopted on 2 March 201
+Amendments To The Annex Of The Protocol Of 1997 To Amend The International Convention For The Prevention Of Pollution From Ships, 1973, As Modified By The Protocol Of 1978 Relating Thereto (Regional arrangements for port reception facilities under MARPOL Annex VI and Certification of marine diesel engines fitted with Selective Catalytic Reduction systems under the NOx Technical Code 2008) 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee conferred upon it by international conventions for the prevention and control of marine pollution, 
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention"), article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") and article 4 of the Protocol of 1997 to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (hereinafter referred to as the "1997 Protocol"), which together specify the amendment procedure of the 1997 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 and 1997 Protocols, 
+NOTING that, by the 1997 Protocol, Annex VI entitled Regulations for the Prevention of Air Pollution from Ships was added to the 1973 Convention (hereinafter referred to as "Annex VI"), 
+NOTING FURTHER regulation 13 of MARPOL Annex VI which makes the Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines (NOx Technical Code) mandatory under that Annex, 
+NOTING ALSO that both the revised Annex VI adopted by resolution MEPC.176(58) and the NOx Technical Code 2008 adopted by resolution MEPC.177(58) entered into force on 1 July 2010, 
+HAVING CONSIDERED draft amendments to the revised Annex VI and the NOx Technical Code 2008, 
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the amendments to Annex VI and the NOx Technical Code 2008, the text of which is set out in thet annex to the present resolution; 
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 February 2013, unless prior to that date, not less than one third of the Parties or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments; 
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 August 2013 upon their acceptance in accordance with paragraph 2 above; 
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1973 Convention, as modified by the 1978 and 1997 Protocols, certified copies of the present resolution and the text of the amendments contained in the annex; 
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1973 Convention, as modified by the 1978 and 1997 Protocols, copies of the present resolution and its annex. 
+ANNEX
+AMENDMENTS TO MARPOL ANNEX VI AND THE NOX TECHNICAL CODE 2008
+Amendments to MARPOL Annex VI
+1 New paragraph 1bis is added to regulation 17:
+1bis Small Island Developing States may satisfy the requirements in paragraph 1 of this regulation through regional arrangements when, because of those States' unique circumstances, such arrangements are the only practical means to satisfy these requirements. Parties participating in a regional arrangement shall develop a Regional Reception Facilities Plan, taking into account the guidelines developed by the Organization.
+The Government of each Party participating in the arrangement shall consult with the Organization for circulation to the Parties of the present Convention:
+.1 how the Regional Reception Facilities Plan takes into account the Guidelines;
+.2 particulars of the identified Regional Ships Waste Reception Centres; and
+.3 particulars of those ports with only limited facilities.
+Amendments to the NOX Technical Code 2008
+2 Existing paragraph 2.2.4 is replaced by the following:
+"2.2.4 Engines not pre-certified on a test-bed
+.1 There are engines which, due to their size, construction and delivery schedule, cannot be pre-certified on a test-bed. In such cases, the engine manufacturer, shipowner or shipbuilder shall make application to the Administration requesting an onboard test (see 2.1.2.2). The applicant must demonstrate to the Administration that the onboard test fully meets all of the requirements of a test-bed procedure as specified in chapter 5 of this Code. In no case shall an allowance be granted for possible deviations of measurements if an initial survey is carried out on board a ship without any valid pre-certification test. For engines undergoing an onboard certification test, in order to be issued with an EIAPP Certificate, the same procedures apply as if the engine had been pre-certified on a test-bed, subject to the limitations given in paragraph 2.2.4.2.
+.2 This pre-certification survey procedure may be accepted for an Individual Engine or for an Engine Group represented by the Parent Engine only, but it shall not be accepted for an Engine Family certification."
+3 Paragraph 2.2.5.1 is replaced by the following:
+".1 Where a NOx-reducing device is to be included within the EIAPP certification, it must be recognized as a component of the engine, and its presence shall be recorded in the engine's Technical File. The engine shall be tested with the NOx-reducing device fitted unless, due to technical and practical reasons, the combined testing is not appropriate and the procedures specified in paragraph 2.2.4.1 cannot be applied, subject to approval by the Administration. In the latter case, the applicable test procedure shall be performed and the combined engine/NOx-reducing device shall be approved and pre-certified by the Administration taking into account guidelines developed by the Organization*. However, this pre-certification is subject to the limitations given in paragraph 2.2.4.2."
+* Refer to the 2011 Guidelines addressing additional aspects to the NOx Technical Code 2008 with regard to particular requirements related to marine diesel engines fitted with selective catalytic reduction (SCR) systems adopted by resolution MEPC.198(62). 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

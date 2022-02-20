@@ -1,0 +1,97 @@
+
+ Agreement On Flood Warning For The Catchment Basin Of The Mosel   
+     Filename: 1987-FloodsMosel.EN.txt 
+ Source: UNTS Vol. 1506, 1-25969     
+    ﻿Agreement Between The Government Of The French Republic, The Government Of The Federal Republic Of Germany, And The Government Of The Grand Duchy Of Luxembourg On Flood Warning For The Catchment Basin Of The Moselle
+Source: UNTS Vol. 1506, 1-25969
+The Government of the French Republic,
+The Government of the Federal Republic of Germany, The Government of the Grand Duchy of Luxembourg,
+Desiring to expand cooperation between neighbouring countries with respect to the management of the Moselle and the Saar Rivers,
+Wishing to provide persons living along the Moselle and the Saar Rivers with better protection against floods,
+Desiring to take joint measures to improve water level information and flood warning services in the catchment basins of the Moselle,
+Bearing in mind the Frontier Treaty between the Netherlands and Prussia signed at Aachen on 26 June 1816,2
+Bearing in mind the Frontier Treaty between the Netherlands and France signed at Courtrai on 28 March 1920,3
+Bearing in mind the Convention between the Federal Republic of Germany, the French Republic and the Grand Duchy of Luxembourg concerning the canalization of the Moselle, signed at Luxembourg on 27 October 1956, and in particular article 56 thereof,
+Have agreed as follows:
+Article 1
+The Parties to this Agreement agree to install an automatic information system to report water levels in the Moselle basin. This purpose of this system is to improve flood warnings along the Moselle and Saar Rivers, particularly along their downstream sections.
+It has been decided that six automatic water-level measurement stations should be established on French territory at:
+Epinal on the Moselle,
+Damelevières on the Meurthe,
+Custines on the Moselle,
+Metz on the Moselle,
+Uckange on the Moselle,
+Wittring on the Saar,
+and that a retransmission post should be established in the Apache flood gate building.
+Article 2
+The costs of construction, renovation, alterations, large-scale repairs, maintenance, operation servicing and any water rates and all other costs incurred to ensure the proper functioning of the stations shall be allocated as follows:
+The Government of the French Republic shall defray the costs of:
+Public works at the stations and access roads;
+Electricity supply and heating;
+River gauges and water-level recorders and related instruments;
+Shaft position encoders and emergency battery systems for the stations at Damelevières, Custines and Uckange.
+The Government of the Grand Duchy of Luxembourg and the Government of the Federal Republic of Germany shall be responsible in a proportion of 37 to 447 for the costs of the following items, with the exception of those at the Wittring station on the Saar, which shall be the sole responsibility of the Federal Republic of Germany:
+Computerized recorders, voice response units, measurement indicators, including accessories and station management software, special reading devices capable of reading the recorded data;
+Digital and voice transmission systems, including accessories, and hook-ups to telecommunications networks;
+Station inquiry software, which shall be independent from the software used for the devices and from their operating system, for retrieval via central telephone lines in the Federal Republic of Germany, France and the Grand Duchy of Luxembourg, each of which shall receive one copy;
+Shaft position encoders and emergency battery systems for the stations at Metz, Epinal and Wittring.
+The execution of the work which is the responsibility of the Government of the Grand Duchy of Luxembourg pursuant to the foregoing paragraph, including the initial installation and the ongoing maintenance and servicing, shall be entrusted to the Government of the Federal Republic of Germany. The modalities for the application of the foregoing by the Federal Republic of Germany and the Grand Duchy of Luxembourg shall be the subject of a bilateral agreement between the two Governments which shall not prejudice the implementation of this Agreement.
+Any further costs not included in the foregoing list shall be shared by the three Parties in accordance with a schedule to be established on a case-by-case basis.
+Article 3
+Remote data transmission equipment shall be designed so as to allow accredited representatives of each Contracting Party access to information about water levels.
+Voice data shall be provided by the stations in the French and German languages.
+The station inquiry software to be used by the central telephone exchanges for remote digital data transmission shall be available to the three Contracting Parties.
+The hook-ups to telecommunications networks required for voice and remote digital data transmission shall be established on behalf of the South-West Regional Office for Navigable Waterways and Navigation at Mainz.
+Article 4
+The Contracting Parties agree that all the equipment mentioned in article 2, as well as any accessories thereto, shall remain the property of the Party or Parties responsible for financing them.
+The Government of the French Republic, as the owner of the buildings in which the water-level measurement stations are located, authorizes the Governments of the Federal Republic of Germany and the Grand Duchy of Luxembourg to install any equipment required for the collection and remote transmission of data.
+Personnel assigned by the respective authorities to work on construction, renovation, alterations, large-scale repairs, maintenance, operation and servicing shall be allowed access to all the installations.
+Article S
+A Technical Committee shall be established, composed of representatives of the following authorities:
+In the case of the Government of the Federal Republic of Germany:
+The South-West Regional Office for Navigable Waterways and Navigation at Mainz;
+The Office for the Management of Waterways of Rheinland-Pfalz;
+The Office for the Protection of the Environment - Nature Conservation and Water Management - of the Saarland.
+In the case of the Government of the French Republic:
+The Department of Navigation at Nancy, in the case of the Moselle, and the Department of Navigation at Strasbourg, in the case of the Saar.
+In the case of the Government of the Grand Duchy of Luxembourg:
+The Department of Navigation of the Ministry of Transport and the Waterways Division of the Highways Administration.
+The Committee shall meet as necessary at the request of one of the authorities. It may decide to hold periodic meetings.
+The Committee shall work out the details necessary for the implementation of this Agreement in a technical report.
+The Committee shall also be responsible for managing the automatic information system for reporting water levels in the Moselle basin which is the subject of this Agreement. The Committee may, with a view to improving the system, decide, inter alia, to:
+Update the technical report;
+Modify the equipment or add additional equipment;
+Delegate some of its responsibilities to one or more of the authorized persons referred to in article 4;
+Move or reconstruct one or more of the water-level measurement transmission stations.
+The Committee may also submit to the Governments proposals going beyond the tasks specified above, in particular, with respect to the transmission of additional information from existing installations.
+The decisions of the Committee shall be unanimous. Its decisions shall be binding on the Contracting Parties only in respect of the areas of competence of the responsible administrative authorities, particularly with respect to budgetary matters.
+Article 6
+The Departments of Navigation at Nancy and Strasbourg shall inspect the water-level measurement stations each month to ensure that they are functioning properly.
+Inspections shall focus primarily on a comparison of the water-level reading on the gauge with that recorded by the automatic station. The officials carrying out the inspection shall make any necessary corrections and enter them in an inspection record book. These officials shall receive their instructions from the South-West Regional Office for Navigable Waterways and Navigation.
+Biweekly inspections shall be conducted at the six stations mentioned in article 1 as soon as the early-warning mark at the Custines station (2.15 m) has been reached.
+If one of the authorities designated in article 5 notes that the remote data transmission system is malfunctioning, it shall so inform the other authorities concerned without delay. The modalities for the transmission of this information shall be worked out by the Technical Committee.
+The Departments of Navigation at Nancy and at Strasbourg shall, in so far as they are able, report any development likely to alter or to affect the measured readings, shall correct the defective data as soon as possible and shall report any data missing from the series of measurements.
+Each Contracting Party shall recognize the validity of the data transmitted by the automatic stations and of the information which they will provide to one another.
+Article 7
+The provisions agreed upon in this Agreement should enable the Government of the Grand Duchy of Luxembourg to obtain the data recorded at the water-level measurement stations mentioned in article 1, directly and via the Trier central telephone system. The data recorded at the Perl/Moselle water-level measurement station shall be made available to the Grand Duchy of Luxembourg via the Trier central telephone system.
+Article 8
+The Contracting Parties shall endeavour to improve the flood warning sytem for the Moselle and Saar Rivers by devising their own mathematical models for forecasting flooding and by exchanging information on any models which may be established in the future.
+Article 9
+This Agreement shall also apply to Land Berlin unless the Government of the Federal Republic of Germany addresses to the Governments of the French Republic and the Grand Duchy of Luxembourg a declaration to the contrary within three months from the date of entry into force of this Agreement.
+Article 10
+This Agreement shall enter into force on the date of its signature.
+DONE at Trier, on 1 October 1987, in three original copies in the French and German languages, both texts being equally authentic.
+For the Government of the French Republic: [ALAIN CARIGNON]
+For the Government of the Federal Republic of Germany: [KLAUS TOPFER] [WIEGAND PABSCH]
+For the Government of the Grand Duchy of Luxembourg: [MARCEL SCHLECHTER] 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

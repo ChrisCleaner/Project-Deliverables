@@ -1,0 +1,405 @@
+
+ Amendments To The International Convention On Standards Of Training, Certification And Watchkeeping For Seafarers - Major Revisions   
+     Filename: 1995-Amendments-1978-StandardsSeafarers.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D7864/STCWCode.pdf     
+    ﻿AMENDMENTS TO THE ANNEX TO THE INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAFARERS OF 7 JULY 1978
+SRC: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D7864/STCWCode.pdf
+THE CONFERENCE,
+RECALLING Article XII(1)(b) of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 (hereinafter referred to as "the Convention"), concerning the procedure for amending the Convention by a Conference of Parties,
+HAVING CONSIDERED amendments to the Annex to the Convention proposed and circulated to the Members of the Organization and to all Parties to the Convention, to replace the existing text of the Annex to the Convention.
+1. ADOPTS, in accordance with Article XII(1)(b)(ii) of the Convention, amendments to the Annex to the Convention, the text of which is set out in the Annex to the present resolution;
+2. DETERMINES, in accordance with Article XII(1)(a)(vii)2 of the Convention, that the amendments annexed hereto shall be deemed to have been accepted on 1 August 1996, unless, prior to that date, more than one third of Parties to the Convention or Parties, the combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's merchant shipping of ships of 100 gross register tons or more, have notified the Secretary-General that they object to the amendments;
+3. INVITES Parties to note that, in accordance with Article XII(1)(a)(ix) of the Convention, the amendments annexed hereto shall enter into force on 1 February 1997 upon being deemed to have been accepted in accordance with paragraph 2 above.
+ANNEX
+AMENDMENTS TO THE ANNEX TO THE CONVENTION
+CHAPTER I
+GENERAL PROVISIONS
+Regulation I/1
+Definitions and clarifications
+1 For the purpose of the Convention, unless expressly provided otherwise:
+.1 "Regulations" means regulations contained in the Annex to the Convention;
+.2 "Approved" means approved by the Party in accordance with these regulations;
+.3 "Master" means the person having command of a ship;
+.4 "Officer" means a member of the crew, other than the master, designated as such by national law or regulations or, in the absence of such designation, by collective agreement or custom;
+.5 "Deck officer" means an officer qualified in accordance with the provisions of Chapter II of the Convention;
+.6 "Chief mate" means the officer next in rank to the master and upon whom the command of the ship will fall in the event of the incapacity of the master;
+.7 "Engineer officer" means an officer qualified in accordance with the provisions of Chapter III of the Convention;
+.8 "Chief engineer officer" means the senior engineer officer responsible for the mechanical propulsion and the operation and maintenance of the mechanical and electrical installations of the ship;
+.9 "Second engineer officer" means the engineer officer next in rank to the chief engineer officer and upon whom the responsibility for the mechanical propulsion and the operation and maintenance of the mechanical and electrical installations of the ship will fall in the event of the incapacity of the chief engineer officer;
+.10 "Assistant engineer officer" means a person under training to become an engineer officer and designated as such by national law or regulations;
+.11 Radio operator" means a person holding an appropriate certificate issued or recognized by the Administration under the provisions of the Radio Regulations;
+.12 "Rating" means a member of the ship's crew other than the master or an officer;
+.13 "Near-coastal voyages" means voyages in the vicinity of a Party as defined by that Party;
+.14 "Propulsion power" means the total maximum continuous rated output power in kilowatts of all the ship's main propulsion machinery which appears on the ship's certificate of registry or other official document;
+.15 "Radio duties" include, as appropriate, watchkeeping and technical maintenance and repairs conducted in accordance with the Radio Regulations, the International Convention for the Safety of Life at Sea and, at the discretion of each Administration, the relevant recommendations of the Organization;
+.16 "Oil tanker" means a ship constructed and used for the carriage of petroleum and petroleum products in bulk;
+.17 "Chemical tanker" means a ship constructed or adapted and used for the carriage in bulk of any liquid product listed in Chapter 17 of the International Bulk Chemical Code;
+.18 "Liquefied gas tanker" means a ship constructed or adapted and used for the carriage in bulk of any liquefied gas or other product listed in Chapter 19 of the International Gas Carrier Code,
+.19 "Ro-ro passenger ship" means a passenger ship with ro-ro cargo spaces or special category spaces as defined in the International Convention for the Safety of Life at Sea, 1974, as amended;
+.20 "Month" means a calendar month or 30 days made up of periods of less than one month;
+.21 "STCW Code" means the Seafarers' Training, Certification and Watchkeeping (STCW) Code as adopted by the 1995 Conference resolution 2, as it may be amended:
+.22 "Function" means a group of tasks, duties and responsibilities, as specified in the STCW Code, necessary for ship operation, safety of life at sea or protection of the marine environment:
+.23 "Company" means the owner of the ship or any other organization or person such as the manager, or the bareboat charterer, who has assumed the responsibility for operation of the ship from the shipowner and who, on assuming such responsibility, has agreed to take over all the duties and responsibilities imposed on the company by these regulations;
+.24 "Appropriate certificate" means a certificate issued and endorsed in accordance with the provisions of this Annex and entitling the lawful holder thereof to serve in the capacity and perform the functions involved at the level of responsibility specified therein on a ship of the type, tonnage, power and means of propulsion concerned while engaged on the particular voyage concerned;
+.25 "Seagoing service" means service on board a ship relevant to the issue of a certificate or other qualification.
+2 These regulations are supplemented by the mandatory provisions contained in part A of the STCW Code and:
+.1 any reference to a requirement in a regulation also constitutes a reference to the corresponding section of part A of the STCW Code;
+.2 in applying these regulations, the related guidance and explanatory material contained in part B of the STCW Code should be taken into account to the greatest degree possible in order to achieve a more uniform implementation of the Convention provisions on a global basis;
+.3 amendments to part A of the STCW Code shall be adopted, brought into force and take effect in accordance with the provisions of Article XII of the Convention concerning the amendment procedure applicable to the Annex; and
+.4 part B of the STCW Code shall be amended by the Maritime Safety Committee in accordance with its rules of procedure.
+3 The references made in Article VI of the Convention to "the Administration" and "the issuing Administration" shall not be construed as preventing any Party from issuing and endorsing certificates under the provisions of these regulations.
+Regulation I/2
+Certificates and endorsements
+1 Certificates shall be in the official language or languages of the issuing country. If the language used is not English, the text shall include a translation into that language.
+2 In respect of radio operators, Parties may:
+.1 include the additional knowledge required by the relevant regulations in the examination for the issue of a certificate complying with the Radio Regulations; or
+.2 issue a separate certificate indicating that the holder has the additional knowledge required by the relevant regulations.
+3 The endorsement required by Article VI of the Convention to attest the issue of a certificate shall only be issued if all the requirements of the Convention have been complied with.
+4 At the discretion of a Party endorsements may be incorporated in the format of the certificates being issued as provided for in section A-I/2 of the STCW Code. If so incorporated the form used shall be that set forth in section A-I/2, paragraph 1. If issued otherwise, the form of endorsements used shall be that set forth in paragraph 2 of that section.
+5 An Administration which recognizes a certificate under regulation I/10 shall endorse such certificate to attest its recognition. The endorsement shall only be issued if all requirements of the Convention have been complied with. The form of the endorsement used shall be that set forth in paragraph 3 of section A-I/2 of the STCW Code.
+6 The endorsements referred to in paragraphs 3, 4 and 5:
+.1 may be issued as separate documents;
+.2 shall each be assigned a unique number, except that endorsements attesting the issue of a certificate may be assigned the same number as the certificate concerned, provided that number is unique; and
+.3 shall expire as soon as the certificate endorsed expires or is withdrawn, suspended or cancelled by the Party which issued it and, in any case, not more than five years after their date of issue.
+7 The capacity in which the holder of a certificate is authorized to serve shall be identified in the form of endorsement in terms identical to those used in the applicable safe manning requirements of the Administration.
+8 Administrations may use a format different from the format given in section A-I/2 of the STCW Code, provided that, as a minimum, the required information is provided in Roman characters and Arabic figures, taking into account the variations permitted under section A-I/2.
+9 Subject to the provisions of regulation I/10, paragraph 5, any certificate required by the Convention must be kept available in its original form on board the ship on which the holder is serving.
+Regulation I/3
+Principles governing near-coastal voyages
+1 Any Party defining near-coastal voyages for the purpose of the Convention shall not impose training, experience or certification requirements on the seafarers serving on board the ships entitled to fly the flag of another Party and engaged on such voyages in a manner resulting in more stringent requirements for such seafarers than for seafarers serving on board ships entitled to fly its own flag. In no case shall any such Party impose requirements in respect of seafarers serving on board ships entitled to fly the flag of another Party in excess of those of the Convention in respect of ships not engaged on near-coastal voyages.
+2 With respect to ships entitled to fly the flag of a Party regularly engaged on near-coastal voyages off the coast of another Party, the Party whose flag the ship is entitled to fly shall prescribe training, experience and certification requirements for seafarers serving on such ships at least equal to those of the Party off whose coast the ship is engaged, provided that they do not exceed the requirements of the Convention in respect of ships not engaged on near-coastal voyages. Seafarers serving on a ship which extends its voyage beyond what is defined as a near-coastal voyage by a Party and enters waters not covered by that definition shall fulfil the appropriate competency requirements of the Convention.
+3 A Party may afford a ship which is entitled to fly its flag the benefits of the near-coastal voyage provisions of the Convention when it is regularly engaged off the coast of a non-Party on near-coastal voyages as defined by the Party.
+4 Parties defining near-coastal voyages, in accordance with the requirements of this regulation, shall communicate to the Secretary-General, in conformity with the requirements of regulation I/7, the details of the provisions adopted.
+5 Nothing in this regulation shall, in any way, limit the jurisdiction of any State, whether or not a Party to the Convention.
+Regulation I/4
+Control procedures
+1 Control exercised by a duly authorized control officer under Article X shall be limited to the following:
+.1 verification in accordance with Article X(1) that all seafarers serving on board who are required to be certificated in accordance with the Convention hold an appropriate certificate or a valid dispensation, or provide documentary proof that an application for an endorsement has been submitted to the Administration in accordance with regulation I/10, paragraph 5;
+.2 verification that the numbers and certificates of the seafarers serving on board are in conformity with the applicable safe manning requirements of the Administration; and
+.3 assessment, in accordance with section A-I/4 of the STCW Code, of the ability of the seafarers of the ship to maintain watchkeeping standards as required by the Convention if there are clear grounds for believing that such standards are not being maintained because of any of the following have occurred:
+.3.1 the ship has been involved in a collision, grounding or stranding, or
+.3.2 there has been a discharge of substances from the ship when underway, at anchor or at berth which is illegal under any international convention, or
+.3.3 the ship has been manoeuvred in an erratic or unsafe manner whereby routeing measures adopted by the Organization or safe navigation practices and procedures have not been followed, or
+.3.4 the ship is otherwise being operated in such a manner as to pose a danger to persons, property or the environment.
+2 Deficiencies which may be deemed to pose a danger to persons, property or the environment include the following:
+.1 failure of seafarers to hold a certificate, to have an appropriate certificate, to have a valid dispensation or to provide documentary proof that an application for an endorsement has been submitted to the Administration in accordance with regulation I/10, paragraph 5;
+.2 failure to comply with the applicable safe manning requirements of the Administration;
+.3 failure of navigational or engineering watch arrangements to conform to the requirements specified for the ship by the Administration;
+.4 absence in a watch of a person qualified to operate equipment essential to safe navigation, safety radiocommunications or the prevention of marine pollution; and
+.5 inability to provide for the first watch at the commencement of a voyage and for subsequent relieving watches persons who are sufficiently rested and otherwise fit for duty.
+3 Failure to correct any of the deficiencies referred to in paragraph 2, in so far as it has been determined by the Party carrying out the control that they pose a danger to persons, property or the environment, shall be the only grounds under Article X on which a Party may detain a ship.
+Regulation I/5
+National provisions
+1 Each Party shall establish processes and procedures for the impartial investigation of any reported incompetency, act or omission, that may pose a direct threat to safety of life or property at sea or to the marine environment, by the holders of certificates or endorsements issued by that Party in connection with their performance of duties related to their certificates and for the withdrawal, suspension and cancellation of such certificates for such cause and for the prevention of fraud.
+2 Each Party shall prescribe penalties or disciplinary measures for cases in which the provisions of its national legislation giving effect to the Convention are not complied with in respect of ships entitled to fly its flag or of seafarers duly certificated by that Party.
+3 In particular, such penalties or disciplinary measures shall be prescribed and enforced in cases in which:
+.1 a company or a master has engaged a person not holding a certificate as required by the Convention;
+.2 a master has allowed any function or service in any capacity required by these regulations to be performed by a person holding an appropriate certificate, to be performed by a person not holding the required certificate, a valid dispensation or having the documentary proof required by regulation I/10, paragraph 5; or
+.3 a person has obtained by fraud or forged documents an engagement to perform any function or serve in any capacity required by these regulations to be performed or filled by a person holding a certificate or dispensation.
+4 A Party, within whose jurisdiction there is located any company which, or any person who, is believed on clear grounds to have been responsible for, or to have knowledge of, any apparent non-compliance with the Convention specified in paragraph 3, shall extend all cooperation possible to any Party which advises it of its intention to initiate proceedings under its jurisdiction
+Regulation I/6
+Training and assessment
+Each Party shall ensure that:
+.1 the training and assessment of seafarers, as required under the Convention, are administered, supervised and monitored in accordance with the provisions of section A-I/6 of the STCW Code; and
+.2 those responsible for the training and assessment of competence of seafarers, as required under the Convention, are appropriately qualified in accordance with the provisions of section A-I/6 of the STCW Code for the type and level of training or assessment involved.
+Regulation I/7
+Communication of information
+1 In addition to the information required to be communicated by Article IV, each Party shall provide to the Secretary-General within the time periods prescribed and in the format specified in section A-I/7 of the STCW Code, such other information as may be required by the Code on other steps taken by the Party to give the Convention full and complete effect.
+2 When complete information as prescribed in Article IV and section A-I/7 of the STCW Code has been received and such information confirms that full and complete effect is given to the provisions of the Convention, the Secretary-General shall submit a report to this effect to the Maritime Safety Committee.
+3 Following subsequent confirmation by the Maritime Safety Committee, in accordance with procedures adopted by the Committee, that the information which has been provided demonstrates that full and complete effect is given to the provisions of the Convention:
+.1 the Maritime Safety Committee shall identify the Parties so concerned; and
+.2 other Parties shall be entitled, subject to the provisions of regulations I/4 and I/10, to accept, in principle, that certificates issued by or on behalf of the Parties identified in paragraph 3.1 are in compliance with the Convention.
+Regulation I/8
+Quality standards
+1 Each Party shall ensure that:
+.1 in accordance with the provisions of section A-I/8 of the STCW Code, all training, assessment of competence, certification, endorsement and revalidation activities carried out by non-governmental agencies or entities under its authority are continuously monitored through a quality standards system to ensure achievement of defined objectives, including those concerning the qualifications and experience of instructors and assessors; and
+.2 where governmental agencies or entities perform such activities, there shall be a quality standards system.
+2 Each Party shall also ensure that an evaluation is periodically undertaken in accordance with the provisions of section A-I/8 of the STCW Code by qualified persons who are not themselves involved in the activities concerned.
+3 Information relating to the evaluation required by paragraph 2 shall be communicated to the Secretary-General.
+Regulation I/9
+Medical standards - Issue and registration of certificates
+1 Each Party shall establish standards of medical fitness for seafarers, particularly regarding eyesight and hearing.
+2 Each Party shall ensure that certificates are issued only to candidates who comply with the requirements of this regulation.
+3 Candidates for certification shall provide satisfactory proof:
+.1 of their identity;
+.2 that their age is not less than that prescribed in the regulation relevant to the certificate applied for;
+.3 that they meet the standards of medical fitness, particularly regarding eyesight and hearing, established by the Party, and hold a valid document attesting to their medical fitness, issued by a duly qualified medical practitioner recognized by the Party;
+.4 of having completed the seagoing service and any related compulsory training required by these regulations for the certificate applied for; and
+.5 that they meet the standards of competence prescribed by these regulations for the capacities, functions and levels that are to be identified in the endorsement to the certificate.
+4 Each Party undertakes to:
+.1 maintain a register or registers of all certificates and endorsements for masters and officers and, as appropriate, ratings, which are issued, have expired or have been revalidated, suspended, cancelled or reported lost or destroyed and of dispensations issued; and
+.2 make available information on the status of such certificates, endorsements and dispensations to other Parties and companies which request verification of the authenticity and validity of certificates produced to them by seafarers seeking recognition of their certificates under regulation I/10 or employment on board ship.
+Regulation I/10
+Recognition of certificates
+1 Each Administration shall ensure that the provisions of this regulation are complied with, in order to recognize, by endorsement in accordance with regulation I/2, paragraph 5, a certificate issued by or under the authority of another Party to a master, officer or radio operator and that:
+.1 the Administration has confirmed, through all necessary measures, which may include inspection of facilities and procedures, that the requirements concerning standards of competence, the issue and endorsement of certificates and record keeping are fully complied with; and
+.2 an undertaking is agreed with the Party concerned that prompt notification will be given of any significant change in the arrangements for training and certification provided in compliance with the Convention.
+2 Measures shall be established to ensure that seafarers who present, for recognition, certificates issued under the provisions of regulations II/2, III/2 or III/3, or issued under VII/1 at the management level, as defined in the STCW Code, have an appropriate knowledge of the maritime legislation of the Administration relevant to the functions they are permitted to perform.
+3 Information provided and measures agreed upon under this regulation shall be communicated to the Secretary-General in conformity with the requirements of regulation I/7.
+4 Certificates issued by or under the authority of a non-Party shall not be recognized.
+5 Notwithstanding the requirement of regulation I/2, paragraph 5, an Administration may, if circumstances require, allow a seafarer to serve in a capacity, other than radio officer or radio operator, except as provided by the Radio Regulations, for a period not exceeding three months on board a ship entitled to fly its flag, while holding an appropriate and valid certificate issued and endorsed as required by another Party for use on board that Party's ships but which has not yet been endorsed so as to render it appropriate for service on board ships entitled to fly the flag of the Administration. Documentary proof shall be readily available that application for an endorsement has been submitted to the Administration.
+6 Certificates and endorsements issued by an Administration under the provisions of this regulation in recognition of, or attesting the recognition of, a certificate issued by another Party, shall not be used as the basis for further recognition by another Administration.
+Regulation I/11
+Revalidation of certificates
+1 Every master, officer and radio operator holding a certificate issued or recognized under any Chapter of the Convention other than Chapter VI, who is serving at sea or intends to return to sea after a period ashore shall, in order to continue to qualify for seagoing service, be required at intervals not exceeding five years to:
+.1 meet the standards of medical fitness prescribed by regulation I/9; and
+.2 establish continued professional competence in accordance with section A-I/11 of the STCW Code.
+2 Every master, officer and radio operator shall, for continuing seagoing service on board ships for which special training requirements have been internationally agreed upon, successfully complete approved relevant training.
+3 Each Party shall compare the standards of competence which it required of candidates for certificates issued before 1 February 2002 with those specified for the appropriate certificate in part A of the STCW Code, and shall determine the need for requiring the holders of such certificates to undergo appropriate refresher and updating training or assessment.
+4 The Party shall, in consultation with those concerned, formulate or promote the formulation of a structure of refresher and updating courses as provided for in section A-I/11 of the STCW Code.
+5 For the purpose of updating the knowledge of masters, officers and radio operators, each Administration shall ensure that the texts of recent changes in national and international regulations concerning the safety of life at sea and the protection of the marine environment are made available to ships entitled to fly its flag.
+Regulation I/12
+Use of simulators
+1 The performance standards and other provisions set forth in section A-I/12 and such other requirements as are prescribed in part A of the STCW Code for any certificate concerned shall be complied with in respect of:
+.1 all mandatory simulator-based training;
+.2 any assessment of competency required by part A of the STCW Code which is carried out by means of a simulator; and
+.3 any demonstration, by means of a simulator, of continued proficiency required by part A of the STCW Code.
+2 Simulators installed or brought into use prior to 1 February 2002 may be exempted from full compliance with the performance standards referred to in paragraph 1, at the discretion of the Party concerned.
+Regulation I/13
+Conduct of trials
+1 These regulations shall not prevent an Administration from authorizing ships entitled to fly its flag to participate in trials.
+2 For the purposes of this regulation, the term "trial" means an experiment or series of experiments, conducted over a limited period, which may involve the use of automated or integrated systems in order to evaluate alternative methods of performing specific duties or satisfying particular arrangements prescribed by the Convention, which would provide at least the same degree of safety and pollution prevention as provided by these regulations.
+3 The Administration authorizing ships to participate in trials shall be satisfied that such trials are conducted in a manner that provides at least the same degree of safety and pollution prevention as provided by these regulations. Such trials shall be conducted in accordance with guidelines adopted by the Organization.
+4 Details of such trials shall be reported to the Organization as early as practicable but not less than six months before the date on which the trials are scheduled to commence. The Organization shall circulate such particulars to all Parties.
+5 The results of trials authorized under paragraph 1, and any recommendations the Administration may have regarding those results, shall be reported to the Organization, which shall circulate such results and recommendations to all Parties.
+6 Any Party having any objection to particular trials authorized in accordance with this regulation should communicate such objection to the Organization as early as practicable. The Organization shall circulate details of the objection to all Parties.
+7 An Administration which has authorized a trial shall respect objections received from other Parties relating to such trial by directing ships entitled to fly its flag not to engage in a trial while navigating in the waters of a coastal State which has communicated its objection to the Organization.
+8 An Administration which concludes, on the basis of a trial, that a particular system will provide at least the same degree of safety and pollution prevention as provided by these regulations may authorize ships entitled to fly its flag to continue to operate with such a system indefinitely, subject to the following requirements:
+.1 the Administration shall, after results of the trial have been submitted in accordance with paragraph 5, provide details of any such authorization, including identification of the specific ships which may be subject to the authorization, to the Organization, which will circulate this information to all Parties;
+.2 any operations authorized under this paragraph shall be conducted in accordance with any guidelines developed by the Organization, to the same extent as they apply during a trial;
+.3 such operations shall respect any objections received from other Parties in accordance with paragraph 7, to the extent such objections have not been withdrawn; and
+.4 an operation authorized under this paragraph shall only be permitted pending a determination by the Maritime Safety Committee as to whether an amendment to the Convention would be appropriate, and, if so, whether the operation should be suspended or permitted to continue before the amendment enters into force.
+9 At the request of any Party, the Maritime Safety Committee shall establish a date for the consideration of the trial results and for the appropriate determinations.
+Regulation I/14
+Responsibilities of companies
+1 Each Administration shall, in accordance with the provisions of section A-I/14, hold companies responsible for the assignment of seafarers for service in their ships in accordance with the provisions of the present Convention, and shall require every such company to ensure that:
+.1 each seafarer assigned to any of its ships holds an appropriate certificate in accordance with the provisions of the Convention and as established by the Administration;
+.2 its ships are manned in compliance with the applicable safe manning requirements of the Administration;
+.3 documentation and data relevant to all seafarers employed on its ships are maintained and readily accessible, and include, without being limited to, documentation and data on their experience, training, medical fitness and competency in assigned duties;
+.4 seafarers on being assigned to any of its ships are familiarized with their specific duties and with all ship arrangements, installations, equipment, procedures and ship characteristics that are relevant to their routine or emergency duties; and
+.5 the ship's complement can effectively coordinate their activities in an emergency situation and in performing functions vital to safety or to the prevention or mitigation of pollution.
+Regulation I/15
+Transitional provisions
+1 Until 1 February 2002, a Party may continue to issue, recognize and endorse certificates in accordance with the provisions of the Convention which applied immediately prior to 1 February 1997 in respect of those seafarers who commenced approved seagoing service, an approved education and training program or an approved training course before 1 August 1998.
+2 Until 1 February 2002, a Party may continue to renew and revalidate certificates and endorsements in accordance with the provisions of the Convention which applied immediately prior to 1 February 1997.
+3 Where a Party, pursuant to regulation I/11, reissues or extends the validity of certificates originally issued by that Party under the provisions of the Convention which applied immediately prior to 1 February 1997, the Party may, at its discretion, replace tonnage limitations appearing on the original certificates as follows:
+.1 "200 gross registered tons" may be replaced by "500 gross tonnage"; and
+.2 "1,600 gross registered tons" may be replaced by "3,000 gross tonnage".
+CHAPTER II
+MASTER AND DECK DEPARTMENT
+Regulation II/1
+Mandatory minimum requirements for certification of officers in charge of a navigational watch on ships or 500 gross tonnage or more
+1 Every officer in charge of a navigational watch serving on a seagoing ship of 500 gross tonnage or more shall hold an appropriate certificate.
+2 Every candidate for certification shall:
+.1 be not less than 18 years of age;
+.2 have approved seagoing service of not less than one year as part of an approved training program which includes on-board training which meets the requirements of section A-II/1 of the STCW Code and is documented in an approved training record book, or otherwise have approved seagoing service of not less than three years;
+.3 have performed, during the required seagoing service, bridge watchkeeping duties under the supervision of the master or a qualified officer for a period of not less than six months;
+.4 meet the applicable requirements of the regulations in Chapter IV, as appropriate, for performing designated radio duties in accordance with the Radio Regulations; and
+.5 have completed approved education and training and meet the standard of competence specified in section A-II/1 of the STCW Code.
+Regulation II/2
+Mandatory minimum requirements for certification of masters and chief mates on ships of 500 gross tonnage or more
+Master and chief mate on ships of 3,000 gross tonnage or more
+1 Every master and chief mate on a seagoing ship of 3,000 gross tonnage or more shall hold an appropriate certificate.
+2 Every candidate for certification shall:
+.1 meet the requirements for certification as an officer in charge of a navigational watch on ships of 500 gross tonnage or more and have approved seagoing service in that capacity:
+.1.1 for certification as chief mate, not less than 12 months, and
+.1.2 for certification as master, not less than 36 months; however, this period may be reduced to not less than 24 months if not less than 12 months of such seagoing service has been served as chief mate; and
+.2 have completed approved education and training and meet the standard of competence specified in section A-II/2 of the STCW Code for masters and chief mates on ships of 3,000 gross tonnage or more.
+Master and chief mate on ships of between 500 and 3,000 gross tonnage
+3 Every master and chief mate on a seagoing ship of between 500 and 3,000 gross tonnage shall hold an appropriate certificate.
+4 Every candidate for certification shall:
+.1 for certification as chief mate, meet the requirements of an officer in charge of a navigational watch on ships of 500 gross tonnage or more;
+.2 for certification as master, meet the requirements of an officer in charge of a navigational watch on ships of 500 gross tonnage or more and have approved seagoing service of not less than 36 months in that capacity; however, this period may be reduced to not less than 24 months if not less than 12 months of such seagoing service has been served as chief mate, and
+.3 have completed approved training and meet the standard of competence specified in section A-II/2 of the STCW Code for masters and chief mates on ships of between 500 and 3,000 gross tonnage.
+Regulation II/3
+Mandatory minimum requirements for certification of officers in charge of a navigational watch and of masters on ships of less than 500 gross tonnage
+Ships not engaged on near-coastal voyages
+1 Every officer in charge of a navigational watch serving on a seagoing ship of less than 500 gross tonnage not engaged on near-coastal voyages shall hold an appropriate certificate for ships of 500 gross tonnage or more.
+2 Every master serving on a seagoing ship of less than 500 gross tonnage not engaged on near-coastal voyages shall hold an appropriate certificate for service as master on ships of between 500 and 3,000 gross tonnage.
+Ships engaged on near-coastal voyages
+Officer in charge of a navigational watch
+3 Every officer in charge of a navigational watch on a seagoing ship of less than 500 gross tonnage engaged on near-coastal voyages shall hold an appropriate certificate.
+4 Every candidate for certification as officer in charge of a navigational watch on a seagoing ship of less than 500 gross tonnage engaged on near-coastal voyages shall:
+.1 be not less than 18 years of age;
+.2 have completed:
+.2.1 special training, including an adequate period of appropriate seagoing service as required by the Administration, or
+.2.2 approved seagoing service in the deck department of not less than three years;
+.3 meet the applicable requirements of the regulations in Chapter IV, as appropriate, for performing designated radio duties in accordance with the Radio Regulations; and
+.4 have completed approved education and training and meet the standard of competence specified in section A-II/3 of the STCW Code for officers in charge of a navigational watch on ships of less than 500 gross tonnage engaged on near-coastal voyages
+Master
+5 Every master serving on a seagoing ship of less than 500 gross tonnage engaged on near-coastal voyages shall hold an appropriate certificate.
+6 Every candidate for certification as master on a seagoing ship of less than 500 gross tonnage engaged on near-coastal voyages shall:
+.1 be not less than 20 years of age;
+.2 have approved seagoing service of not less than 12 months as officer in charge of a navigational watch; and
+.3 have completed approved education and training and meet the standard of competence specified in section A-II/3 of the STCW Code for masters on ships of less than 500 gross tonnage engaged on near-coastal voyages.
+7 Exemptions
+The Administration, if it considers that a ship's size and the conditions of its voyage are such as to render the application of the full requirements of this regulation and section A-II/3 of the STCW Code unreasonable or impracticable, may to that extent exempt the master and the officer in charge of a navigational watch on such a ship or class of ships from some of the requirements, bearing in mind the safety of all ships which may be operating in the same waters.
+Regulation II/4
+Mandatory minimum requirements for certification of ratings forming part of a navigational watch
+1 Every rating forming part of a navigational watch on a seagoing ship of 500 gross tonnage or more, other than ratings under training and ratings whose duties while on watch are of an unskilled nature, shall be duly certificated to perform such duties.
+2 Every candidate for certification shall:
+.1 be not less than 16 years of age;
+.2 have completed:
+.2. l approved seagoing service including not less than six months training and experience, or
+.2.2 special training, either pre-sea or on board ship, including an approved period of seagoing service which shall not be less than two months; and
+.3 meet the standard of competence specified in section A-II/4 of the STCW Code.
+3 The seagoing service, training and experience required by sub-paragraphs 2.2.1 and 2.2.2 shall be associated with navigational watchkeeping functions and involve the performance of duties carried out under the direct supervision of the master, the officer in charge of the navigational watch or a qualified rating.
+4 Seafarers may be considered by the Party to have met the requirements of this regulation if they have served in a relevant capacity in the deck department for a period of not less than one year within the last five years preceding the entry into force of the Convention for that Party.
+CHAPTER III
+ENGINE DEPARTMENT
+Regulation III/1
+Mandatory minimum requirements for certification of officers in charge of an engineering watch in a manned engine-room or designated duty engineers in a periodically unmanned engine-room
+1 Every officer in charge of an engineering watch in a manned engine-room or designated duty engineer officer in a periodically unmanned engine-room on a seagoing ship powered by main propulsion machinery of 750 kW propulsion power or more shall hold an appropriate certificate.
+2 Every candidate for certification shall:
+.1 be not less than 18 years of age;
+.2 have completed not less than six months seagoing service in the engine department in accordance with section A-III/1 of the STCW Code; and
+.3 have completed approved education and training of at least 30 months which includes on-board training documented in an approved training record book and meet the standards of competence specified in section A-III/1 of the STCW Code.
+Regulation III/2
+Mandatory minimum requirements for certification of chief engineer officers and second engineer officers on ships powered by main propulsion machinery of 3,000 kW propulsion power or more
+1 Every chief engineer officer and second engineer officer on a seagoing ship powered by main propulsion machinery of 3,000 kW propulsion power or more shall hold an appropriate certificate.
+2 Every candidate for certification shall:
+.1 meet the requirements for certification as an officer in charge of an engineering watch and:
+.1.1 for certification as second engineer officer, shall have not less than 12 months' approved seagoing service as assistant engineer officer or engineer officer, and
+.1.2 for certification as chief engineer officer, shall have not less than 36 months' approved seagoing service of which not less than 12 months shall have been served as an engineer officer in a position of responsibility while qualified to serve as second engineer officer; and
+.2 have completed approved education and training and meet the standard of competence specified in section A-III/2 of the STCW Code.
+Regulation III/3
+Mandatory minimum requirements for certification of chief engineer officers and second engineer officers on ships powered by main propulsion machinery of between 750 kW and 3,000 kW propulsion power
+1 Every chief engineer officer and second engineer officer on a sea-going ship powered by main propulsion machinery between 750 and 3,000 kW propulsion power shall hold an appropriate certificate.
+2 Every candidate for certification shall:
+.1 meet the requirements for certification as an officer in charge of an engineering watch and:
+.1.1 for certification as second engineer officer, shall have not less than 12 months' approved seagoing service as assistant engineer officer or engineer officer, and
+.1.2 for certification as chief engineer officer, shall have not less than 24 months' approved seagoing service of which not less than 12 months shall be served while qualified to serve as second engineer officer; and
+.2 have completed approved education and training and meet the standard of competence specified in section A-III/3 of the STCW Code
+3 Every engineer officer who is qualified to service as second engineer officer on ships powered by main propulsion machinery of 3,000 kW propulsion power or more, may serve as chief engineer officer on ships powered by main propulsion machinery of less than 3,000 kW propulsion power, provided that not less than 12 months' approved seagoing service shall have been served as an engineer officer in a position of responsibility and the certificate is so endorsed.
+Regulation III/4
+Mandatory minimum requirements for certification of ratings forming part of a watch in a manned engine-room or designated to perform duties in a periodically unmanned engine-room
+1 Every rating forming part of an engine-room watch or designated to perform duties in a periodically unmanned engine-room on a seagoing ship powered by main propulsion machinery of 750 kW propulsion power or more, other than ratings under training and ratings whose duties are of an unskilled nature, shall be duly certificated to perform such duties.
+2 Every candidate for certification shall:
+.1 be not less than 16 years of age;
+.2 have completed:
+.2.1 approved seagoing service including not less than six months training and experience, or
+.2.2 special training, either pre-sea or on board ship, including an approved period of seagoing service which shall not be less than two months; and
+.3 meet the standard of competence specified in section A-III/4 of the STCW Code.
+3 The seagoing service, training and experience required by sub-paragraphs 2.2.1 and 2.2.2 shall be associated with engine-room watchkeeping functions and involve the performance of duties carried out under the direct supervision of a qualified engineer officer or a qualified rating.
+4 Seafarers may be considered by the Party to have met the requirements of this regulation if they have served in a relevant capacity in the engine department for a period of not less than one year within the last five years preceding the entry into force of the Convention for that Party.
+CHAPTER IV
+RADIOCOMMUNICATION AND RADIO PERSONNEL
+Explanatory note:
+Mandatory provisions relating to radio watchkeeping are set forth in the Radio Regulations and in the International Convention for the Safety of Life at Sea, 1974, as amended. Provisions for radio maintenance are set forth in the International Convention for the Safety of Life at Sea, 1974, as amended, and the guidelines adopted by the Organization.
+Regulation IV/1
+Application
+1 Except as provided in paragraph 3, the provisions of this Chapter apply to radio personnel on ships operating in the global maritime distress and safety system (GMDSS) as prescribed by the International Convention for the Safety of Life at Sea, 1974, as amended.
+2 Until 1 February 1999, radio personnel on ships complying with the provisions of the International Convention for the Safety of Life at Sea, 1974, in force immediately prior to 1 February 1992 shall comply with the provisions of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, in force prior to 1 December 1992.
+3 Radio personnel on ships not required to comply with the provisions of the GMDSS in Chapter IV of the SOLAS Convention are not required to meet the provisions of this Chapter. Radio personnel on these ships are, nevertheless, required to comply with the Radio Regulations. The Administration shall ensure that the appropriate certificates as prescribed by the Radio Regulations are issued to or recognized in respect of such radio personnel.
+Regulation IV/2
+Mandatory minimum requirements for certification of GMDSS radio personnel
+1 Every person in charge of or performing, radio duties on a ship required to participate in the GMDSS shall hold an appropriate certificate related to the GMDSS, issued or recognized by the Administration under the provisions of the Radio Regulations.
+2 In addition, every candidate for certification under this regulation for service on a ship which is required by the International Convention for the Safety of Life at Sea, 1974, as amended, to have a radio installation shall:
+.1 be not less than 18 years of age; and
+.2 have completed approved education and training and meet the standard of competence specified in section A-IV/2 of the STCW Code.
+CHAPTER V
+SPECIAL TRAINING REQUIREMENTS FOR PERSONNEL ON CERTAIN TYPES OF SHIPS
+Regulation V/1
+Mandatory minimum requirements for the training and qualification of masters, officers and ratings on tankers
+1 Officers and ratings assigned specific duties and responsibilities related to cargo or cargo equipment on tankers shall have completed an approved shore-based fire-fighting course in addition to the training required by regulation VI/1 and shall have completed:
+.1 at least three months of approved seagoing service on tankers in order to acquire adequate knowledge of safe operational practices; or
+.2 an approved tanker familiarization course covering at least the syllabus given for that course in section A-V/1 of the STCW Code, so however that, the Administration may accept a period of supervised seagoing service shorter than that prescribed by sub-paragraph .1, provided:
+.3 the period so accepted is not less than one month;
+.4 the tanker is of less than 3,000 gross tonnage;
+.5 the duration of each voyage on which the tanker is engaged during the period does not exceed 72 hours; and
+.6 the operational characteristics of the tanker and the number of voyages and loading and discharging operations completed during the period, allow the same level of knowledge and experience to be acquired.
+2 Masters, chief engineer officers, chief mates, second engineer officers and any person with immediate responsibility for loading, discharging and care in transit or handling of cargo shall, in addition to meeting the requirements of sub-paragraphs 1.1 or 1.2, have:
+.1 experience appropriate to their duties on the type of tanker on which they serve; and
+.2 completed an approved specialized training program which at least covers the subjects set out in section A-V/1 of the STCW Code that are appropriate to their duties on the oil tanker, chemical tanker or liquefied gas tanker on which they serve.
+3 Within two years after the entry into force of the Convention for a Party, seafarers may be considered to have met the requirements of sub-paragraph 2.2 if they have served in a relevant capacity on board the type of tanker concerned for a period of not less than one year within the preceding five years.
+4 Administrations shall ensure that an appropriate certificate is issued to masters and officers, who are qualified in accordance with paragraphs 1 or 2 as appropriate, or that an existing certificate is duly endorsed. Every rating who is so qualified shall be duly certificated.
+Regulation V/2
+Mandatory minimum requirements for the training and qualifications of masters, officers, ratings and other personnel on ro-ro passenger ships
+1 This regulation applies to masters, officers, ratings and other personnel serving on board ro-ro passenger ships engaged on international voyages. Administrations shall determine the applicability of these requirements to personnel serving on ro-ro passenger ships engaged on domestic voyages.
+2 Prior to being assigned shipboard duties on board ro-ro passenger ships, seafarers shall have completed the training required by paragraphs 4 to 8 below in accordance with their capacity, duties and responsibilities.
+3 Seafarers who are required to be trained in accordance with paragraphs 4, 7 and 8 below shall, at intervals not exceeding five years, undertake appropriate refresher training.
+4 Master, officers and other personnel designated on muster lists to assist passengers in emergency situations on board ro-ro passenger ships shall have completed training in crowd management as specified in section A-V/2, paragraph 1 of the STCW Code.
+5 Masters, officers and other personnel assigned specific duties and responsibilities on board ro-ro passenger ships shall have completed the familiarization training specified in section A-V/2, paragraph 2 of the STCW Code.
+6 Personnel providing direct service to passengers in passenger spaces on board ro-ro passenger ships shall have completed the safety training specified in section A-V/2, paragraph 3 of the STCW Code.
+7 Masters, chief mates, chief engineer officers, second engineer officers and every person assigned immediate responsibility for embarking and disembarking passengers, loading, discharging or securing cargo, or closing hull openings on board ro-ro passenger ships shall have completed approved training in passenger safety, cargo safety and hull integrity as specified in section A-V/2, paragraph 4 of the STCW Code.
+8 Masters, chief mates, chief engineer officers, second engineer officers and any person having responsibility for the safety of passengers in emergency situations on board ro-ro passenger ships shall, have completed approved training in crisis management and human behaviour as specified in section A-V/2, paragraph 5 of the STCW Code.
+9 Administrations shall ensure that documentary evidence of the training which has been completed is issued to every person found qualified under the provisions of this regulation.
+CHAPTER VI
+EMERGENCY, OCCUPATIONAL SAFETY, MEDICAL CARE AND SURVIVAL FUNCTIONS
+Regulation VI/1
+Mandatory minimum requirements for familiarization, basic safety training and instruction for all seafarers
+Seafarers shall receive familiarization and basic safety training or instruction in accordance with section A-VI/1 of the STCW Code and shall meet the appropriate standard of competence specified therein.
+Regulation VI/2
+Mandatory minimum requirements for the issue of certificates of proficiency in survival craft, rescue boats and fast rescue boats
+1 Every candidate for a certificate of proficiency in survival craft and rescue boats other than fast rescue boats shall:
+.1 be not less than 18 years of age;
+.2 have approved seagoing service of not less than 12 months or have attended an approved training course and have approved seagoing service of not less than six months; and
+.3 meet the standard of competence for certificates of proficiency in survival craft and rescue boats set out in section A-VI/2, paragraphs 1 to 4 of the STCW Code
+2 Every candidate for a certificate of proficiency in fast rescue boats shall:
+.1 be the holder of a certificate of proficiency in survival craft and rescue boats other than fast rescue boats;
+.2 have attended an approved training course; and
+.3 meet the standard of competence for certificates of proficiency in fast rescue boats set out in section A-VI/2, paragraphs 5 to 8 of the STCW Code.
+Regulation VI/3
+Mandatory minimum requirements for training in advanced fire-fighting
+1 Seafarers designated to control fire-fighting operations shall have successfully completed advanced training in techniques for fighting fire with particular emphasis on organization, tactics and command in accordance with the provisions of section A-VI/3 of the STCW Code and shall meet the standard of competence specified therein.
+2 Where training in advanced fire-fighting is not included in the qualifications for the certificate to be issued, a special certificate or documentary evidence, as appropriate, shall be issued indicating that the holder has attended a course of training in advanced fire-fighting.
+Regulation VI/4
+Mandatory minimum requirements relating to medical first aid and medical care
+1 Seafarers designated to provide medical first aid on board ship shall meet the standard of competence in medical first aid specified in section A-VI/4, paragraphs 1 to 3 of the STCW Code.
+2 Seafarers designated to take charge of medical care on board ship shall meet the standard of competence in medical care on board ships specified in section A-VI/4, paragraphs 4 to 6 of the STCW Code.
+3 Where training in medical first aid or medical care is not included in the qualifications for the certificate to be issued, a special certificate or documentary evidence, as appropriate, shall be issued indicating that the holder has attended a course of training in medical first aid or in medical care.
+CHAPTER VII
+ALTERNATIVE CERTIFICATION
+Regulation VII/1
+Issue of alternative certificates
+1 Notwithstanding the requirements for certification laid down in Chapters II and III of this Annex, Parties may elect to issue or authorize the issue of certificates other than those mentioned in the regulations of those Chapters, provided that:
+.1 the associated functions and levels of responsibility to be stated on the certificates and in the endorsements are selected from and identical to those appearing in sections A-II/1, A-II/2, A-II/3, A-II/4, A-III/1, A-III/2, A-III/3, A-III/4 and A-IV/2 of the STCW Code;
+.2 the candidates have completed approved education and training and meet the requirements for standards of competence, prescribed in the relevant sections of the STCW Code and as set forth in section A-VII/1 of this Code, for the functions and levels that are to be stated on the certificates and in the endorsements;
+.3 the candidates have completed approved seagoing service appropriate to the performance of the functions and levels that are to be stated on the certificate. The minimum duration of seagoing service shall be equivalent to the duration of seagoing service prescribed in Chapters II and III of this Annex. However, the minimum duration of seagoing service shall be not less than as prescribed in section A-VII/2 of the STCW Code;
+.4 the candidates for certification who are to perform the function of navigation at the operational level shall meet the applicable requirements of the regulations in Chapter IV, as appropriate, for performing designated radio duties in accordance with the Radio Regulations; and
+.5 the certificates are issued in accordance with the requirements of regulation I/9 and the provisions set forth in Chapter VII of the STCW Code.
+2 No certificate shall be issued under this Chapter unless the Party has communicated information to the Organization in accordance with Article IV and regulation I/7.
+Regulation VII/2
+Certification of seafarers
+Every seafarer who performs any function or group of functions specified in tables A-II/1, A-II/2, A-II/3 or A-II/4 of Chapter II or in tables A-III/1, A-III/2, A-III/4 of Chapter III or A-IV/2 of Chapter IV of the STCW Code, shall hold an appropriate certificate.
+Regulation VII/3
+Principles governing the issue of alternative certificates
+1 Any Party which elects to issue or authorize the issue of alternative certificates shall ensure that the following principles are observed:
+.1 any alternative certification system shall be implemented unless it ensures a degree of safety at sea and has a preventive effect as regards pollution at least equivalent to that provided by the other Chapters; and
+.2 any arrangement for alternative certification issued under this Chapter shall provide for the interchangeability of certificates with those issued under the other Chapters.
+2 The principle of interchangeability in paragraph 1 shall ensure that:
+.1 seafarers certificated under the arrangements of Chapters II and/or III and those certificated under Chapter VII are able to serve on ships which have either traditional or other forms of shipboard organization; and
+.2 seafarers are not trained for specific shipboard arrangements in such a way as would impair their ability to take their skills elsewhere.
+3 In issuing any certificate under the provisions of this Chapter the following principles shall be taken into account:
+.1 the issue of alternative certificates shall not be used in itself:
+.1 to reduce the number of crew on board,
+.2 to lower the integrity of the profession or "de-skill" seafarers, or
+.3 to justify the assignment of the combined duties of the engine and deck watchkeeping officers to a single certificate holder during any particular watch; and
+.2 the person in command shall be designated as the master; and the legal position and authority of the master and others shall not be adversely affected by the implementation of any arrangement for alternative certification.
+4 The principles contained in paragraphs 1 and 2 of this regulation shall ensure that the competency of both deck and engineer officers is maintained.
+CHAPTER VIII
+WATCHKEEPING
+Regulation VIII/1
+Fitness for duty
+Each Administration shall, for the purpose of preventing fatigue:
+.1 establish and enforce rest periods for watchkeeping personnel; and
+.2 require that watch systems are so arranged that the efficiency of all watchkeeping personnel is not impaired by fatigue and that duties are so organized that the first watch at the commencement of a voyage and subsequent relieving watches are sufficiently rested and otherwise fit for duty.
+Regulation VIII/2
+Watchkeeping arrangements and principles to be observed
+1 Administrations shall direct the attention of companies, masters, chief engineer officers and all watchkeeping personnel to the requirements, principles and guidance set out in the STCW Code which shall be observed to ensure that a safe continuous watch or watches appropriate to the prevailing circumstances and conditions are maintained in all seagoing ships at all times.
+2 Administrations shall require the master of every ship to ensure that watchkeeping arrangements are adequate for maintaining a safe watch or watches, taking into account the prevailing circumstances and conditions and that, under the master's general direction:
+.1 officers in charge of the navigational watch are responsible for navigating the ship safely during their periods of duty, when they shall be physically present on the navigating bridge or in a directly associated location such as the chartroom or bridge control room at all times;
+.2 radio operators are responsible for maintaining a continuous radio watch on appropriate frequencies during their periods of duty;
+.3 officers in charge of an engineering watch, as defined in the STCW Code and under the direction of the chief engineer officer, shall be immediately available and on call to attend the machinery spaces and, when required, shall be physically present in the machinery space during their periods of responsibility; and
+.4 an appropriate and effective watch or watches are maintained for the purpose of safety at all times, while the ship is at anchor or moored and, if the ship is carrying hazardous cargo, the organization of such watch or watches takes full account of the nature, quantity, packing and stowage of the hazardous cargo and of any special conditions prevailing on board, afloat or ashore. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

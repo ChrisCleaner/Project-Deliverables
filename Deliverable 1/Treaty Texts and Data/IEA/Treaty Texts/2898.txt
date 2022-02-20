@@ -1,0 +1,150 @@
+
+ Amendments To Appendices III To The Convention On International Trade In Endangered Species Of Wild Fauna And Flora (COP-2, 1979)   
+     Filename: 1979-AmendmentsAppendixIII-1973-TradeEndangeredSpecies.EN.txt 
+ Source: http://www.cites.org/eng/cop/02/prop/index.shtml     
+    ﻿Convention On International Trade In Endangered Species Of Wild Fauna And Flora, Washington, March 3, 1973 Appendix III As At June 28, 1979
+Source: Text provided by courtesy of the Secretary General/Convention on International Trade in Endangered Species of Wild Fauna and Flora, Gland, Switzerland.
+Interpretation:
+1. Species included in this appendix are referred to:
+a) by the name of the species; or
+b) as being all of the species included in a higher taxon or designated part thereof.
+2. The abbreviation "spp." is used to denote all species of a higher taxon.
+3. Other references to taxa higher than species are for the purpose of information or classification only.
+4. An asterisk (*) placed against the name of a species or higher taxon indicates that one or more geographically separate populations, sub-species or species of that species or taxon are included in Appendix I and that these populations, subspecies or species are excluded from Appendix III.
+5. Two asterisks (**) placed against the name of a species or higher taxon indicate that one or more geographically separate populations, sub-species or species of that species or taxon are included in Appendix II and that these populations, subspecies or species are excluded from Appendix III.
+6. The name of the countries placed against the names of species or other taxa are those of the Parties submitting these species or taxa for inclusion in this appendix.
+7. Any animal or plant, whether live or dead, of a species or other taxon listed in this appendix, is covered by the provisions of the Convention, as is any readily recognizable part or derivative thereof.
+PANNA
+MAMMALIA[TAB][TAB]
+CHIROPTERA[TAB][TAB]
+Phyllostomatidae[TAB]Vampyrops lineatus[TAB]Uruguay
+EDENTATA[TAB][TAB]
+Bradypodidae[TAB]Bradypus griseus
+Choloepus hoffmanni[TAB]Costa Rica
+Costa Rica
+Dasypodidae[TAB]Cabassous centralis
+Cabassous gymnurus (tatouay)[TAB]Costa Rica
+Uruguay
+PHOLIDOTA[TAB][TAB]
+Manidae[TAB]Manis gigantea
+Manas longicaudata
+Manis tricuspis[TAB]Ghana
+Ghana
+Ghana
+RODENTIA[TAB][TAB]
+Sciuridae[TAB]Epixerus ebii
+Sciurus deppei[TAB]Ghana
+Costa Rica
+Anomaluridae[TAB]Anomalurus spp.
+Idiurus spp.[TAB]Ghana
+Ghana
+Hystricidae[TAB]Hystrix spp.[TAB]Ghana
+Erethizontidae[TAB]Coendou spinosus[TAB]Uruguay
+CARNIVORA[TAB][TAB]
+Canidae[TAB]Fennecus zerda[TAB]Tunisia
+Procyonidae[TAB]Bassaricyon gabbii
+Bassariscus sumichrasti
+Nasua nasua solitaria[TAB]Costa Rica
+Costa Rica
+Uruguay
+Mustelidae[TAB]Galictis allamandi
+Mellivora Capensis[TAB]Costa Rica
+Ghana, Botswana
+Viverridae[TAB]Viverra Civetta[TAB]Botswana
+Hyaenidae[TAB]Proteles cristatus[TAB]Botswana
+PINNIPEDIA[TAB][TAB]
+Odobenidae[TAB]Odobenus rosmarus[TAB]Canada
+ARTICDACTYLA[TAB][TAB]
+Hippopotamidae[TAB]Hippopotamus amphibius[TAB]Ghana
+Tragulidae[TAB]Hyemoschus aquaticus[TAB]Ghana
+Cervidae[TAB]Cervus elaphus barbarus[TAB]Tunisia
+Bovidae[TAB]Ammotragus lervia
+Antílope Cervicapra
+Boocercus (Taurotragus) euryceros
+Babalus bubalis
+Damaliscus lunatus
+Gazella dorcas
+Gazella gazella cuvieri
+Gazella leptoceros
+Hippotragus egunis
+Tetracerus guadricornis
+Tragelaphus spekei[TAB]Tunisia
+Nepal
+Ghana
+Nepal
+Ghana
+Tunisia
+Tunisia
+Tunisia
+Ghana
+Nepal
+Ghana
+AVES[TAB][TAB]
+RHEIFORMES[TAB][TAB]
+Rheidae[TAB]Rhea americana **[TAB]Uruguay
+CICONIIFORMES[TAB][TAB]
+Ardeidae[TAB]Ardea goliath
+Bubulcus ibis
+Casmerodius albus
+Egretta garzetta[TAB]Ghana
+Ghana
+Ghana
+Ghana
+Ciconiidae[TAB]Ephippiorhynchus senegalensis
+Leptoptilos crumeniferus[TAB]Ghana
+Ghana
+Threskiornithidae[TAB]Hagedashia hagedash
+Lampribis rara
+Threskiornis aethiopica[TAB]Ghana
+Ghana
+Ghana
+ANSERIFORMES[TAB][TAB]
+Anatidae[TAB]Anatidae spp. * **[TAB]Ghana
+GALLIFORMES[TAB][TAB]
+Cracidae[TAB]Crax rubra[TAB]Costa Rica
+Phasianidae[TAB]Agelastes meleagrides
+Tragopan satyra[TAB]Ghana
+Nepal
+COLUMBIFORMES[TAB][TAB]
+Columbidae[TAB]Columbidae spp. * **
+Nesoenas mayeri[TAB]Ghana
+Mauritius
+PSITTACIFORMES[TAB][TAB]
+Psittacidae[TAB]Psittacidae spp. * **
+Ara ambigua
+Ara macao[TAB]Ghana
+Costa Rica
+Costa Rica
+CUCULIFORMES[TAB][TAB]
+Musophagidae[TAB]Musophagidae spp. **[TAB]Ghana
+PASSERIFORMES[TAB][TAB]
+Muscicapidae[TAB]Bebrornis rodericanus
+Tchitrea (Terpsiphone) bourbonnensis[TAB]Mauritius
+Mauritius
+Emberizidae[TAB]Gubernatrix cristata[TAB]Uruguay
+lcteridae[TAB]Xanthopsar flavus[TAB]Uruguay
+Fringillidae[TAB]Fringillidae spp. * **[TAB]Ghana
+Ploceidae[TAB]Ploceidae spp.[TAB]Ghana
+REPTILIA[TAB][TAB]
+TESTUDINATA[TAB][TAB]
+Trionychidae[TAB]Trionyx triunguis[TAB]Ghana
+Pelomedusidae[TAB]Pelomedusa subrufa
+Pelysios spp.[TAB]Ghana
+Ghana
+FLORA[TAB][TAB]
+GNETACEAE[TAB]Gnetum montanum[TAB]Nepal
+MAGNIOLIACEAE[TAB]Talauma hodgsonii[TAB]Nepal
+PAPAVERACEAE[TAB]Meconopsis regia[TAB]Nepal
+PODOCARPACEAE[TAB]Podocarpus nerifolius[TAB]Nepal
+TETRACENTRACEAE[TAB]Tetracentron spp.[TAB]Nepal 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

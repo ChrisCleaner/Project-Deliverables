@@ -1,0 +1,305 @@
+
+ Protocol Concerning The Control Of Emissions of Nitrogen Oxides Or Their Transboundary Fluxes To The Convention On Long-Range Transboundary Air Pollution   
+     Filename: 1988-ProtocolNitrogenOxides-1979-EuropeanTransboundaryAirPollution.EN.txt 
+ Source: http://www.unece.org/env/lrtap/full%20text/1988.NOX.e.pdf     
+    ﻿Protocol To The 1979 Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Emissions Of Nitrogen Oxides Or Their Transboundary Fluxes
+Source: http://www.unece.org/env/lrtap/full%20text/1988.NOX.e.pdf
+The Parties,
+Determined to implement the Convention on Long-range Transboundary Air Pollution,
+Concerned that present emissions of air pollutants are causing damage, in exposed parts of Europe and North America, to natural resources of vital environmental and economic importance,
+Recalling that the Executive Body for the Convention recognized at its second session the need to reduce effectively the total annual emissions of nitrogen oxides from stationary and mobile sources or their transboundary fluxes by 1995, and the need on the part of other States that had already made progress in reducing these emissions to maintain and review their emission standards for nitrogen oxides,
+Taking into consideration existing scientific and technical data on emissions, atmospheric movements and effects on the environment of nitrogen oxides and their secondary products, as well as on control technologies,
+Conscious that the adverse environmental effects of emissions of nitrogen oxides vary among countries,
+Determined to take effective action to control and reduce national annual emissions of nitrogen oxides or their transboundary fluxes by, in particular, the application of appropriate national emission standards to new mobile and major new stationary sources and the retrofitting of existing major stationary sources,
+Recognizing that scientific and technical knowledge of these matters is developing and that it will be necessary to take such developments into account when reviewing the operation of this Protocol and deciding on further action,
+Noting that the elaboration of an approach based on critical loads is aimed at the establishment of an effect-oriented scientific basis to be taken into account when reviewing the operation of this Protocol and at deciding on further internationally agreed measures to limit and reduce emissions of nitrogen oxides or their transboundary fluxes,
+Recognizing that the expeditious consideration of procedures to create more favourable conditions for exchange of technology will contribute to the effective reduction of emissions of nitrogen oxides in the region of the Commission,
+Noting with appreciation the mutual commitment undertaken by several countries to implement immediate and substantial reductions of national annual emissions of nitrogen oxides,
+Acknowledging the measures already taken by some countries which have had the effect of reducing emissions of nitrogen oxides,
+Have agreed as follows:
+Article 1
+DEFINITIONS
+For the purposes of the present Protocol,
+1. "Convention'' means the Convention on Long-range Transboundary Air Pollution, adopted in Geneva on 13 November 1979;
+2. "EMEP'' means the Cooperative Programme for Monitoring and Evaluation of the Long-range Transmission of Air Pollutants in Europe;
+3. "Executive Body'' means the Executive Body for the Convention constituted under article 10, paragraph 1, of the Convention;
+4. "Geographical scope of EMEP'' means the area defined in article 1, paragraph 4, of the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution on Longterm Financing of the Cooperative Programme for Monitoring and Evaluation of the Longrange Transmission of Air Pollutants in Europe (EMEP), adopted in Geneva on 28 September 1984;
+5. "Parties'' means, unless the context otherwise requires, the Parties to the present Protocol;
+6. "Commission'' means the United Nations Economic Commission for Europe;
+7. "Critical load'' means a quantitative estimate of the exposure to one or more pollutants below which significant harmful effects on specified sensitive elements of the environment do not occur according to present knowledge;
+8. "Major existing stationary source'' means any existing stationary source the thermal input of which is at least 100 MW;
+9. "Major new stationary source'' means any new stationary source the thermal input of which is at least 50 MW;
+10. "Major source category'' means any category of sources which emit or may emit air pollutants in the form of nitrogen oxides, including the categories described in the Technical Annex, and which contribute at least 10 per cent of the total national emissions of nitrogen oxides on an annual basis as measured or calculated in the first calendar year after the date of entry into force of the present Protocol, and every fourth year thereafter;
+11. "New stationary source'' means any stationary source the construction or substantial modification of which is commenced after the expiration of two years from the date of entry into force of this Protocol;
+12. "New mobile source'' means a motor vehicle or other mobile source which is manufactured after the expiration of two years from the date of entry into force of the present Protocol.
+Article 2
+BASIC OBLIGATIONS
+1. The Parties shall, as soon as possible and as a first step, take effective measures to control and/or reduce their national annual emissions of nitrogen oxides or their transboundary fluxes so that these, at the latest by 31 December 1994, do not exceed their national annual emissions of nitrogen oxides or transboundary fluxes of such emissions for the calendar year 1987 or any previous year to be specified upon signature of, or accession to, the Protocol, provided that in addition, with respect to any Party specifying such a previous year, its national average annual transboundary fluxes or national average annual emissions of nitrogen oxides for the period from 1 January 1987 to 1 January 1996 do not exceed its transboundary fluxes or national emissions for the calendar year 1987.
+2. Furthermore, the Parties shall in particular, and no later than two years after the date of entry into force of the present Protocol:
+(a) Apply national emissions standards to major new stationary sources and/or source categories, and to substantially modified stationary sources in major source categories, based on the best available technologies which are economically feasible, taking into consideration the Technical Annex;
+(b) Apply national emission standards to new mobile sources in all major source categories based on the best available technologies which are economically feasible, taking into consideration the Technical Annex and the relevant decisions taken within the framework of the Inland Transport Committee of the Commission; and
+(c) Introduce pollution control measures for major existing stationary sources, taking into consideration the Technical Annex and the characteristics of the plant, its age and its rate of utilization and the need to avoid undue operational disruption.
+3. (a)The Parties shall, as a second step, commence negotiations, no later than six months after the date of entry into force of the present Protocol, on further steps to reduce national annual emissions of nitrogen oxides or transboundary fluxes of such emissions, taking into account the best available scientific and technological developments, internationally accepted critical loads and other elements resulting from the work programme undertaken under article 6;
+(b) To this end, the Parties shall cooperate in order to establish:
+(i) Critical loads;
+(ii) Reductions in national annual emissions of nitrogen oxides or transboundary fluxes of such emissions as required to achieve agreed objectives based on critical loads; and
+(iii) Measures and a timetable commencing no later than 1 January 1996 for achieving such reductions.
+4. Parties may take more stringent measures than those required by the present article.
+Article 3
+EXCHANGE OF TECHNOLOGY
+1. The Parties shall, consistent with their national laws, regulations and practices, facilitate the exchange of technology to reduce emissions of nitrogen oxides, particularly through the promotion of:
+(a) Commercial exchange of available technology;
+(b) Direct industrial contacts and cooperation, including joint ventures;
+(c) Exchange of information and experience; and
+(d) Provision of technical assistance.
+2. In promoting the activities specified in subparagraphs (a) to (d) above, the Parties shall create favourable conditions by facilitating contacts and cooperation among appropriate organizations and individuals in the private and public sectors that are capable of providing technology, design and engineering services, equipment or finance.
+3. The Parties shall, no later than six months after the date of entry into force of the present Protocol, commence consideration of procedures to create more favourable conditions for the exchange of technology to reduce emissions of nitrogen oxides.
+Article 4
+UNLEADED FUEL
+The Parties shall, as soon as possible and no later than two years after the date of entry into force of the present Protocol, make unleaded fuel sufficiently available, in particular cases as a minimum along main international transit routes, to facilitate the circulation of vehicles equipped with catalytic converters.
+Article 5
+REVIEW PROCESS
+1. The Parties shall regularly review the present Protocol, taking into account the best available scientific substantiation and technological development.
+2. The first review shall take place no later than one year after the date of entry into force of the present Protocol.
+Article 6
+WORK TO BE UNDERTAKEN
+The Parties shall give high priority to research and monitoring related to the development and application of an approach based on critical loads to determine, on a scientific basis, necessary reductions in emissions of nitrogen oxides. The Parties shall, in particular, through national research programmes, in the work plan of the Executive Body and through other cooperative programmes within the framework of the Convention, seek to:
+(a) Identify and quantify effects of emissions of nitrogen oxides on humans, plant and animal life, waters, soils and materials, taking into account the impact on these of nitrogen oxides from sources other than atmospheric deposition;
+(b) Determine the geographical distribution of sensitive areas;
+(c) Develop measurements and model calculations including harmonized methodologies for the calculation of emissions, to quantify the long-range transport of nitrogen oxides and related pollutants;
+(d) Improve estimates of the performance and costs of technologies for control of emissions of nitrogen oxides and record the development of improved and new technologies; and
+(e) Develop, in the context of an approach based on critical loads, methods to integrate scientific, technical and economic data in order to determine appropriate control strategies.
+Article 7
+NATIONAL PROGRAMMES, POLICIES AND STRATEGIES
+The Parties shall develop without undue delay national programmes, policies and strategies to implement the obligations under the present Protocol that shall serve as a means of controlling and reducing emissions of nitrogen oxides or their transboundary fluxes.
+Article 8
+INFORMATION EXCHANGE AND ANNUAL REPORTING
+1. The Parties shall exchange information by notifying the Executive Body of the national programmes, policies and strategies that they develop in accordance with article 7 and by reporting to it annually on progress achieved under, and any changes to, those programmes, policies and strategies, and in particular on:
+(a) The levels of national annual emissions of nitrogen oxides and the basis upon which they have been calculated;
+(b) Progress in applying national emission standards required under article 2, subparagraphs 2 (a) and 2 (b), and the national emission standards applied or to be applied, and the sources and/or source categories concerned;
+(c) Progress in introducing the pollution control measures required under article 2, subparagraph 2 (c), the sources concerned and the measures introduced or to be introduced;
+(d) Progress in making unleaded fuel available;
+(e) Measures taken to facilitate the exchange of technology; and
+(f) Progress in establishing critical loads.
+2. Such information shall, as far as possible, be submitted in accordance with a uniform reporting framework.
+Article 9
+CALCULATIONS
+EMEP shall, utilizing appropriate models and in good time before the annual meetings of the Executive Body, provide to the Executive Body calculations of nitrogen budgets and also of transboundary fluxes and deposition of nitrogen oxides within the geographical scope of EMEP. In areas outside the geographical scope of EMEP, models appropriate to the particular circumstances of Parties to the Convention therein shall be used.
+Article 10
+TECHNICAL ANNEX
+The Technical Annex to the present Protocol is recommendatory in character. It shall form an integral part of the Protocol.
+Article 11
+AMENDMENTS TO THE PROTOCOL
+1. Any Party may propose amendments to the present Protocol.
+2. Proposed amendments shall be submitted in writing to the Executive Secretary of the Commission who shall communicate them to all Parties. The Executive Body shall discuss the proposed amendments at its next annual meeting provided that these proposals have been circulated by the Executive Secretary to the Parties at least ninety days in advance.
+3. Amendments to the Protocol, other than amendments to its Technical Annex, shall be adopted by consensus of the Parties present at a meeting of the Executive Body, and shall enter into force for the Parties which have accepted them on the ninetieth day after the date on which two-thirds of the Parties have deposited their instruments of acceptance thereof. Amendments shall enter into force for any Party which has accepted them after two-thirds of the Parties have deposited their instruments of acceptance of the amendment, on the ninetieth day after the date on which that Party deposited its instrument of acceptance of the amendments.
+4. Amendments to the Technical Annex shall be adopted by consensus of the Parties present at a meeting of the Executive Body and shall become effective thirty days after the date on which they have been communicated in accordance with paragraph 5 below.
+5. Amendments under paragraphs 3 and 4 above shall, as soon as possible after their adoption, be communicated by the Executive Secretary to all Parties.
+Article 12
+SETTLEMENT OF DISPUTES
+If a dispute arises between two or more Parties as to the interpretation or application of the present Protocol, they shall seek a solution by negotiation or by any other method of dispute settlement acceptable to the parties to the dispute.
+Article 13
+SIGNATURE
+1. The present Protocol shall be open for signature at Sofia from 1 November 1988 until 4 November 1988 inclusive, then at the Headquarters of the United Nations in New York until 5 May 1989, by the member States of the Commission as well as States having consultative status with the Commission, pursuant to paragraph 8 of Economic and Social Council resolution 36 (IV) of 28 March 1947, and by regional economic integration organizations, constituted by sovereign States members of the Commission, which have competence in respect of the negotiation, conclusion and application of international agreements in matters covered by the Protocol, provided that the States and organizations concerned are Parties to the Convention.
+2. In matters within their competence, such regional economic integration organizations shall, on their own behalf, exercise the rights and fulfil the responsibilities which the present Protocol attributes to their member States. In such cases, the member States of these organizations shall not be entitled to exercise such rights individually.
+Article 14
+RATIFICATION, ACCEPTANCE, APPROVAL AND ACCESSION
+1. The present Protocol shall be subject to ratification, acceptance or approval by Signatories.
+2. The present Protocol shall be open for accession as from 6 May 1989 by the States and organizations referred to in article 13, paragraph 1.
+3. A State or organization which accedes to the present Protocol after 31 December 1993 may implement articles 2 and 4 no later than 31 December 1995.
+4. The instruments of ratification, acceptance, approval or accession shall be deposited with the Secretary-General of the United Nations, who will perform the functions of depositary.
+Article 15
+ENTRY INTO FORCE
+1. The present Protocol shall enter into force on the ninetieth day following the date on which the sixteenth instrument of ratification, acceptance, approval or accession has been deposited.
+2. For each State and organization referred to in article 13, paragraph 1, which ratifies, accepts or approves the present Protocol or accedes thereto after the deposit of the sixteenth instrument of ratification, acceptance, approval, or accession, the Protocol shall enter into force on the ninetieth day following the date of deposit by such Party of its instrument of ratification, acceptance, approval, or accession.
+Article 16
+WITHDRAWAL
+At any time after five years from the date on which the present Protocol has come into force with respect to a Party, that Party may withdraw from it by giving written notification to the depositary. Any such withdrawal shall take effect on the ninetieth day following the date of its receipt by the depositary, or on such later date as may be specified in the notification of the withdrawal.
+Article 17
+AUTHENTIC TEXTS
+The original of the present Protocol, of which the English, French and Russian texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed the present Protocol.
+DONE at Sofia this thirty-first day of October one thousand nine hundred and eighty-eight.
+TECHNICAL ANNEX
+I. CONTROL TECHNOLOGIES FOR NO x EMISSIONS FROM STATIONARY SOURCES
+II. CONTROL TECHNOLOGIES FOR NO x EMISSIONS FROM MOBILE SOURCES
+1. The purpose of this annex is to provide guidance to the Parties to the Convention in identifying NOx control options and techniques in the implementation of their obligations under the Protocol.
+2. It is based on information on options and techniques for NOx emission reduction and their performance and costs contained in official documentation of the Executive Body and its subsidiary bodies; and in documentation of the ECE Inland Transport Committee and its subsidiary bodies; and on supplementary information provided by governmentally designated experts.
+3. The annex addresses the control of NOx emissions considered as the sum of nitrogen oxide (NO) and nitrogen dioxide (NO2 ) expressed as NO2 and lists a number of NOx reduction measures and techniques spanning a wide range of costs and efficiencies. Unless otherwise indicated these techniques are considered to be well established on the basis of substantial operating experience, which in most cases has been gained over five years or more. It cannot, however, be considered as an exhaustive statement of control options; its aim is to provide guidance to Parties in identifying best available technologies which are economically feasible as a basis for national emission standards and in the introduction of pollution control measures.
+4. The choice of pollution control measures for any particular case will depend on a number of factors, including the relevant legislative and regulatory provisions, primary energy pattern, industrial infrastructure and economic circumstances of the Party concerned and, in the case of stationary sources, the specific circumstances of the plant. It should be borne in mind also that sources of NOx are often sources of other pollutants as well, such as sulphur oxides (SOx), volatile organic compounds (VOCs), and particulates. In the design of control options for such sources, all polluting emissions should be considered together in order to maximize the overall abatement effect and minimize the impact of the source on the environment.
+5. The annex reflects the state of knowledge and experience of NOx control measures, including retrofitting, which has been achieved by 1992, in the case of stationary sources, and by 1994 in the case of mobile sources. As this knowledge and this experience continuously expand, particularly with new vehicles incorporating low-emission technology and the development of alternative fuels, as well as with retrofitting and other strategies for existing vehicles, the annex needs to be updated and amended regularly.
+I. CONTROL TECHNOLOGIES FOR NOx EMISSIONS FROM STATIONARY SOURCES
+6. Fossil fuel combustion is the main source of anthropogenic NOx emissions from stationary sources. In addition, some non-combustion processes may contribute considerably to the emissions. The major stationary source categories of NOx emissions, based on EMEP/CORINAIR 90, include:
+(a) Public power, cogeneration and district heating plants:
+(i) Boilers;
+(ii) Stationary combustion turbines and internal combustion engines;
+(b) Commercial, institutional and residential combustion plants:
+(i) Commercial boilers;
+(ii) Domestic heaters;
+(c) Industrial combustion plants and processes with combustion:
+(i) Boilers and process heaters (no direct contact between flue gas and products);
+(ii) Processes (direct contact); (e.g. calcination processes in rotary kilns, production of cement, lime, etc., glass production, metallurgical operation, pulp production);
+(d) Non-combustion processes, e.g. nitric acid production;
+(e) Extraction, processing and distribution of fossil fuels;
+(f) Waste treatment and disposal, e.g. incineration of municipal and industrial waste.
+7. For the ECE region, combustion processes (categories (a), (b), (c)), account for 85 per cent of NOx emissions from stationary sources. Non-combustion processes, e.g. production processes, account for 12 per cent, and extraction, processing and distribution of fossil fuels for 3 per cent of total NOx emissions. Although in many ECE countries, power plants in category (a) are the largest stationary contributor to NOx emissions, road traffic is usually the largest single overall source of NOx emissions, but the distribution does vary between Parties to the Convention. Furthermore, industrial sources should be kept in mind.
+GENERAL OPTIONS FOR REDUCING NOx EMISSIONS FROM COMBUSTION
+8. General options for NOx reduction are:
+(a) Energy management measures:1/
+(i) Energy saving;
+(ii) Energy mix;
+(b) Technical options:
+(i) Fuel switching/cleaning;
+(ii) Other combustion technologies;
+(iii) Process and combustion modifications;
+(iv) Flue gas treatment.
+1/ Options (a) (i) and (ii) are integrated in the energy structure/policy of a Party. Implementation status, efficiency and costs per sector are not considered here.
+9. To achieve the most efficient NOx reduction programme, beyond the measures listed in (a), a combination of technical options identified in (b) should be considered. Furthermore, the combination of combustion modification and flue gas treatment needs site specific evaluation.
+10. In some cases, options for reducing NOx emissions may also result in the reduction of emissions of CO2 and SO2 and other pollutants.
+Energy saving
+11. The rational use of energy (improved energy efficiency/process operation, cogeneration and/or demand-side management) usually results in a reduction in NOx emissions.
+Energy mix
+12. In general, NOx emissions can be reduced by increasing the proportion of noncombustion energy sources (i.e. hydro, nuclear, wind, etc.) to the energy mix. However, further environmental impacts have to be considered.
+Fuel switching/cleaning
+13. Table 1 shows the uncontrolled NOx emission levels to be expected during fossil fuel combustion for the different sectors.
+14. Fuel switching (e.g. from high- to low-nitrogen fuels or from coal to gas) can lead to lower NOx emissions but there may be certain restrictions, such as the availability of low emitting fuels (e.g. natural gas on plant level) and adaptability of existing furnaces to NOx different fuels. In many ECE countries, some coal or oil combustion plants are being replaced by gas-fired combustion plants.
+15. Fuel cleaning for fuel nitrogen removal is not a commercial option. Increasing the application of cracking technology in refineries, however, also brings about a reduction in the nitrogen content of the end-product.
+Other combustion technologies
+16. These are combustion technologies with improved thermal efficiency and reduced NOx emissions. They include:
+(a) Cogeneration using gas turbines and engines;
+(b) Fluidized bed combustion (FBC): bubbling (BFBC) and circulating (CFBC);
+(c) Integrated gasification combined cycle (IGCC);
+(d) Combined cycle gas turbines (CCGT).
+17. The emission levels for these techniques are summarized in table 1.
+18. Stationary combustion turbines can also be integrated into existing conventional power plants (known as topping). The overall efficiency can increase by 5 per cent to 6 per cent, but achievable NOx reduction will depend on site and fuel specific conditions. Gas turbines and gas engines are widely applied in cogeneration applications. Typically some 30 per cent energy saving can be attained. Both have made significant progress in reducing NOx emissions through new concepts in combustion and system technology. However, major alterations to the existing boiler system become necessary.
+19. FBC is a combustion technology for burning hard coal and brown coal but it can also burn other solid fuels such as petroleum coke and low-grade fuels such as waste, peat and wood. In addition, emissions can be reduced by integrated combustion control in the system. A newer concept of FBC is pressurized fluidized bed combustion (PFBC) presently being commercialized for the generation of electricity and heat. The total installed capacity of FBC has approached approximately 30,000 MWth (250 to 350 plants), including 8,000 MWth in the capacity range of &gt; 50 MW th.
+20. The IGCC process incorporates coal gasification and combined cycle power generation, in a gas and steam turbine. The gasified coal is burned in the combustion chamber of the gas turbine. The technology also exists for heavy oil residue and bitumen emulsion. The installed capacity is presently about 1,000 MW el (5 plants).
+21. Combined cycle gas power stations using advanced gas turbines with an energy efficiency of 48 per cent-52 per cent and with reduced NOx emissions are currently being planned.
+Process and combustion modifications
+22. These are measures applied during combustion to reduce the formation of NOx. They include the control of combustion air ratio, flame temperature, fuel to air ratio, etc. The following combustion techniques, either singly or in combination, are available for new and existing installations. They are widely implemented in the power plant sector and in some areas of the industrial sector:
+(a) Low excess air combustion (LEA);2/
+(b) Reduced air preheat (RAP);2/
+(c) Burner-out-of-service (BOOS);2/
+(d) Biased-burner-firing (BBF);2/
+(e) Low NOx burners (LNB);2/,3/
+(f) Flue gas recirculation (FGR);3/
+(g) Over fire air combustion (OFA);2/, 3/
+(h) In-furnace- NOx -reduction reburning (IFNR);4/
+(i) Water/steam injection and lean/premixed combination.5/
+2/ Typical retrofit measures, with limited efficiency and applicability.
+3/ State-of-the-art in new plants.
+4/ Implemented in single large commercial plants; operational experience still limited.
+5/ For combustion turbines.
+23. The emission levels due to the application of these techniques are summarized in table 1 (based mainly on experience in power plants).
+24. Combustion modifications have been under continuous development and optimization. In-furnace- NOx -reduction is being tested in some large-scale demonstration plants, whereas basic combustion modifications are incorporated mainly into boiler and burner design. For example, modern furnace designs incorporate OFA ports, and gas/oil burners are equipped for flue gas recirculation. The latest generation of LNBs combines both air-staging and fuel-staging. A remarkable increase in full-scale retrofit of combustion modifications in ECE member countries has been recorded in the last years. By 1992 a total of about 150,000 MW was installed.
+Flue gas treatment processes
+25. Flue gas treatment processes aim at removing already formed NOx and are also referred to as secondary measures. Wherever possible it is usual to apply primary measures as a first stage of NOx reduction before applying flue gas treatment processes. The state-of-the-art flue gas treatment processes are all based on the removal of NOx by dry chemical processes.
+26. They are the following:
+(a) Selective Catalytic Reduction (SCR);
+(b) Selective Non-catalytic Reduction (SNCR);
+(c) Combined NOx/SOx removal processes:
+(i) Activated Carbon Process (AC);
+(ii) Combined catalytic NOx/SOx removal.
+27. The emission levels for SCR and SNCR are summarized in table 1. Data are based on the practical experience gathered from a large number of implemented plants. By 1991 in the European part of the ECE about 130 SCR plants corresponding to 50,000 MWel, 12 SNCR installations (2,000 MWel), 1 AC plant (250 MWel) and 2 combined catalytic processes (400 MWel) were erected. The NOx removal efficiency of AC and combined catalytic processes are similar to SCR.
+28. Table 1 also summarizes the costs of applying the NOx abatement technologies.
+CONTROL TECHNIQUES FOR OTHER SECTORS
+29. Unlike most combustion processes, the application of combustion and/or process modifications in the industrial sector has many process specific limitations. In cement kilns or glass melting furnaces, for example, certain high temperatures are necessary to ensure the product quality. Typical combustion modifications being used are staged combustion/low NOx burners, flue gas recirculation and process optimization (e.g. precalcination in cement kilns).
+30. Some examples are given in table 1.
+SIDE-EFFECTS/BY-PRODUCTS
+31. The following side-effects will not prevent the implementation of any technology or method, but should be considered when several NOx abatement options are possible. However, in general, these side-effects can be limited by proper design and operation:
+(a) Combustion modifications:
+-Possible decrease in overall efficiency;
+-Increased CO formation and hydrocarbon emissions;
+-Corrosion due to reducing atmosphere;
+-Possible N2O formation in FBC systems;
+-Possible increase of carbon fly ash;
+(b) SCR:
+-NH3 in the fly ash;
+-Formation of ammonium salts on downstream facilities;
+-Deactivation of catalyst;
+-Increased conversion of SO2 to SO3;
+(c) SNCR:
+-NH3 in the fly ash;
+-Formation of ammonium salts on downstream facilities;
+-Possible formation of N2O.
+32. In terms of by-products, deactivated catalysts from the SCR process are the only relevant products. Due to the classification as waste, a simple disposal is not possible, however recycling options exist.
+33. The reagent production of ammonia and urea for flue gas treatment processes involves a number of separate steps which require energy and reactants. The storage systems for ammonia are subject to the relevant safety legislation and such systems are designed to operate as totally closed systems, with a resultant minimum of ammonia emissions. The use of NH3 is, however, not jeopardized even when taking into account the indirect emissions related to the production and transportation of NH3.
+MONITORING AND REPORTING
+34. The measures taken to carry out national strategies and policies for the abatement of air pollution include legislation and regulatory provisions, economic incentives and disincentives, as well as technological requirements (best available technology).
+35. In general emission limiting standards may be set per emission source according to plant size, operating mode, combustion technology, fuel type and whether it is a new or existing plant. An alternative approach also used is to set a target for the reduction of total NOx emissions from a group of existing sources and to allow the Parties to choose where to take action to reach this target (bubble concept).
+36. The limiting of the NOx emissions to the levels set out in the national framework legislation has to be controlled by a permanent monitoring and reporting system and reported to the supervising authorities.
+37. Several monitoring systems, using both continuous and discontinuous measurement methods, are available. However quality requirements vary among Parties. Measurements are to be carried out by qualified institutes and approved measuring/monitoring systems. To this end a certification system would provide the best assurance.
+38. In the framework of modern automated monitoring systems and process control equipment, reporting creates no problems. The collection of data for further use is a state-of-the-art technique. However, data to be reported to competent authorities differ from Party to Party. To obtain better comparability, data sets and prescribing regulations should be harmonized. Harmonization is also desirable for quality assurance of measuring/monitoring systems. This should be taken into account when comparing data from different Parties.
+39. To avoid discrepancies and inconsistencies, key issues and parameters including the following, must be well-defined:
+Definition of the standards expressed as ppmv, mg/m3, g/GJ, kg/h or kg/t of products. Most of these units need to be calculated and need specification in terms of gas temperature, humidity, pressure, oxygen content or heat input value;
+Definition of time over which standards may be averaged, expressed as hours, months or a year;
+Definition of failure times and corresponding emergency regulations regarding bypass of monitoring systems or shut-down of the installation;
+Definition of methods for backfilling of data missed or lost as a result of equipment failure;
+Definition of the parameter set to be measured. Depending on the type of industrial process, the necessary information may differ. This also involves the location of the measurement point within the system.
+40. Quality control of measurements must be ensured.
+II. CONTROL TECHNOLOGIES FOR NOx EMISSIONS FROM MOBILE SOURCES MAJOR NOx EMITTERS FROM MOBILE SOURCES
+41. Primary mobile sources of anthropogenic NOx emissions include:
+Road vehicles:
+-Petrol-fuelled and diesel-fuelled passenger cars;
+-Light commercial vehicles;
+-Heavy-duty vehicles (HDV);
+-Motor cycles and mopeds;
+-Tractors (agricultural and forestry).
+Non-road engine applications:
+-Agricultural, mobile industrial and construction machinery.
+Other mobile sources:
+-Rail transport;
+-Ships and other marine craft;
+-Aircraft.
+42. Road transport is a major source of anthropogenic NOx emission in many ECE countries, contributing up to two thirds of the total national emissions. Current petrol-fuelled vehicles contribute up to two thirds of total national road NOx emissions. In a few cases, however, the NOx emissions from HDV traffic will exceed the decreasing emissions from passenger cars.
+43. Many countries have enacted regulations that limit the emission of pollutants from road vehicles. For non-road applications, emission standards including NOx have been enacted by some ECE countries and are under preparation in the ECE itself. NOx emissions from these other sources may be substantial.
+44. Until other data become available this annex concentrates on road vehicles only.
+GENERAL ASPECTS OF CONTROL TECHNOLOGY FOR NOx EMISSIONS FROM ONROAD VEHICLES
+45. The road vehicles considered in this annex are passenger cars, light commercial vehicles, motor cycles, mopeds and heavy-duty vehicles.
+46. This annex deals with both new and in-use vehicles, with the attention primarily focused on NOx emission control for new vehicle types.
+47. Cost figures for the various technologies given are expected production costs rather than retail prices.
+48. It is important to ensure that new-vehicle emission standards are maintained in service. This can be done through inspection and maintenance programmes, ensuring conformity of production, full useful-life durability, warranty of emission-control components, and recall of defective vehicles.
+49. Fiscal incentives can encourage the accelerated introduction of desirable technology. Retrofit is of limited benefit for NOx reduction, and may be difficult to apply to more than a small percentage of the vehicle fleet.
+50. Technologies that incorporate catalytic converters with spark-ignited petrol engines require the use of unleaded fuel, which should be made generally available. The use of after-treatment technologies in diesel engines like oxidation catalysts or particulate traps requires the use of low-sulphur fuels (maximum 0.05 per cent S content).
+51. The management of urban and long-distance traffic, though not elaborated in this annex, is important as an efficient additional approach to reducing emissions including NOx. Measures to reduce NOx emissions and other air pollutants may include enforcement of speed limits and efficient traffic management. Key measures for traffic management aim at changing the modal split of public and long-range transport especially in sensitive areas like cities or the Alps by transferring transport from road to rail through tactical, structural, financial and restrictive elements and also by optimizing the logistics of the delivery systems. They will also be beneficial for other harmful effects of traffic expansion such as noise, congestion, etc.
+52. A variety of technologies and design options are available making simultaneous control of different pollutants possible. For some applications reverse effects have been experienced when reducing NOx emissions (e.g. non-catalyst petrol or diesel engines). This may change with the employment of new technologies (e.g. after-treatment cleaning devices and electronics). Reformulated diesel fuel and fuel containing post-combustion NOx reducing additives may also have a role in a strategy to combat diesel vehicle NOx.
+CONTROL TECHNOLOGIES FOR NOx EMISSIONS FROM ROAD VEHICLES
+Petrol- and diesel-fuelled passenger cars and light commercial vehicles
+53. The main technologies for controlling NOx emissions are listed in table 2.
+54. The basis for comparison in table 2 is technology option B, representing non-catalytic technology designed in response to the requirements of the United States for 1973/74 or of ECE Regulation 15-046/ pursuant to the 1958 Agreement concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicle Equipment and Parts. The table also presents typical emission levels for open- and closed-loop catalytic control as well as their cost.
+6/ Replaced by Regulation No. 83.
+55. The "uncontrolled" level (A) in table 2 refers to the 1970 situation in the ECE region, but may still prevail in certain areas.
+56. The emission level in table 2 reflects emissions measured with standard test procedures. Emissions from vehicles on the road may differ because of the effect of, inter alia, ambient temperature, operating conditions (especially at higher speed), fuel properties, and maintenance. However, the reduction potential indicated in table 2 is considered representative of reductions achievable in use.
+57. The most efficient currently available technology for NOx reduction is option E. This technology achieves large reductions of NOx, volatile organic compounds (VOC), and CO emissions.
+58. In response to regulatory programmes for further NOx emission reductions (e.g. low emission vehicles in California), advanced closed-loop three-way catalyst systems are being developed (option F). These improvements will focus on engine management, very precise control of air-fuel ratio, heavier catalyst loading, on-board diagnostic systems (OBD) and other advanced control measures.
+Motor cycles and mopeds
+59. Although actual NOx emissions of motor cycles and mopeds are very low (e.g. with two-stroke engines), their NOx emissions should be considered. While VOC emissions of these vehicles are going to be limited by many Parties to the Convention, their NOx emissions may increase (e.g. with four-stroke engines). Generally the same technology options as described for petrol-fuelled passenger cars are applicable. In Austria and Switzerland strict NOx emission standards are already implemented.
+Heavy-duty diesel-fuelled vehicles
+60. In table 3 three technology options are summarized. The baseline engine configuration is the turbocharged diesel engine. The trend is towards turbocharged engines with intercooling, advanced fuel injection systems and electronic control. This trend may have the potential to improve baseline fuel consumption performance. Comparative estimates of fuel consumption are not included.
+CONTROL TECHNIQUES FOR IN-USE VEHICLES
+Full useful life, recall and warranties
+61. To promote durable emission-control systems, consideration should be given to emission standards that may not be exceeded for the "full useful life" of the vehicle. Surveillance programmes are needed to enforce this requirement. Under such programmes, manufacturers are responsible for recalling vehicles that fail to meet the required standards. To ensure that the owner has no production-related problems, manufacturers should provide warranties for emission-control components.
+62. There should not be any devices to reduce the efficiency or switch off the emission control systems during any operating conditions except conditions which are indispensable for trouble-free running (e.g. cold start).
+Inspection and maintenance
+63. The inspection and maintenance programme has an important secondary function. It may encourage regular maintenance and discourage vehicle owners from tampering with or disabling the emission controls, both through direct enforcement and public information. Inspection should verify that emission controls are in their original working order. It should also ensure that emission control systems have not been removed.
+64. Improved monitoring of emission control performance can be achieved by on-board diagnostic systems (OBD) which monitor the functioning of emission control components, store fault codes for further interrogation and call the attention of the driver to ensure the repair in case of malfunction.
+65. Inspection and maintenance programmes can be beneficial for all types of control technology by ensuring that new-vehicle emission levels are maintained. For catalyst-controlled vehicles it is essential to ensure that the new-vehicle specifications and settings are maintained to avoid deterioration of all major pollutants, including NOx.
+TABLE 1
+[Edit - Table omitted, available from original source file]
+TABLE 2
+Emission control technologies for petrol- and diesel-fuelled passenger cars and light commercial vehicles
+[Edit - Table omitted, available from original source file]
+TABLE 3
+Heavy-duty vehicle technologies, emission performance and costs
+[Edit - Table omitted, available from original source file] 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

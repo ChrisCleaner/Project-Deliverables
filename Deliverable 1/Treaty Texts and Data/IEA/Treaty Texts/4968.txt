@@ -1,0 +1,39 @@
+
+ Amendments To Annex I (Condition Assessment Scheme) of The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2013-AmendmentsCAS-1978-Protocol-1973-PollutionFromShips.EN.txt 
+ Source:     
+    ﻿AMENDMENTS TO THE CONDITION ASSESSMENT SCHEME UNDER MARPOL ANNEX I 
+Source: http://www.imo.org/KnowledgeCentre/IndexofIMOResolutions/Documents/MEPC - Marine Environment Protection/236(65).pdf, downloaded 20131015
+RESOLUTION MEPC.236(65) Adopted on 17 May 2013 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee conferred upon it by international conventions for the prevention and control of marine pollution, 
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL), 
+NOTING ALSO that regulation 20.6 of Annex I of MARPOL specifies that the Condition Assessment Scheme, adopted by resolution MEPC.94(46), as may be amended, provided such amendments shall be adopted, brought into force and take effect in accordance with the provisions of article 16 of the 1973 Convention relating to amendment procedures applicable to an appendix to an annex, 
+RECALLING ALSO resolutions MEPC.99(48), MEPC.112(50), MEPC.131(53) and MEPC.155(55) by which the Committee adopted amendments to the Condition Assessment Scheme, in accordance with the provisions of article 16 of the 1973 Convention relating to amendment procedures applicable to an appendix to an annex, 
+RECOGNIZING the need to amend the Condition Assessment Scheme, replacing references to resolution A.744(18) in view of the adoption by the Assembly, at its twenty-seventh session, of the International Code on the enhanced programme of inspections during surveys of bulk carriers and oil tankers, 2011 (2011 ESP Code) by resolution A.1049(27), 
+HAVING CONSIDERED at its sixty-fifth session, the proposed amendments to the Condition Assessment Scheme, 
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the amendments to the Condition Assessment Scheme, the text of which is set out in the annex to the present resolution; 
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 1 April 2014, unless, prior to that date, not less than one third of the Parties to MARPOL or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have notified to the Organization their objections to the amendments;
+3. INVITES Parties to MARPOL to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 1 October 2014 upon their acceptance in accordance with paragraph 2 above; 
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL certified copies of the present resolution and the text of the amendments contained in the annex; 
+5. REQUESTS FURTHER the Secretary-General to transmit copies of this resolution and its annex to Members of the Organization which are not Parties to MARPOL; and 
+6. INVITES the Maritime Safety Committee to note the amendments to the Condition Assessment Scheme. 
+ANNEX 
+AMENDMENTS TO THE CONDITION ASSESSMENT SCHEME 
+(RESOLUTION MEPC.94(46), AS AMENDED) 
+1 After paragraph 1.5, the following new paragraph is inserted: 
+"1.6 The Assembly, at its twenty-seventh session, adopted the International Code on the enhanced programme of inspections during surveys of bulk carriers and oil tankers, 2011 (2011 ESP Code) (resolution A.1049(27)) and the Maritime Safety Committee, at its ninetieth session, adopted, by resolution MSC.325 (90), amendments to SOLAS regulation XI-1/2, replacing "resolution A.744(18)" with "the 2011 ESP Code" and thereby making the Code mandatory. Therefore, the references to "resolution A.744(18)" in the CAS are replaced by references to "the 2011 ESP Code (resolution A.1049(27))"." 
+2 In paragraphs 3.10, 6.2.1.3, 6.2.2.9, 7.3.1, 7.3.4, 7.3.7 and 8, the reference to "resolution A.744(18), as amended" is replaced by a reference to "the 2011 ESP Code". 
+3 In appendix 2, in the section "Inspections by the Company", the reference to "resolution A.744(18), as amended" is replaced by a reference to "the 2011 ESP Code". 
+4 In appendix 3, in section 8, the reference to "resolution A.744(18), as amended" is replaced by a reference to "the 2011 ESP Code". 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

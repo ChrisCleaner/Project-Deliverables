@@ -1,0 +1,236 @@
+
+ Amendments To The International Convention On Standards Of Training, Certification And Watchkeeping For Seafarers - Tanker Crews   
+     Filename: 1994-Amendments-1978-StandardsSeafarers.EN.txt 
+ Source: http://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/seldoc/1994/4204.html     
+    ﻿AMENDMENTS TO THE INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAFARERS
+Source: http://www.austlii.edu.au/cgi-bin/sinodisp/au/other/dfat/seldoc/1994/420...
+THE MARITIME SAFETY COMMITTEE,
+RECALLING Article 28(b) of the Convention on the International Maritime Organization concerning the functions of the Committee,
+RECALLING FURTHER Article XII(1)(a) of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, hereinafter referred to as "the Convention", concerning the procedures for amending the Annex to the Convention,
+HAVING CONSIDERED, at its sixty-third session, amendments to the Convention proposed and circulated in accordance with Article XII(1)(a)(i) thereof,
+1. ADOPTS, in accordance with Article XII(1)(a)(iv) of the Convention, amendments to the Convention, the text of which is set out in the Annex to the present resolution;
+2. DETERMINES, in accordance with Article XII(1)(a)(vii)2 of the Convention, that the amendments shall be deemed to have been accepted on 1 July 1995 unless, prior to that date, more than one third of Parties to the Convention or Parties, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant shipping of ships of 100 gross register tons or more, have notified their objections to the amendments;
+3. INVITES Parties to note that, in accordance with Article XII(1)(a)(ix) of the Convention, the amendments shall enter into force on 1 January 1996 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with Article XII(1)(a)(v) of the Convention, to transmit certified copies of the present resolution and the text of the amendments contained in the Annex to all Parties to the Convention for acceptance;
+5. FURTHER REQUESTS the Secretary-General to transmit copies of the resolution and its Annex to Members of the Organization which are not Parties to the Convention.
+ANNEX
+1. Existing chapter V is replaced by the following:
+"CHAPTER V
+SPECIAL TRAINING REQUIREMENTS FOR PERSONNEL ON TANKERS
+Regulation 1
+Mandatory minimum requirements for training and qualifications of masters, officers and ratings of tankers
+1 Officers and ratings who are to have specific duties, and responsibilities related to those duties, in connection with cargo and cargo equipment on tankers shall have completed an appropriate shore-based fire-fighting course; and
+.1 at least three months of supervised sea service on tankers in order to acquire adequate knowledge of safe operational practices; or
+.2 an approved tanker familiarization course covering at least the syllabus given at Appendix 1 to this regulation.
+The Administration may, however, accept a period of supervised sea service shorter than three months as prescribed in subparagraph .1 for officers and ratings of a tanker, if all of the following conditions are met:
+.3 the period so accepted is not less than one month;
+.4 the tanker is less than 1,600 gross tonnage;
+.5 the duration of a voyage on which the tanker is engaged does not exceed 72 hours; and
+.6 the Administration is satisfied that the operational characteristics of the ship, including the number of voyages and number of loading and discharging operations in which the ship is engaged during such period, are such that the same level of knowledge may be acquired within that period.
+2 Masters, chief engineer officers, chief mates, second engineer officers and, if other than the foregoing, any person with the immediate responsibility for loading, discharging and care in transit or handling of cargo, in addition to the provisions of paragraph 1.1 and 1.2, shall have:
+.1 experience appropriate to their duties on tankers and relevant to the type of tanker on which they serve, ie. oil tanker, chemical tanker or liquefied gas tanker; and
+.2 completed on approved specialized training programme appropriate to their duties on the type of tanker on which they serve, ie. oil tanker, chemical tanker or liquefied gas tanker. The specialized training programme shall at least cover the syllabus given at Appendix 2 or 3 or 4 to this regulation, as appropriate.
+3 Within two years after the entry into force of the Convention for a Party, a seafarer may be considered to have met the requirements of paragraph 2.2 if he has served in a relevant capacity on board the type of tanker concerned for a period of not less than one year within the preceding five years.
+4 Administrations shall ensure that an authorized document is issued to officers and ratings, who are qualified in accordance with this regulation paragraph 1 or 2 as appropriate, or that any appropriate existing document is duly endorsed."
+2. The following new appendices are added:
+"APPENDIX 1 TO REGULATION V/1
+TANKER FAMILIARIZATION COURSE
+The tanker familiarization course referred to in paragraph 1.2 of regulation V/1 shall at least cover the syllabus given below.
+1 Characteristics of cargoes
+An outline treatment including practical demonstration of the physical properties of oil, chemicals or gases carried in bulk; vapour pressure/temperature relationship. Influence of pressure on boiling temperature. Explanation of saturated vapour pressure, diffusion, partial pressure, flammability limit, flashpoint and auto-ignition temperature. Practical significance of flashpoint and lower flammable limit. Simple explanation of types of electrostatic charge generation. Chemical symbols and structures, elements of the chemistry of acids and bases, chemical reactions of well-known groupings, sufficient to enable proper utilization of codes.
+2 Toxicity
+Simple principles and explanation of basic concepts; toxicity limits, both acute and chronic effects of toxicity, systemic poisons and irritants.
+3 Hazards
+.1 Explosion and flammability hazards
+Flammability limits. Sources of ignition and explosion.
+.2 Health hazards
+Dangers of skin contact, inhalation and ingestion.
+.3 Hazards to the environment
+Effect on human and marine life of release of oil, chemicals or gases. Effect of specific gravity and solubility. Danger from vapour cloud drift. Effect of vapour pressure and atmospheric conditions.
+.4 Reactivity hazards, self-reaction, polymerization, effects of temperature, impurities as catalysts. Reaction with air, water and other chemicals.
+.5 Corrosion hazards
+Dangers to personnel, attacks on constructional materials. Effects of concentration.
+4 Hazard control
+Inerting, water padding, drying agents, monitoring techniques. Anti-static measures. Ventilation. Segregation. Cargo inhibition. The importance of compatibility of materials.
+5 Safety equipment and protection of personnel
+The function and calibration of measuring instruments and similar equipment. Specialized fire-extinguishing appliances, breathing and escape apparatus. Safe use of protective clothing and equipment.
+6 Pollution prevention
+Procedures to be followed to prevent air and water pollution and measures to be taken in the event of spillage including the need to immediately report all relevant information to the appropriate officials when a spill is detected or when a malfunction has occurred which poses a risk of a spill; to promptly notify shore-based response personnel; and to properly implement shipboard spill mitigation procedures.
+APPENDIX 2 TO REGULATION V/1
+OIL TANKERS
+The specialized training program referred to in paragraph 2.2 of regulation V/1 appropriate to duties on oil tankers shall provide theoretical and practical knowledge of the following subjects:
+.1 Regulations and codes of practice
+Familiarization with:
+.1 the appropriate provisions of relevant international conventions;
+.2 international and national codes;
+.3 IMO Manual on Oil Pollution; and
+.4 relevant tanker safety guides[2].
+.2 Ship design and equipment of oil tankers
+Familiarization with:
+.1 piping, pumping, tank and deck arrangements;
+.2 types of cargo pumps and their application to various types of cargo;
+.3 tank cleaning, gas-freeing and inerting systems;
+.4 cargo tank venting and accommodation ventilation;
+.5 gauging systems and alarms;
+.6 cargo heating systems; and
+.7 safety factors of electrical systems.
+.3 Cargo characteristics
+Knowledge of chemical and physical properties of different oil cargoes.
+.4 Ship operations
+Cargo calculations. Loading and discharging plans. Loading and discharge procedures including ship-to-ship transfers. Check lists. Use of monitoring equipment. Importance of proper supervision of personnel. Gas-freeing operations and tank cleaning operations. Where appropriate, crude oil washing procedures and the operation and maintenance of inert gas systems. Control of entry into pump-rooms and enclosed spaces. Use of gas detecting and safety equipment. Load-on-top and proper ballasting and de-ballasting procedures. Air and water pollution prevention.
+.5 Repair and maintenance
+Precautions to be taken before and during repair and maintenance work including that affecting pumping, piping, electrical and control systems. Safety factors necessary in the performance of hot work. Control of hot work and proper hot work procedures.
+.6 Emergency operations
+The importance of developing ships' emergency plans. Cargo operations emergency shutdown. Action in the event of failure of services essential to cargo. Fire-fighting on oil tankers. Action following collision, stranding or spillage. First aid procedures and the use of resuscitation equipment. Use of breathing apparatus. Rescue from enclosed spaces.
+APPENDIX 3 TO REGULATION V/1
+CHEMICAL TANKERS
+The specialized training programme referred to in paragraph 2.2 of regulation V/1 appropriate to duties on chemical tankers shall provide theoretical and practical knowledge of the following subjects:
+.1 Regulations and codes of practice
+Familiarization with relevant international conventions and with IMO, national and relevant international codes[3] .
+.2 Ship design and equipment of chemical tankers
+A brief description of specialized piping, pumping and tank arrangements, overflow control. Types of cargo pumps and their application to various types of cargo. Tank cleaning and gas-freeing systems. Cargo tank venting and accommodation ventilation, airlocks. Gauging systems and alarms. Tank temperature control systems. The safety factors of electrical systems.
+.3 Cargo characteristics
+Sufficient knowledge of liquid chemical cargo characteristics to enable the proper use of relevant international codes3 .
+.4 Ship operations
+Cargo calculations. Loading and discharging plans. Loading and discharge procedure. Check lists. Use of monitoring equipment. Gas-freeing operations and tank cleaning operations (proper use of absorption and wetting agents and detergents). Use and maintenance of inert atmospheres. Control of entry into pump-rooms and enclosed spaces. Use of detecting and safety equipment. Disposal of waste and washings.
+.5 Repair and maintenance
+Precautions to be taken before the repair and maintenance of pumping, piping, electrical and control systems.
+.6 Emergency operations
+The importance of developing ships' emergency plans. Cargo operations emergency shutdown. Action is the event of failure of services essential to cargo. Fire-fighting on chemical tankers. Action following collision, stranding or spillage. First aid procedure and the use of resuscitation and decontamination equipment. Use of breathing apparatus. Rescue from enclosed spaces.
+APPENDIX 4 TO REGULATION V/1
+LIQUEFIED GAS TANKERS
+The specialized training programme referred to in paragraph 2.2 of regulation V/1 appropriate to the duties on liquefied gas tankers shall provide theoretical and practical knowledge of the following subjects:
+.1 Regulations and codes of practice
+Familiarization with relevant international conventions and with IMO, national and relevant international codes[4] .
+.2 Ship design and equipment of liquefied gas tankers
+Familiarization with:
+.1 Types of liquefied gas tankers;
+.2 Cargo containment systems (construction, surveys);
+.3 Cargo-handling equipment (pumps, piping systems);
+.4 Cargo conditioning systems (warm-up, cool-down);
+.5 Tank atmosphere control systems (inert gas, nitrogen);
+.6 Instrumentation of cargo containment and handling systems;
+.7 Fire-fighting systems; and
+.8 Safety and rescue equipment.
+.3 Fire-fighting
+Advanced practical fire-fighting techniques and tactics applicable to gas tankers, including the use of water-spray systems.
+.4 Chemistry and physics
+An introduction to basic chemistry and physics as it relates to the safe carriage of liquefied gases in bulk in ships:
+.4.1 Properties and characteristics of liquefied gases and their vapours :
+.1 Definition of gas;
+.2 Simple gas laws;
+.3 Gas equation;
+.4 Density of gases
+.5 Diffusion and mixing in gases;
+.6 Compression of gases;
+.7 Liquefaction of gases;
+.8 Refrigeration of gases;
+.9 Critical temperature;
+.10 Practical significance of flashpoint;
+.11 Upper and lower explosive limits;
+.12 Auto-ignition temperature;
+.13 Compatibility of gases;
+.14 Reactivity; and
+.15 Polymerization, inhibitors.
+.4.2 Properties of single liquids
+.1 Densities of liquids and vapours;
+.2 Variation with temperature;
+.3 Vapour pressure and temperature;
+.4 Entalphy; and
+.5 Vaporization and boiling liquids.
+.4.3 Nature and properties of solutions
+.1 Solubility of gases in liquids;
+.2 Miscibility between liquids and effects of temperature change;
+.3 Densities of solutions and dependence on temperature and concentration;
+.4 Effects of dissolved substances on melting and boiling points;
+.5 Hydrates, formation and dispersion;
+.6 Hygroscopicity;
+.7 Drying of air and other gases;
+.8 Dew point; and
+.9 Low temperature effects.
+.5 Health hazards
+.5.1 Toxicity
+.1 Modes by which liquefied gases and their vapours may be toxic;
+.2 Toxic properties of inhibitors and of products, of combustion of both materials of construction and of liquefied gases carried;
+.3 Acute and chronic effects of toxicity, systemic poisons and irritants;
+.4 Threshold Limiting Value (TLV).
+.5.2 Hazards of skin contact, inhalation and ingestion.
+.5.3 First aid and administering of antidotes.
+.6 Cargo containment
+.1 Principles of containment systems;
+.2 Rules;
+.3 Surveys;
+.4 Tank construction, materials, coatings, insulation; and
+.5 Compatibility.
+.7 Pollution
+.1 Hazards to human life and to the marine environment;
+.2 Effect of specific gravity and solubility;
+.3 Danger from vapour cloud drift; and
+.4 Jettisoning of cryogenic liquids.
+.8 Cargo handling system
+.1 Description of main types of pumps and pumping arrangements and vapour return systems, piping systems and valves;
+.2 Explanation of pressure, vacuum, suction, flow, head;
+.3 Filters and strainers;
+.4 Expansion devices;
+.5 Flame screens;
+.6 Commonly used inert gases;
+.7 Storage, generation, distribution systems;
+.8 Temperature and pressure monitoring systems;
+.9 Cargo vent systems;
+.10 Liquid re-circulation and re-liquefaction systems;
+.11 Cargo gauging, instrumentation systems and alarms;
+.12 Gas detection and monitoring systems;
+.13 CO2 monitoring systems;
+.14 Cargo boil-off systems; and
+.15 Auxiliary systems.
+.9 Ship operation procedures
+.1 Loading and discharging preparations and procedures;
+.2 Check lists;
+.3 Cargo condition maintenance on passage and in harbour;
+.4 Segregation of cargoes and procedures for cargo transfer;
+.5 Changing cargoes, tank cleaning procedures;
+.6 Cargo sampling;
+.7 Ballasting and de-ballasting;
+.8 Warm-up and cool-down systems;
+.9 Warm-up and gas-freeing procedures; and
+.10 Procedures for cool down of gas-free system from ambient temperature and safety precautions involved.
+.10 Safety practices and equipment
+.1 Function, calibration and use of portable measuring instruments;
+.2 Fire-fighting equipment and procedures;
+.3 Breathing apparatus;
+.4 Resuscitators;
+.5 Escape sets;
+.6 Rescue equipment;
+.7 Protective clothing and equipment;
+.8 Entry into enclosed spaces;
+.9 Precautions to be observed before and during repair and maintenance of cargo and control systems;
+.10 Supervision of personnel during potentially hazardous operations;
+.11 Types and principles of certified safe electrical equipment; and
+.12 Sources of ignition.
+.11 Emergency procedures
+.1 The importance of developing ships' emergency plans;
+.2 Emergency shutdown of cargo operations;
+.3 Emergency cargo valve closing systems;
+.4 Action in the event of failure of systems or services essential to cargo; and
+.5 Action following collision or stranding, spillage and envelopment of ship in toxic or flammable vapour.
+.12 General principles of cargo operations
+.1 Inerting cargo tank and void spaces;
+.2 Tank cool-down, loading;
+.3 Operations during loaded and ballasted voyages;
+.4 Discharging and tank stripping; and
+.5 Emergency procedures, including pre-planned action in the event of leaks, fire, collision, stranding, emergency cargo discharge, personnel casualty."
+[1] Adopted pursuant to Resolution MSC. 33(63).
+[2] Reference is made to the joint ICS/OCIMF International Safety Guide for Oil Tankers and Terminals and the ICS Guide to Helicopter/Ship Operations. [Footnote appeared in original text.]
+[3] Reference is made to the ICS Tanker Safety Guide (Chemicals) and the ICS Guide to Helicopter/Ship Operations. [Footnote appeared in original text.]
+[4] Reference is made to the ICS Tanker Safety Guide (Liquefied Gas) and the ICS Guide to Helicopter/Ship Operations. [Footnote appeared in original text.] 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

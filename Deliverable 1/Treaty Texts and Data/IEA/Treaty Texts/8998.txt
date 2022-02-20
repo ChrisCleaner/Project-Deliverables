@@ -1,0 +1,44 @@
+
+ Amendment to Annex IV of the Convention on the Protection of the Rhine against Chemical Pollution (regarding reduction of pollution by aldrin, dieldrin, endrin, isodrin)   
+     Filename: 8998-1988-Amendment-AldrinDieldrineEndrinIsodrine-1976-Chemical-1963-RhineCommission-IEA#2858 
+ Source: https://zoek.officielebekendmakingen.nl/trb-1993-76.pdf     
+    Proposition de la Commission Internationale pour la Protection du Rhin contre la Pollution visant à compléter l'annexe IV à la Convention relative à la protection du Rhin contre la pollution chimique, signée à Bonn le 3 décembre 1976
+Source: https://zoek.officielebekendmakingen.nl/trb-1993-76.pdf on page 2 of PDF Downloaded on 20210424
+La Commission Internationale pour la Protection du Rhin contre la Pollution,
+se référant à la Convention relative à la protection du Rhin contre la pollution chimique, signée à Bonn le 3 décembre 1976,
+considérant en particulier les articles 3,4, 5 et 14 de cette Convention,
+propose aux Parties contractantes à la Convention que l'annexe IV à la Convention soit complétée comme suit en ce qui concerne l'aldrine, la dieldrine, l'endrine et l'isodrine
+[note: for original table see source document above]
+Substance ou groupe de substance // 1 // Aldrine Dieldrine Endrine Isodrine 
+Origine // 2 // Production d'aldrine et/ou de dieldrine et/ou d'endrine y compris la formulation sur le même site
+Valeur-limite exprimée en concentration maximale d'une substance // 3 // 2 microgrammes par litre d'eau usée
+Valeur-limite exprimée en quantité maximale d'une substance // 4 // 3 grammes par tonne de capacité de production totale
+Limite du délai pour les rejets existants // 5 // 01.01.1989
+Observations // 6 // (n1),(n2),(n3),(n4),(n5)
+[end of table]
+En cas de besoin, des valeurs-limites pour d'autres secteurs industriels, tels que les établissements formulant l'aldrine et/ou la dieldrine et/ou l'endrine en dehors du site de production, sont proposées par la Commission Internationale à un stade ultérieur. Entre-temps, les Gouvernements fixent de manière autonome, conformément aux articles 3 et 4 de la Convention, des normes d'émissions pour les rejets de ces substances. Ces normes doivent tenir compte des meilleurs moyens techniques disponibles et ne doivent pas être moins strictes que la valeur-limite la plus comparable de l'annexe IV.
+Les dispositions de ce paragraphe s'appliquent également lors qu'un établissement industriel compte des activités autres que celles pour lesquelles des valeurs-limites sont fixées dans le tableau ci-dessus et qui sont susceptibles d'être à l'origine de rejets des substances mentionnées.
+En application des articles 14 et 19 de la Convention, ces dispositions entreront en vigueur après adoption unanime par les Parties contractantes à la Convention.
+Les Parties contractantes notifieront leur adoption au Gouvernement de la Confédération Suisse, qui les informera de la réception de ces déclarations.
+(1) Les valeurs-limites indiquées dans le tableau correspondent aux valeurs maximales de la concentration moyenne mensuelle (valeurs-limites exprimées en concentration) ou à la charge mensuelle rejetée (valeurs-limites exprimées en poids) de la somme des rejets d'aldrine, de dieldrine et d'endrine.
+Dans le cas où les effluents provenant de la production de l'aldrine, de dieldrine et/ou d'endrine (y compris la formulation de ces produits) contiennent aussi l'isodrine, les valeurs-limites fixées ci-dessus s'appliquent à la somme des rejets d'aldrine, de dieldrine, d'endrine et d'isodrine.
+Le chiffre en concentration tient compte du débit total des eaux de l'établissement.
+Les quantités d'aldrine, de dieldrine, d'endrine et d'isodrine sont exprimées en fonction de l'élément caractéristique de l'activité polluante, à savoir la capacité de production d'aldrine, de dieldrine et d'endrine de l'établissement industriel.
+(2) Dans tous les cas, les valeurs-limites exprimées en concentration maximale ne peuvent être supérieures à celles exprimées en quantités maximales divisées par les besoins en eau rapportés à l'élément caractéristique de l'activité polluante.
+Toutefois étant donné que la concentration d'aldrine, de dieldrine, d'endrine et d'isodrine dans les effluents dépend du volume d'eau impliqué, les valeurs-limites exprimées en poids rapportées à l'élément caractéristique de l'activité polluante doivent être respectées dans tous les cas.
+(3) Les valeurs-limites indiquées dans le tableau ci-dessus se réfèrent à la détermination de l'aldrine, de la dieldrine, de l'endrine et de l'isodrine contenues dans un échantillon non filtré. Elles s'appliquent à la somme des substances aldrine, dieldrine, endrine et isodrine de l'ensemble des eaux usées contenant des "drines" qui résultent du site de l'installation industrielle.
+Si les eaux usées contenant des "drines" sont traitées hors de l'établissement industriel dans une installation de traitement destinée à son élimination, les Gouvernements peuvent permettre que les valeurs-limites soient appliquées au point où les eaux usées sortent de l'installation de traitement.
+(4) Les valeurs-limites des moyennes journalières sont égales au quintuple des valeurs-limites des moyennes mensuelles correspondantes figurant dans le tableau. Si possible, les valeurs journalières ne devraient pas dépasser le double de la valeur mensuelle.
+(5) En ce qui concerne les méthodes de mesures, d'analyses et de prélèvement, voir les recommandations de la Commission Internationale du 6 juillet 1988.
+(Bruxelles, le 6 juillet 1988) 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

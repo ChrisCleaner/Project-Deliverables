@@ -1,0 +1,55 @@
+
+ Protocol I, Provisions Concerning Reports On Incidents Involving Harmful Substances To The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 1973-Protocol-I-1973-PollutionFromShips.EN.txt 
+ Source: http://sedac.ciesin.org/entri/texts/pollution.from.ships.1973.html     
+    ﻿Protocol I, Provisions Concerning Reports On Incidents Involving Harmful Substances To The International Convention For The Prevention Of Pollution From Ships
+Source: http://sedac.ciesin.org/entri/texts/pollution.from.ships.1973.html
+(in accordance with Article 8 of the Convention)
+Article I
+Duty to Report
+(1) The Master of a ship involved in an incident referred to in Article III of this Protocol, or other person having charge of the ship, shall report the particulars of such incident without delay and to the fullest extent possible in accordance with the provisions of this Protocol.
+(2) In the event of the ship referred to in paragraph (1) of the present Article being abandoned, or in the event of a report from such ship being incomplete or unobtainable, the owner, charterer, manager or operator of the ship, or their agents shall, to the fullest extent possible assume the obligations placed upon the Master under the provisions of this Protocol.
+Article II
+Methods of Reporting
+(1) Each report shall be made by radio whenever possible, but in any case by the fastest channels available at the time the report is made. Reports made by radio shall be given the highest possible priority.
+(2) Reports shall be directed to the appropriate officer or agency specified in paragraph (2)(a) of Article 8 of the Convention.
+Article III
+When to make Reports
+The report shall be made whenever an incident involves:
+(a) a discharge other than as permitted under the present Convention; or
+(b) a discharge permitted under the present Convention by virtue of the fact that:
+(i) it is for the purpose of securing the safety of a ship or saving life at sea; or
+(ii) it results from damage to the ship or its equipment; or
+(c) a discharge of a harmful substance for the purpose of combating a specific pollution incident or for purposes of legitimate scientific research into pollution abatement or control; or
+(d) the probability of a discharge referred to in sub-paragraphs (a), (b) or (c) of this Article.
+Article IV
+Contents of Report
+(1) Each report shall contain in general:
+(a) the identity of the ship;
+(b) the time and date of the occurrence of the incident;
+(c) the geographic position of the ship when the incident occurred;
+(d) the wind and sea conditions prevailing at the time of the incident; and
+(e) relevant details respecting the condition of the ship.
+(2) Each report shall contain, in particular:
+(a) a clear indication or description of the harmful substances involved, including, if possible, the correct technical names of such substances (trade names should not be used in place of the correct technical names);
+(b) a statement or estimate of the quantities, concentrations and likely conditions of harmful substances discharged or likely to be discharged into the sea;
+(c) where relevant, a description of the packaging and identifying marks; and
+(d) if possible the name of the consignor, consignee or manufacturer.
+(3) Each report shall clearly indicate whether the harmful substance discharged, or likely to be discharged is oil, a noxious liquid substance, a noxious solid substance or a noxious gaseous substance and whether such substance was or is carried in bulk or contained in packaged form, freight containers, portable tanks, or road and rail tank wagons.
+(4) Each report shall be supplemented as necessary by any other relevant information requested by a recipient of the report or which the person sending the report deems appropriate.
+Article V
+Supplementary Report
+Any person who is obliged under the provisions of this Protocol to send a report shall, when possible:
+(a) supplement the initial report, as necessary, with information concerning further developments; and
+(b) comply as fully as possible with requests from affected States for additional information concerning the incident. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,46 @@
+
+ Amendments To The International Convention On Standards Of Training, Certification And Watchkeeping For Seafarers - International Ship and Port Facility Security Amendments   
+     Filename: 2006-AmendmentsISPS-1978-StandardsSeafarers.EN.txt 
+ Source: http://www.dft.gov.uk/mca/msc.203_81_-3.pdf     
+    ﻿Adoption Of Amendments To The International Convention On Standards Of Training, Certification And Watchkeeping For Seafarers, 1978, As Amended
+Source: http://www.dft.gov.uk/mca/msc.203_81_-3.pdf, downloaded 20120215
+RESOLUTION MSC.203(81) (adopted on 18 May 2006)
+THE MARITIME SAFETY COMMITTEE,
+RECALLING Article 28(b) of the Convention on the International Maritime Organization concerning the functions of the Committee,
+RECALLING FURTHER article XII of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW), 1978 (hereinafter referred to as "the Convention"), concerning the procedures for amending the Convention,
+HAVING CONSIDERED, at its eighty-first session, amendments to the Convention proposed and circulated in accordance with article XII(1)(a)(i) of the Convention,
+1. ADOPTS, in accordance with article XII(1)(a)(iv) of the Convention, amendments to the Convention, the text of which is set out in the Annex to the present resolution;
+2. DETERMINES, in accordance with article XII(1)(a)(vii)(2) of the Convention, that the amendments to the Convention shall be deemed to have been accepted on 1 July 2007, unless, prior to that date more than one third of Parties or Parties the combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's merchant shipping of ships of 100 gross register tons or more, have notified their objections to the amendments;
+3. INVITES Parties to note that, in accordance with article XII(1)(a)(viii) of the Convention, that the amendments to the Convention, shall enter into force on 1 January 2008 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article XII(1)(a)(v) to transmit certified copies of the present resolution and the text of the amendments contained in the Annex to all Parties to the Convention;
+5. FURTHER REQUESTS the Secretary-General to transmit copies of this resolution and its Annex to Members of the Organization, which are not Parties to the Convention.
+ANNEX
+AMENDMENTS TO THE INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAFARERS, 1978, AS AMENDED
+CHAPTER I GENERAL PROVISIONS
+Regulation I/1 - Definitions and clarifications
+1 The full stop "." at the end of paragraph 1 subparagraph .25 is replaced by a semicolon ";".
+2 In paragraph 1, the following new subparagraphs .26 and .27 are inserted after the existing subparagraph .25:
+".26 ISPS Code means the International Ship and Port Facility Security (ISPS) Code adopted on 12 December 2002, by resolution 2 of the Conference of Contracting Governments to the International Convention for the Safety of Life at Sea (SOLAS), 1974, as may be amended by the Organization;
+.27 Ship security officer means the person on board the ship, accountable to the master, designated by the Company as responsible for the security of the ship including implementation and maintenance of the ship security plan and liaison with the Company security officer and port facility security officers."
+CHAPTER VI EMERGENCY, OCCUPATIONAL SAFETY, MEDICAL CARE AND SURVIVAL FUNCTIONS
+3. The existing title of chapter VI is replaced by the following:
+"Emergency, occupational safety, security, medical care and survival functions"
+4. The following new regulation VI/5 is inserted after the existing regulation VI/4:
+"Regulation VI/5 Mandatory minimum requirements for the issue of certificates of proficiency for ship security officers
+1 Every candidate for a certificate of proficiency as ship security officer shall:
+.1 have approved seagoing service of not less than 12 months or appropriate seagoing service and knowledge of ship operations; and
+.2 meet the standard of competence for certification of proficiency as ship security officer, set out in section A-VI/5, paragraphs 1 to 4 of the STCW Code.
+2. Administrations shall ensure that every person found qualified under the provisions of this regulation is issued with a certificate of proficiency.
+3. Every Party shall compare the standards of competence which it required of ship security officers who hold or can document qualifications before the entry into force of this regulation with those specified for the certificate of proficiency in section A-VI/5 of the STCW Code, and shall determine the need for requiring these personnel to update their qualifications.
+4. Until 1 July 2009, a Party may continue to recognize personnel who hold or can document qualifications as ship security officers before the entry into force of this regulation." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

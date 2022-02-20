@@ -1,0 +1,75 @@
+
+ Amendments to the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC CODE)   
+     Filename: 2014-AmendmentsIBC-2012-AmendmentsIBC-1978-Protocol-1973-PollutionFromShips. 
+ Source: http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Marine-Environment-P…     
+    AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE)
+ (General, Ship survival capability and location of cargo tanks, Cargo tank venting and gas-freeing arrangements, Environmental control, Fire protection and fire extinction, Special requirements, Summary of minimum requirements, and Form of Certificate of Fitness) 
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE, 
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution from ships, 
+RECALLING ALSO resolution MEPC.19(22) by which the Committee adopted the International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC Code), 
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention") and article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") which together specify the amendment procedure of the 1978 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 Protocol (MARPOL), 
+CONSIDERING that it is highly desirable for the provisions of the IBC Code, which are mandatory under both MARPOL and the 1974 SOLAS Convention, to remain identical, 
+HAVING CONSIDERED proposed amendments to the IBC Code, 
+1 ADOPTS, in accordance with article 16(2)(b), (c) and (d) of the 1973 Convention, the amendments to the IBC Code, the text of which is set out in the annex to the present resolution; 
+2 DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments to the IBC Code shall be deemed to have been accepted on 1 July 2015 unless, prior to that date, not less than one third of the Parties or Parties, the combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments; 
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the amendments to the IBC Code shall enter into force on 1 January 2016 upon their acceptance in accordance with paragraph 2 above; 
+4 REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to MARPOL, certified copies of the present resolution and the text of the amendments to the IBC Code contained in the annex; and 
+5 REQUESTS FURTHER the Secretary-General to transmit copies of the present resolution and its annex to the Members of the Organization which are not Parties to MARPOL. 
+ ANNEX AMENDMENTS TO THE INTERNATIONAL CODE FOR THE CONSTRUCTION AND EQUIPMENT OF SHIPS CARRYING DANGEROUS CHEMICALS IN BULK (IBC CODE) 
+Chapter 1 – General 
+1 New paragraphs 1.3.37 and 1.3.38 are added as follows: 
+"1.3.37 Purging means the introduction of inert gas into a tank which is already in an inert condition with the object of further reducing the oxygen content; and/or reducing the existing hydrocarbon or other flammable vapours content to a level below which combustion cannot be supported if air is subsequently introduced into the tank. 
+1.3.38 Gas-freeing means the process where a portable or fixed ventilation system is used to introduce fresh air into a tank in order to reduce the concentration of hazardous gases or vapours to a level safe for tank entry." 
+Chapter 2 – Ship survival capability and location of cargo tanks 
+2.2 – Freeboard and intact stability 
+2	 The title of section 2.2 is amended to read: 
+"Freeboard and stability" 
+3 A new subparagraph 
+2.2.6 is added as follows: "2.2.6 All ships, subject to the Code, shall be fitted with a stability instrument, capable of verifying compliance with intact and damage stability requirements, approved by the Administration having regard to the performance standards recommended by the Organization: 
+.1 ships constructed before 1 January 2016 shall comply with this requirement at the first scheduled renewal survey of the ship on or after 1 January 2016 but not later than 1 January 2021; 
+.2 notwithstanding the requirements of 2.2.6.1, a stability instrument fitted on a ship constructed before 1 January 2016 need not be replaced provided it is capable of verifying compliance with intact and damage stability, to the satisfaction of the Administration; and 
+.3 for the purposes of control under regulation 16 of MARPOL Annex II, the Administration shall issue a document of approval for the stability instrument
+4 A new subparagraph 2.2.7 is added as follows: "2.2.7 The Administration may waive the requirements of paragraph 2.2.6 for the following ships provided the procedures employed for intact and damage stability verification maintain the same degree of safety, as being loaded in accordance with the approved conditions. Any such waiver shall be duly noted on the International Certificate of Fitness referred to in paragraph 1.5.4: 
+.1 ships which are on a dedicated service, with a limited number of permutations of loading such that all anticipated conditions have been approved in the stability information provided to the master in accordance with the requirements of paragraph 2.2.5; 
+.2 ships where stability verification is made remotely by a means approved by the Administration; 
+.3 ships which are loaded within an approved range of loading conditions; or 
+.4 ships constructed before 1 January 2016 provided with approved limiting KG/GM curves covering all applicable intact and damage stability requirements. 
+Chapter 8 – Cargo tank venting and gas-freeing arrangements 
+5 In paragraph 8.1.5, the references to "SOLAS regulations II-2/4.5.3 and 4.5.6" are replaced by references to "SOLAS regulations II-2/4.5.3, 4.5.6 and 16.3.2".
+ 6 A new paragraph 8.5 is inserted as follows: "8.5 Cargo tank purging When the application of inert gas is required by 11.1.1, before gas-freeing, the cargo tanks shall be purged with inert gas through outlet pipes with cross-sectional area such that an exit velocity of at least 20 m/s can be maintained when any three tanks are being simultaneously supplied with inert gas. The outlets shall extend not less than 2 m above the deck level. Purging shall continue until the concentration of hydrocarbon or other flammable vapours in the cargo tanks has been reduced to less than 2% by volume." 
+7 The existing paragraph 8.5 and subparagraphs 8.5.1, 8.5.2 and 8.5.3 are renumbered as paragraph 8.6 and subparagraphs 8.6.1, 8.6.2 and 8.6.3, respectively, and, in the renumbered paragraphs 8.6.2 and 8.6.3 the referenced paragraph numbers "8.5.1", "8.5.1.2" and "8.5.1.3" are replaced with "8.6.1", "8.6.1.2" and "8.6.1.3", respectively. 
+Chapter 9 – Environmental control 
+8 The chapeau of paragraph 9.1.3 is replaced by the following: "9.1.3 Where inerting or padding of cargo tanks is required by this Code in column "h" of chapter 17:" 
+Chapter 11 – Fire protection and fire extinction* 9 Subparagraph 11.1.1.1 is replaced by the following: "11.1.1.1 Regulations 10.8 and 10.9 shall not apply;" 
+Chapter 15 – Special requirements 
+10 Paragraph 15.13.5 is replaced by the following:
+ "15.13.5 When a product containing an oxygen-dependent inhibitor is to be carried:
+ .1 in a ship for which inerting is required under SOLAS regulation II-2/4.5.5, as amended, the application of inert gas shall not take place before loading or during the voyage, but shall be applied before commencement of unloading;
+ .2 in a ship to which SOLAS regulation II-2/4.5.5, as amended, does not apply, the product may be carried without inertion (in tanks of a size not greater than 3,000 m3 ). If inertion is to be applied on such a ship, then the application of inert gas shall not take place before loading or during the voyage, but shall be applied before commencement of unloading. 
+Chapter 17 – Summary of minimum requirements 
+11 The explanatory notes for "Tank environment control (column h)" are replaced by the following: 
+"Tank environmental Inert: inerting (9.1.2.1) control Pad: liquid or gas padding (9.1.2.2) (column h) Dry: drying (9.1.2.3) Vent: natural or forced ventilation (9.1.2.4) No: no special requirements under this Code (inerting may be required under SOLAS)" 
+Certificate of Fitness
+ 12 Paragraph 6 is replaced with the following: 
+"6 That the ship must be loaded: 
+.1* only in accordance with loading conditions verified compliant with intact and damage stability requirements using the approved stability instrument fitted in accordance with paragraph 2.2.6 of the Code; 
+.2* where a waiver permitted by paragraph 2.2.7 of the Code is granted and the approved stability instrument required by paragraph 2.2.6 of the Code is not fitted, loading shall be made in accordance with one or more of the following approved methods: 
+(i)	in accordance with the loading conditions provided in the approved loading manual, stamped and dated .................. and signed by a responsible officer of the Administration, or of an organization recognized by the Administration; or 
+(ii)	in accordance with loading conditions verified remotely using an approved means …………………; or 
+(iii)	 in accordance with a loading condition which lies within an approved range of conditions defined in the approved loading manual referred to in (i) above; or 
+(iv)	(iv) in accordance with a loading condition verified using approved critical KG/GM data defined in the approved loading manual referred to in (i) above; 
+.3* in accordance with the loading limitations appended to this Certificate.
+ Where it is required to load the ship other than in accordance with the above instruction, then the necessary calculations to justify the proposed loading conditions shall be communicated to the certifying Administration who may authorize in writing the adoption of the proposed loading condition.
+ ______________ 
+* Delete as appropriate." 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

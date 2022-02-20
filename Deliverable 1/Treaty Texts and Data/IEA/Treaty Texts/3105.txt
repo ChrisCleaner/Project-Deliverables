@@ -1,0 +1,432 @@
+
+ Protocol Concerning The Control Of Emissions Of Volatile Organic Compounds Or Their Transboundary Fluxes To The Convention On Long-Range Transboundary Air Pollution   
+     Filename: 1991-ProtocolVolatileOrganicCompounds-1979-EuropeanTransboundaryAirPollution.EN.txt 
+ Source: http://www.unece.org/env.lrtap/full%20text/1991.VOC.e.pdf     
+    ﻿Protocol To The 1979 Convention On Long-Range Transboundary Air Pollution Concerning The Control Of Emissions Of Volatile Organic Compounds Or Their Transboundary Fluxes
+Source: http://www.unece.org/env.lrtap/full%20text/1991.VOC.e.pdf
+The Parties,
+Determined to implement the Convention on Long-range Transboundary Air Pollution,
+Concerned that present emissions of volatile organic compounds (VOCs) and the resulting secondary photochemical oxidant products are causing damage, in exposed parts of Europe and North America, to natural resources of vital environmental and economic importance and, under certain exposure conditions, have harmful effects on human health,
+Noting that under the Protocol concerning the Control of Emissions of Nitrogen Oxides or their Transboundary Fluxes, adopted in Sofia on 31 October 1988, there is already agreement to reduce emissions of oxides of nitrogen,
+Recognizing the contribution of VOCs and nitrogen oxides to the formation of tropospheric ozone,
+Recognizing also that VOCs, nitrogen oxides and resulting ozone are transported across international boundaries, affecting air quality in neighbouring States,
+Aware that the mechanism of photochemical oxidant creation is such that the reduction of emissions of VOCs is necessary in order to reduce the incidence of photochemical oxidants,
+Further aware that methane and carbon monoxide emitted by human activities are present at background levels in the air over the ECE region and contribute to the formation of episodic peak ozone levels; that, in addition, their global-scale oxidation in the presence of nitrogen oxides contributes to the formation of the background levels of tropospheric ozone upon which photochemical episodes are superimposed; and that methane is expected to become the subject of control actions in other forums,
+Recalling that the Executive Body for the Convention identified at its sixth session the need to control emissions of VOCs or their transboundary fluxes, as well as to control the incidence of photochemical oxidants, and the need for Parties that had already reduced these emissions to maintain and review their emission standards for VOCs,
+Acknowledging the measures already taken by some Parties which have had the effect of reducing their national annual emissions of nitrogen oxides and VOCs,
+Noting that some Parties have set air quality standards and/or objectives for tropospheric ozone and that standards for tropospheric ozone concentrations have been set by the World Health Organization and other competent bodies,
+Determined to take effective action to control and reduce national annual emissions of VOCs or the transboundary fluxes of VOCs and the resulting secondary photochemical oxidant products, in particular by applying appropriate national or international emission standards to new mobile and new stationary sources and retrofitting existing major stationary sources, and also by limiting the content of components in products for industrial and domestic use that have the potential to emit VOCs,
+Conscious that volatile organic compounds differ greatly from each other in their reactivity and in their potential to create tropospheric ozone and other photochemical oxidants and that, for any individual compounds, potential may vary from time to time and from place to place depending on meteorological and other factors,
+Recognizing that such differences and variations should be taken into consideration if action to control and reduce emissions and transboundary fluxes of VOCs is to be as effective as possible in minimizing the formation of tropospheric ozone and other photochemical oxidants,
+Taking into consideration existing scientific and technical data on emissions, atmospheric movements and effects on the environment of VOCs and photochemical oxidants, as well as on control technologies,
+Recognizing that scientific and technical knowledge of these matters is developing and that it will be necessary to take such developments into account when reviewing the operation of the present Protocol and deciding on further action,
+Noting that the elaboration of an approach based on critical levels is aimed at the establishment of an effect-oriented scientific basis to be taken into account when reviewing the operation of the present Protocol, and at deciding on further internationally agreed measures to limit and reduce emissions of VOCs or the transboundary fluxes of VOCs and photochemical oxidants,
+Have agreed as follows:
+Article 1
+DEFINITIONS
+For the purposes of the present Protocol,
+1. "Convention'' means the Convention on Long-range Transboundary Air Pollution, adopted in Geneva on 13 November 1979;
+2. "EMEP'' means the Cooperative Programme for Monitoring and Evaluation of the Long range Transmission of Air Pollutants in Europe;
+3. "Executive Body'' means the Executive Body for the Convention constituted under article 10, paragraph 1, of the Convention;
+4. "Geographical scope of EMEP'' means the area defined in article 1, paragraph 4, of the Protocol to the 1979 Convention on Long-range Transboundary Air Pollution on Long-term Financing of the Cooperative Programme for Monitoring and Evaluation of the Long-range Transmission of Air Pollutants in Europe (EMEP), adopted in Geneva on 28 September 1984;
+5. "Tropospheric ozone management area'' (TOMA) means an area specified in annex I under conditions laid down in article 2, paragraph 2 (b);
+6. "Parties'' means, unless the context otherwise requires, the Parties to the present Protocol;
+7. "Commission'' means the United Nations Economic Commission for Europe;
+8. "Critical levels'' means concentrations of pollutants in the atmosphere for a specified exposure time below which direct adverse effects on receptors, such as human beings, plants, ecosystems or materials do not occur according to present knowledge;
+9. "Volatile organic compounds'', or "VOCs'', means, unless otherwise specified, all organic compounds of anthropogenic nature, other than methane, that are capable of producing photochemical oxidants by reactions with nitrogen oxides in the presence of sunlight;
+10. "Major source category'' means any category of sources which emit air pollutants in the form of VOCs, including the categories described in annexes II and III, and which contribute at least 1 per cent of the total national emissions of VOCs on an annual basis, as measured or calculated in the first calendar year after the date of entry into force of the present Protocol, and every fourth year thereafter;
+11. "New stationary source'' means any stationary source of which the construction or substantial modification is commenced after the expiry of two years from the date of entry into force of the present Protocol;
+12. "New mobile source'' means any on-road motor vehicle which is manufactured after the expiry of two years from the date of entry into force of the present Protocol;
+13. "Photochemical ozone creation potential'' (POCP) means the potential of an individual VOC, relative to that of other VOCs, to form ozone by reaction with oxides of nitrogen in the presence of sunlight, as described in annex IV.
+Article 2
+BASIC OBLIGATIONS
+1. The Parties shall control and reduce their emissions of VOCs in order to reduce their transboundary fluxes and the fluxes of the resulting secondary photochemical oxidant products so as to protect human health and the environment from adverse effects.
+2. Each Party shall, in order to meet the requirements of paragraph 1 above, control and reduce its national annual emissions of VOCs or their transboundary fluxes in any one of the following ways to be specified upon signature:
+(a) It shall, as soon as possible and as a first step, take effective measures to reduce its national annual emissions of VOCs by at least 30 per cent by the year 1999, using 1988 levels as a basis or any other annual level during the period 1984 to 1990, which it may specify upon signature of or accession to the present Protocol; or
+(b) Where its annual emissions contribute to tropospheric ozone concentrations in areas under the jurisdiction of one or more other Parties, and such emissions originate only from areas under its jurisdiction that are specified as TOMAs in annex I, it shall, as soon as possible and as a first step, take effective measures to:
+(i) Reduce its annual emissions of VOCs from the areas so specified by at least 30 per cent by the year 1999, using 1988 levels as a basis or any other annual level during the period 1984-1990, which it may specify upon signature of or accession to the present Protocol; and
+(ii) Ensure that its total national annual emissions of VOCs by the year 1999 do not exceed the 1988 levels; or
+(c) Where its national annual emissions of VOCs were in 1988 lower than 500,000 tonnes and 20 kg/inhabitant and 5 tonnes/km2, it shall, as soon as possible and as a first step, take effective measures to ensure at least that at the latest by the year 1999 its national annual emissions of VOCs do not exceed the 1988 levels.
+3. (a) Furthermore, no later than two years after the date of entry into force of the present Protocol, each Party shall:
+(i) Apply appropriate national or international emission standards to new stationary sources based on the best available technologies which are economically feasible, taking into consideration annex II;
+(ii) Apply national or international measures to products that contain solvents and promote the use of products that are low in or do not contain VOCs, taking into consideration annex II, including the labelling of products specifying their VOC content;
+(iii) Apply appropriate national or international emission standards to new mobile sources based on the best available technologies which are economically feasible, taking into consideration annex III; and
+(iv) Foster public participation in emission control programmes through public announcements, encouraging the best use of all modes of transportation and promoting traffic management schemes.
+(b) Furthermore, no later than five years after the date of entry into force of the present Protocol, in those areas in which national or international tropospheric ozone standards are exceeded or where transboundary fluxes originate or are expected to originate, each Party shall:
+(i) Apply the best available technologies that are economically feasible to existing stationary sources in major source categories, taking into consideration annex II;
+(ii) Apply techniques to reduce VOC emissions from petrol distribution and motor vehicle refuelling operations, and to reduce volatility of petrol, taking into consideration annexes II and III.
+4. In carrying out their obligations under this article, Parties are invited to give highest priority to reduction and control of emissions of substances with the greatest POCP, taking into consideration the information contained in annex IV.
+5. In implementing the present Protocol, and in particular any product substitution measures, Parties shall take appropriate steps to ensure that toxic and carcinogenic VOCs, and those that harm the stratospheric ozone layer, are not substituted for other VOCs.
+6. The Parties shall, as a second step, commence negotiations, no later than six months after the date of entry into force of the present Protocol, on further steps to reduce national annual emissions of volatile organic compounds or transboundary fluxes of such emissions and their resulting secondary photochemical oxidant products, taking into account the best available scientific and technological developments, scientifically determined critical levels and internationally accepted target levels, the role of nitrogen oxides in the formation of photochemical oxidants and other elements resulting from the work programme undertaken under article 5.
+7. To this end, the Parties shall cooperate in order to establish:
+(a) More detailed information on the individual VOCs and their POCP values;
+(b) Critical levels for photochemical oxidants;
+(c) Reductions in national annual emissions or transboundary fluxes of VOCs and their resulting secondary photochemical oxidant products, especially as required to achieve agreed objectives based on critical levels;
+(d) Control strategies, such as economic instruments, to obtain overall cost effectiveness to achieve agreed objectives;
+(e) Measures and a timetable commencing no later than 1 January 2000 for achieving such reductions.
+8. In the course of these negotiations, the Parties shall consider whether it would be appropriate for the purposes specified in paragraph 1 to supplement such further steps with measures to reduce methane.
+Article 3
+FURTHER MEASURES
+1. Measures required by the present Protocol shall not relieve Parties from their other obligations to take measures to reduce total gaseous emissions that may contribute significantly to climate change, to the formation of tropospheric background ozone or to the depletion of stratospheric ozone, or that are toxic or carcinogenic.
+2. Parties may take more stringent measures than those required by the present Protocol.
+3. The Parties shall establish a mechanism for monitoring compliance with the present Protocol. As a first step based on information provided pursuant to article 8 or other information, any Party which has reason to believe that another Party is acting or has acted in a manner inconsistent with its obligations under this Protocol may inform the Executive Body to that effect and, simultaneously, the Parties concerned. At the request of any Party, the matter may be taken up at the next meeting of the Executive Body.
+Article 4
+EXCHANGE OF TECHNOLOGY
+1. The Parties shall, consistent with their national laws, regulations and practices, facilitate the exchange of technology to reduce emissions of VOCs, particularly through the promotion of:
+(a) The commercial exchange of available technology;
+(b) Direct industrial contacts and cooperation, including joint ventures;
+(c) The exchange of information and experience;
+(d) The provision of technical assistance.
+2. In promoting the activities specified in paragraph 1 of this article, the Parties shall create favourable conditions by facilitating contacts and cooperation among appropriate organizations and individuals in the private and public sectors that are capable of providing technology, design and engineering services, equipment or finance.
+3. The Parties shall, no later than six months after the date of entry into force of the present Protocol, commence consideration of procedures to create more favourable conditions for the exchange of technology to reduce emissions of VOCs.
+Article 5
+RESEARCH AND MONITORING TO BE UNDERTAKEN
+The Parties shall give high priority to research and monitoring related to the development and application of methods to achieve national or international tropospheric ozone standards and other goals to protect human health and the environment. The Parties shall, in particular, through national or international research programmes, in the work-plan of the Executive Body and through other cooperative programmes within the framework of the Convention, seek to:
+(a) Identify and quantify effects of emissions of VOCs, both anthropogenic and biogenic, and photochemical oxidants on human health, the environment and materials;
+(b) Determine the geographical distribution of sensitive areas;
+(c) Develop emission and air quality monitoring and model calculations including methodologies for the calculation of emissions, taking into account, as far as possible, the different VOC species, both anthropogenic and biogenic, and their reactivity, to quantify the long-range transport of VOCs, both anthropogenic and biogenic, and related pollutants involved in the formation of photochemical oxidants;
+(d) Improve estimates of the performance and costs of technologies for control of emissions of VOCs and record the development of improved and new technologies;
+(e) Develop, within the context of the approach based on critical levels, methods to integrate scientific, technical and economic data in order to determine appropriate rational strategies for limiting VOC emissions and obtain overall cost-effectiveness to achieve agreed objectives;
+(f) Improve the accuracy of inventories of emissions of VOCs, both anthropogenic and biogenic, and harmonize the methods of their calculation or estimation;
+(g) Improve their understanding of the chemical processes involved in the creation of photochemical oxidants;
+(h) Identify possible measures to reduce emissions of methane.
+Article 6
+REVIEW PROCESS
+1. The Parties shall regularly review the present Protocol, taking into account the best available scientific substantiation and technological development.
+2. The first review shall take place no later than one year after the date of entry into force of the present Protocol.
+Article 7
+NATIONAL PROGRAMMES, POLICIES AND STRATEGIES
+The Parties shall develop without undue delay national programmes, policies and strategies to implement the obligations under the present Protocol that shall serve as a means of controlling and reducing emissions of VOCs or their transboundary fluxes.
+Article 8
+INFORMATION EXCHANGE AND ANNUAL REPORTING
+1. The Parties shall exchange information by notifying the Executive Body of the national programmes, policies and strategies that they develop in accordance with article 7, and by reporting to it progress achieved under, and any changes to, those programmes, policies and strategies. In the first year after entry into force of this Protocol, each Party shall report on the level of emissions of VOCs in its territory and any TOMA in its territory, by total and, to the extent feasible, by sector of origin and by individual VOC, according to guidelines to be specified by the Executive Body for 1988 or any other year taken as the base year for article 2.2 and on the basis upon which these levels have been calculated.
+2. Furthermore each Party shall report annually:
+(a) On the matters specified in paragraph 1 for the previous calendar year, and on any revision which may be necessary to the reports already made for earlier years;
+(b) On progress in applying national or international emission standards and the control techniques required under article 2, paragraph 3;
+(c) On measures taken to facilitate the exchange of technology.
+3. In addition, Parties within the geographical scope of EMEP shall report, at intervals to be specified by the Executive Body, information on VOC emissions by sector of origin, with a spatial resolution, to be specified by the Executive Body, appropriate for purposes of modelling the formation and transport of secondary photochemical oxidant products.
+4. Such information shall, as far as possible, be submitted in accordance with a uniform reporting framework.
+Article 9
+CALCULATIONS
+EMEP shall, utilizing appropriate models and measurements, provide to the annual meetings of the Executive Body relevant information on the long-range transport of ozone in Europe. In areas outside the geographical scope of EMEP, models appropriate to the particular circumstances of Parties to the Convention therein shall be used.
+Article 10
+ANNEXES
+The annexes to the present Protocol shall form an integral part of the Protocol. Annex I is mandatory while annexes II, III and IV are recommendatory.
+Article 11
+AMENDMENTS TO THE PROTOCOL
+1. Any Party may propose amendments to the present Protocol.
+2. Proposed amendments shall be submitted in writing to the Executive Secretary of the Commission, who shall communicate them to all Parties. The Executive Body shall discuss the proposed amendments at its next annual meeting, provided that those proposals have been circulated by the Executive Secretary to the Parties at least 90 days in advance.
+3. Amendments to the Protocol, other than amendments to its annexes, shall be adopted by consensus of the Parties present at a meeting of the Executive Body, and shall enter into force for the Parties which have accepted them on the ninetieth day after the date on which two thirds of the Parties have deposited their instruments of acceptance thereof. Amendments shall enter into force for any Party which has accepted them after two thirds of the Parties have deposited their instruments of acceptance of the amendment, on the ninetieth day after the date on which that Party deposited its instrument of acceptance of the amendments.
+4. Amendments to the annexes shall be adopted by consensus of the Parties present at a meeting of the Executive Body and shall become effective 30 days after the date on which they have been communicated, in accordance with paragraph 5 of this article.
+5. Amendments under paragraphs 3 and 4 of this article shall, as soon as possible after their adoption, be communicated by the Executive Secretary to all Parties.
+Article 12
+SETTLEMENT OF DISPUTES
+If a dispute arises between two or more Parties as to the interpretation or application of the present Protocol, they shall seek a solution by negotiation or by any other method of dispute settlement acceptable to the parties to the dispute.
+Article 13
+SIGNATURE
+1. The present Protocol shall be open for signature at Geneva from 18 November 1991 until 22 November 1991 inclusive, then at the United Nations Headquarters in New York until 22 May 1992, by the States members of the Commission as well as States having consultative status with the Commission, pursuant to paragraph 8 of Economic and Social Council resolution 36 (IV) of 28 March 1947, and by regional economic integration organizations, constituted by sovereign States members of the Commission, which have competence in respect of the negotiation, conclusion and application of international agreements in matters covered by the Protocol, provided that the States and organizations concerned are Parties to the Convention.
+2. In matters within their competence, such regional economic integration organizations shall, on their own behalf, exercise the rights and fulfil the responsibilities which the present Protocol attributes to their member States. In such cases, the member States of these organizations shall not be entitled to exercise such rights individually.
+Article 14
+RATIFICATION, ACCEPTANCE, APPROVAL AND ACCESSION
+1. The present Protocol shall be subject to ratification, acceptance or approval by Signatories.
+2. The present Protocol shall be open for accession as from 22 May 1992 by the States and organizations referred to in article 13, paragraph 1.
+Article 15
+DEPOSITARY
+The instruments of ratification, acceptance, approval or accession shall be deposited with the Secretary-General of the United Nations, who will perform the functions of Depositary.
+Article 16
+ENTRY INTO FORCE
+1. The present Protocol shall enter into force on the ninetieth day following the date on which the sixteenth instrument of ratification, acceptance, approval or accession has been deposited.
+2. For each State and organization referred to in article 13, paragraph 1, which ratifies, accepts or approves the present Protocol or accedes thereto after the deposit of the sixteenth instrument of ratification, acceptance, approval or accession, the Protocol shall enter into force on the ninetieth day following the date of deposit by such Party of its instrument of ratification, acceptance, approval or accession.
+Article 17
+WITHDRAWAL
+At any time after five years from the date on which the present Protocol has come into force with respect to a Party, that Party may withdraw from it by giving written notification to the Depositary. Any such withdrawal shall take effect on the ninetieth day following the date of its receipt by the Depositary, or on such later date as may be specified in the notification of the withdrawal.
+Article 18
+AUTHENTIC TEXTS
+The original of the present Protocol, of which the English, French and Russian texts are equally authentic, shall be deposited with the Secretary-General of the United Nations.
+IN WITNESS WHEREOF the undersigned, being duly authorized thereto, have signed the present Protocol.
+DONE at Geneva this eighteenth day of November one thousand nine hundred and ninety-one.
+ANNEX I
+Designated tropospheric ozone management areas (TOMAs)
+The following TOMAs are specified for the purposes of this Protocol:
+Canada
+TOMA No. 1: The Lower Fraser Valley in the Province of British Columbia.
+This is a 16,800-km2 area in the southwestern corner of the Province of British Columbia averaging 80 km in width and extending 200 km up the Fraser River Valley from the mouth of the river in the Strait of Georgia to Boothroyd, British Columbia. Its southern boundary is the Canada/United States international boundary and it includes the Greater Vancouver Regional District.
+TOMA No. 2: The Windsor-Quebec Corridor in the Provinces of Ontario and Quebec.
+This is a 157,000-km2 area consisting of a strip of land 1,100 km long and averaging 140 km in width stretching from the City of Windsor (adjacent to Detroit in the United States) in the Province of Ontario to Quebec City in the Province of Quebec. The Windsor-Quebec Corridor TOMA is located along the north shore of the Great Lakes and the St. Lawrence River in Ontario and straddles the St. Lawrence River from the Ontario-Quebec border to Quebec City in Quebec. It includes the urban centres of Windsor, London, Hamilton, Toronto, Ottawa, Montreal, Trois-Rivières and Quebec City.
+Norway
+The total Norwegian mainland as well as the exclusive economic zone south of 62°N latitude in the region of the Economic Commission for Europe (ECE), covering an area of 466,000 km2.
+ANNEX II
+Control measures for emissions of volatile organic compounds (VOCs) from stationary sources
+I. MAJOR SOURCES OF VOC EMISSIONS FROM STATIONARY SOURCES
+II. GENERAL OPTIONS FOR VOC-EMISSION REDUCTION
+III. CONTROL TECHNIQUES
+IV. SECTORS
+V. PRODUCTS
+Introduction
+1. The aim of this annex is to provide the Parties to the Convention with guidance in identifying best available technologies to enable them to meet the obligations of the Protocol.
+2. Information regarding emission performance and costs is based on official documentation of the Executive Body and its subsidiary bodies, in particular documents received and reviewed by the Task Force on Emissions of VOCs from Stationary Sources. Unless otherwise indicated, the techniques listed are considered to be well established on the basis of operational experience.
+3. Experience with new products and new plants incorporating low-emission techniques, as well as with the retrofitting of existing plants, is continuously growing; the regular elaboration and amendment of the annex will therefore be necessary. Best available technologies identified for new plants can be applied to existing plants after an adequate transition period.
+4. The annex lists a number of measures spanning a range of costs and efficiencies. The choice of measures for any particular case will depend on a number of factors, including economic circumstances, technological infrastructure and any existing VOC control implemented.
+5. This annex does not, in general, take into account the specific species of VOC emitted by the different sources, but deals with best available technologies for VOC reduction. When measures are planned for some sources, it is worthwhile to consider giving priority to those activities which emit reactive rather than non-reactive VOCs (e.g. in the solvent-using sector). However, when such compound-specific measures are designed, other effects on the environment (e.g. global climate change) and on human health should also be taken into account.
+I. MAJOR SOURCES OF VOC EMISSIONS FROM STATIONARY SOURCES
+6. The major sources of anthropogenic non-methane VOC emissions from stationary sources are the following:
+(a) Use of solvents;
+(b) Petroleum industry including petroleum-product handling;
+(c) Organic chemical industry;
+(d) Small-scale combustion sources (e.g. domestic heating and small industrial boilers);
+(e) Food industry;
+(f) Iron and steel industry;
+(g) Handling and treatment of wastes;
+(h) Agriculture.
+7. The order of the list reflects the general importance of the sources subject to the uncertainties of emission inventories. The distribution of VOC emissions according to different sources depends greatly on the fields of activity within the territory of any particular Party.
+II. GENERAL OPTIONS FOR VOC-EMISSION REDUCTION
+8. There are several possibilities for the control or prevention of VOC emissions. Measures for the reduction of VOC emissions focus on products and/or process modifications (including maintenance and operational control) and on the retrofitting of existing plants. The following list gives a general outline of measures available, which may be implemented either singly or in combination:
+(a) Substitution of VOCs; e.g. the use of water-based degreasing baths, and paints, inks, glues or adhesives which are low in or do not contain VOCs;
+(b) Reduction by best management practices such as good housekeeping, preventive maintenance programmes, or by changes in processes such as closed systems during utilization, storage and distribution of low-boiling organic liquids;
+(c) Recycling and/or recovery of efficiently collected VOCs by control techniques such as adsorption, absorption, condensation and membrane processes; ideally, organic compounds can be reused on-site;
+(d) Destruction of efficiently collected VOCs by control techniques such as thermal or catalytic incineration or biological treatment.
+9. The monitoring of abatement procedures is necessary to ensure that appropriate control measures and practices are properly implemented for an effective reduction of VOC emissions. Monitoring of abatement procedures will include:
+(a) The development of an inventory of those VOC-emission reduction measures, identified above, that have already been implemented;
+(b) The characterization and quantification of VOC emissions from relevant sources by instrumental or other techniques;
+(c) Periodic auditing of abatement measures implemented to ensure their continued efficient operation;
+(d) Regularly scheduled reporting on (a), (b) and (c), using harmonized procedures, to regulatory authorities;
+(e) Comparison, with the objectives of the Protocol, of VOC-emission reductions achieved in practice.
+10. The investment/cost figures have been collected from various sources. On account of the many influencing factors, investment/cost figures are highly case-specific. If the unit ``cost per tonne of VOC abated'' is used for cost-efficient strategy considerations, it must be borne in mind that such specific figures are highly dependent on factors such as plant capacity, removal efficiency and raw gas VOC concentration, type of technology, and the choice of new installations as opposed to retrofitting. Illustrative cost figures should also be based on process specific parameters, e.g. mg/m2 treated (paints), kg/m3 product or kg/unit.
+11. Cost-efficient strategy considerations should be based on total costs per year (including capital and operational costs). VOC-emission reduction costs should also be considered within the framework of the overall process economics, e.g. the impact of control measures and costs on the costs of production.
+III. CONTROL TECHNIQUES
+12. The major categories of available control techniques for VOC abatement are summarized in table 1. Those techniques chosen for inclusion in the table have been successfully applied commercially and are now well established. For the most part, they have been applied generally across sectors.
+13. Sector-specific techniques, including the limitation of the solvent content of products, are given in sections IV and V.
+14. Care should be taken to ensure that the implementation of these control techniques does not create other environmental problems. If incineration has to be used, it should be combined with energy recovery, where appropriate.
+15. Using such techniques, concentrations of below 150 mg/m3 (as total carbon, standard conditions) can usually be achieved in exhaust air flows. In most cases, emission values of 10-50 mg/m3 can be achieved.
+16. Another common procedure for destroying non-halogenated VOCs is to use VOC-laden gas streams as secondary air or fuel in existing energy-conversion units. However, this usually requires site-specific process modifications and therefore it too is excluded from the following table.
+17. Data on efficiency are derived from operational experience and are considered to reflect the capabilities of current installations.
+18. Cost data are more subject to uncertainty due to interpretation of costs, accountancy practices and site-specific conditions. Therefore the data provided are case-specific. They cover the cost ranges for the different techniques. The costs do, however, accurately reflect the relationships between the costs of the different techniques. Differences in costs between new and retrofit applications may in some cases be significant but do not differ sufficiently to change the order in table 1.
+19. The choice of a control technique will depend on parameters such as the concentration of VOCs in the raw gas, gas volume flow, the type of VOCs, and others. Therefore, some overlap in the fields of application may occur; in that case, the most appropriate technique must be selected according to case-specific conditions.
+IV. SECTORS
+20. In this section, each VOC-emitting sector is characterized by a table containing the main emission sources, control measures including the best available technologies, their specific reduction efficiency and the related costs.
+21. An estimate is also provided of the overall potential within each sector for reducing its VOC emissions. The maximum reduction potential refers to situations in which only a low level of control is in place.
+22. Process-specific reduction efficiencies should not be confused with the figures given for the reduction potential of each sector. The former are technical feasibilities, while the latter take into account the likely penetration and other factors affecting each sector. The process specific efficiencies are given only qualitatively, as follows:
+I = &gt; 95%; II = 80-95%; III = &lt; 80%
+23. Costs depend on capacity, site-specific factors, accountancy practices and other factors. Consequently, costs may vary greatly; therefore, only qualitative information (medium, low, high) is provided, referring to comparisons of costs of different technologies mentioned for specific applications.
+A. Industrial use of solvents
+24. The industrial use of solvents is in many countries the biggest contributor to VOC emissions from stationary sources. Main sectors and control measures, including best available technologies and reduction efficiencies, are listed in table 2, and the best available technology is specified for each sector. There may be differences between small and large or new and old plants. For this reason, the estimated overall reduction potential quoted is below the values implied in table 2. The estimated overall reduction potential for this sector is up to 60 per cent. A further step to reduce episodic ozone formation potential can include the reformulation of the remaining solvents.
+25. With respect to the industrial use of solvents, three approaches can in principle be used: a product-oriented approach which, for instance, leads to a reformulation of the product (paint, degreasing products, etc.); process-oriented changes; and add-on control technologies. For some industrial uses of solvents only a product-oriented approach is available (in the case of painting constructions, painting buildings, the industrial use of cleaning products, etc.). In all other cases, the product-oriented approach deserves priority, inter alia, because of the positive spin-off effects on the solvent emission of the manufacturing industry. Furthermore, the environmental impact of emissions can be reduced by combining best available technology with product reformulation to replace solvents by less harmful alternatives. According to a combined approach of this kind, the maximum emission reduction potential of up to 60 per cent could lead to an improvement in environmental performance that is significantly higher.
+26. There is rapid ongoing development towards low-solvent or solvent-free paints, which are among the most cost-effective solutions. For many plants, a combination of low-solvent and adsorption/incineration techniques are chosen. VOC-emission control for large-scale, industrial painting (e.g. of cars, domestic appliances) could be implemented relatively quickly. Emissions have been reduced as far as 60 g/m2 in several countries. The technical possibility of reducing emissions from new plants to below 20 g/m2 has been recognized by several countries.
+27. For the degreasing of metal surfaces, alternative solutions are water-based treatment or closed machines with activated carbon for recovery, with low emissions.
+28. For the different printing techniques, several methods to reduce VOC emissions are employed. These mainly involve the changing of inks, changes within the printing process using other printing methods, and gas cleaning techniques. Waterborne ink instead of solvent-based ink is used for flexographic printing on paper and is under development for printing on plastic. Waterborne inks for screen and rotogravure printing are available for some applications. The use of electron beam cured ink in offset eliminates VOCs and is used in the package printing industry. For some printing methods, UV-cured inks are available. Best available technology for publication rotogravure is the gas cleaning technique using carbon adsorbers. In packaging, the rotogravure recovery of solvent by adsorption (zeolites, active carbon) is practised, but incineration and absorption are also used. For heatset, the web-offset thermal or catalytic incineration of exhaust gases is used. The incineration equipment often includes a unit for heat recovery.
+29. For dry-cleaning, the best available technology consists of closed machines and treatment of the exhaust ventilation air by activated carbon filters.
+B. Petroleum industry
+30. The petroleum industry is one of the major contributors to VOC emissions from stationary sources. Emissions are from both refineries and distribution (including transportation and filling-stations). The following comments refer to table 3; the measures mentioned also include best available technology.
+31. Refinery process emissions arise from fuel combustion, flaring of hydrocarbons, vacuum system discharges and fugitive emissions from process units, such as flanges and connectors, opened lines and sampling systems. Other major VOC emissions within refineries and related activities result from storage, waste-water treatment processes, loading/discharging facilities such as harbours, truck- and railway-racks, pipeline terminals, and periodic operations such as shut-downs, servicing and start-ups (process-unit turnarounds).
+32. Process-unit turnaround emissions may be controlled by venting vessel vapours to vapour recovery systems or controlled flaring.
+33. Vacuum-system discharges may be controlled by condensation or by piping to boilers or heaters.
+34. Fugitive emissions from process equipment in gas/vapour or light liquid service (e.g. automatic control valves, manual valves, pressure relief devices, sampling systems, pumps, compressors, flanges and connectors) can be reduced or prevented by regularly performing leak detection, repair programmes and preventive maintenance. Equipment with substantial leaks (e.g. valves, gaskets, seals, pumps, etc.) can be replaced by equipment that is more leak proof. For example, manual and automatic control valves can be changed for corresponding valves with bellow gaskets. Pumps in gas/vapour and light liquid service can be fitted with dual mechanical seals with controlled degassing vents. Compressors can be equipped with seals with a barrier fluid system that prevents leakage of the process fluid to the atmosphere, and leakage from compressors seals directed to the flares.
+35. Pressure relief valves for media that may contain VOCs can be connected to a gas collecting system and the gases collected burnt in process furnaces or flares.
+36. VOC emissions from the storage of crude oil and products can be reduced by equipping fixed-roof tanks with internal floating roofs or by equipping floating-roof tanks with secondary seals.
+37. VOC emissions from the storage of petrol and other light liquid components can be reduced by several means. Fixed-roof tanks can be equipped with internal floating roofs with primary and secondary seals or connected to a closed vent system and an effective control device, e.g. vapour recovery, flaring or combustion in process heaters. External floating-roof tanks with primary seals can be equipped with secondary seals, and/or supplemented with tight, fixed roofs, with pressure relief valves which can be connected to the flare.
+38. VOC emissions in connection with waste-water handling and treatment can be reduced by several means. Water-seal controls can be installed, as can junction boxes, equipped with tight-fitting covers, in drain systems. Sewer lines can be covered. Alternatively, the drain system can be completely closed to the atmosphere. Oil-water separators, including separation tanks, skimmers, weirs, grit chambers, sludge hoppers and slop-oil facilities, can be equipped with fixed roofs and closed vent systems that direct vapours to a control device, designed either for the recovery or destruction of the VOC vapours. Alternatively, oil-water separators can be equipped with floating roofs with primary and secondary seals. The effective reduction of VOC emissions from waste-water treatment plants can be achieved by draining oil from process equipment to the slop-oil system, thus minimizing the oil-flow into the waste-water treatment plant. The temperature of incoming water can also be controlled in order to lower emissions to the atmosphere.
+39. The petrol storage and distribution sector has a high reduction potential. Emission control covering the loading of petrol at the refinery (via intermediate terminals) up to its discharge at petrol service stations is defined as Stage I; control of emissions from the refuelling of cars at service stations is defined as Stage II (see para. 33 of annex III on Control measures for emissions of volatile organic compounds (VOCs) from on-road motor vehicles).
+40. Stage I control consists of vapour balancing and vapour collection at the loading of petrol, and recovering the vapour in recovery units. Furthermore, vapour collected at service stations from the discharge of petrol from trucks can be returned and recovered in vapour recovery units.
+41. Stage II control consists of vapour balancing between the vehicle fuel tank and the service station's underground storage tank.
+42. Stage II together with Stage I is the best available technology for reducing evaporative emissions during petrol distribution. A complementary means of reducing VOC emissions from fuel storage and handling is to reduce fuel volatility.
+43. The overall reduction potential in the petroleum industry sector is up to 80 per cent. This maximum could be reached only where the current level of emission control is low.
+C. Organic chemical industry
+44. The chemical industry also makes a considerable contribution to VOC emissions from stationary sources. The emissions are of different characters with a wide range of pollutants, because of the variety of products and production processes. Process emissions can be divided into the following major subcategories: reactor-process emissions, air-oxidation emissions and distillation, and other separation processes. Other significant emission sources are from leaks, storage and product transfer (loading/unloading).
+45. For new plants, process modifications and/or new processes often reduce emissions considerably. So-called ``add-on'' or ``end-of-pipe'' techniques such as adsorption, absorption, thermal and catalytic incineration in many cases represent alternative or complementary technologies. To reduce evaporation losses from storage tanks and emissions from loading and unloading facilities, the control measures recommended for the petroleum industry (table 3) can be applied. Control measures including best available technologies and their process-related reduction efficiencies are given in table 4.
+46. The feasible overall reduction potential in the organic chemical industry is up to 70 per cent, depending on the industry mix and the extent to which control technologies and practices are in place.
+D. Stationary combustion
+47. Optimal VOC-emission reduction from stationary combustion depends on the efficient use of fuel at the national level (table 5). It is also important to ensure the effective combustion of fuel by the use of good operational procedures, efficient combustion appliances and advanced combustion-management systems.
+48. For small systems in particular, there is still a considerable reduction potential, especially in the burning of solid fuels. VOC reduction in general is achievable by the replacement of old stoves/boilers and/or fuel-switching to gas. The replacement of single room stoves by central heating systems and/or the replacement of individual heating systems in general reduces pollution; however, overall energy efficiency has to be taken into account. Fuel-switching to gas is a very effective control measure, provided the distribution system is leak proof.
+49. For most countries, the VOC-reduction potential for power plants is negligible. On account of the uncertain replacement/fuel-switch involved, no figures can be given regarding the overall reduction potential and the related costs.
+E. Food industry
+50. The food industry sector covers a wide range of VOC-emitting processes from large and small plants (table 6). The major sources of VOC emissions are:
+(a) Production of alcoholic beverages;
+(b) Baking;
+(c) Vegetable oil extraction using mineral oils;
+(d) Animal rendering.
+Alcohol is the principal VOC from (a) and (b). Aliphatic hydrocarbons are the principal VOC from (c).
+51. Other potential sources include:
+(a) Sugar industry and sugar use;
+(b) Coffee and nut roasting;
+(c) Frying (chipped potatoes, crisps, etc.);
+(d) Fish meal processing;
+(e) Preparation of cooked meats, etc.
+52. VOC emissions are typically odorous, of low concentration with high volume flow and water content. For this reason, the use of biofilters has been used as an abatement technique. Conventional techniques such as absorption, adsorption, thermal and catalytic incineration have also been used. The principal advantage of biofilters is their low operational cost compared with other techniques. Nevertheless, periodic maintenance is required.
+53. It may be feasible for larger fermentation plants and bakeries to recover alcohol by condensation.
+54. Aliphatic hydrocarbon emissions from oil extraction are minimized by using closed cycles and good housekeeping to prevent losses from valves and seals, etc. Different oil seeds require different volumes of mineral oil for extraction. Olive oil can be extracted mechanically, in which case no mineral oil is necessary.
+55. The technologically feasible overall reduction potential in the food industry is estimated to be up to 35 per cent.
+F. Iron and steel industry (including ferro-alloys, casting, etc.)
+56. In the iron and steel industry, VOC emissions may be from a variety of sources:
+(a) Processing of input materials (cokeries; agglomeration plants: sintering, pelletizing, briquetting; scrap-handling);
+(b) Metallurgical reactors (submerged arc furnaces; electric arc furnaces; converters, especially if using scrap; (open) cupolas; blast furnaces);
+(c) Product handling (casting; reheating furnaces; and rolling mills).
+57. Reducing the carbon carrier in raw materials (e.g. on sintering belts) reduces the potential of VOC emissions.
+58. In the case of open metallurgical reactors, VOC emissions may occur especially from contaminated scrap and under pyrolytic conditions. Special attention has to be paid to the collection of gases from charging and tapping operations, in order to minimize fugitive VOC emissions.
+59. Special attention has to be paid to scrap which is contaminated by oil, grease, paint, etc., and to the separation of fluff (non-metallic parts) from metallic scrap.
+60. The processing of products usually entails fugitive emissions. In the case of casting, emissions of pyrolysis gases occur, chiefly from organically bonded sands. These emissions can be reduced by choosing low-emission bonding resins and/or minimizing the quantity of binders. Biofilters have been tested on such flue gases. Oil mist in the air from rolling mills can be reduced to low levels by filtration.
+61. Coking plants are an important VOC emission source. Emissions arise from: coke oven gas leakage, the loss of VOCs normally diverted to an associated distillation plant, and from the combustion of coke oven gas and other fuel. VOC emissions are reduced mainly by the following measures: improved sealing between oven doors and frames and between charging holes and covers; maintaining suction from ovens even during charging; dry quenching either by direct cooling with inert gases or by indirect cooling with water; pushing directly into the dry quenching unit; and efficient hooding during pushing operations.
+G. Handling and treatment of waste
+62. Concerning municipal solid waste control, the primary objectives are to reduce the amount of waste produced and to reduce the amount to be treated. In addition, the waste treatment should be optimized from an environmental point of view.
+63. If landfill processes are used, VOC-emission control measures for the treatment of municipal waste should be linked to an efficient collection of the gases (mostly methane).
+64. These emissions can be destroyed (incineration). Another option is the purification of the gas (bio-oxidation, absorption, activated carbon, adsorption) leading to use of the gas for energy production.
+65. The landfill of industrial waste containing VOCs leads to VOC emissions. This point has to be taken into account in the definition of waste-management policies.
+66. The overall reduction potential is estimated to be 30 per cent, though this figure includes methane.
+H. Agriculture
+67. The principal sources of VOC emissions from agriculture are:
+(a) Burning of agricultural waste, particularly straw and stubble;
+(b) Use of organic solvents in pesticide formulations;
+(c) Anaerobic degradation of animal feeds and wastes.
+68. VOC emissions are reduced by:
+(a) Controlled disposal of straw as opposed to the common practice of open-field burning;
+(b) Minimal use of pesticides with high organic solvent contents, and/or the use of emulsions and water-based formulations;
+(c) Composting of waste, combining manure with straw, etc;
+(d) Abatement of exhaust gases from animal houses, manure drying plant, etc., by use of biofilters, adsorption, etc.
+69. In addition, alterations of feed reduce emissions of gas from animals, and the recovery of gases for use as fuel is a possibility.
+70. It is not currently possible to estimate the reduction potential of VOC emissions from agriculture.
+V. PRODUCTS
+71. In circumstances in which abatement by control techniques is not appropriate, the sole means of reducing VOC emissions is by altering the composition of products used. The main sectors and products concerned are: adhesives used in households, light industry, shops and offices; paints for use in households; household cleaning and personal care products; office products such as correcting fluids and car maintenance products. In any other situation in which products like those mentioned above are used (e.g. painting, light industry), alterations in product composition are highly preferable.
+72. Measures aimed at reducing VOC emissions from such products are:
+(a) Product substitution;
+(b) Product reformulation;
+(c) Altering the packaging of products, especially for reformulated products.
+73. Instruments designed to influence market choice include:
+(a) Labelling to ensure that consumers are well informed of the VOC content;
+(b) Active encouragement of low-VOC-content products (e.g. the ``Blue Angel'' scheme);
+(c) Fiscal incentives linked to VOC content.
+74. The efficiency of these measures depends on the VOC content of the products involved and the availability and acceptability of alternatives. Reformulation should be checked to ensure that products do not create problems elsewhere (e.g. increased emissions of chlorofluorocarbons (CFCs)).
+75. VOC-containing products are used for industrial as well as domestic purposes. In either case the use of low-solvent alternatives may entail changes in application equipment and in work practices.
+76. Paints commonly used for industrial and domestic purposes have an average solvent content of about 25 to 60 per cent. For most applications, low-solvent or solvent-free alternatives are available or under development:
+(a) Paint for use in the light industry:
+Powder paint = 0 per cent VOC content in product
+Waterborne paint = 10 per cent VOC content in product
+Low-solvent paint = 15 per cent VOC content in product
+(b) Paint for domestic use:
+Waterborne paint = 10 per cent VOC content in product
+Low-solvent paint = 15 per cent VOC content in product
+Switching over to alternative paints is expected to result in an overall VOC-emission reduction of about 45 to 60 per cent.
+77. Most adhesive products are used in industry, while domestic uses account for less than 10 per cent. About 25 per cent of the adhesives in use contain VOC solvents. For these adhesives, the solvent content varies widely and may constitute half the weight of the product. For several application areas, low-solvent/solvent-free alternatives are available. This source category therefore offers a high reduction potential.
+78. Ink is mainly used for industrial printing processes, with solvent contents differing widely, up to 95 per cent. For most printing processes, low-solvent inks are available or under development in particular for printing on paper (see para. 28).
+79. About 40 to 60 per cent of VOC emissions from consumer products (including office products and those used in car maintenance) are from aerosols. There are three basic ways of reducing VOC emissions from consumer products:
+(a) Substitution of propellants and the use of mechanical pumps;
+(b) Reformulation;
+(c) Change of packaging.
+80. The potential reduction of VOC emissions from consumer products is estimated to be 50 per cent.
+TABLE 1
+A SUMMARY OF AVAILABLE VOC CONTROL TECHNIQUES, THEIR EFFICIENCIES AND COSTS
+[Edit - Table omitted, available from original source file]
+TABLE 2
+VOC-EMISSION CONTROL MEASURES, REDUCTION EFFICIENCY AND COSTS FOR THE SOLVENT-USING SECTOR
+[Edit - Table omitted, available from original source file]
+TABLE 3
+VOC-EMISSION CONTROL MEASURES, REDUCTION EFFICIENCY AND COSTS FOR THE PETROLEUM INDUSTRY
+[Edit - Table omitted, available from original source file]
+TABLE 4
+VOC-EMISSION CONTROL MEASURES, REDUCTION EFFICIENCY AND COSTS FOR THE ORGANIC CHEMICAL INDUSTRY
+[Edit - Table omitted, available from original source file]
+TABLE 5
+VOC-EMISSION CONTROL MEASURES FOR STATIONARY COMBUSTION SOURCES
+[Edit - Table omitted, available from original source file]
+TABLE 6
+VOC-EMISSION CONTROL MEASURES, REDUCTION EFFICIENCY AND COSTS FOR THE FOOD INDUSTRY
+[Edit - Table omitted, available from original source file]
+ANNEX III
+Control measures for emissions of volatile organic compounds (VOCs) from on-road motor vehicles
+I. MAJOR SOURCES OF VOC EMISSIONS FROM MOTOR VEHICLES
+II. GENERAL ASPECTS OF CONTROL TECHNOLOGIES FOR VOC EMISSIONS FROM ON-ROAD MOTOR VEHICLES
+III. CONTROL TECHNOLOGIES FOR TAILPIPE EMISSIONS
+IV. CONTROL TECHNOLOGIES FOR EVAPORATIVE AND REFUELLING EMISSIONS
+Introduction
+1. This annex is based on information on emission control performance and costs contained in official documentation of the Executive Body and its subsidiary bodies; in the report on Volatile Organic Compounds from On-road Vehicles: Sources and Control Options, prepared for the Working Group on Volatile Organic Compounds; in documentation of the Inland Transport Committee of the Economic Commission for Europe (ECE) and its subsidiary bodies (in particular, documents TRANS/SC1/WP.29/R.242, 486 and 506); and on supplementary information provided by governmentally designated experts.
+2. The regular elaboration and amendment of this annex will be necessary in the light of continuously expanding experience with new vehicles incorporating low-emission technology and the development of alternative fuels, as well as with retrofitting and other strategies for existing vehicles. The annex cannot be an exhaustive statement of technical options; its aim is to provide guidance to Parties in identifying economically feasible technologies for fulfilling their obligations under the Protocol. Until other data become available, this annex concentrates on on-road vehicles only.
+I. MAJOR SOURCES OF VOC EMISSIONS FROM MOTOR VEHICLES
+3. Sources of VOC emissions from motor vehicles have been divided into:
+(a) tailpipe emissions;
+(b) evaporative and refuelling emissions; and
+(c) crankcase emissions.
+4. Road transport (excluding petrol distribution) is a major source of anthropogenic VOC emissions in most ECE countries and contributes between 30 and 45 per cent of total man-made VOC emissions in the ECE region as a whole. By far the largest source of road transport VOC emissions is the petrol-fuelled vehicle which accounts for 90 per cent of total traffic emissions of VOCs (of which 30 to 50 per cent are evaporative emissions). Evaporative and refuelling emissions result primarily from petrol use, and are considered very low in the case of diesel fuels.
+II. GENERAL ASPECTS OF CONTROL TECHNOLOGIES FOR VOC EMISSIONS FROM ON-ROAD MOTOR VEHICLES
+5. The motor vehicles considered in this annex are passenger cars, light-duty trucks, on-road heavy-duty vehicles, motor cycles and mopeds.
+6. While this annex deals with both new and in-use vehicles, it is primarily focused on VOC-emission control for new vehicle types.
+7. This annex also provides guidance on the influence of changes in petrol properties on evaporative VOC emissions. Fuel substitution (e.g. natural gas, liquefied petroleum gas (LPG), methanol) can also provide VOC-emission reductions but this is not considered in this annex.
+8. Cost figures for the various technologies given are manufacturing cost estimates rather than retail prices.
+9. It is important to ensure that vehicle designs are capable of meeting emission standards in service. This can be done through ensuring conformity of production, full useful-life durability, warranty of emission-control components, and recall of defective vehicles. For in-use vehicles, continued emission-control performance can also be ensured by an effective inspection and maintenance programme, and measures against tampering and mis-fuelling.
+10. Emissions from in-use vehicles can be reduced through programmes such as fuel volatility controls, economic incentives to encourage the accelerated introduction of desirable technology, low-level oxygenated fuel blends, and retrofitting. Fuel volatility control is the single most effective measure that can be taken to reduce VOC emissions from in-use motor vehicles.
+11. Technologies that incorporate catalytic converters require the use of unleaded fuel. Unleaded petrol should therefore be generally available.
+12. Measures to reduce VOC and other emissions by the management of urban and long distance traffic, though not elaborated in this annex, are important as an efficient additional approach to reducing VOC emissions. Key measures for traffic management aim at improving the modal split through tactical, structural, financial and restrictive elements.
+13. VOC emissions from uncontrolled motor vehicles contain significant levels of toxic compounds, some of which are known carcinogens. The application of VOC reduction technologies (tailpipe, evaporative, refuelling and crankcase) reduces these toxic emissions in generally the same proportion as the VOC reductions achieved. The level of toxic emissions can also be reduced by modifying certain fuel parameters (e.g. reducing benzene levels in petrol).
+III. CONTROL TECHNOLOGIES FOR TAILPIPE EMISSIONS
+(a) Petrol-fuelled passenger cars and light-duty trucks
+14. The main technologies for controlling VOC emissions are listed in table 1.
+15. The basis for comparison in table 1 is technology option B, representing non-catalytic technology designed in response to the requirements of the United States for 1973/1974 or of ECE regulation 15-04 pursuant to the 1958 Agreement concerning the Adoption of Uniform Conditions of Approval and Reciprocal Recognition of Approval for Motor Vehicles Equipment and Parts. The table also presents achievable emission levels for open- and closed-loop catalytic control as well as their cost implications.
+16. The ``uncontrolled'' level (A) in table 1 refers to the 1970 situation in the ECE region, but may still prevail in certain areas.
+17. The emission level in table 1 reflects emissions measured using standard test procedures. Emissions from vehicles on the road may differ significantly because of the effect, inter alia, of ambient temperature, operating conditions, fuel properties, and maintenance. However, the reduction potential indicated in table 1 is considered representative of reductions achievable in use.
+18. The best currently available technology is option D. This technology achieves large reductions of VOC, CO and NOx emissions.
+19. In response to regulatory programmes for further VOC emission reductions (e.g. in Canada and the United States), advanced closed-loop three-way catalytic converters are being developed (option E). These improvements will focus on more powerful engine management controls, improved catalysts, on-board diagnostic systems (OBD) and other advances. These systems will become best available technology by the mid-1990s.
+20. A special category are two-stroke engine cars which are used in parts of Europe; these cars currently have very high VOC emissions. Hydrocarbon emissions from two-stroke engines are typically between 45.0 and 75.0 grams per test, according to the European driving cycle. Attempts are under way to apply engine modifications and catalytic after treatment to this type of engine. Data are needed on the reduction potentials and durability of these solutions. Furthermore, different two-stroke engine designs are currently being developed that have the potential for lower emissions.
+(b) Diesel-fuelled passenger cars and trucks
+21. Diesel-fuelled passenger cars and light-duty trucks have very low VOC emissions, generally lower than those resulting from closed-loop catalytic control on petrol-fuelled cars. However, their emissions of particulates and NOx are higher.
+22. No ECE country currently has rigorous tailpipe VOC control programmes for heavy duty diesel-fuelled vehicles, because of their generally low VOC emission rates. However, many countries have diesel particulate control programmes, and the technology that is employed to control particulates (e.g. combustion chamber and injection system improvements) has the net end result of lowering VOC emissions as well.
+23. Tailpipe VOC emission rates from heavy-duty diesel-fuelled vehicles are expected to be reduced by two thirds as the result of a vigorous particulate control programme.
+24. VOC species emitted from diesel-fuelled engines are different from those emitted by petrol-fuelled engines.
+(c) Motor cycles and mopeds
+25. VOC emission control technologies for motor cycles are summarized in table 2. Current ECE regulations (R.40) can normally be met without requiring reduction technologies. The future standards of Austria and Switzerland may require oxidizing catalytic converters for two-stroke engines in particular.
+26. For two-stroke mopeds with small oxidizing catalytic converters, a VOC-emission reduction of 90 per cent is achievable, at additional production costs of US$ 30-50. In Austria and Switzerland, standards requiring this technology are already in force.
+IV. CONTROL TECHNOLOGIES FOR EVAPORATIVE AND REFUELLING EMISSIONS
+27. Evaporative emissions consist of fuel vapour emitted from the engine and fuel system. They are divided into:
+(a) diurnal emissions, which result from the ``breathing'' of the fuel tank as it is heated and cooled over the course of a day;
+(b) hot-soak emissions produced by the heat from the engine after it is shut down;
+(c) running losses from the fuel system while the vehicle is in operation; and
+(d) resting losses such as from open-bottom canisters (where used) and from some plastic fuel-system materials which are reportedly subject to permeation losses, in which petrol slowly diffuses through the material.
+28. The control technology typically used for evaporative emissions from petrol-fuelled vehicles includes a charcoal canister (and associated plumbing) and a purge system to burn the VOCs in a controlled manner in the engine.
+29. Experience with existing evaporative-emission control programmes in the United States indicates that evaporative-emission control systems have not provided the degree of control desired, especially during severe ozone-prone days. This is partly because the volatility of in-use petrol is much higher than that of certification-test petrol. It is also due to an inadequate test procedure that resulted in inadequate control technology. The United States evaporative-emission control programme in the 1990s will emphasize reduced volatility fuels for use in summer and an improved test procedure to encourage advanced evaporative control systems that will result in the in-use control of the four emission sources mentioned in paragraph 27 above. For countries with high volatility petrol, the single most cost-effective measure to reduce VOC emissions is to reduce volatility of in-use petrol.
+30. In general, effective evaporative-emission control requires the consideration of:
+(a) control of petrol volatility, adjusted to climatic conditions; and
+(b) an appropriate test procedure.
+31. A list of control options, reduction potentials and cost estimates is given in table 3, with option B as the best available control technology at present. Option C will soon become best available technology and will represent a significant improvement over option B.
+32. The fuel economy benefits associated with evaporative-emission controls are estimated at less than 2 per cent. The benefits are due to the higher energy density, and low Reid-vapour-pressure (RVP) of fuel, and to the combustion rather than venting of captured vapours.
+33. In principle, emissions that are released during refuelling of vehicles can be recovered by systems installed at petrol stations (Stage II) or by systems on board of vehicles. Controls at petrol stations are a well-established technology, while on-board systems have been demonstrated using several prototypes. The question of in-use safety of on-board vapour recovery systems is presently under study. It may be appropriate to develop safety performance standards in conjunction with on-board vapour recovery systems to assure their safe design. Stage II controls can be implemented more quickly since service stations in a given area can be fitted with these controls. Stage II controls benefit all petrol-fuelled vehicles while on-board systems only benefit new vehicles.
+34. While evaporative emissions from motor cycles and mopeds are at present uncontrolled in the ECE region, the same general control technologies as for petrol-fuelled cars can be applied.
+TABLE 1
+TAILPIPE EMISSION CONTROL TECHNOLOGIES FOR PETROL-FUELLED PASSENGER CARS AND LIGHT DUTY TRUCKS
+[Edit - Table omitted, available from original source file]
+TABLE 2
+TAILPIPE EMISSION CONTROL TECHNOLOGIES AND PERFORMANCE FOR MOTOR CYCLES
+[Edit - Table omitted, available from original source file]
+TABLE 3
+EVAPORATIVE-EMISSION CONTROL MEASURES AND REDUCTION POTENTIALS FOR PETROL-FUELLED PASSENGER CARS AND LIGHT DUTY TRUCKS
+[Edit - Table omitted, available from original source file]
+ANNEX IV
+Classification of volatile organic compounds (VOCs) based on their photochemical ozone creation potential (POCP)
+1. This annex summarizes the information available and identifies the still existing elements to develop in order to guide the work to be carried out. It is based on information regarding hydrocarbons and ozone formation contained in two notes prepared for the Working Group on Volatile Organic Compounds (EB.AIR/WG.4/R.11 and R.13/Rev.1); on the results of further research carried out, in particular in Austria, Canada, Germany, Netherlands, Sweden, the United Kingdom, the United States of America and the EMEP Meteorological Synthesizing Centre-West (MSC-W); and on supplementary information provided by governmentally designated experts.
+2. The final aim of the POCP approach is to provide guidance on regional and national control policies for volatile organic compounds (VOCs), taking into account the impact of each VOC species as well as sectoral VOC emissions in episodic ozone formation expressed in terms of the photochemical ozone creation potential (POCP), which is defined as the change in photochemical ozone production due to a change in emission of that particular VOC. POCP may be determined by photochemical model calculations or by laboratory experiments. It serves to illustrate different aspects of episodic oxidant formation; e.g. peak ozone or accumulated ozone production during an episode.
+3. The POCP concept is being introduced because there is a large variation between the importance of particular VOCs in the production of ozone during episodes. A fundamental feature of the concept is that, in the presence of sunlight and NOx, each VOC produces ozone in a similar way despite large variations in the circumstances under which ozone is produced.
+4. Different photochemical model calculations indicate that substantial reduction of VOCs and NOx emissions are necessary (order of magnitude above 50 per cent in order to achieve significant ozone reduction). Moreover the maximum concentrations of ozone near the ground are reduced in a less than proportional way when VOC emissions are reduced. This effect is shown in principle by theoretical scenario calculation. When all species are reduced by the same proportion, maximum ozone values (above 75 ppb hourly average) in Europe are reduced depending on the existing ozone level by only 10-15 per cent if the mass of non-methane man-made VOC emissions is reduced by 50 per cent. By contrast, if emissions of the most important (in terms of POCP and mass values or reactivity) non-methane man-made VOC species were reduced by 50 per cent (by mass), the calculated result is a 20-30 per cent reduction of peak episodic ozone concentration. This confirms the merits of a POCP approach to determine priorities for VOC emission control and clearly shows that VOCs may at least be divided into large categories, according to their importance in episodic ozone formation.
+5. POCP values and reactivity scales have been calculated as estimates, each based on a particular scenario (e.g. emission increases and decreases, air mass trajectories) and targeted towards a particular objective (e.g. peak ozone concentration, integrated ozone, average ozone). POCP values and reactivity scales are dependent on chemical mechanisms. Clearly there are differences between the different estimates of POCPs, which in some cases can span more than a factor of four. The POCP numbers are not constant but vary in space and time. To give an example: the calculated POCP of ortho-xylene in the so-called ``France-Sweden'' trajectory has a value of 41 on the first day and of 97 on the fifth day of the travelling time. According to calculations of the Meteorological Synthesizing Centre-West (MSC-W) of EMEP, the POCP of ortho-xylene for O3 over 60 ppb, varies between 54 and 112 (5 to 95 percentiles) for the grids of the EMEP area. The variation of the POCP in time and space is not only caused by the VOC composition of the air parcel due to man-made emissions but is also a result of meteorological variations. The fact is that any reactive VOC can contribute to the episodical formation of photochemical oxidants to a higher or lower extent, depending on the concentrations of NOx and VOC and meteorological parameters. Hydrocarbons with very low reactivity, like methane, methanol, ethane and some chlorinated hydrocarbons contribute in a negligible manner to this process. There are also differences as a result of meteorological variations between particular days and over Europe as a whole. POCP values are implicitly dependent on how emission inventories are calculated. Currently there is no consistent method or information available across Europe. Clearly, further work has to be done on the POCP approach.
+6. Natural isoprene emissions from deciduous trees, together with nitrogen oxides (NOx) mainly from man-made sources, can make a significant contribution to ozone formation in warm summer weather in areas with a large coverage of deciduous trees.
+7. In table 1, VOC species are grouped according to their importance in the production of episodic peak ozone concentrations. Three groups have been selected. Importance in table 1 is expressed on the basis of VOC emission per unit mass. Some hydrocarbons, such as n-butane, become important because of their mass emission although they may not appear so according to their OH reactivity.
+8. Tables 2 and 3 show the impacts of individual VOCs expressed as indices relative to the impact of a single species (ethylene) which is given an index of 100. They indicate how such indices, i.e. POCPs, may give guidance for assessing the impact of different VOC emission reductions.
+9. Table 2 shows averaged POCPs for each major source category based on a central POCP estimate for each VOC species in each source category. Emission inventories independently determined in the United Kingdom and Canada have been used in this compilation and presentation. For many sources, e.g. motor vehicles, combustion installations, and many industrial processes, mixtures of hydrocarbons are emitted. Measures to reduce specifically the VOC compounds identified in the POCP approach as very reactive are in most cases unavailable. In practice, most of the possible reduction measures will reduce emissions by mass irrespective of their POCPs.
+10. Table 3 compares a number of different weighting schemes for a selected range of VOC species. In assigning priorities within a national VOC control programme, a number of indices may be used to focus on particular VOCs. The simplest but least effective approach is to focus on the relative mass emission, or relative ambient concentration.
+11. Relative weighting based on OH reactivity addresses some but by no means all of the important aspects of the atmospheric reactions which generate ozone in the presence of NOx and sunlight. The SAPRC (Statewide Air Pollution Research Center) weightings address the situation in California. Because of differences in the model conditions appropriate to the Los Angeles basin and Europe, major differences in the fates of photochemical, labile species, such as aldehyde, result. POCPs calculated with photochemical models in the Netherlands, United States of America, United Kingdom, Sweden and by EMEP (MSC-W) address different aspects of the ozone problem in Europe.
+12. Some of the less-reactive solvents cause other problems, e.g. they are extremely harmful to human health, difficult to handle, persistent, can cause negative environmental effects at other levels (e.g. in the free troposphere or the stratosphere). In many cases the best available technology for reducing solvent emission is the application of non-solvent using systems.
+13. Reliable VOC emission inventories are essential to the formulation of any cost effective VOC control policies and in particular those based on the POCP approach. National VOC emissions should therefore be specified according to sectors, at least following guidelines specified by the Executive Body, and should as far as possible be complemented by data on species and time variations of emissions.
+TABLE 1
+CLASSIFICATION OF VOCS INTO THREE GROUPS ACCORDING TO THEIR IMPORTANCE IN EPISODIC OZONE FORMATION
+[Edit - Table omitted, available from original source file]
+TABLE 2
+SECTORAL POCPs OF THE VARIOUS EMISSION SECTORS AND THE PERCENTAGE BY MASS OF VOCs IN EACH OZONE CREATION CLASS
+[Edit - Table omitted, available from original source file]
+TABLE 3
+COMPARISON BETWEEN WEIGHTING SCHEMES (EXPRESSED RELATIVE TO ETHYLENE=100) FOR 85 VOC SPECIES
+[Edit - Table omitted, available from original source file] 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

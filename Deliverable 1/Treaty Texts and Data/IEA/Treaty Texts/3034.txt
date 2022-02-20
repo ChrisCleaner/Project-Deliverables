@@ -1,0 +1,64 @@
+
+ Joint Protocol Relating To The Application Of The Vienna Convention On Civil Liability For Nuclear Damage And The Paris Convention On Third Party Liability In The Field Of Nuclear Energy   
+     Filename: 1988-JointProtocolRelatingApplicationViennaParis.EN.txt 
+ Source: http://www.austlii.edu.au/au/other/dfat/seldoc/1988/3610.html     
+    ﻿JOINT PROTOCOL RELATING TO THE APPLICATION OF THE VIENNA CONVENTION AND THE PARIS CONVENTION
+Source: http://www.austlii.edu.au/au/other/dfat/seldoc/1988/3610.html
+THE CONTRACTING PARTIES
+HAVING REGARD to the Vienna Convention on Civil Liability for Nuclear Damage of 21 May 1963;
+HAVING REGARD to the Paris Convention on Third Party Liability in the Field of Nuclear Energy of 29 July 1960 as amended by the Additional Protocol of 28 January 1964 and by the Protocol of 16 November 1982;
+CONSIDERING that the Vienna Convention and the Paris Convention are similar in substance and that no State is at present a Party to both Conventions;
+CONVINCED that adherence to either Convention by Parties to the other Convention could lead to difficulties resulting from the simultaneous application of both Conventions to a nuclear incident; and
+DESIROUS to establish a link between the Vienna Convention and the Paris Convention by mutually extending the benefit of the special regime of civil liability for nuclear damage set forth under each Convention and to eliminate conflicts arising from the simultaneous applications of both Conventions to a nuclear incident:
+HAVE AGREED as follows:
+Article I
+In this Protocol:
+(a) "Vienna Convention" means the Vienna Convention on Civil Liability for Nuclear Damage of 21 May 1963 and any amendment thereto which is in force for a Contracting Party to this Protocol;
+(b) "Paris Convention" means the Paris Convention on Third Party Liability in the Field of Nuclear Energy of 29 July 1960 and any amendment thereto which is in force for a Contracting Party to this Protocol.
+Article II
+For the purpose of this Protocol:
+(a) The operator of a nuclear installation situated in the territory of a Party to the Vienna Convention shall be liable in accordance with that Convention for nuclear damage suffered in the territory of a Party to both the Paris Convention and this Protocol;
+(b) The operator of a nuclear installation situated in the territory of a Party to the Paris Convention shall be liable in accordance with that Convention for nuclear damage suffered in the territory of a Party to both the Vienna Convention and this Protocol.
+Article III
+1. Either the Vienna Convention or the Paris Convention shall apply to a nuclear incident to the exclusion of the other.
+2. In the case of a nuclear incident occurring in a nuclear installation, the applicable Convention shall be that to which the State is a Party within whose territory that installation is situated.
+3. In the case of a nuclear incident outside a nuclear installation and involving nuclear material in the course of carriage, the applicable Convention shall be that to which the State is a Party within whose territory the nuclear installation is situated whose operator is liable pursuant to either Article II.1(b) and (c) of the Vienna Convention or Article 4(a) and (b) of the Paris Convention.
+Article IV
+1. Articles I to XV of the Vienna Convention shall be applied, with respect to the Contracting Parties to this Protocol which are Parties to the Paris Convention, in the same manner as between Parties to the Vienna Convention.
+2. Articles 1 to 14 of the Paris Convention shall be applied, with respect to the Contracting Parties to this Protocol which are Parties to the Vienna Convention, in the same manner as between Parties to the Paris Convention.
+Article V
+This Protocol shall be open for signature, from 21 September 1988 until the date of its entry into force, at the Headquarters of the International Atomic Energy Agency by all States which have signed, ratified or acceded to either the Vienna Convention or the Paris Convention.
+Article VI
+1. This Protocol is subject to ratification, acceptance, approval or accession. Instruments of ratification, acceptance or approval shall only be accepted from States Party to either the Vienna Convention or the Paris Convention. Any such State which has not signed this Protocol may accede to it.
+2. The instruments of ratification, acceptance, approval or accession shall be deposited with the Director General of the International Atomic Energy Agency, who is hereby designated as the depositary of this Protocol.
+Article VII
+1. This Protocol shall come into force three months after the date of deposit of instruments of ratification, acceptance, approval or accession by at least five States Party to the Vienna Convention and five States Party to the Paris Convention. For each State ratifying, accepting, approving or acceding to this Protocol after the deposit of the above-mentioned instruments this Protocol shall enter into force three months after the date of deposit of the instrument of ratification, acceptance, approval or accession.
+2. This Protocol shall remain in force as long as both the Vienna Convention and the Paris Convention are in force.
+Article VIII
+1. Any Contracting Party may denounce this Protocol by written notification to the depositary.
+2. Denunciation shall take effect one year after the date on which the notification is received by the depositary.
+Article IX
+1. Any Contracting Party which ceases to be a Party to either the Vienna Convention or the Paris Convention shall notify the depositary of the termination of the application of that Convention with respect to it and of the date such termination takes effect.
+2. This Protocol shall cease to apply to a Contracting Party which has terminated application of either the Vienna Convention or the Paris Convention on the date such termination takes effect.
+Article X
+The depositary shall promptly notify Contracting Parties and States invited to the Conference on the relationship between the Paris Convention and the Vienna Convention as well as the Secretary General of the Organisation for Economic Co-operation and Development of:
+(a) Each signature of this Protocol;
+(b) Each deposit of an instrument of ratification, acceptance, approval or accession concerning this Protocol;
+(c) The entry into force of this Protocol;
+(d) Any denunciation; and
+(e) Any information received pursuant to Article IX.
+Article XI
+The original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the depositary, who shall send certified copies to Contracting Parties and States invited to the Conference on the relationship between the Paris Convention and the Vienna Convention as well as the Secretary General of the Organisation for Economic Co-operation and Development.
+IN WITNESS WHEREOF the undersigned behind duly authorized by their respective Governments for that purpose have signed the present Joint Protocol.
+DONE at Vienna this twenty-first day of September, one thousand nine hundred and eighty-eight. 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

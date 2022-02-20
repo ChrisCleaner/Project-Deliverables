@@ -1,0 +1,200 @@
+
+ Amendments to the Protocol Adopting Annex VI - Regulations For The Prevention Of Air Pollution From Ships To The International Convention For The Prevention Of Pollution From Ships   
+     Filename: 2005-AmendmentsAnnexVIandNOxCode-1973-PollutionFromShips.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D15738/132%2853%29.pdf     
+    ﻿Amendments To The Annex Of The Protocol Of 1997 To Amend The International Convention For The Prevention Of Pollution From Ships, 1973, As Modified By The Protocol Of 1978 Relating Thereto (Amendments to MARPOL Annex VI and the NOx Technical Code)
+Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D15738/132%2853%2..., downloaded 20070610
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee (the Committee) conferred upon it by international conventions for the prevention and control of marine pollution,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1973 Convention"), article VI of the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as the "1978 Protocol") and article 4 of the Protocol of 1997 to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto (herein after referred to as the "1997 Protocol"), which together specify the amendment procedure of the 1997 Protocol and confer upon the appropriate body of the Organization the function of considering and adopting amendments to the 1973 Convention, as modified by the 1978 and 1997 Protocols,
+NOTING ALSO that, by the 1997 Protocol, Annex VI entitled Regulations for the Prevention of Air Pollution from Ships is added to the 1973 Convention (hereinafter referred to as "Annex VI"),
+NOTING FURTHER that regulation 2(5) of Annex VI specifies the amendment procedure of the NOx Technical Code,
+HAVING CONSIDERED the proposed amendments to Annex VI and the NOx Technical Code,
+1. ADOPTS, in accordance with article 16(2)(d) of the 1973 Convention, the amendments to Annex VI and the NOx Technical Code, the text of which is set out at Annex to the present resolution;
+2. DETERMINES, in accordance with article 16(2)(f)(iii) of the 1973 Convention, that the amendments shall be deemed to have been accepted on 22 May 2006, unless prior to that date, not less than one-third of the Parties or Parties the combined merchant fleets of which constitute not less than 50 per cent of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3. INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of the 1973 Convention, the said amendments shall enter into force on 22 November 2006 upon their acceptance in accordance with paragraph 2 above;
+4. REQUESTS the Secretary-General, in conformity with article 16(2)(e) of the 1973 Convention, to transmit to all Parties to the 1973 Convention, as modified by the 1978 and 1997 Protocols, certified copies of the present resolution and the text of the amendments contained in the Annex;
+5. REQUESTS FURTHER the Secretary-General to transmit to the Members of the Organization which are not Parties to the 1973 Convention, as modified by the 1978 and 1997 Protocols, copies of the present resolution and its Annex; and
+6. INVITES Parties to consider the application of the aforesaid amendments to MARPOL Annex VI with regard to the Harmonized System of Survey and Certification (HSSC) as soon as practicable to ships entitled to fly their flag before the expected date of entry into force of the amendments, and invites other Parties to accept the certificates issued under the HSSC for MARPOL Annex VI.
+ANNEX
+AMENDMENTS TO MARPOL ANNEX VI AND THE NOx TECHNICAL CODE
+A. Amendments to MARPOL Annex VI
+Regulation 2
+1. The following new paragraph (14) is added after existing paragraph (13):
+"(14) Anniversary date means the day and the month of each year which will correspond to the date of expiry of the International Air Pollution Prevention Certificate."
+Regulation 5
+2. The existing title is replaced by the following: "Surveys"
+3. The existing regulation 5 is replaced by the following:
+"(1) Every ship of 400 gross tonnage and above and every fixed and floating drilling rig and other platforms shall be subject to the surveys specified below:
+(a) An initial survey before the ship is put into service or before the certificate required under regulation 6 of this Annex is issued for the first time. This survey shall be such as to ensure that the equipment, systems, fittings, arrangements and material fully comply with the applicable requirements of this Annex;
+(b) A renewal survey at intervals specified by the Administration, but not exceeding five years, except where regulation 9(2), 9(5), 9(6) or 9(7) of this Annex is applicable. The renewal survey shall be such as to ensure that the equipment, systems, fittings, arrangements and material fully comply with applicable requirements of this Annex;
+(c) An intermediate survey within three months before or after the second anniversary date or within three months before or after the third anniversary date of the certificate which shall take the place of one of the annual surveys specified in paragraph (1)(d) of this regulation. The intermediate survey shall be such as to ensure that the equipment and arrangements fully comply with the applicable requirements of this Annex and are in good working order. Such intermediate surveys shall be endorsed on the certificate issued under regulation 6 or 7 of this Annex;
+(d) An annual survey within three months before or after each anniversary date of the certificate, including a general inspection of the equipment, systems, fittings, arrangements and material referred to in paragraph (1)(a) of this regulation to ensure that they have been maintained in accordance with paragraph (4) of this regulation and that they remain satisfactory for the service for which the ship is intended. Such annual surveys shall be endorsed on the certificate issued under regulation 6 or 7 of this Annex; and
+(e) An additional survey either general or partial, according to the circumstances, shall be made after a repair resulting from investigations prescribed in paragraph (4) of this regulation, or whenever any important repairs or renewals are made. The survey shall be such as to ensure that the necessary repairs or renewals have been effectively made, that the material and workmanship of such repairs or renewals are in all respects satisfactory and that the ship complies in all respects with the requirements of this Annex.
+(2) In the case of ships of less than 400 gross tonnage, the Administration may establish appropriate measures in order to ensure that the applicable provisions of this Annex are complied with.
+(3) (a) Surveys of ships as regards the enforcement of the provisions of this Annex shall be carried out by officers of the Administration. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it. Such organizations shall comply with the guidelines adopted by the Organization [1].
+(b) The survey of engines and equipment for compliance with regulation 13 of this Annex shall be conducted in accordance with the NOx Technical Code.
+(c) When a nominated surveyor or recognized organization determines that the condition of the equipment does not correspond substantially with the particulars of the certificate, they shall ensure that corrective action is taken and shall in due course notify the Administration. If such corrective action is not taken, the certificate should be withdrawn by the Administration. If the ship is in a port of another Party, the appropriate authorities of the port State shall also be notified immediately. When an officer of the Administration, a nominated surveyor or recognized organization has notified the appropriate authorities of the port State, the Government of the port State concerned shall give such officer, surveyor or organization any necessary assistance to carry out their obligations under this regulation.
+(d) In every case, the Administration concerned shall fully guarantee the completeness and efficiency of the survey and shall undertake to ensure the necessary arrangements to satisfy this obligation.
+(4) (a) The equipment shall be maintained to conform with the provisions of this Annex and no changes shall be made in the equipment, systems, fittings, arrangements, or material covered by the survey, without the express approval of the Administration. The direct replacement of such equipment and fittings with equipment and fittings that conform with the provisions of this Annex is permitted.
+(b) Whenever an accident occurs to a ship or a defect is discovered, which substantially affects the efficiency or completeness of its equipment covered by this Annex, the master or owner of the ship shall report at the earliest opportunity to the Administration, a nominated surveyor, or recognized organization responsible for issuing the relevant certificate."
+Regulation 6
+4. The existing title is replaced by the following:
+"Issue or Endorsement of Certificate"
+5. The existing regulation 6 is replaced by the following:
+"(1) An International Air Pollution Prevention Certificate shall be issued, after an initial or renewal survey in accordance with the provisions of regulation 5 of this Annex, to:
+(a) any ship of 400 gross tonnage and above engaged in voyages to ports or offshore terminals under the jurisdiction of other Parties; and
+(b) platforms and drilling rigs engaged in voyages to waters under the sovereignty or jurisdiction of other Parties to the Protocol of 1997.
+(2) Ships constructed before the date of entry into force of the Protocol of 1997 shall be issued with an International Air Pollution Prevention Certificate in accordance with paragraph (1) of this regulation no later than the first scheduled drydocking after entry into force of the Protocol of 1997, but in no case later than three years after entry into force of the Protocol of 1997.
+(3) Such certificate shall be issued or endorsed either by the Administration or by any person or organization duly authorized by it. In every case, the Administration assumes full responsibility for the certificate."
+Regulation 7
+6. The existing title is replaced by the following:
+"Issue or Endorsement of a Certificate by another Government"
+7. The existing regulation 7 is replaced by the following:
+"(1) The Government of a Party to the Protocol of 1997 may, at the request of the Administration, cause a ship to be surveyed and, if satisfied that the provisions of this Annex are complied with, shall issue or authorize the issuance of an International Air Pollution Prevention Certificate to the ship, and where appropriate, endorse or authorize the endorsement of that certificate on the ship, in accordance with this Annex.
+(2) A copy of the certificate and a copy of the survey report shall be transmitted as soon as possible to the requesting Administration.
+(3) A certificate so issued shall contain a statement to the effect that it has been issued at the request of the Administration and it shall have the same force and receive the same recognition as a certificate issued under regulation 6 of this Annex.
+(4) No International Air Pollution Prevention Certificate shall be issued to a ship which is entitled to fly the flag of a State which is not a Party to the Protocol of 1997."
+Regulation 8
+8. The existing regulation 8 is replaced by the following:
+"The International Air Pollution Prevention Certificate shall be drawn up in a form corresponding to the model given in appendix I to this Annex and shall be at least in English, French or Spanish. If an official language of the issuing country is also used, this shall prevail in case of dispute or discrepancy."
+Regulation 9
+9. The existing regulation 9 is replaced by the following:
+"(1) An International Air Pollution Prevention Certificate shall be issued for a period specified by the Administration, which shall not exceed five years.
+(2) (a) Notwithstanding the requirements of paragraph (1) of this regulation, when the renewal survey is completed within three months before the expiry date of the existing certificate, the new certificate shall be valid from the date of completion of the renewal survey to a date not exceeding five years from the date of expiry of the existing certificate.
+(b) When the renewal survey is completed after the expiry date of the existing certificate, the new certificate shall be valid from the date of completion of the renewal survey to a date not exceeding five years from the date of expiry of the existing certificate.
+(c) When the renewal survey is completed more than three months before the expiry date of the existing certificate, the new certificate shall be valid from the date of completion of the renewal survey to a date not exceeding five years from the date of completion of the renewal survey.
+(3) If a certificate is issued for a period of less than five years, the Administration may extend the validity of the certificate beyond the expiry date to the maximum period specified in paragraph (1) of this regulation, provided that the surveys referred to in regulations 5(1)(c) and 5(1)(d) of this Annex applicable when a certificate is issued for a period of five years are carried out as appropriate.
+(4) If a renewal survey has been completed and a new certificate cannot be issued or placed on board the ship before the expiry date of the existing certificate, the person or organization authorized by the Administration may endorse the existing certificate and such a certificate shall be accepted as valid for a further period which shall not exceed five months from the expiry date.
+(5) If a ship, at the time when a certificate expires, is not in a port in which it is to be surveyed, the Administration may extend the period of validity of the certificate but this extension shall be granted only for the purpose of allowing the ship to complete its voyage to the port in which it is to be surveyed, and then only in cases where it appears proper and reasonable to do so. No certificate shall be extended for a period longer than three months, and a ship to which an extension is granted shall not, on its arrival in the port in which it is to be surveyed, be entitled by virtue of such extension to leave that port without having a new certificate. When the renewal survey is completed, the new certificate shall be valid to a date not exceeding five years from the date of expiry of the existing certificate before the extension was granted.
+(6) A certificate issued to a ship engaged on short voyages which has not been extended under the foregoing provisions of this regulation may be extended by the Administration for a period of grace of up to one month from the date of expiry stated on it. When the renewal survey is completed, the new certificate shall be valid to a date not exceeding five years from the date of expiry of the existing certificate before the extension was granted.
+(7) In special circumstances, as determined by the Administration, a new certificate need not be dated from the date of expiry of the existing certificate as required by paragraph (2)(b), (5) or (6) of this regulation. In these special circumstances, the new certificate shall be valid to a date not exceeding five years from the date of completion of the renewal survey.
+(8) If an annual or intermediate survey is completed before the period specified in regulation 5 of this Annex, then:
+(a) the anniversary date shown on the certificate shall be amended by endorsement to a date which shall not be more than three months later than the date on which the survey was completed;
+(b) the subsequent annual or intermediate survey required by regulation 5 of this Annex shall be completed at the intervals prescribed by that regulation using the new anniversary date;
+(c) the expiry date may remain unchanged provided one or more annual or intermediate surveys, as appropriate, are carried out so that the maximum intervals between the surveys prescribed by regulation 5 of this Annex are not exceeded.
+(9) A certificate issued under regulation 6 or 7 of this Annex shall cease to be valid in any of the following cases:
+(a) if the relevant surveys are not completed within the periods specified under regulation 5(1) of this Annex;
+(b) if the certificate is not endorsed in accordance with regulation 5(1)(c) or 5(1)(d) of this Annex;
+(c) upon transfer of the ship to the flag of another State. A new certificate shall only be issued when the Government issuing the new certificate is fully satisfied that the ship is in compliance with the requirements of regulation 5(4)(a) of this Annex. In the case of a transfer between Parties, if requested within three months after the transfer has taken place, the Government of the Party whose flag the ship was formerly entitled to fly shall, as soon as possible, transmit to the Administration copies of the certificate carried by the ship before the transfer and, if available, copies of the relevant survey reports."
+Regulation 14
+10. The following words are added in regulation 14(3)(a) before the word "and":
+",the North Sea area as defined in regulation 5(1)(f) of Annex V;"
+Appendix I - Form of IAPP Certificate
+11. The existing Appendix I "Form of IAPP Certificate" is replaced by the following:
+"INTERNATIONAL AIR POLLUTION PREVENTION CERTIFICATE
+Issued under the provisions of the Protocol of 1997 to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, and as amended by resolution MEPC.132(53), (hereinafter referred to as "the Convention") under the authority of the Government of:
+(full designation of the country)
+By
+(full designation of the competent person or organization authorized under the provisions of the Convention)
+Particulars of ship [2]
+Name of ship
+Distinctive number or letters
+Port of registry
+Gross tonnage 
+IMO Number [3]
+Type of ship:
+Tanker [TAB] ?
+ship other than a tanker [TAB] ?
+THIS IS TO CERTIFY:
+1. That the ship has been surveyed in accordance with regulation 5 of Annex VI of the Convention; and
+2. That the survey shows that the equipment, systems, fittings, arrangements and material fully comply with the applicable requirements of Annex VI of the Convention.
+Completion date of the survey on which this certificate is based: dd/mm/yyyy
+This certificate is valid until [4]
+subject to surveys in accordance with regulation 5 of Annex VI of the Convention.
+Issued at 
+(Place of issue of certificate)
+(Date of Issue)
+(Signature of authorized official issuing the certificate)
+(Seal or stamp of the authority, as appropriate)
+ENDORSEMENT FOR ANNUAL AND INTERMEDIATE SURVEYS
+THIS IS TO CERTIFY that at a survey required by regulation 5 of Annex VI of the Convention the ship was found to comply with the relevant provisions of the Convention:
+Annual survey:
+Signed
+(Signature of authorized official)
+Place
+Date
+(Seal or stamp of the authority, as appropriate)
+Annual/Intermediate [5] survey:
+Signed
+(Signature of authorized official)
+Place
+Date
+(Seal or stamp of the authority, as appropriate)
+Annual/Intermediate [5] survey:
+Signed
+(Signature of authorized official)
+Place
+Date
+(Seal or stamp of the authority, as appropriate)
+Annual survey:
+Signed
+(Signature of authorized official)
+Place
+Date
+ANNUAL/INTERMEDIATE SURVEY IN ACCORDANCE WITH REGULATION 9(8)(c)
+THIS IS TO CERTIFY that, at an annual/intermediate [5] survey in accordance with regulation 9(8)(c) of Annex VI of the Convention, the ship was found to comply with the relevant provisions of the Convention:
+Signed
+(Signature of authorized official)
+Place
+Date
+(Seal or stamp of the authority, as appropriate)
+ENDORSEMENT TO EXTEND THE CERTIFICATE IF VALID FOR LESS THAN 5 YEARS WHERE REGULATION 9(3) APPLIES
+The ship complies with the relevant provisions of the Convention, and this certificate shall, in accordance with regulation 9(3) of Annex VI of the Convention, be accepted as valid until
+Signed
+(Signature of authorized official)
+Place
+Date
+ENDORSEMENT WHERE THE RENEWAL SURVEY HAS BEEN COMPLETED AND REGULATION 9(4) APPLIES
+The ship complies with the relevant provisions of the Convention, and this certificate shall, in accordance with regulation 9(4) of Annex VI of the Convention, be accepted as valid until
+Signed
+(Signature of authorized official)
+Place
+Date
+(Seal or stamp of the authority, as appropriate)
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE UNTIL REACHING THE PORT OF SURVEY OR FOR A PERIOD OF GRACE WHERE REGULATION 9(5) OR 9(6) APPLIES
+This certificate shall, in accordance with regulation 9(5) or 9(6) [5] of Annex VI of the Convention, be accepted as valid until
+Signed
+(Signature of authorized official)
+Place
+Date
+(Seal or stamp of the authority, as appropriate)
+ENDORSEMENT FOR ADVANCEMENT OF ANNIVERSARY DATE WHERE REGULATION 9(8) APPLIES
+In accordance with regulation 9(8) of Annex VI of the Convention, the new anniversary date is
+Signed
+(Signature of authorized official)
+Place
+Date
+(Seal or stamp of the authority, as appropriate)
+In accordance with regulation 9(8) of Annex VI of the Convention, the new anniversary date is
+Signed
+(Signature of authorized official)
+Date
+Supplement to International Air Pollution Prevention (IAPP) Certificate
+RECORD OF CONSTRUCTION AND EQUIPMENT
+12. Paragraph 2 of the Notes is replaced by the following:
+"2 The Record shall be at least in English, French or Spanish. If an official language of the issuing country is also used, this shall prevail in case of a dispute or discrepancy."
+B. Amendment to the NOx Technical Code
+1. The following words are added at the end of paragraph 5.2.1:
+"If, for evident technical reasons, it is not possible to comply with this requirement, fa shall be between 0.93 and 1.07."
+Appendix 1
+Form of Engine International Air Pollution Prevention (EIAPP) Certificate Supplement to Engine International Air Pollution Prevention (EIAPP) Certificate
+RECORD OF CONSTRUCTION, TECHNICAL FILE AND MEANS OF VERIFICATION
+2. Paragraph 2 of the Notes is replaced by the following:
+"2 The Record shall be at least in English, French or Spanish. If an official language of the issuing country is also used, this shall prevail in case of a dispute or discrepancy."
+[1] Refer to the Guidelines for the authorization of organizations acting on behalf of the Administration, adopted by the Organization by resolution A.739(18), and the Specifications on the survey and certification functions of recognized organizations acting on behalf of the Administration, adopted by the Organization by resolution A.789(19).
+[2] Alternatively, the particulars of the ship may be placed horizontally in boxes.
+[3] In accordance with IMO ship identification number scheme adopted by the Organization by resolution A.600(15).
+[4] Insert the date of expiry as specified by the Administration in accordance with regulation 9(1) of Annex VI of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation 2(14) of Annex VI of the Convention, unless amended in accordance with regulation 9(8) of Annex VI of the Convention.
+[5] Delete as Appropriate 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

@@ -1,0 +1,77 @@
+
+ Amendments to Annex VI of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocols of 1978 and 1997 relating thereto (Designation of the Baltic Sea and the North Sea Emission Control Areas for NOx Tier III control)   
+     Filename: Amendment:Annex-1997-International-Convention-Prevention-Pollution-Ships-1973 
+ Source: http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Marine-Environment-P…     
+    --------------------------------------
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE
+INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS,
+1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO
+http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Marine-Envir...
+RESOLUTION MEPC.286(71)
+(adopted on 7 July 2017)
+AMENDMENTS TO THE ANNEX OF THE PROTOCOL OF 1997 TO AMEND THE INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973, AS MODIFIED BY THE PROTOCOL OF 1978 RELATING THERETO
+Amendments to MARPOL Annex VI
+(Designation of the Baltic Sea and the North Sea Emission Control Areas for NOX Tier III control)
+(Information to be included in the bunker delivery note)
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+RECALLING Article 38(a) of the Convention on the International Maritime Organization concerning the functions of the Marine Environment Protection Committee conferred upon it by international conventions for the prevention and control of marine pollution from ships,
+NOTING article 16 of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocols of 1978 and 1997 relating thereto (MARPOL), which specifies the amendment procedure and confers upon the appropriate body of the Organization the function of considering and adopting amendments thereto,
+HAVING CONSIDERED, at its seventy-first session, proposed amendments to MARPOL Annex VI concerning the designation of the Baltic Sea and the North Sea Emission Control Areas for NOX Tier III control and the information to be included in the bunker delivery note,
+1 ADOPTS, in accordance with article 16(2)(d) of MARPOL, amendments to MARPOL Annex VI, the text of which is set out in the annex to the present resolution;
+2 DETERMINES, in accordance with article 16(2)(f)(iii) of MARPOL, that the amendments shall be deemed to have been accepted on 1 July 2018 unless prior to that date, not less than one third of the Parties or Parties the combined merchant fleets of which constitute not less than 50% of the gross tonnage of the world's merchant fleet, have communicated to the Organization their objection to the amendments;
+3 INVITES the Parties to note that, in accordance with article 16(2)(g)(ii) of MARPOL, the said amendments shall enter into force on 1 January 2019 upon their acceptance in accordance with paragraph 2 above;
+4 REQUESTS the Secretary-General, for the purposes of article 16(2)(e) of MARPOL, to transmit certified copies of the present resolution and the text of the amendments contained in the annex to all Parties to MARPOL;
+5 REQUESTS FURTHER the Secretary-General to transmit copies of the present resolution and its annex to Members of the Organization which are not Parties to MARPOL.
+ANNEX
+AMENDMENTS TO MARPOL ANNEX VI
+(Designation of the Baltic Sea and the North Sea Emission Control Areas for NOX Tier III control)
+(Information to be included in the bunker delivery note) ANNEX VI
+REGULATIONS FOR THE PREVENTION OF AIR POLLUTION FROM SHIPS
+Regulation 13
+Nitrogen oxides (NOX)
+1 In paragraph 5.1 after the words "an emission control area designated for Tier III NOX control under paragraph 6 of this regulation" insert the words "(NOX Tier III emission control area)".
+2 The existing text of paragraph 5.1.2 is replaced by the following:
+.2 that ship is constructed on or after:
+.1 1 January 2016 and is operating in the North American Emission Control Area or the United States Caribbean Sea Emission Control Area;
+.2 1 January 2021 and is operating in the Baltic Sea Emission Control Area or the North Sea Emission Control Area;
+3 Between paragraph 5.1.2 and 5.1.3 the word "when" is deleted.
+4 In paragraph 5.1.3 the words "an emission control area designated for Tier III NOX control under paragraph 6 of this regulation" are replaced by "a NOX Tier III emission control area".
+5 In paragraph 5.2.3 the word "convention" is replaced by "Convention" and the expression "24 m" is replaced by "24 metres".
+6 Insert new paragraphs 5.4 and 5.5, as follows:
+"5.4 Emissions of nitrogen oxides from a marine diesel engine subject to paragraph 5.1 of this regulation that occur immediately following building and sea trials of a newly constructed ship, or before and following converting, repairing, and/or maintaining the ship, or maintenance or repair of a Tier II engine or a dual fuel engine when the ship is required to not have gas fuel or gas cargo on board due to safety requirements, for which activities take place in a shipyard or other repair facility located in a NOX Tier III emission control area are temporarily exempted provided the following conditions are met:
+.1 the engine meets the Tier II NOX limits; and
+.2 the ship sails directly to or from the shipyard or other repair facility, does not load or unload cargo during the duration of the exemption, and follows any additional specific routing requirements indicated by the port State in which the shipyard or other repair facility is located, if applicable.
+5.5 The exemption described in paragraph 5.4 of this regulation applies only for the following period:
+.1 for a newly constructed ship, the period beginning at the time the ship is delivered from the shipyard, including sea trials, and ending at the time the ship directly exits the NOX Tier III emission control area(s) or, with regard to a ship fitted with a dual fuel engine, the ship directly exits the NOX Tier III emission control area(s) or proceeds directly to the nearest gas fuel bunkering facility appropriate to the ship located in the NOX Tier III emission control area(s);
+.2 for a ship with a Tier II engine undergoing conversion, maintenance or repair, the period beginning at the time the ship enters the NOX Tier III emission control area(s) and proceeds directly to the shipyard or other repair facility, and ending at the time the ship is released from the shipyard or other repair facility and directly exits the NOX Tier III emission control area (s) after performing sea trials, if applicable; or
+.3 for a ship with a dual fuel engine undergoing conversion, maintenance or repair, when the ship is required to not have gas fuel or gas cargo on board due to safety requirements, the period beginning at the time the ship enters the NOX Tier III emission control area(s) or when it is degassed in the NOX Tier III emission control area(s) and proceeds directly to the shipyard or other repair facility, and ending at the time when the ship is released from the shipyard or other repair facility and directly exits the NOX Tier III emission control area(s) or proceeds directly to the nearest gas fuel bunkering facility appropriate to the ship located in the NOX Tier III emission control area(s)."
+7 The existing text of paragraph 6 is replaced by the following:
+"6 For the purposes of this regulation, a NOX Tier III emission control area shall be any sea area, including any port area, designated by the Organization in accordance with the criteria and procedures set forth in appendix III to this Annex. The NOX Tier III emission control areas are:
+.1 the North American Emission Control Area, which means the area described by the coordinates provided in appendix VII to this Annex;
+.2 the United States Caribbean Sea Emission Control Area, which means the area described by the coordinates provided in appendix VII to this Annex;
+.3 the Baltic Sea Emission Control Area as defined in regulation 1.11.2 of Annex I of the present Convention; and
+.4 the North Sea Emission Control Area as defined in regulation 1.14.6 of Annex V of the present Convention."
+Appendix V
+Information to be included in the bunker delivery note (regulation 18.5)
+8 The items listed in the Appendix are numbered from 1 to 9.
+9 In item 7, the comma after "15°C" is deleted and the expression "kg/m3" is replaced by "(kg/m3)".
+10 Item 9 is replaced with the following:
+"A declaration signed and certified by the fuel oil supplier's representative that the fuel oil supplied is in conformity with regulation 18.3 of this Annex and that the sulphur content of the fuel oil supplied does not exceed:
+-- the limit value given by regulation 14.1 of this Annex;
+-- the limit value given by regulation 14.4 of this Annex; or
+-- the purchaser's specified limit value of (% m/m), as completed by the fuel oil supplier's representative and on the basis of the purchaser's notification that the fuel oil is intended to be used:
+.1 in combination with an equivalent means of compliance in accordance with regulation 4 of this Annex; or
+.2 is subject to a relevant exemption for a ship to conduct trials for sulphur oxides emission reduction and control technology research in accordance with regulation 3.2 of this Annex.
+The declaration shall be completed by the fuel oil supplier's representative by marking the applicable box(es) with a cross (x)."
+-------------------------------------- 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

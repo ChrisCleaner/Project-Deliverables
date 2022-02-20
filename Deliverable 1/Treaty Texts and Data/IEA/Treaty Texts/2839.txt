@@ -1,0 +1,164 @@
+
+ Amendments To The Schedule To The International Convention For The Regulation Of Whaling, Twenty-Seventh Meeting   
+     Filename: 1975-AmendmentsScheduleM27-1946-Whaling.EN.txt 
+ Source: http://www.austlii.edu.au/au/other/dfat/treaties/1975/55.html     
+    ﻿Amendments To The Schedule To The International Convention For The Regulation Of Whaling Of 2 December 1946
+Source: AUSTRALIAN TREATY SERIES 1975 No. 55 (electronic)
+The amendments read as follows:
+Paragraph 1
+Add the following at end of paragraph:
+" "Lactating whale" means
+(a), with respect to baleen whales, a female which has any milk present in a mammary gland.
+(b) With respect to sperm whales, a female which has milk present in a mammary gland the maximum thickness (depth) of which is 10 cm or more. This measurement shall be at the mid-ventral point of the mammary gland perpendicular to the body axis and shall be logged to the nearest centimetre; that is to say, any gland between 9.5 cm and 10.5 cm shall be logged as 10 cm. The measurement of any gland which falls on an exact 0.5 centimetre shall be logged at the next 0.5 centimetre, e.g. 10.5 cm shall be logged as 11.0 cm.
+However, notwithstanding these criteria, a whale shall not be considered a lactating whale if scientific (histological or other biological) evidence is presented to the appropriate national authority establishing that the whale could not at that point in its physical cycle have had a calf dependent on it for milk."
+Paragraph 2(c)
+Line 2, delete "one continuous open season"; insert "an open season or seasons".
+Paragraph 3(c)
+Lines 5 and 6, delete "such period of eight months to include the whole of the period of six months declared for baleen whales, except minke whales, as provided for in sub-paragraph (b) of this paragraph".
+Section III, capture
+Delete, "prohibitions and areas".
+Delete paragraphs 5, 6 and 7. Amend to read as follows:
+"Classification of areas and divisions
+5. In paragraphs 6 and 11, areas in the Southern Hemisphere are those waters between the ice edge and 40° South Latitude and lying between the following parallels of longitude, except that for sei and Bryde's whales combined and minke whales they shall extend to the equator:
+- Area I, 120°W-60°W;
+- Area II, 60°W-0;
+- Area III, 0-70°E;
+- Area IV, 70°E-130°E;
+- Area V, 130°E-170°W;
+- Area VI, 170°W-120°W.
+In paragraphs 6 and 15, divisions relating to the catch limits for Southern Hemisphere sperm whales are those waters lying between the ice edge and the equator and between the following parallels of longitude:
+- Division 1, 60°W-30°W;
+- Division 2, 30°W-20°E;
+- Division 3, 20°E-60°E;
+- Division 4, 60°E-90°E;
+- Division 5, 90°E-130°E;
+- Division 6, 130°E-160°E;
+- Division 7, 160°E-170°W;
+- Division 8, 170°W-100°W;
+- Division 9, 100°W-60°W.
+Classification of stocks
+6. All stocks of whales shall be classified in one of three categories according to the advice of the Scientific Committee as follows:
+(a) A Sustained Management Stock is a stock which is not more than 10 per cent of Maximum Sustainable Yield (hereinafter referred to as MSY) stock level below MSY stock level, and not more than 20 per cent above that level; MSY being determined on the basis of the number of whales: when a stock has remained at a stable level for a considerable period under a regime of approximately constant catches, it shall be classified as Sustained Management Stock in the absence of any positive evidence that it should be otherwise classified.
+Commercial whaling shall be permitted on Sustained Management Stocks according to the advice of the Scientific Committee.
+For the 1975/76 pelagic season and 1976 coastal season in the Southern Hemisphere and for the 1976 season in all other areas for stocks between the MSY stock level and 10 percent below that level, the permitted catch, except for sei whales and Bryde's whales combined in the Southern Hemisphere, shall not exceed the number of whales obtained by taking 90 percent of the MSY and reducing that number by 10 percent for every 1 percent by which the stock falls short of the MSY stock level. For stocks at or above the MSY stock level, the permitted catch shall not exceed 90 percent of the MSY.
+For sei and Bryde's whales combined in the Southern Hemisphere for the 1975/76 pelagic season and the 1976 coastal season the permitted catch of Sustained Management Stocks below the MSY stock level shall not exceed the number of whales obtained by taking 90 percent of the MSY and reducing that number by 5 percent for every 1 percent by which the stock at the beginning of the sustained management period falls short of the MSY stock level.
+The following stocks are classified as Sustained Management Stocks for the 1975/76 pelagic season and the 1976 coastal season in the Southern Hemisphere and for the 1976 season in all other areas:
+- Fin whales, Southern Hemisphere Area I;
+- Fin whales, North Atlantic (Iceland Stock);
+- Fin whales, North Atlantic (Newfoundland Stock);
+- Sei and Bryde's whales combined, Southern Hemisphere Areas I, II, IV, V, VI;
+- Minke whales, Southern Hemisphere Area IV, North Atlantic (Stock East of Cape Farewell, Greenland);
+- Sperm whales, males, Southern Hemisphere Divisions 1, 2, 3, 4, 7 and 9;
+- Sperm whales, females, Southern Hemisphere Divisions 3, 4, 7 and 9.
+(b) An Initial Management Stock is a stock more than 20 percent of MSY stock level above MSY stock level. Commercial whaling shall be permitted on Initial Management Stocks according to the advice of the Scientific Committee as to measures necessary to bring the stocks to the MSY stock level and then optimum level in an efficient manner and without risk of reducing them below this level. The permitted catch for such stocks will not be more than 90 percent of MSY as far as this is known, or, where it will be more appropriate, catching effort shall be limited to that which will take 90 percent of MSY in a stock at MSY stock level.
+In the absence of any positive evidence that a continuing higher percentage will not reduce the stock below the MSY stock level no more than 5 percent of the estimated initial exploitable stock shall be taken in any one year. Exploitation should not commence until an estimate of stock size has been obtained which is satisfactory in the view of the Scientific Committee.
+The following stocks are classified as Initial Management stocks for the 1975/76 pelagic season and the 1976 coastal season in the Southern Hemisphere and for the 1976 season in all other areas.
+- Minke whales, Southern Hemisphere Areas I, II, III, V, VI;
+- Minke whales, North Atlantic (Stock West of Cape Farewell, Greenland);
+- Bryde's whales, North Pacific;
+- Sperm whales, males, Southern Hemisphere Divisions 5 and 8;
+- Sperm whales, females, Southern Hemisphere Divisions 1, 2, 5, 6 and 8;
+- Sperm whales, males, North Pacific;
+- Sperm whales, females, North Pacific.
+(c) A Protection Stock is a stock which is below 10 percent of MSY stock level below MSY stock level.
+There shall be no commercial whaling on species or stocks whilst they are classified as Protection Stocks. The following stocks are classified as Protection Stocks for the 1975/76 pelagic season and 1976 coastal season in the Southern Hemisphere and for the 1976 season in all other areas.
+- Blue whales, all oceans;
+- Humpback whales, all oceans;
+- Right whales, all oceans;
+- Gray whales, all oceans;
+- Fin whales, Southern Hemisphere Areas II, III, IV, V, VI;
+- Fin whales, North Pacific;
+- Fin whales, North Atlantic (Faroes and West Norway Stock);
+- Fin whales, North Atlantic (Nova Scotia Stock);
+- Sei whales, Southern Hemisphere Area III;
+- Sei whales, North Pacific;
+- Sperm whales, males, Southern Hemisphere Division 6.
+7. Notwithstanding the provisions of paragraph 6 the taking of 10 humpback whales not below 35 feet (10.7 metres) in length, per year is permitted in Greenland waters provided that whale catchers of less than 50 gross register tonnage are used for this purpose and the taking of gray or right whales by aborigines or a Contracting Government [is permitted] on behalf of aborigines but only when the meat and products of such whales are to be used exclusively for local consumption by the aborigines."
+Paragraph 8
+Amend to read as follows: "It is forbidden to take or kill suckling calves or female whales accompanied by calves.".
+Paragraph 11
+Amend to read as follows:
+"The number of fin whales taken during the open season in waters south of 40° South Latitude by factory ships or whale catchers attached thereto under the jurisdiction of the Contracting Governments shall not exceed 220 in 1975/76. The taking of fin whales shall cease not later than 30 June 1976. The number of other species of baleen whales taken during the open season in the Southern Hemisphere by factory ships, land stations or whale catchers attached thereto under the jurisdiction of the Contracting Governments shall not exceed 2230 sei and Bryde's whales combined and 6810 minke whales in the 1975/76 pelagic season and the 1976 coastal season. The total catches taken in any of the areas I to VI shall not exceed the limits shown below. However, in no circumstances shall the sum of the area catches exceed the total quotas for each species:
+Fin
+Sei and Bryde's whales combined 
+Minke
+Area I 
+220
+198
+1,200
+Area II 
+0
+567
+2,160
+Area III 
+0
+0
+2,400
+Area IV 
+0
+671
+891
+Area V 
+0
+693
+840
+Area VI 
+0
+297
+600"
+Paragraph 12
+Amend to read as follows:
+"The number of whales taken in the North Pacific Ocean and dependent waters in 1976 shall not exceed the following limits:
+- Sperm, males, 5,200;
+- Sperm, females, 3,100;
+- Bryde's, 1,363.".
+Paragraph 13
+Amend to read as follows:
+"The number of fin and minke whales taken in the North Atlantic Ocean in 1976 shall not exceed the following limits:
+- Fin whales, Newfoundland waters, 90;
+- Fin whales, Iceland waters, 275;
+- Minke whales, east of Cape Farewell, 2,000;
+- Minke whales, west of Cape Farewell, 550."
+Paragraph 14
+Delete provisions.
+Paragraph 15
+Amend as follows: line 1, delete "1974/75", insert "1975/76"; line 2, delete "1975", insert "1976"; delete "8,000", insert "5,870"; delete "5,000", insert "4,870"; line 3, delete "Areas I to VI", insert "Divisions 1 to 9".
+Lines 6-9 inclusive, delete and insert the following:
+"Male
+Female
+Divisions 3 and 4 
+1,562
+1,368
+Division 5 
+1,080
+756
+Division 6 
+0
+324
+Division 7 
+495
+396
+Division 8 
+1,512
+972
+Divisions 9, 1 and 2 
+2,024
+1,992"
+Paragraph 17
+Amend to read as follows:
+"(a) It is forbidden to use a factory ship or a land station for the purpose of treating any whales (whether or not taken by whale catchers under the jurisdiction of a Contracting Government) which are classified as Protection Stocks in paragraph 6 or are taken by whale catchers under the jurisdiction of a Contracting Government in contravention of paragraphs 2, 3, 9, 11, 12, 13 and 15 of this Schedule."
+Paragraph 20
+Amend last sentence to read "No bonus or other remuneration shall be paid to the gunners or crews of whale catchers in respect of the taking of lactating whales.".
+Paragraph 22
+Amend (b)(4) to read "If female, whether lactating". 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

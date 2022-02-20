@@ -1,0 +1,978 @@
+
+ International Convention On Standards Of Training, Certification And Watchkeeping For Seafarers   
+     Filename: 1978-StandardsSeafarers.EN.txt 
+ Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D7858/1978amdtstoannexofS…     
+    ﻿INTERNATIONAL CONVENTION ON STANDARDS OF TRAINING, CERTIFICATION AND WATCHKEEPING FOR SEAFARERS, 1978
+Source: http://www.imo.org/includes/blastDataOnly.asp/data_id%3D7858/1978amdtsto...
+THE PARTIES TO THIS CONVENTION,
+DESIRING to promote safety of life and property at sea and the protection of the marine environment by establishing in common agreement international standards of training, certification and watchkeeping for seafarers,
+CONSIDERING that this end may best be achieved by the conclusion of an International Convention on Standards of Training, Certification and Watchkeeping for Seafarers,
+HAVE AGREED as follows:
+Article I
+General obligations under the Convention
+(1) The Parties undertake to give effect to the provisions of the Convention and the Annex thereto, which shall constitute an integral part of the Convention. Every reference to the Convention constitutes at the same time a reference to the Annex.
+(2) The Parties undertake to promulgate all laws, decrees, orders and regulations and to take all other steps which may be necessary to give the Convention full and complete effect, so as to ensure that, from the point of view of safety of life and property at sea and the protection of the marine environment, seafarers on board ships are qualified and fit for their duties.
+Article II
+Definitions
+For the purpose of the Convention, unless expressly provided otherwise:
+(a) "Party" means a State for which the Convention has entered into force;
+(b) "Administration" means the Government of the Party whose flag the ship is entitled to fly;
+(c) "Certificate" means a valid document, by whatever name it may be known, issued by or under the authority of the Administration or recognized by the Administration authorizing the holder to serve as stated in this document or as authorized by national regulations;
+(d) "Certificated" means properly holding a certificate;
+(e) "Organization" means the Inter-Governmental Maritime Consultative Organization (IMCO);
+(f) "Secretary-General" means the Secretary-General of the Organization;
+(g) "Sea-going ship" means a ship other than those which navigate exclusively in inland waters or in waters within, or closely adjacent to, sheltered waters or areas where port regulations apply;
+(h) "Fishing vessel" means a vessel used for catching fish, whales, seals, walrus or other living resources of the sea;
+(i) "Radio Regulations" means the Radio Regulations annexed to, or regarded as being annexed to, the most recent International Telecommunication Convention which may be in force at any time.
+Article III
+Application
+The Convention shall apply to seafarers serving on board sea-going ships entitled to fly the flag of a Party except to those serving on board:
+(a) warships, naval auxiliaries or other ships owned or operated by a State and engaged only on governmental non-commercial service; however, each Party shall ensure by the adoption of appropriate measures not impairing the operations or operational capabilities of such ships owned or operated by it, that the persons serving on board such ships meet the requirements of the Convention so far as is reasonable and practicable;
+(b) fishing vessels;
+(c) pleasure yachts not engaged in trade; or
+(d) wooden ships of primitive build.
+Article IV
+Communication of information
+(1) The Parties shall communicate as soon as practicable to the Secretary-General:
+(a) the text of laws, decrees, orders, regulations and instruments promulgated on the various matters within the scope of the Convention;
+(b) full details, where appropriate, of contents and duration of study courses, together with their national examination and other requirements for each certificate issued in compliance with the Convention;
+(c) a sufficient number of specimen certificates issued in compliance with the Convention.
+(2) The Secretary-General shall notify all Parties of the receipt of any communication under paragraph (1)(a) and, inter alia, for the purposes of Articles IX and X, shall, on request, provide them with any information communicated to him under paragraphs (1)(b) and (c).
+Article V
+Other treaties and interpretation
+(1) All prior treaties, conventions and arrangements relating to standards of training, certification and watchkeeping for seafarers in force between the Parties, shall continue to have full and complete effect during the terms thereof as regards:
+(a) seafarers to whom this Convention does not apply;
+(b) seafarers to whom this Convention applies, in respect of matters for which it has not expressly provided.
+(2) To the extent, however, that such treaties, conventions or arrangements conflict with the provisions of the Convention, the Parties shall review their commitments under such treaties, conventions and arrangements with a view to ensuring that there is no conflict between these commitments and their obligations under the Convention.
+(3) All matters which are not expressly provided for in the Convention remain subject to the legislation of Parties.
+(4) Nothing in the Convention shall prejudice the codification and development of the law of the sea by the United Nations Conference on the Law of the Sea convened pursuant to resolution 2750C(XXV) of the General Assembly of the United Nations, nor the present or future claims and legal views of any State concerning the law of the sea and the nature and extent of coastal and flag State jurisdiction.
+Article VI
+Certificates
+(1) Certificates for masters, officers or ratings shall be issued to those candidates who, to the satisfaction of the Administration, meet the requirements for service, age, medical fitness, training, qualification and examinations in accordance with the appropriate provisions of the Annex to the Convention.
+(2) Certificates for masters and officers, issued in compliance with this Article, shall be endorsed by the issuing Administration in the form as prescribed in Regulation I/2 of the Annex. If the language used is not English, the endorsement shall include a translation into that language.
+Article VII
+Transitional provisions
+(1) A certificate of competency or of service in a capacity for which the Convention requires a certificate and which before entry into force of the Convention for a Party is issued in accordance with the laws of that Party or the Radio Regulations, shall be recognized as valid for service after entry into force of the Convention for that Party.
+(2) After the entry into force of the Convention for a Party, its Administration may continue to issue certificates of competency in accordance with its previous practices for a period not exceeding five years. Such certificates shall be recognized as valid for the purpose of the Convention. During this transitional period such certificates shall be issued only to seafarers who had commenced their sea service before entry into force of the Convention for that Party within the specific ship department to which those certificates relate. The Administration shall ensure that all other candidates for certification shall be examined and certificated in accordance with the Convention.
+(3) A Party may, within two years after entry into force of the Convention for that Party, issue a certificate of service to seafarers who hold neither an appropriate certificate under the Convention nor a certificate of competency issued under its laws before entry into force of the Convention for that Party but who have:
+(a) served in the capacity for which they seek a certificate of service for not less than three years at sea within the last seven years preceding entry into force of the Convention for that Party;
+(b) produced evidence that they have performed that service satisfactorily;
+(c) satisfied the Administration as to medical fitness, including eyesight and hearing, taking into account their age at the time of application.
+For the purpose of the Convention, a certificate of service issued under this paragraph shall be regarded as the equivalent of a certificate issued under the Convention.
+Article VIII
+Dispensation
+(1) In circumstances of exceptional necessity, Administrations, if in their opinion this does not cause danger to persons, property or the environment, may issue a dispensation permitting a specified seafarer to serve in a specified ship for a specified period not exceeding six months in a capacity, other than that of the radio officer or radiotelephone operator, except as provided by the relevant Radio Regulations, for which he does not hold the appropriate certificate, provided that the person to whom the dispensation is issued shall be adequately qualified to fill the vacant post in a safe manner, to the satisfaction of the Administration. However, dispensations shall not be granted to a master or chief engineer officer, except in circumstances of force majeure and then only for the shortest possible period.
+(2) Any dispensation granted for a post shall be granted only to a person properly certificated to fill the post immediately below. Where certification of the post below is not required by the Convention, a dispensation may be issued to a person whose qualification and experience are, in the opinion of the Administration, of a clear equivalence to the requirements for the post to be filled, provided that, if such a person holds no appropriate certificate, he shall be required to pass a test accepted by the Administration as demonstrating that such a dispensation may safely be issued. In addition, Administrations shall ensure that the post in question is filled by the holder of an appropriate certificate as soon as possible.
+(3) Parties shall, as soon as possible after 1 January of each year, send a report to the Secretary-General giving information of the total number of dispensations in respect of each capacity for which a certificate is required that have been issued during the year to sea-going ships, together with information as to the numbers of those ships above and below 1,600 gross register tons respectively.
+Article IX
+Equivalents
+(1) The Convention shall not prevent an Administration from retaining or adopting other educational and training arrangements, including those involving sea-going service and shipboard organization especially adapted to technical developments and to special types of ships and trades, provided that the level of sea-going service, knowledge and efficiency as regards navigational and technical handling of ship and cargo ensures a degree of safety at sea and has a preventive effect as regards pollution at least equivalent to the requirements of the Convention.
+(2) Details of such arrangements shall be reported as early as practicable to the Secretary-General who shall circulate such particulars to all Parties.
+Article X
+Control
+(1) Ships, except those excluded by Article III, are subject, while in the ports of a Party, to control by officers duly authorized by that Party to verify that all seafarers serving on board who are required to be certificated by the Convention are so certificated or hold an appropriate dispensation. Such certificates shall be accepted unless there are clear grounds for believing that a certificate has been fraudulently obtained or that the holder of a certificate is not the person to whom that certificate was originally issued.
+(2) In the event that any deficiencies are found under paragraph (1) or under the procedures specified in Regulation I/4 - "Control Procedures", the officer carrying out the control shall forthwith inform, in writing, the master of the ship and the Consul or, in his absence, the nearest diplomatic representative or the maritime authority of the State whose flag the ship is entitled to fly, so that appropriate action may be taken. Such notification shall specify the details of the deficiencies found and the grounds on which the Party determines that these deficiencies pose a danger to persons, property or the environment.
+(3) In exercising the control under paragraph (1) if, taking into account the size and type of the ship and the length and nature of the voyage, the deficiencies referred to in paragraph (3) of Regulation I/4 are not corrected and it is determined that this fact poses a danger to persons, property or the environment, the Party carrying out the control shall take steps to ensure that the ship will not sail unless and until these requirements are met to the extent that the danger has been removed. The facts concerning the action taken shall be reported promptly to the Secretary-General.
+(4) When exercising control under this Article, all possible efforts shall be made to avoid a ship being unduly detained or delayed. If a ship is so detained or delayed it shall be entitled to compensation for any loss or damage resulting therefrom.
+(5) This Article shall be applied as may be necessary to ensure that no more favourable treatment is given to ships entitled to fly the flag of a non-Party than is given to ships entitled to fly the flag of a Party.
+Article XI
+Promotion of technical co-operation
+(1) Parties to the Convention shall promote, in consultation with, and with the assistance of, the Organization, support for those Parties which request technical assistance for:
+(a) training of administrative and technical personnel;
+(b) establishment of institutions for the training of seafarers;
+(c) supply of equipment and facilities for training institutions;
+(d) development of adequate training programmes, including practical training on sea-going ships; and
+(e) facilitation of other measures and arrangements to enhance the qualifications of seafarers;
+preferably on a national, sub-regional or regional basis, to further the aims and purposes of the Convention, taking into account the special needs of developing countries in this regard.
+(2) On its part, the Organization shall pursue the aforesaid efforts, as appropriate, in consultation or association with other international organizations, particularly the International Labour Organisation.
+Article XII
+Amendments
+(1) The Convention may be amended by either of the following procedures:
+(a) amendments after consideration within the Organization:
+(i) any amendment proposed by a Party shall be submitted to the Secretary-General, who shall then circulate it to all Members of the Organization, all Parties and the Director-General of the International Labour Office at least six months prior to its consideration;
+(ii) any amendment so proposed and circulated shall be referred to the Maritime Safety Committee of the Organization for consideration;
+(iii) Parties, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Maritime Safety Committee for consideration and adoption of amendments;
+(iv) amendments shall be adopted by a two-thirds majority of the Parties present and voting in the Maritime Safety Committee expanded as provided for in sub-paragraph (a)(iii) (hereinafter referred to as the "expanded Maritime Safety Committee") on condition that at least one third of the Parties shall be present at the time of voting;
+(v) amendments so adopted shall be communicated by the Secretary-General to all Parties for acceptance;
+(vi) an amendment to an Article shall be deemed to have been accepted on the date on which it is accepted by two thirds of the Parties;
+(vii) an amendment to the Annex shall be deemed to have been accepted:
+1. at the end of two years from the date on which it is communicated to Parties for acceptance; or
+2. at the end of a different period, which shall not be less than one year, if so determined at the time of its adoption by a two-thirds majority of the Parties present and voting in the expanded Maritime Safety Committee;
+however, the amendments shall be deemed not to have been accepted if within the specified period either more than one third of Parties, or Parties the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant shipping of ships of 100 gross register tons or more, notify the Secretary-General that they object to the amendment;
+(viii) an amendment to an Article shall enter into force with respect to those Parties which have accepted it, six months after the date on which it is deemed to have been accepted, and with respect to each Party which accepts it after that date, six months after the date of that Party's acceptance;
+(ix) an amendment to the Annex shall enter into force with respect to all Parties, except those which have objected to the amendment under sub-paragraph (a)(vii) and which have not withdrawn such objections, six months after the date on which it is deemed to have been accepted. Before the date determined for entry into force, any Party may give notice to the Secretary-General that it exempts itself from giving effect to that amendment for a period not longer than one year from the date of its entry into force, or for such longer period as may be determined by a two-thirds majority of the Parties present and voting in the expanded Maritime Safety Committee at the time of the adoption of the amendment; or
+(b) amendment by a conference:
+(i) upon the request of a Party concurred in by at least one third of the Parties, the Organization shall convene, in association or consultation with the Director-General of the International Labour Office, a conference of Parties to consider amendments to the Convention;
+(ii) every amendment adopted by such a conference by a two-thirds majority of the Parties present and voting shall be communicated by the Secretary-General to all Parties for acceptance;
+(iii) unless the conference decides otherwise, the amendment shall be deemed to have been accepted and shall enter into force in accordance with the procedures specified in sub-paragraph (a)(vi) and (a)(viii) or sub-paragraphs (a)(vii) and (a)(ix) respectively, provided that references in these sub-paragraphs to the expanded Maritime Safety Committee shall be taken to mean references to the conference.
+(2) Any declaration of acceptance of, or objection to, an amendment or any notice given under paragraph (1)(a)(ix) shall be submitted in writing to the Secretary-General, who shall inform all Parties of any such submission and the date of its receipt.
+(3) The Secretary-General shall inform all Parties of any amendments which enter into force, together with the date on which each such amendment enters into force.
+Article XIII
+Signature, ratification, acceptance, approval and accession
+(1) The Convention shall remain open for signature at the Headquarters of the Organization from 1 December 1978 until 30 November 1979 and shall thereafter remain open for accession. Any State may become a Party by:
+(a) signature without reservation as to ratification, acceptance or approval; or
+(b) signature subject to ratification, acceptance or approval, followed by ratification, acceptance or approval; or [1]
+(c) accession.
+(2) Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General. [2]
+(3) The Secretary-General shall inform all States that have signed the Convention or acceded to it and the Director-General of the International Labour Office of any signature or of the deposit of any instrument of ratification, acceptance, approval or accession and the date of its deposit.
+Article XIV
+Entry into force
+(1) The Convention shall enter into force twelve months after the date on which not less than twenty-five States, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant shipping of ships of 100 gross register tons or more, have either signed it without reservation as to ratification, acceptance or approval or deposited the requisite instruments of ratification, acceptance, approval or accession in accordance with Article XIII. [3]
+(2) The Secretary-General shall inform all States that have signed the Convention or acceded to it of the date on which it enters into force.
+(3) Any instrument of ratification, acceptance, approval or accession deposited during the twelve months referred to in paragraph (1) shall take effect on the coming into force of the Convention or three months after the deposit of such instrument, whichever is the later date.
+(4) Any instrument of ratification, acceptance, approval or accession deposited after the date on which the Convention enters into force shall take effect three months after the date of deposit.
+(5) After the date on which an amendment is deemed to have been accepted under Article XII, any instrument of ratification, acceptance, approval or accession deposited shall apply to the Convention as amended.
+Article XV
+Denunciation
+(1) The Convention may be denounced by any Party at any time after five years from the date on which the Convention entered into force for that Party.
+(2) Denunciation shall be effected by notification in writing to the Secretary-General who shall inform all other Parties and the Director-General of the International Labour Office of any such notification received and of the date of its receipt as well as the date on which such denunciation takes effect.
+(3) A denunciation shall take effect twelve months after receipt of the notification of denunciation by the Secretary-General or after any longer period which may be indicated in the notification.
+Article XVI
+Deposit and registration
+(1) The Convention shall be deposited with the Secretary-General who shall transmit certified true copies thereof to all States that have signed the Convention or acceded to it.
+(2) As soon as the Convention enters into force, the Secretary-General shall transmit the text to the Secretary-General of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
+Article XVII
+Languages
+The Convention is established in a single copy in the Chinese, English, French, Russian and Spanish languages, each text being equally authentic. Official translations in the Arabic and German languages shall be prepared and deposited with the signed original.
+IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed the Convention.
+DONE AT LONDON this seventh day of July, one thousand nine hundred and seventy-eight.
+[Signatures not reproduced here.]
+ANNEX
+CHAPTER I
+GENERAL PROVISIONS
+Regulation I/1
+Definitions
+For the purpose of this Convention, unless expressly provided otherwise:
+(a) "Regulations" means Regulations contained in the Annex to the Convention;
+(b) "Approved" means approved by the Administration;
+(c) "Master" means the person having command of a ship;
+(d) "Officer" means a member of the crew, other than the master, designated as such by national law or regulations or in the absence of such designation by collective agreement or custom;
+(e) "Deck officer" means a qualified officer in the deck department;
+(f) "Chief mate" means the deck officer next in rank to the master and upon whom the command of the ship will fall in event of the incapacity of the master;
+(g) "Engineer officer" means a qualified officer in the engine department;
+(h) "Chief engineer officer" means the senior engineer officer, responsible for the mechanical propulsion of the ship;
+(i) "Second engineer officer" means the engineer officer next in rank to the chief engineer officer and upon whom the responsibility for the mechanical propulsion of the ship will fall in the event of the incapacity of the chief engineer officer;
+(j) "Assistant engineer officer" means a person under training to become an engineer officer and designated as such by national law or regulations;
+(k) "Radio officer" means a person holding a first class or second class radiotelegraph operator's certificate or a radiocommunication operator's general certificate for the maritime mobile service issued under the provisions of the Radio Regulations, who is employed in the radiotelegraph station of a ship which is required to have such a station by the International Convention for the Safety of Life at Sea;
+(l) "Radiotelephone operator" means a person holding an appropriate certificate issued under the provisions of the Radio Regulations;
+(m) "Rating" means a member of the ship's crew other than the master or an officer;
+(n) "Near-coastal voyages" means voyages in the vicinity of a Party as defined by that Party;
+(o) "Propulsion power" means the power in kilowatts which appears on the ship's Certificate of Registry or other official document; [4]
+(p) "Radio duties" include, as appropriate, watchkeeping and technical maintenance and repairs in accordance with the Radio Regulations, the International Convention for the Safety of Life at Sea and, at the discretion of each Administration, the relevant IMCO recommendations;
+(q) "Oil tanker" means a ship constructed and used for the carriage of petroleum and petroleum products in bulk;
+(r) "Chemical tanker" means a ship constructed and used for the carriage in bulk of any liquid chemical listed in the IMCO "Code for the Construction and Equipment of Ships carrying Dangerous Chemicals in Bulk";
+(s) "Liquefied gas tanker" means a ship constructed and used for the carriage in bulk of any liquefied gas listed in the IMCO "Code for the Construction and Equipment of Ships carrying Liquefied Gases in Bulk".
+Regulation I/2
+Content of certificates and form of endorsement
+1. Certificates shall be in the official language or languages of the issuing country. If the language used is not English, the text shall include a translation into that language.
+2. In respect of radio officers and radiotelephone operators, Administrations may:
+(a) include the additional knowledge required by the relevant Regulations of the Annex to the Convention in the examination for the issue of a certificate complying with the Radio Regulations; or
+(b) issue a separate certificate indicating that the holder has the additional knowledge required by the Annex to the Convention.
+3. The form of certificate endorsement required by Article VI of the Convention shall be as follows:
+Form of Endorsement of Certificates
+ENDORSEMENT OF CERTIFICATES
+(Official Seal) (Country)
+Issued under the provisions of the International, Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978
+Either* The Government of (name) certifies
+I, the undersigned certify
+that the present Certificate/Certificate No: ......................................**, is issued to ................................................ (full name of person), who has been found duly qualified in accordance with the provisions of Regulation ................... of the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978, as ............................................*** with the following limitations only:
+Insert here } ..............................................................................................
+limitations } ..............................................................................................
+or "none" as } ..............................................................................................
+appropriate } .........................................................................................
+Date of issue of this endorsement: ............................................
+(Official seal) Signed ....................................................
+(Name and signature of duly authorized official)
+Date of birth of the holder of the Certificate: ..................................
+Signature of the holder of the Certificate: .....................................................
+* Use one line or the other.
+** Delete as appropriate.
+*** Insert Convention grade or class of Certificate. [Footnotes appeared in original text.]
+Regulation I/3
+Principles governing near-coastal voyages
+1. Any Party defining near-coastal voyages for the purpose of the Convention shall not impose training, experience or certification requirements on the seafarers serving on board the ships entitled to fly the flag of another Party and engaged on such voyages in a manner resulting in more stringent requirements for such seafarers than for seafarers serving on board ships entitled to fly its own flag. In no case shall any such Party impose requirements in respect of seafarers serving on board ships entitled to fly the flag of another Party in excess of those of the Convention in respect of ships not engaged on near-coastal voyages.
+2. With respect to ships entitled to fly the flag of a Party regularly engaged on near-coastal voyages off the coast of another Party, the Party whose flag the ship is entitled to fly shall prescribe training, experience and certification requirements for seafarers serving on such ships at least equal to those of the Party off whose coast the ship is engaged, provided that they do not exceed the requirements of the Convention in respect of ships not engaged on near-coastal voyages. A ship which extends its voyage beyond what is defined as a near-coastal voyage by a Party and enters waters not covered by that definition shall fulfil the requirements of the Convention without relaxation under this Regulation.
+3. A Party may afford a ship which is entitled to fly its flag the benefits of the near-coastal voyages provisions of the Convention when it is regularly engaged off the coast of a non-Party on near-coastal voyages as defined by the Party.
+4. Nothing in this Regulation shall in any way limit the jurisdiction of any State, whether or not a Party to the Convention.
+Regulation I/4
+Control procedures
+1. Control exercised by a duly authorized control officer under Article X shall be limited to the following:
+(a) verification in accordance with Article X(1) that all seafarers serving on board who are required to be certificated by the Convention hold a valid certificate or a valid dispensation;
+(b) assessment of the ability of the seafarers of the ship to maintain watchkeeping standards as required by the Convention if there are grounds for believing that such standards are not being maintained because, while in the port of a Party or in the approaches to that Port, the following have occurred:
+(i) the ship has been involved in a collision, grounding or stranding; or
+(ii) there has been a discharge of substances from the ship when underway, at anchor or at berth which is illegal under international conventions; or
+(iii) the ship has been manoeuvred in an erratic or unsafe manner or navigational course markers or traffic separation schemes have not been followed.
+2. The control officer shall provide written information to the master of the ship and the appropriate representative of the flag State according to Article X if, as a result of control action taken in accordance with paragraph 1, any of the following deficiencies are revealed:
+(a) failure of seafarers, required to hold a certificate, to have an appropriate valid certificate or valid dispensation;
+(b) failure of navigational or engineering watch arrangements to conform to the requirements specified for the ship by the flag State;
+(c) absence in a watch of a person qualified to operate equipment essential to safe navigation or the prevention of pollution;
+(d) inability of the master to provide rested persons for the first watch at the commencement of a voyage and subsequent relieving watches.
+3. Failures to correct the deficiencies referred to in paragraph 2(a) - to the extent that they relate to the certificates of the master, chief engineer officer and officers in charge of navigational and engineering watches and, where relevant, the radio officer - and in paragraph 2(b), shall be the only grounds under Article X on which a Party may detain a ship.
+CHAPTER II
+MASTER - DECK DEPARTMENT
+Regulation II/1
+Basic principles to be observed in keeping a navigational watch
+1. Parties shall direct the attention of shipowners, ship operators, masters and watchkeeping personnel to the following principles which shall be observed to ensure that a safe navigational watch is maintained at all times.
+2. The master of every ship is bound to ensure that watchkeeping arrangements are adequate for maintaining a safe navigational watch. Under the master's general direction, the officers of the watch are responsible for navigating the ship safely during their periods of duty when they will be particularly concerned with avoiding collision and stranding.
+3. The basic principles, including but not limited to the following, shall be taken into account on all ships.
+4. Watch arrangements
+(a) The composition of the watch shall at all times be adequate and appropriate to the prevailing circumstances and conditions and shall take into account the need for maintaining a proper look-out.
+(b) When deciding the composition of the watch on the bridge which may include appropriate deck ratings, the following factors, inter alia, shall be taken into account:
+(i) at no time shall the bridge be left unattended;
+(ii) weather conditions, visibility and whether there is daylight or darkness;
+(iii) proximity of navigational hazards which may make it necessary for the officer in charge of the watch to carry out additional navigational duties;
+(iv) use and operational condition of navigational aids such as radar or electronic position-indicating devices and any other equipment affecting the safe navigation of the ship;
+(v) whether the ship is fitted with automatic steering;
+(vi) any unusual demands on the navigational watch that may arise as a result of special operational circumstances.
+5. Fitness for duty
+The watch system shall be such that the efficiency of watchkeeping officers and watchkeeping ratings is not impaired by fatigue. Duties shall be so organized that the first watch at the commencement of a voyage and the subsequent relieving watches are sufficiently rested and otherwise fit for duty.
+6. Navigation
+(a) The intended voyage shall be planned in advance taking into consideration all pertinent information and any course laid down shall be checked before the voyage commences.
+(b) During the watch the course steered, position and speed shall be checked at sufficiently frequent intervals, using any available navigational aids necessary, to ensure that the ship follows the planned course.
+(c) The officer of the watch shall have full knowledge of the location and operation of all safety and navigational equipment on board the ship and shall be aware and take account of the operating limitations of such equipment.
+(d) The officer in charge of a navigational watch shall not be assigned or undertake any duties which would interfere with the safe navigation of the ship.
+7. Navigational equipment
+(a) The officer of the watch shall make the most effective use of all navigational equipment at his disposal.
+(b) When using radar, the officer of the watch shall bear in mind the necessity to comply at all times with the provisions on the use of radar contained in the applicable regulations for preventing collisions at sea.
+(c) In cases of need the officer of the watch shall not hesitate to use the helm, engines and sound signalling apparatus.
+8. Navigational duties and responsibilities
+(a) The officer in charge of the watch shall:
+(i) keep his watch on the bridge which he shall in no circumstances leave until properly relieved;
+(ii) continue to be responsible for the safe navigation of the ship, despite the presence of the master on the bridge, until the master informs him specifically that he has assumed that responsibility and this is mutually understood;
+(iii) notify the master when in any doubt as to what action to take in the interest of safety;
+(iv) not hand over the watch to the relieving officer if he has reason to believe that the latter is obviously not capable of carrying out his duties effectively, in which case he shall notify the master accordingly.
+(b) On taking over the watch the relieving officer shall satisfy himself as to the ship's estimated or true position and confirm its intended track, course and speed and shall note any dangers to navigation expected to be encountered during his watch.
+(c) A proper record shall be kept of the movements and activities during the watch relating to the navigation of the ship.
+9. Look-out
+In addition to maintaining a proper look-out for the purpose of fully appraising the situation and the risk of collision, stranding and other dangers to navigation, the duties of the look-out shall include the detection of ships or aircraft in distress, shipwrecked persons, wrecks and debris. In maintaining a look-out the following shall be observed:
+(a) the look-out must be able to give full attention to the keeping of a proper look-out and no other duties shall be undertaken or assigned which could interfere with that task;
+(b) the duties of the look-out and helmsman are separate and the helmsman shall not be considered to be the look-out while steering, except in small ships where an unobstructed all-round view is provided at the steering position and there is no impairment of night vision or other impediment to the keeping of a proper look-out. The officer in charge of the watch may be the sole look-out in daylight provided that on each such occasion:
+(i) the situation has been carefully assessed and it has been established without doubt that it is safe to do so;
+(ii) full account has been taken of all relevant factors including, but not limited to:
+- state of weather
+- visibility
+- traffic density
+- proximity of danger to navigation
+- the attention necessary when navigating in or near traffic separation schemes;
+(iii) assistance is immediately available to be summoned to the bridge when any change in the situation so requires.
+10. Navigation with pilot embarked
+Despite the duties and obligations of a pilot, his presence on board does not relieve the master or officer in charge of the watch from their duties and obligations for the safety of the ship. The master and the pilot shall exchange information regarding navigation procedures, local conditions and the ship's characteristics. The master and officer of the watch shall co-operate closely with the pilot and maintain an accurate check of the ship's position and movement.
+11. Protection of the marine environment
+The master and officer in charge of the watch shall be aware of the serious effects of operational or accidental pollution of the marine environment and shall take all possible precautions to prevent such pollution, particularly within the framework of relevant international and port regulations.
+Regulation II/2
+Mandatory minimum requirements for certification of masters and chief mates of ships of 200 gross register tons or more
+Master and chief mate of ships of 1,600 gross register tons or more
+1. Every master and chief mate of a sea-going ship of 1,600 gross register tons or more shall hold an appropriate certificate.
+2. Every candidate for certification shall:
+(a) satisfy the Administration as to medical fitness, particularly regarding eyesight and hearing;
+(b) meet the requirements for certification as an officer in charge of a navigational watch on ships of 200 gross register tons or more and have approved sea-going service in that capacity:
+(i) for certification as chief mate, not less than 18 months; however, this period may be reduced to not less than 12 months if the Administration requires special training which it considers to be equivalent to at least six months' service as officer in charge of a navigational watch;
+(ii) for certification as master, not less than 36 months; however, this period may be reduced to not less than 24 months if not less than 12 months of such sea-going service has been served as chief mate, or if the Administration requires special training which it considers to be equivalent to such service;
+(c) have passed appropriate examination to the satisfaction of the Administration. Such examination shall include the material set out in the Appendix to this Regulation, except that the Administration may vary these examination requirements for masters and chief mates of ships of limited size engaged on near-coastal voyages, as it considers necessary, bearing in mind the effect on the safety of all ships which may be operating in the same waters.
+Master and chief mate of ships of between 200 and 1,600 gross register tons
+3. Every master and chief mate of a sea-going ship of between 200 and 1,600 gross register tons shall hold an appropriate certificate.
+4. Every candidate for certification shall:
+(a) satisfy the Administration as to medical fitness, particularly regarding eyesight and hearing;
+(b) (i) for certification as chief mate, meet the requirements of an officer in charge of a navigational watch on ships of 200 gross register tons or more;
+(ii) for certification as master, meet the requirements of an officer in charge of a navigational watch on ships of 200 gross register tons or more and have approved sea-going service in that capacity of not less than 36 months; however, this period may be reduced to not less than 24 months if not less than 12 months of such sea-going service has been served as chief mate, or if the Administration requires special training which it considers to be equivalent to such service;
+(c) have passed appropriate examination to the satisfaction of the Administration. Such examination shall include the material set out in the Appendix, except that the Administration may vary these examination requirements for masters and chief mates of ships engaged on near-coastal voyages, as it considers appropriate, to exclude such material as is not applicable to the waters or ships concerned, bearing in mind the effect on the safety of all ships which may be operating in the same waters.
+General
+5. The level of knowledge required under the different headings of the Appendix may be varied according to whether the certificate is being issued at master or chief mate level, and according to whether the certificate or certificates is applicable to ships of 1,600 gross register tons or more, or to ships of between 200 and 1,600 gross register tons.
+APPENDIX TO REGULATION II/2
+Minimum knowledge required for certification of masters and chief mates of ships of 200 gross register tons or more
+1. The syllabus given below is compiled for examination of candidates for certification as master or chief mate of ships of 200 gross register tons or more. It is intended to expand and extend in depth the subjects contained in Regulation II/4 - "Mandatory Minimum Requirements for Certification of Officers in Charge of a Navigational Watch on Ships of 200 Gross Register Tons or More". Bearing in mind that a master has ultimate responsibility for the safety of the ship, its passengers, crew and cargo, and that a chief mate shall be in a position to assume that responsibility at any time, examination in these subjects shall be designed to test their ability to assimilate all available information that affects the safety of the ship.
+2. Navigation and position determination
+(a) Voyage planning and navigation for all conditions:
+(i) by acceptable methods of plotting oceans tracks;
+(ii) within restricted waters;
+(iii) in ice;
+(iv) in restricted visibility;
+(v) in traffic separation schemes;
+(vi) in areas of extensive tidal effects.
+(b) Position determination:
+(i) by celestial observations, including the use of sun, stars, moon and planets;
+(ii) by terrestrial observations, including the ability to use bearings from landmarks and aids to navigation such as lighthouses, beacons and buoys in conjunction with appropriate charts, notices to mariners and other publications to assess the accuracy of the resulting position fix;
+(iii) using all modern ship electronic navigational aids to the satisfaction of the Administration, with specific knowledge of their operating principles, limitations, sources of error, detection of misrepresentation of information and methods of correction to obtain position fixing.
+3. Watchkeeping
+(a) Demonstrate thorough knowledge of content, application and intent of the International Regulations for Preventing Collisions at Sea, including those Annexes concerned with safe navigation.
+(b) Demonstrate knowledge of Regulation II/1 - "Basic Principles to be Observed in Keeping a Navigational Watch".
+4. Radar equipment
+Demonstrate in conjunction with the use of radar simulator or, when not available, manoeuvring board, knowledge of the fundamentals of radar and ability in the operation and use of radar, and in the interpretation and analysis of information obtained from this equipment, including:
+(a) Factors affecting performance and accuracy;
+(b) setting up and maintaining displays;
+(c) detection of misrepresentation of information, false echoes, sea return, etc;
+(d) range and bearing;
+(e) identification of critical echoes;
+(f) course and speed of other ships;
+(g) time and distance of closest approach of crossing, meeting or overtaking ships;
+(h) detecting course and speed changes of other ships;
+(i) effect of changes in own ship's course or speed or both;
+(j) application of the International Regulations for Preventing Collisions at Sea.
+5. Compasses - magnetic and gyro
+Ability to determine and correct the errors of the magnetic and gyro-compasses and knowledge of the means for correcting such errors.
+6. Meteorology and oceanography
+(a) Demonstrate the ability to understand and interpret a synoptic chart and to forecast area weather, taking into account local weather conditions.
+(b) Knowledge of the characteristics of various weather systems, including tropical revolving storms and avoidance of storm centres and the dangerous quadrants.
+(c) Knowledge of ocean current systems.
+(d) Ability to use all appropriate navigational publications on tides and currents, including those in the English language.
+(e) Ability to calculate tidal conditions.
+7. Ship manoeuvring and handling
+Manoeuvring and handling of a ship in all conditions, including the following:
+(a) manoeuvres when approaching pilot vessels or stations with due regard to weather, tide, headreach and stopping distances;
+(b) handling a ship in rivers, estuaries, etc., having regard to the effects of current, wind and restricted water on the response to the helm;
+(c) manoeuvring in shallow water, including the reduction in keel clearance due to the effect of squat[5], rolling and pitching;
+(d) interaction between passing ships and between own ship and nearby banks (canal effect);
+(e) berthing and unberthing under various conditions of wind and tide with and without tugs;
+(f) choice of anchorage; anchoring with one or two anchors in limited anchorages and factors involved in determining the length of anchor cable to be used;
+(g) dragging; clearing fouled anchors;
+(h) dry-docking, both with and without damage;
+(i) management and handling of ships in heavy weather, including assisting a ship or aircraft in distress, towing operations, means of keeping an unmanageable ship out of a sea trough, lessening drift and use of oil;
+(j) precautions in manoeuvring for launching boats or liferafts in bad weather;
+(k) methods of taking on board survivors from lifeboats or liferafts;
+(l) ability to determine the manoeuvring and engine characteristics of major types of ships with special reference to stopping distances and turning circles at various draughts and speeds;
+(m) the importance of navigating at reduced speed to avoid damage caused by own ship's bow or stern wave;
+(n) practical measures to be taken when navigating in ice or conditions of ice accumulation on board;
+(o) the use of, and manoeuvring in, traffic separation schemes.
+8. Ship stability[6], construction and damage control
+(a) Understanding fundamental principles of ship construction and the theories and factors affecting trim and stability and measures necessary to preserve safe trim and stability.
+(b) Knowledge of the effect on trim and stability of a ship in the event of damage to and consequent flooding of a compartment and counter measures to be taken.
+(c) Demonstrate use of stability, trim and stress tables, diagrams and stress calculating equipment, including knowledge of loading cargoes and ballasting in order to keep hull stresses within acceptable limits.
+(d) General knowledge of the principal structural members of a ship and the proper names of the various parts.
+(e) Knowledge of IMCO recommendations concerning ship stability.
+9. Ship power plants
+(a) Operating principles of marine power plants.
+(b) Ships' auxiliary machinery.
+(c) General knowledge and marine engineering terms.
+10. Cargo handling and stowage
+(a) the stowage and securing of cargoes on board ships, including cargo gear.
+(b) Loading and discharging operations, with special regard to loading and discharging of heavy weights.
+(c) International regulations and recommendations relating to the carriage of cargoes, in particular the International Maritime Dangerous Goods Code (IMDG).
+(d) Carriage of dangerous goods; precautions to be taken during loading and discharging operations and the care of dangerous goods during a voyage.
+(e) Working knowledge of contents and application of current relevant tanker safety guides.
+(f) Working knowledge of commonly used cargo piping and pumping arrangements.
+(g) Terms and definitions used to describe properties of common oil cargoes, such as crude oil, middle distillates, naphtha.
+(h) Pollution regulations; ballasting, tank cleaning and gas freeing operations.
+(i) Load-on-top procedures.
+11. Fire prevention and fire-fighting appliances
+(a) Organization of fire drills.
+(b) Classes and chemistry of fire.
+(c) Fire-fighting systems.
+(d) Attendance at an approved fire-fighting course.
+(e) Knowledge of regulations concerning fire-fighting equipment.
+12. Emergency procedures
+(a) Precautions when beaching a ship.
+(b) Action to be taken prior to, and after, grounding.
+(c) Floating a grounded ship, with and without assistance.
+(d) Action to be taken following a collision.
+(e) Temporary plugging of leaks.
+(f) Measures for the protection of safety of passengers and crew in emergencies.
+(g) Limiting damage and salving the ship following a fire or explosion.
+(h) Abandoning ship.
+(i) Emergency steering, rigging and use of jury steering and the means of rigging a jury rudder, where practicable.
+(j) Rescuing persons from a ship in distress or from a wreck.
+(k) Man-overboard procedures.
+13. Medical care
+A thorough knowledge of the use of the contents of the following publications:
+(a) International Medical Guide for Ships or equivalent national publications;
+(b) Medical section of the International Code of Signals;
+(c) Medical First Aid Guide For Use in Accidents Involving Dangerous Goods.
+14. Maritime law
+(a) A knowledge of international maritime law as embodied in international agreements and conventions as they affect the specific obligations and responsibilities of the master, particularly those concerning safety and the protection of the marine environment. Regard shall be paid especially to the following subjects:
+(i) certificates and other documents required to be carried on board ships by international conventions, how they may be obtained and the period of their legal validity;
+(ii) responsibilities under the relevant requirements of the International Convention on Load Lines;
+(iii) responsibilities under the relevant requirements of the International Convention for the Safety of Life at Sea;
+(iv) responsibilities under international conventions for the prevention of pollution from ships;
+(v) maritime declarations of health; the requirements of the International Health Regulations;
+(vi) responsibilities under the Convention on the International Regulations for Preventing Collisions at Sea;
+(vii) responsibilities under other international instruments affecting the safety of the ship, passengers, crew and cargo.
+(b) The extent of knowledge of national maritime legislation is left to the discretion of the Administration but shall include national arrangements for implementing international agreements and conventions.
+15. Personnel management and training responsibilities
+A knowledge of personnel management, organization and training aboard ships.
+16. Communications
+(a) Ability to transmit and receive messages by morse light and to use the International Code of Signals; where the Administration has examined candidates in these subjects at the lower levels of certification, they may have the option of not re-examining in these subjects for certification as master.
+(b) Knowledge of procedures used in radiotelephone communications and ability to use radiotelephones, in particular with respect to distress, urgency, safety and navigational messages.
+(c) A knowledge of the procedures for emergency distress signals by radiotelegraphy as prescribed in the Radio Regulations.
+17. Life-saving
+A thorough knowledge of life-saving appliance regulations (International Convention for the Safety of Life at Sea), organization of abandon ship drills, lifeboats, liferafts and other life-saving equipment.
+18. Search and rescue
+A thorough knowledge of the IMCO Merchant Ship Search and Rescue Manual (MERSAR).
+19. Methods for demonstration of proficiency
+(a) Navigation
+Demonstrate the use of sextant, pelorus, azimuth mirror and ability to plot position, course, bearings.
+(b) International Regulations for Preventing Collisions at Sea
+(i) use of small models displaying proper signals or lights, or navigation light simulator;
+(ii) manoeuvring board or radar simulator.
+(c) Radar
+(i) radar simulator; or
+(ii) manoeuvring boards.
+(d) Fire-fighting
+Attendance at an approved fire-fighting course.
+(e) Communications
+Visual and vocal practical test.
+(f) Life-saving
+Launching and handling of lifeboats and other life-saving appliances, including the donning of life-jackets.
+Regulation II/3
+Mandatory minimum requirements for certification of officers in charge of a navigational watch and of masters of ships of less than 200 gross register tons
+1. Ships not engaged on near-coastal voyages
+(a) Every master serving on a sea-going ship of less than 200 gross register tons not engaged on near-coastal voyages shall hold a certificate recognized by the Administration for service as master of ships of between 200 and 1,600 gross register tons.
+(b) Every officer in charge of a navigational watch serving on a sea-going ship of less than 200 gross register tons not engaged on near-coastal voyages shall hold an appropriate certificate for ships of 200 gross register tons or more.
+2. Ships engaged on near-coastal voyages
+(a) Master
+(i) Every master serving in a sea-going ship of less than 200 gross register tons engaged on near-coastal voyages shall hold an appropriate certificate.
+(ii) Every candidate for certification shall:
+(1) be not less than 20 years of age;
+(2) have approved sea-going service of not less than 12 months as officer in charge of a navigational watch;
+(3) satisfy the Administration that he possesses adequate knowledge appropriate to his duties on the ships concerned which shall include the subjects contained in the Appendix to this Regulation.
+(b) Officer in charge of a navigational watch
+(i) Every officer in charge of a navigational watch on a sea-going ship of less than 200 gross register tons engaged on near-coastal voyages shall hold an appropriate certificate.
+(ii) Every candidate for certification shall:
+(1) be not less than 18 years of age;
+(2) satisfy the Administration as to medical fitness, particularly regarding eyesight and hearing;
+(3) satisfy the Administration that he has:
+- successfully undergone special training, including an adequate period of appropriate sea-going service as required by the Administration; or
+- completed approved sea-going service in the deck department of not less than three years;
+(4) satisfy the Administration that he possesses adequate knowledge appropriate to his duties on the ships concerned, which shall include the subjects contained in the Appendix.
+3. Training
+Training to achieve the necessary knowledge and practical experience shall be based on Regulation II/1 - "Basic Principles to be Observed in Keeping a Navigational Watch" and relevant international regulations and recommendations.
+4. Exemptions
+The Administration, if it considers that a ship's size and the conditions of its voyage are such as to render the application of the full requirements of this Regulation and its Appendix unreasonable or impracticable, may to that extent exempt the master and the officer in charge of a navigational watch on such a ship or class of ships from some of the requirements, bearing in mind the safety of all ships which may be operating in the same waters.
+APPENDIX TO REGULATION II/3
+Minimum knowledge required for certification of officers in charge of a navigational watch and of masters of ships of less than 200 gross register tons
+1. (a) Knowledge of the following:
+(i) coastal navigation and, to the extent required, celestial navigation;
+(ii) International Regulations for Preventing Collisions at Sea;
+(iii) International Maritime Dangerous Goods Code (IMDG);
+(iv) magnetic compass;
+(v) radiotelephony and visual signalling;
+(vi) fire prevention and fire-fighting appliances;
+(vii) life-saving;
+(viii) emergency procedures;
+(ix) ship manoeuvring;
+(x) ship stability;
+(xi) meteorology;
+(xii) small ship power plants;
+(xiii) first aid;
+(xiv) search and rescue;
+(xv) prevention of pollution of the marine environment.
+(b) In addition to the requirements of sub-paragraph (a), sufficient knowledge to operate safely all navigational aids and equipment fitted aboard the ships concerned.
+(c) The level of knowledge to be required in the subjects specified in sub-paragraphs (a) and (b) shall be sufficient for the officer of the watch to carry out his duties safely.
+2. Every master serving on a sea-going ship of less than 200 gross register tons shall, in addition to the requirements of paragraph 1 above, satisfy the Administration that he possesses the knowledge to carry out all the duties of such a master safely.
+Regulation II/4
+Mandatory minimum requirements for certification of officers in charge of a navigational watch on ships of 200 gross register tons or more
+1. Every officer in charge of a navigational watch serving on a sea-going ship of 200 gross register tons or more shall hold an appropriate certificate.
+2. Every candidate for certification shall:
+(a) be not less than 18 years of age;
+(b) satisfy the Administration as to medical fitness, particularly regarding eyesight and hearing;
+(c) have approved sea-going service in the deck department of not less than three years which shall include at least six months of bridge watchkeeping duties under the supervision of a qualified officer; however, an Administration may allow the substitution of a period of special training for not more than two years of this approved sea-going service, provided the Administration is satisfied that such training is at least equivalent in value to the period of sea-going service it replaces;
+(d) satisfy the Administration by passing an appropriate examination that he possesses adequate theoretical and practical knowledge appropriate to his duties.
+3. Certificates for service without restriction
+For issue of certificates for service without restriction as to area of operation, the examination shall test the adequacy of the candidate's theoretical and practical knowledge in the subjects shown in the Appendix to this Regulation.
+4. Restricted certificates
+For issue of restricted certificates for service on near-coastal voyages, the Administration may omit the following subjects from those shown in the Appendix, bearing in mind the effect on the safety of all ships which may be operating in the same waters:
+(a) celestial navigation;
+(b) electronic systems of position fixing and navigation for waters not covered by such systems.
+5. Level of knowledge
+(a) The level of knowledge to be required in the subjects shown in the Appendix shall be sufficient for the officer of the watch to carry out his watchkeeping duties safely. In determining the appropriate level of knowledge the Administration shall take into account the remarks under each subject in the Appendix.
+(b) Training to achieve the necessary theoretical knowledge and practical experience shall be based on Regulation II/1 - "Basic Principles to be Observed in Keeping a Navigational Watch" and relevant international regulations and recommendations.
+APPENDIX TO REGULATION II/4
+Minimum knowledge required for certification of officers in charge of a navigational watch on ships of 200 gross register tons or more
+1. Celestial navigation
+Ability to use celestial bodies to determine the ship's position and compass errors.
+2. Terrestrial and coastal navigation
+(a) Ability to determine the ship's position by the use of:
+(i) landmarks;
+(ii) aids to navigation, including lighthouses, beacons and buoys;
+(iii) dead reckoning, taking into account winds, tides, currents and speed by propeller revolutions per minute and by log.
+(b) Thorough knowledge of and ability to use navigational charts and publications, such as sailing directions, tide tables, notices to mariners, radio navigational warnings and ships' routeing information.
+3. Radar navigation
+Knowledge of the fundamentals of radar and ability in the operation and use of radar and ability to interpret and analyse information obtained by use of radar including the following:
+(a) factors affecting performance and accuracy;
+(b) setting up and maintaining displays;
+(c) detection of misrepresentation of information, false echoes, sea return, etc.;
+(d) range and bearing;
+(e) identification of critical echoes;
+(f) course and speed of other ships;
+(g) time and distance of closest approach of crossing, meeting or overtaking ships;
+(h) detecting course and speed changes of other ships;
+(i) effect of changes in own ship's course or speed or both;
+(j) application of the International Regulations for Preventing Collisions at Sea.
+4. Watchkeeping
+(a) Demonstrate thorough knowledge of content, application and intent of the International Regulations for Preventing Collisions at Sea, including those Annexes concerned with safe navigation.
+(b) Demonstrate knowledge of content of Regulation II/1 - "Basic Principles to be Observed in Keeping a Navigational Watch".
+5. Electronic systems of position fixing and navigation
+Ability to determine the ship's position by the use of electronic navigational aids to the satisfaction of the Administration.
+6. Radio direction-finders and echo-sounders
+Ability to operate the equipment and apply the information correctly.
+7. Meteorology
+Knowledge of shipborne meteorological instruments and their application. Knowledge of the characteristics of various weather systems, reporting procedures and recording systems and the ability to apply the meteorological information available.
+8. Compasses - magnetic and gyro
+Knowledge of the principles of magnetic and gyro-compasses including errors and corrections. With regard to gyro-compasses, an understanding of the systems under the control of the master gyro and a knowledge of the operation and care of the main types of gyro-compasses.
+9. Automatic pilot
+Knowledge of automatic pilot systems and procedures.
+10. Radiotelephony and visual signalling
+(a) Ability to transmit and receive messages by morse light.
+(b) Ability to use the International Code of Signals.
+(c) Knowledge of procedures used in radiotelephone communications and ability to use radiotelephones, in particular with respect to distress, urgency, safety and navigational messages.
+11. Fire prevention and fire-fighting appliances
+(a) Ability to organize fire drills.
+(b) Knowledge of classes and chemistry of fire.
+(c) Knowledge of fire-fighting systems.
+(d) Attendance at an approved fire-fighting course.
+12. Life-saving
+Ability to organize abandon ship drills and knowledge of the operation of lifeboats, liferafts, buoyant apparatus and similar life-saving appliances along with their equipment, including portable radio apparatus and emergency position-indicating radio beacons (EPIRBs). Knowledge of survival at sea techniques.
+13. Emergency procedures
+Knowledge of the items listed in the appropriate Appendix of the current edition of the ILO/IMCO "Document for Guidance".
+14. Ship manoeuvring and handling
+Knowledge of:
+(a) the effects of various deadweights, draughts, trim, speed and under keel clearance on turning circles and stopping distances;
+(b) effects of wind and current on ship handling;
+(c) manoeuvres for the rescue of man-overboard;
+(d) squat, shallow water and similar effects;
+(e) proper procedures for anchoring and mooring.
+15. Ship stability
+(a) Working knowledge and application of stability, trim and stress tables, diagrams and stress calculating equipment.
+(b) Understanding of fundamental actions to be taken in the event of partial loss of intact buoyancy.
+16. English language
+Adequate knowledge of the English language enabling the officer to use charts and other nautical publications, to understand meteorological information and messages concerning ship's safety and operation and to express himself clearly in his communications with other ships or coast stations. Ability to understand and use the IMCO Standard Marine Navigational Vocabulary.
+17. Ship construction
+General knowledge of the principal structural members of a ship and the proper names of the various parts.
+18. Cargo handling and stowage
+Knowledge of safe handling and stowage of cargoes and the effect of these factors on the safety of the ship.
+19. Medical aid
+Practical application of medical guides and advice by radio, including the ability to take effective action based on such knowledge in the case of accidents or illnesses that are likely to occur on board ship.
+20. Search and rescue
+Knowledge of the IMCO Merchant Ship Search and Rescue Manual (MERSAR).
+21. Prevention of pollution of the marine environment
+Knowledge of the precautions to be observed to prevent pollution of the marine environment.
+Regulation II/5
+Mandatory minimum requirements to ensure the continued proficiency and up-dating of knowledge of masters and deck officers
+1. Every master and every deck officer holding a certificate who is serving at sea or intends to return to sea after a period ashore shall, in order to continue to qualify for sea-going service, be required at regular intervals not exceeding five years to satisfy the Administration as to:
+(a) medical fitness, particularly regarding eyesight and hearing; and
+(b) professional competence:
+(i) by approved sea-going service as master or deck officer of at least one year during the preceding five years; or
+(ii) by virtue of having performed functions relating to the duties appropriate to the grade of certificate held which are considered to be at least equivalent to the sea-going service required in paragraph 1(b)(i); or
+(iii) by one of the following:
+- passing an approved test; or
+- successfully completing an approved course or courses; or
+- having completed approved sea-going service as a deck officer for a period of not less than three months in a supernumerary capacity immediately prior to taking up the rank to which he is entitled by virtue of his certificate.
+2. The Administration shall, in consultation with those concerned, formulate or promote the formulation of a structure of refresher and up-dating courses, either voluntary or mandatory, as appropriate, for masters and deck officers who are serving at sea, especially for re-entrants to sea-going service. The Administration shall ensure that arrangements are made to enable all persons concerned to attend such courses as appropriate to their experience and duties. Such courses shall be approved by the Administration and include changes in marine technology and relevant international regulations and recommendations concerning the safety of life at sea and the protection of the marine environment.
+3. Every master and deck officer shall, for continuing sea-going service on board ships for which special training requirements have been internationally agreed upon, successfully complete an approval relevant training.
+4. The Administration shall ensure that the texts of recent changes in international regulations concerning the safety of life at sea and the protection of the marine environment are made available to ships under its jurisdiction.
+Regulation II/6
+Mandatory minimum requirements for ratings forming part of a navigational watch
+1. The minimum requirements for a rating forming part of a navigational watch on a sea-going ship of 200 gross register tons or more are set out in paragraph 2. These requirements are not those for certification of able seamen[7], nor, except for ships of limited size, are they minimum requirements for a rating who is to be the sole rating of a navigational watch. Administrations may require additional training and qualifications for a rating who is to be the sole rating of a navigational watch.
+2. Every rating forming part of a navigational watch on a sea-going ship of 200 gross register tons or more shall:
+(a) be not less than 16 years of age;
+(b) satisfy the Administration as to medical fitness, particularly regarding eyesight and hearing;
+(c) satisfy the Administration that he has:
+(i) completed approved sea-going service, including not less than six months' sea experience associated, in particular, with navigational watchkeeping duties; or
+(ii) successfully undergone special training, either pre-sea or aboard ship, including an adequate period of sea-going service as required by the Administration which shall be not less than two months;
+(d) have experience or training which includes:
+(i) basic principles of fire-fighting, first aid, personal survival techniques, health hazards and personal safety;
+(ii) ability to understand orders and make himself understood by the officer of the watch in matters relevant to his duties;
+(iii) ability to steer and comply with helm orders, together with sufficient knowledge of magnetic and gyro compasses for performance of these duties;
+(iv) ability to keep a proper look-out by sight and hearing and report the approximate bearing of a sound signal, light or other object in degrees or points;
+(v) familiarity with the change-over from automatic pilot to hand steering and vice-versa;
+(vi) knowledge of the use of appropriate internal communication and alarm systems;
+(vii) knowledge of pyrotechnic distress signals;
+(viii) knowledge of his emergency duties;
+(ix) knowledge of shipboard terms and definitions appropriate to his duties.
+3. The experience, service or training required by paragraphs 2(c) and (d) may be acquired through performance of duties associated with navigational watchkeeping, but only if such duties are carried out under the direct supervision of the master, officer in charge of the navigational watch or a qualified rating.
+4. Administrations shall ensure that an authorized document is issued to every seafarer who by experience or training is qualified in accordance with this Regulation to serve as a rating forming part of a navigational watch, or that his existing document is duly endorsed.
+5. A seafarer may be considered by the Administration to have met the requirements of this Regulation if he has served in a relevant capacity in the deck department for a period of not less than one year within the last five years preceding the entry into force of the Convention for that Administration.
+Regulation II/7
+Basic principles to be observed in keeping a watch in port
+1. On any ship safely moored or safely at anchor under normal circumstances in port, the master shall arrange for an appropriate and effective watch to be maintained for the purpose of safety.
+2. In organizing the watches note shall be taken of the provisions of the "Recommendation on Principles and Operational Guidance for Deck Officers in Charge of a Watch in Port" and the "Recommendation on Principles and Operational Guidance for Engineer Officers in Charge of an Engineering Watch in Port" adopted by the International Conference on Training and Certification of Seafarers, 1978.
+Regulation II/8
+Mandatory minimum requirements for a watch in port on ships carrying hazardous cargo
+1. The master of every ship carrying cargo in bulk that is hazardous - whether it is, or may be, explosive, flammable, toxic, health-threatening or environment polluting - shall ensure that a safe deck watch and a safe engineering watch are maintained by the ready availability on board of a duly qualified officer or officers, and ratings where appropriate, even when the ship is safely moored or safely at anchor in port.
+2. The master of every ship carrying hazardous cargo other than in bulk - whether it is, or may be, explosive, flammable, toxic, health-threatening or environment polluting - shall in organizing safe watchkeeping arrangements take full account of the nature, quantity, packing and stowage of the hazardous cargo and of any special conditions on board, afloat and ashore.
+3. In organizing the watches full account shall be taken of the "Recommendation on Principles and Operational Guidance for Deck Officers in Charge of a Watch in Port" and the "Recommendation on Principles and Operational Guidance for Engineer Officers in Charge of an Engineering Watch in Port" adopted by the International Conference on Training and Certification of Seafarers, 1978.
+CHAPTER III
+ENGINE DEPARTMENT
+Regulation III/1
+Basic principles to be observed in keeping an engineering watch
+1. Parties shall direct the attention of shipowners, ship operators, masters, chief engineer officers and watchkeeping personnel to the following principles which shall be observed to ensure that a safe engineering watch is maintained at all times.
+2. The term "watch" is used in this Regulation to mean either a group of personnel composing the watch or a period of responsibility for an engineer officer during which his physical presence in the machinery space may or may not be required.
+3. The basic principles, including but not limited to the following, shall be taken into account on all ships.
+4. General
+(a) The chief engineer officer of every ship is bound, in consultation with the master, to ensure that watchkeeping arrangements are adequate to maintain a safe watch. When deciding the composition of the watch, which may include appropriate engine room ratings, the following criteria, inter alia, shall be taken into account:
+(i) type of ship;
+(ii) type and condition of the machinery;
+(iii) special modes of operation dictated by conditions such as weather, ice, contaminated water, shallow water, emergency conditions, damage containment or pollution abatement;
+(iv) qualifications and experience of the watch;
+(v) safety of life, ship, cargo and port, and protection of the environment;
+(vi) observance of international, national and local regulations;
+(vii) maintaining the normal operations of the ship.
+(b) Under the direction of the chief engineer officer, the engineer officer in charge of the watch shall be responsible for the inspection, operation and testing, as required, of all machinery and equipment under his responsibility. The engineer officer in charge of a watch is the chief engineer officer's representative and his primary responsibility, at all times, shall be the safe and efficient operation and up-keep of machinery affecting the safety of the ship.
+(c) The chief engineer officer shall, in consultation with the master, determine in advance the needs of the intended voyage, taking into consideration the requirements for fuel, water, lubricants, chemicals, expendable and other spare parts, tools, supplies and any other requirements.
+5. Operation
+(a) The engineer officer in charge of the watch shall ensure that the established watchkeeping arrangements are maintained. Under his general direction engine room ratings, if forming part of the watch, shall be required to assist in the safe and efficient operation of the propulsion machinery and the auxiliary equipment.
+(b) At the commencement of the engineering watch, the current operational parameters and condition of all machinery shall be verified. Any machinery not functioning properly, expected to malfunction or requiring special service, shall be noted along with any action already taken. Plans shall be made for any further action if required.
+(c) The engineer officer in charge of the watch shall ensure that the main propulsion plant and auxiliary systems are kept under constant surveillance, inspections are made of the machinery and steering gear spaces at suitable intervals and appropriate action is taken to remedy any malfunction discovered.
+(d) When the machinery spaces are in the manned condition, the engineer officer in charge of the watch shall at all times be readily capable of operating the propulsion equipment in response to needs for changes in direction or speed. When the machinery spaces are in the periodic unmanned condition, the designated duty engineer officer in charge of the watch shall be immediately available and on call to attend the machinery spaces.
+(e) All bridge orders shall be promptly executed. Changes in direction or speed of the main propulsion unit shall be recorded, except where an Administration determines that the size or characteristics of a particular ship make such recording impracticable. The engineer officer in charge of the watch shall ensure that the main propulsion unit controls, when in the manual mode of operation, are continuously attended under standby or manoeuvring conditions.
+(f) The engineer officer in charge of the watch shall not be assigned or undertake any duties which would interfere with his supervisory duty in respect of the main propulsion system and its ancillary equipment and he shall ensure that the main propulsion system and auxiliary equipment are kept under constant surveillance until he is properly relieved.
+(g) Due attention shall be paid to the maintenance and support of all machinery, including mechanical, electrical, hydraulic and pneumatic systems, their control apparatus and associated safety equipment, all accommodation service systems equipment and the recording of stores and spare gear usage.
+(h) The chief engineer officer shall ensure that the engineer officer in charge of the watch is informed of all preventive maintenance, damage control, or repair operations to be performed during the watch. The engineer officer in charge of the watch shall be responsible for the isolation, by-passing and adjustment of all machinery under his responsibility that is to be worked on, and shall record all work carried out.
+(i) Before going off duty, the engineer officer in charge of the watch shall ensure that all events related to the main and auxiliary machinery are suitably recorded.
+(j) To avoid any danger to the safety of the ship and its crew, the engineer officer in charge of the watch shall notify the bridge immediately in the event of fire, impending actions in machinery spaces that may cause reduction in ship's speed, imminent steering failure, stoppage of the ship's propulsion system or any alteration in the generation of electric power, or similar threat to safety. This notification, where possible, shall be accomplished before changes are made in order to afford the bridge the maximum available time to take whatever actions are possible to avoid a potential marine casualty.
+(k) When the engine room is put in a standby condition, the engineer officer in charge of the watch shall ensure that all machinery and equipment which may be used during manoeuvring is in a state of immediate readiness and that an adequate reserve of power is available for steering gear and other requirements.
+6. Watch requirements
+(a) Every member of the watch shall be familiar with his assigned watchkeeping duties. In addition, every member shall have with respect to that ship:
+(i) knowledge of the use of appropriate internal communication systems;
+(ii) knowledge of escape routes from machinery spaces;
+(iii) knowledge of engine room alarm systems and the ability to distinguish between the various alarms with special reference to the CO2 alarm;
+(iv) knowledge of the positions and use of the fire-fighting equipment in the machinery spaces.
+(b) The composition of an underway watch shall, at all times, be adequate to ensure the safe operation of all machinery affecting the operation of the ship, in either automated or manual mode and be appropriate to the prevailing circumstances and conditions. To achieve this, the following, inter alia, shall be taken into account:
+(i) adequate supervision, at all times, of machinery affecting the safe operation of the ship;
+(ii) condition and reliability of any remotely operated propulsion and steering equipment and their controls, control location and the procedures involved in placing them in a manual mode of operation in the event of breakdown or emergency;
+(iii) location and operation of fixed fire detection, fire extinction or fire containment devices and apparatus;
+(iv) use and operational condition of auxiliary, standby and emergency equipment affecting the safe navigation, mooring or docking operations of the ship;
+(v) steps and procedures necessary to maintain the condition of machinery installations in order to ensure their efficient operation during all modes of ship operation;
+(vi) any other demands on the watch which may arise as a result of special operating circumstances.
+(c) At an unsheltered anchorage the chief engineer officer shall consult with the master whether or not to maintain an underway watch.
+7. Fitness for duty
+The watch system shall be such that the efficiency of the watch is not impaired by fatigue. Duties shall be so organized by the chief engineer officer that the first watch at the commencement of a voyage and the subsequent relieving watches are sufficiently rested and otherwise fit for duty.
+8. Protection of the marine environment
+All engineer officers and engine room ratings shall be aware of the serious effects of operational or accidental pollution of the marine environment and shall take all possible precautions to prevent such pollution, particularly within the framework of relevant international and port regulations.
+Regulation III/2
+Mandatory minimum requirements for certification of chief engineer officers and second engineer officers of ships powered by main propulsion machinery of 3,000 kW propulsion power or more
+1. Every chief engineer officer and second engineer officer of a sea-going ship powered by main propulsion machinery of 3,000 kW propulsion power or more shall hold an appropriate certificate.
+2. Every candidate for certification shall:
+(a) satisfy the Administration as to medical fitness, including eyesight and hearing;
+(b) meet the requirements for certification as an engineer officer in charge of a watch; and
+(i) for certification as second engineer officer, have not less than 12 months' approved sea-going service as assistant engineer officer or engineer officer;
+(ii) for certification as chief engineer officer, have not less than 36 months' approved sea-going service of which not less than 12 months shall be served as an engineer officer in a position of responsibility while qualified to serve as second engineer officer;
+(c) have attended an approved practical fire-fighting course;
+(d) have passed appropriate examination to the satisfaction of the Administration. Such examination shall include the material set out in the Appendix to this Regulation, except that the Administration may vary these examination requirements for officers of ships with limited propulsion power that are engaged on near-coastal voyages, as it considers necessary, bearing in mind the effect on the safety of all ships which may be operating in the same waters.
+3. Training to achieve the necessary theoretical knowledge and practical experience shall take into account relevant international regulations and recommendations.
+4. The level of knowledge required under the different paragraphs of the Appendix may be varied according to whether the certificate is being issued at chief engineer officer or second engineer officer level.
+APPENDIX TO REGULATION III/2
+Minimum knowledge required for certification of chief engineer officers and second engineer officers of ships powered by main propulsion machinery of 3,000 kW propulsion power or more
+1. The syllabus given below is compiled for examination of candidates for certification as chief engineer officer or second engineer officer of ships powered by main propulsion machinery of 3,000 kW propulsion power or more. Bearing in mind that a second engineer officer shall be in a position to assume the responsibilities of a chief engineer officer at any time, examination in these subjects shall be designed to test the candidate's ability to assimilate all available information that affects the safe operation of the ship's machinery.
+2. With respect to paragraph 4(a) below, the Administration may omit knowledge requirements for types of propulsion machinery other than those machinery installations for which the certificate to be awarded shall be valid. A certificate awarded on such a basis shall not be valid for any category of machinery installation which has been omitted until the engineer officer proves to be competent in these items to the satisfaction of the Administration. Any such limitation shall be stated in the certificate.
+3. Every candidate shall possess theoretical knowledge in the following subjects:
+(a) thermodynamics and heat transmission;
+(b) mechanics and hydromechanics;
+(c) operational principles of ships' power installations (diesel, steam and gas turbine) and refrigeration;
+(d) physical and chemical properties of fuels and lubricants;
+(e) technology of materials;
+(f) chemistry and physics of fire and extinguishing agents;
+(g) marine electrotechnology, electronics and electrical equipment;
+(h) fundamentals of automation, instrumentation and control systems;
+(i) naval architecture and ship construction, including damage control.
+4. Every candidate shall possess adequate practical knowledge in at least the following subjects:
+(a) operation and maintenance of:
+(i) marine diesel engines;
+(ii) marine steam propulsion plant;
+(iii) marine gas turbines;
+(b) operation and maintenance of auxiliary machinery, including pumping and piping systems, auxiliary boiler plant and steering gear systems;
+(c) operation, testing and maintenance of electrical and control equipment;
+(d) operation and maintenance of cargo handling equipment and deck machinery;
+(e) detection of machinery malfunction, location of faults and action to prevent damage;
+(f) organization of safe maintenance and repair procedures;
+(g) methods of, and aids for, fire prevention, detection and extinction;
+(h) methods and aids to prevent pollution of the environment by ships;
+(i) regulations to be observed to prevent pollution of the marine environment;
+(j) effects of marine pollution on the environment;
+(k) first aid related to injuries which might be expected in machinery spaces and use of first aid equipment;
+(l) functions and use of life-saving appliances;
+(m) methods of damage control;
+(n) safe working practices.
+5. Every candidate shall possess a knowledge of international maritime law embodied in international agreements and conventions as they affect the specific obligations and responsibilities of the engine department, particularly those concerning safety and the protection of the marine environment. The extent of knowledge of national maritime legislation is left to the discretion of the Administration but shall include national arrangements for implementing international agreements and conventions.
+6. Every candidate shall possess a knowledge of personnel management, organization and training aboard ships.
+Regulation III/3
+Mandatory minimum requirements for certification of chief engineer officers and second engineer officers of ships powered by main propulsion machinery between 750 kW and 3,000 kW propulsion power
+1. Every chief engineer officer and second engineer officer of a sea-going ship powered by main propulsion machinery of between 750 kW and 3,000 kW propulsion power shall hold an appropriate certificate.
+2. Every candidate for certification shall:
+(a) satisfy the Administration as to medical fitness, including eyesight and hearing;
+(b) meet the requirements for certification as an engineer officer in charge of a watch; and
+(i) for certification as second engineer officer, have not less than 12 months' approved sea-going service as assistant engineer officer or engineer officer;
+(ii) for certification as chief engineer officer, have not less than 24 months' approved sea-going service of which not less than 12 months shall be served while qualified to serve as second engineer officer;
+(c) have attended an approved practical fire-fighting course;
+(d) have passed appropriate examination to the satisfaction of the Administration. Such examination shall include the material set out in the Appendix to this Regulation, except that the Administration may vary the requirements for examination and sea-going service for officers of ships engaged on near-coastal voyages, bearing in mind the types of automatic and remotely operated controls with which such ships are fitted and the effect on the safety of all ships which may be operating in the same waters.
+3. Training to achieve the necessary theoretical knowledge and practical experience shall take into account relevant international regulations and recommendations.
+4. The level of knowledge required under the different paragraphs of the Appendix may be varied according to whether the certificate is being issued at chief engineer officer or second engineer officer level.
+5. Every engineer officer who is qualified to serve as second engineer officer of ships powered by main propulsion machinery of 3,000 kW propulsion power or more, may serve as chief engineer officer of ships powered by main propulsion machinery of less than 3,000 kW propulsion power provided that not less than 12 months' approved sea-going service shall have been served as an engineer officer in a position of responsibility.
+APPENDIX TO REGULATION III/3
+Minimum knowledge required for certification of chief engineer officers and second engineer officers of ships powered by main propulsion machinery of between 750 kW and 3,000 kW propulsion power
+1. The syllabus given below is compiled for examination of candidates for certification as chief engineer officer or second engineer officer of ships powered by main propulsion machinery of between 750 kW and 3,000 kW propulsion power. Bearing in mind that a second engineer officer shall be in a position to assume the responsibilities of the chief engineer officer at any time, examination in these subjects shall be designed to test the candidate's ability to assimilate all available information that affects the safe operation of the ship's machinery.
+2. With respect to paragraphs 3(d) and 4(a) below, the Administration may omit knowledge requirements for types of propulsion machinery other than those machinery installations for which the certificate to be awarded shall be valid. A certificate awarded on such a basis shall not be valid for any category of machinery installation which has been omitted until the engineer officer proves to be competent in these items to the satisfaction of the Administration. Any such limitation shall be stated in the certificate.
+3. Every candidate shall possess sufficient elementary theoretical knowledge to understand the basic principles involved in the following subjects:
+(a) combustion processes;
+(b) heat transmission;
+(c) mechanics and hydromechanics;
+(d) (i) marine diesel engines;
+(ii) marine steam propulsion plant;
+(iii) marine gas turbines;
+(e) steering gear systems;
+(f) properties of fuels and lubricants;
+(g) properties of materials;
+(h) fire-extinguishing agents;
+(i) marine electrical equipment;
+(j) automation, instrumentation and control systems;
+(k) ship construction, including damage control;
+(l) auxiliary systems.
+4. Every candidate shall possess adequate practical knowledge, in at least the following subjects:
+(a) operation and maintenance of:
+(i) marine diesel engines;
+(ii) marine steam propulsion plant;
+(iii) marine gas turbines;
+(b) operation and maintenance of auxiliary machinery systems, including steering gear systems;
+(c) operation, testing and maintenance of electrical and control equipment;
+(d) operation and maintenance of cargo handling equipment and deck machinery;
+(e) detection of machinery malfunction, location of faults and action to prevent damage;
+(f) organization of safe maintenance and repair procedures;
+(g) methods of, and aids for, fire prevention, detection and extinction;
+(h) regulations to be observed regarding pollution of the marine environment and methods and aids to prevent such pollution;
+(i) first aid related to injuries which might be expected in machinery spaces and use of first aid equipment;
+(j) functions and use of life-saving appliances;
+(k) methods of damage control with specific reference to action to be taken in the event of flooding of sea water into the engine room;
+(l) safe working practices.
+5. Every candidate shall possess a knowledge of international maritime law as embodied in international agreements and conventions as they affect the specific obligations and responsibilities of the engine department, particularly those concerning safety and the protection of the marine environment. The extent of knowledge of national maritime legislation is left to the discretion of the Administration but shall include national arrangements for implementing international agreements and conventions.
+6. Every candidate shall possess a knowledge of personnel management, organization and training aboard ships.
+Regulation III/4
+Mandatory minimum requirements for certification of engineer officers in charge of a watch in a traditionally manned engine room or designated duty engineer officers in a periodically unmanned engine room
+1. Every engineer officer in charge of a watch in a traditionally manned engine room or the designated duty engineer officer in a periodically unmanned engine room on a sea-going ship powered by main propulsion machinery of 750 kW propulsion power or more shall hold an appropriate certificate.
+2. Every candidate for certification shall:
+(a) be not less than 18 years of age;
+(b) satisfy the Administration as to medical fitness, including eyesight and hearing;
+(c) have not less than a total of three years approved education or training, relevant to the duties of a marine engineer;
+(d) have completed an adequate period of sea-going service which may have been included within the period of three years stated in sub-paragraph (c);
+(e) satisfy the Administration that he has the theoretical and practical knowledge of the operation and maintenance of marine machinery appropriate to the duties of an engineer officer;
+(f) have attended an approved practical fire-fighting course;
+(g) have knowledge of safe working practices.
+The Administration may vary the requirement of sub-paragraphs (c) and (d) for engineer officers of ships powered by main propulsion machinery of less than 3,000 kW propulsion power engaged on near-coastal voyages, bearing in mind the effect on the safety of all ships which may be operating in the same waters.
+3. Every candidate shall have knowledge of the operation and maintenance of main and auxiliary machinery, which shall include knowledge of relevant regulatory requirements and also knowledge of at least the following specific items:
+(a) Watchkeeping routines
+(i) duties associated with taking over and accepting a watch;
+(ii) routine duties undertaken during a watch;
+(iii) maintenance of the machinery space log book and the significance of readings taken;
+(iv) duties associated with handing over a watch.
+(b) Main and auxiliary machinery
+(i) assisting in the preparation of main machinery and preparation of auxiliary machinery for operation;
+(ii) operation of steam boilers, including combustion system;
+(iii) methods of checking water level in steam boilers and action necessary if water level is abnormal;
+(iv) location of common faults of machinery and plant in engine and boiler rooms and action necessary to prevent damage.
+(c) Pumping systems
+(i) routing pumping operations;
+(ii) operation of bilge, ballast and cargo pumping systems.
+(d) Generating plant
+Preparing, starting, coupling and changing over alternators or generators.
+(e) Safety and emergency procedures
+(i) safety precautions to be observed during a watch and immediate actions to be taken in the event of a fire or accident, with particular reference to oil systems;
+(ii) safe isolation of electrical and other types of plant and equipment required before personnel are permitted to work on such plant and equipment.
+(f) Anti-pollution procedures
+The precautions to be observed to prevent pollution of the environment by oil, cargo residue, sewage, smoke or other pollutants. The use of pollution prevention equipment, including oily water separators, sludge tank systems and sewage disposal plant.
+(g) First aid
+Basic first aid related to injuries which might be expected in machinery spaces.
+4. Where steam boilers do not form part of a ship's machinery, the Administration may omit the knowledge requirements of paragraphs 3(b)(ii)and (iii). A certificate awarded on such a basis shall not be valid for service on ships in which steam boilers form part of a ship's machinery until the engineer officer proves to be competent in the omitted items to the satisfaction of the Administration. Any such limitations shall be stated in the certificate.
+5. The training to achieve the necessary theoretical knowledge and practical experience shall take into account relevant international regulations and recommendations.
+Regulation III/5
+Mandatory minimum requirements to ensure the continued proficiency and up-dating of knowledge for engineer officers
+1. Every engineer officer holding a certificate who is serving at sea or intends to return to sea after a period ashore shall, in order to continue to qualify for sea-going service in the rank appropriate to his certificate, be required at regular intervals not exceeding five years to satisfy the Administration as to:
+(a) medical fitness, including eyesight and hearing; and
+(b) professional competence:
+(i) by approved service as an engineer officer of at least one year during the preceding five years; or
+(ii) by virtue of having performed functions relating to the duties appropriate to the grade of certificate held which is considered to be at least equivalent to the sea-going service required in paragraph 1(b)(i); or
+(iii) by one of the following:
+- passing an approved test; or
+- successfully completing an approved course or courses; or
+- having completed approved sea-going service as an engineer officer for a period of not less than three months in a supernumerary capacity, or in a lower rank than that for which he holds the certificate, immediately prior to taking up the rank to which he is entitled by virtue of his certificate.
+2. The course or courses referred to in paragraph 1(b)(iii) shall include, in particular, changes in the relevant international regulations and recommendations concerning the safety of life at sea and the protection of the marine environment.
+3. The Administration shall ensure that the texts of recent changes in international regulations concerning the safety of life at sea and the protection of the marine environment are made available to ships under its jurisdiction.
+Regulation III/6
+Mandatory minimum requirements for ratings forming part of an engine room watch
+1. The minimum requirements for a rating if forming part of an engine room watch shall be as set out in paragraph 2. These requirements are not for:
+(a) a rating nominated as the assistant to the engineer officer in charge of the watch;[8]
+(b) a rating who is under training;
+(c) a rating whose duties while on watch are of an unskilled nature.
+2. Every rating forming part of an engine room watch shall:
+(a) be not less than 16 years of age;
+(b) satisfy the Administration as to medical fitness, including eyesight and hearing;
+(c) satisfy the Administration as to:
+(i) experience or training regarding fire-fighting, basic first aid, personal survival techniques, health hazards and personal safety;
+(ii) ability to understand orders, and make himself understood in matters relevant to his duties;
+(d) satisfy the Administration that he has:
+(i) shore experience relevant to his sea-going duties supplemented by an adequate period of sea-going service as required by the Administration; or
+(ii) undergone special training either pre-sea or on board ship, including an adequate period of sea-going service as required by the Administration; or
+(iii) approved sea-going service of at least six months.
+3. Every such rating shall have knowledge of:
+(a) engine room watchkeeping procedures and the ability to carry out a watch routine appropriate to his duties;
+(b) safe working practices as related to engine room operations;
+(c) terms used in machinery spaces and names of machinery and equipment relative to his duties;
+(d) basic environmental protection procedures.
+4. Every rating required to keep a boiler watch shall have knowledge of the safe operation of boilers, and shall have the ability to maintain the correct water levels and steam pressures.
+5. Every rating forming part of an engine room watch shall be familiar with his watchkeeping duties in the machinery spaces on the ship on which he is to serve. In particular, with respect to that ship the rating shall have:
+(a) knowledge of the use of appropriate internal communication systems;
+(b) knowledge of escape routes from machinery spaces;
+(c) knowledge of engine room alarm systems and ability to distinguish between the various alarms with special reference to fire extinguishing gas alarms;
+(d) familiarity with the location and use of fire-fighting equipment in the machinery spaces.
+6. A seafarer may be considered by the Administration to have met the requirements of this Regulation if he has served in a relevant capacity in the engine department for a period of not less than one year within the last five years preceding the entry into force of the Convention for that Administration.
+CHAPTER IV
+RADIO DEPARTMENT
+RADIO WATCHKEEPING AND MAINTENANCE
+Explanatory note:
+Mandatory provisions relating to radio watchkeeping are set forth in the Radio Regulations, and the safety radio watchkeeping and maintenance provisions are set forth in the International Convention for the Safety of Life at Sea and in the Radio Regulations, as these two sets of Regulations may be amended and are in force. Attention is also directed to the relevant resolutions adopted by the International Conference on Training and Certification of Seafarers, 1978.
+Regulation IV/1
+Mandatory minimum requirements for certification of radio officers
+1. Every radio officer in charge of, or performing, radio duties in a ship shall hold an appropriate certificate or certificates issued or recognized by the Administration under the provisions of the Radio Regulations, and have adequate
+qualifying service.
+2. In addition, a radio officer shall:
+(a) be not less than 18 years of age;
+(b) satisfy the Administration as to medical fitness, particularly regarding eyesight, hearing and speech;
+(c) meet the requirements of the Appendix to this Regulation.
+3. Every candidate for a certificate shall be required to pass an examination or examinations to the satisfaction of the Administration concerned.
+4. The level of knowledge required for certification shall be sufficient for the radio officer to carry out his radio duties safely and efficiently. In determining the appropriate level of knowledge and the training necessary to achieve that knowledge and practical ability, the Administration shall take into account the requirements of the Radio Regulations and the Appendix to this Regulation. Administrations shall also take into account the relevant resolutions adopted by the International Conference on Training and Certification of Seafarers, 1978, and relevant IMCO recommendations.
+APPENDIX TO REGULATION IV/1
+Minimum additional knowledge and training requirements for radio officers
+In addition to satisfying the requirements for the issue of a certificate in compliance with the Radio Regulations, radio officers shall have knowledge and training, including practical training, in the following:
+(a) the provision of radio services in emergencies, including:
+(i) abandon ship;
+(ii) fire aboard ship;
+(iii) partial or full breakdown of the radio station;
+(b) the operation of lifeboats, liferafts, buoyant apparatus and their equipment, with special reference to portable and fixed lifeboat radio apparatus and emergency position-indicating radio beacons;
+(c) survival at sea;
+(d) first aid;
+(e) fire prevention and fire-fighting with particular reference to the radio installation;
+(f) preventive measures for the safety of ship and personnel in connexion with hazards related to radio equipment, including electrical, radiation, chemical and mechanical hazards;
+(g) the use of the IMCO Merchant Ship Search and Rescue Manual (MERSAR) with particular reference to radiocommunications;
+(h) ship position-reporting systems and procedures;
+(i) the use of the International Code of Signals and the IMCO Standard Marine Navigational Vocabulary;
+(j) radio medical systems and procedures.
+Regulation IV/2
+Mandatory minimum requirements to ensure the continued proficiency and up-dating of knowledge for radio officers
+1. Every radio officer holding a certificate or certificates issued or recognized by the Administration shall, in order to continue to qualify for sea-going service, be required to satisfy the Administration as to the following:
+(a) medical fitness, particularly regarding eyesight, hearing and speech, at regular intervals not exceeding five years; and
+(b) professional competence:
+(i) by approved radiocommunications service as a radio officer with no single interruption of service exceeding five years;
+(ii) following such interruption, by passing an approved test or successfully completing an approved training course or courses at sea or ashore, which shall include elements that are of direct relevance to the safety of life at sea and modern radiocommunication equipment and may also include radionavigation equipment.
+2. When new modes, equipment or practices are being introduced aboard ships entitled to fly its flag, the Administration may require radio officers to pass an approved test or successfully complete an appropriate training course or courses, at sea or ashore, with particular reference to safety duties.
+3. Every radio officer shall, to continue to qualify for sea-going service on board particular types of ships for which special training requirements have been internationally agreed upon, successfully complete approved relevant training or examinations which shall take into account relevant international regulations and recommendations.
+4. The Administration shall ensure that the texts of recent changes in international regulations relating to radiocommunications and relevant to the safety of life at sea, are available to ships under its jurisdiction.
+5. Administrations are encouraged, in consultation with those concerned, to formulate or promote the formulation of a structure of refresher and up-dating courses, either voluntary or mandatory, as appropriate, at sea or ashore, for radio officers who are serving at sea and especially for re-entrants to sea-going service. The course or courses shall include elements that are of direct relevance to radio duties and include changes in marine radiocommunication technology and relevant international regulations and recommendations[9] concerning the safety of life at sea.
+Regulation IV/3
+Mandatory minimum requirements for certification of radiotelephone operators
+1. Every radiotelephone operator in charge of, or performing, radio duties in a ship shall hold an appropriate certificate or certificates issued or recognized by the Administration under the provisions of the Radio Regulations.
+2. In addition, such radiotelephone operator of a ship which is required to have a radiotelephone station by the International Convention for the Safety of Life at Sea, shall:
+(a) be not less than 18 years of age;
+(b) satisfy the Administration as to medical fitness, particularly regarding eyesight, hearing and speech;
+(c) meet the requirements of the Appendix to this Regulation.
+3. Every candidate for a certificate shall be required to pass an examination or examinations to the satisfaction of the Administration concerned.
+4. The level of knowledge required for certification shall be sufficient for the radiotelephone operator to carry out his radio duties safely and efficiently. In determining the appropriate level of knowledge and the training necessary to achieve that knowledge and practical ability, the Administration shall take into account the requirements of the Radio Regulations and the Appendix to this Regulation. Administrations shall also take into account the relevant resolutions adopted by the International Conference on Training and Certification of Seafarers, 1978, and relevant IMCO recommendations.
+APPENDIX TO REGULATION IV/3
+Minimum additional knowledge and training requirements for radiotelephone operators
+In addition to satisfying the requirements for the issue of a certificate in compliance with the Radio Regulations, radiotelephone operators shall have knowledge and training, including practical training, in the following:
+(a) the provision of radio services in emergencies, including:
+(i) abandon ship;
+(ii) fire aboard ship;
+(iii) partial or full breakdown of the radio station;
+(b) the operation of lifeboats, liferafts, buoyant apparatus and their equipment, with special reference to portable and fixed lifeboat radio apparatus and emergency position-indicating radio beacons;
+(c) survival at sea;
+(d) first aid;
+(e) fire prevention and fire-fighting with particular reference to the radio installation;
+(f) preventive measures for the safety of ship and personnel in connexion with hazards related to radio equipment, including electrical, radiation, chemical and mechanical hazards;
+(g) the use of the IMCO Merchant Ship Search and Rescue Manual (MERSAR) with particular reference to radiocommunications;
+(h) ship position-reporting systems and procedures;
+(i) the use of the International Code of Signals and the IMCO Standard Marine Navigational Vocabulary;
+(j) radio medical systems and procedures.
+CHAPTER V
+SPECIAL REQUIREMENTS FOR TANKERS
+Regulation V/1
+Mandatory minimum requirements for the training and qualifications of masters, officers and ratings of oil tankers
+1. Officers and ratings who are to have specific duties, and responsibilities related to those duties, in connexion with cargo and cargo equipment on oil tankers and who have not served on board an oil tanker as part of the regular complement, before carrying out such duties shall have completed an appropriate shore-based fire-fighting course; and
+(a) an appropriate period of supervised shipboard service in order to acquire adequate knowledge of safe operational practices; or
+(b) an approved oil tanker familiarization course which includes basic safety and pollution prevention precautions and procedures, layouts of different types of oil tankers, types of cargo, their hazards and their handling equipment, general operational sequence and oil tanker terminology.
+2. Masters, chief engineer officers, chief mates, second engineer officers and, if other than the foregoing, any person with the immediate responsibility for loading, discharging and care in transit or handling of cargo, in addition to the provisions of paragraph 1, shall have:
+(a) relevant experience appropriate to their duties on oil tankers; and
+(b) completed a specialized training programme appropriate to their duties, including oil tanker safety, fire safety measures and systems, pollution prevention and control, operational practice and obligations under applicable laws and regulations.
+3. Within two years after the entry into force of the Convention for a Party, a seafarer may be considered to have met the requirements of paragraph 2(b) if he has served in a relevant capacity on board oil tankers for a period of not less than one year within the preceding five years.
+Regulation V/2
+Mandatory minimum requirements for the training and qualifications of masters, officers and ratings of chemical tankers
+1. Officers and ratings who are to have specific duties, and responsibilities related to those duties, in connexion with cargo and cargo equipment on chemical tankers and who have not served on board a chemical tanker as part of the regular complement, before carrying out such duties shall have completed an appropriate shore-based fire-fighting course; and
+(a) an appropriate period of supervised shipboard service in order to acquire adequate knowledge of safe operational practices; or
+(b) an approved chemical tanker familiarization course which includes basic safety and pollution prevention precautions and procedures, layouts of different types of chemical tankers, types of cargo, their hazards and their handling equipment, general operational sequence and chemical tanker terminology.
+2. Masters, chief engineer officers, chief mates, second engineer officers and, if other than the foregoing, any person with the immediate responsibility for loading, discharging and care in transit or handling of cargo, in addition to the provisions of paragraph 1, shall have:
+(a) relevant experience appropriate to their duties on chemical tankers; and
+(b) completed a specialized training programme appropriate to their duties, including chemical tanker safety, fire safety measures and systems, pollution prevention and control, operational practice and obligations under applicable laws and regulations.
+3. Within two years after the entry into force of the Convention for a Party, a seafarer may be considered to have met the requirements of paragraph 2(b) if he has served in a relevant capacity on board chemical tankers for a period of not less than one year within the preceding five years.
+Regulation V/3
+Mandatory minimum requirements for the training and qualifications of masters, officers and ratings of liquefied gas tankers
+1. Officers and ratings who are to have specific duties, and responsibilities related to those duties, in connexion with cargo and cargo equipment on liquefied gas tankers and who have not served on board a liquefied gas tanker as part of the regular complement, before carrying out such duties shall have completed an appropriate shore-based fire-fighting course; and
+(a) an appropriate period of supervised shipboard service in order to acquire adequate knowledge of safe operational practices; or
+(b) an approved liquefied gas tanker familiarization course which includes basic safety and pollution prevention precautions and procedures, layouts of different types of liquefied gas tankers, types of cargo, their hazards and their handling equipment, general operational sequence and liquefied gas tanker terminology.
+2. Masters, chief engineer officers, chief mates, second engineer officers and, if other than the foregoing, any person with the immediate responsibility for loading, discharging and care in transit or handling of cargo, in addition to the provisions of paragraph 1, shall have:
+(a) relevant experience appropriate to their duties on liquefied gas tankers; and
+(b) completed a specialized training programme appropriate to their duties including liquefied gas tanker safety, fire safety measures and systems, pollution prevention and control, operational practice and obligations under applicable laws and regulations.
+3. Within two years after the entry into force of the Convention for a Party, a seafarer may be considered to have met the requirements of paragraph 2(b) if he has served in a relevant capacity on board liquefied gas tankers for a period of not less than one year within the preceding five years.
+CHAPTER VI
+PROFICIENCY IN SURVIVAL CRAFT
+Regulation VI/1
+Mandatory minimum requirements for the issue of certificates of proficiency in survival craft
+Every seafarer to be issued with a certificate of proficiency in survival craft shall:
+(a) be not less than 171/2 years of age;
+(b) satisfy the Administration as to medical fitness;
+(c) have approved sea-going service of not less than 12 months or have attended an approved training course and have approved sea-going service of not less than nine months;
+(d) satisfy the Administration by examination or by continuous assessment during an approved training course that he possesses knowledge of the contents of the Appendix to this Regulation;
+(e) demonstrate to the satisfaction of the Administration by examination or by continuous assessment during an approved training course that he possesses the ability to:
+(i) don a life-jacket correctly; safely jump from a height into the water; board a survival craft from the water while wearing a life-jacket;
+(ii) right an inverted liferaft while wearing a life-jacket;
+(iii) interpret the marking on survival craft with respect to the number of persons they are permitted to carry;
+(iv) make the correct commands required for launching and boarding the survival craft, clearing the ship and handling and disembarking from the survival craft;
+(v) prepare and launch survival craft safely into the water and clear the ship's side quickly;
+(vi) deal with injured persons both during and after abandonment;
+(vii) row and steer, erect a mast, set the sails, manage a boat under sail and steer a boat by compass;
+(viii) use signalling equipment, including pyrotechnics;
+(ix) use portable radio equipment for survival craft.
+APPENDIX TO REGULATION VI/1
+Minimum knowledge required for the issue of certificates of proficiency in survival craft
+1. Types of emergency situations which may occur, such as collisions, fire, foundering.
+2. Principles of survival including:
+(a) value of training and drills;
+(b) need to be ready for any emergency;
+(c) actions to be taken when called to survival craft stations;
+(d) actions to be taken when required to abandon ship;
+(e) actions to be taken when in the water;
+(f) actions to be taken when aboard a survival craft;
+(g) main dangers to survivors.
+3. Special duties assigned to each crew member as indicated in the muster list, including the differences between the signals calling all crew to survival craft and to fire stations.
+4. Types of life-saving appliances normally carried on board ships.
+5. Construction and outfit of survival craft and individual items of their equipment.
+6. Particular characteristics and facilities of survival craft.
+7. Various types of devices used for launching survival craft.
+8. Methods of launching survival craft into a rough sea.
+9. Action to be taken after leaving the ship.
+10. Handling survival craft in rough weather.
+11. Use of painter, sea anchor and all other equipment.
+12. Apportionment of food and water in survival craft.
+13. Methods of helicopter rescue.
+14. Use of the first aid kit and resuscitation techniques.
+15. Radio devices carried in survival craft, including emergency position-indicating radio beacons.
+16. Effects of hypothermia and its prevention; use of protective covers and protective garments.
+17. Methods of starting and operating a survival craft engine and its accessories together with the use of fire extinguisher provided.
+18. Use of emergency boats and motor lifeboats for marshalling liferafts and rescue of survivors and persons in the sea.
+19. Beaching a survival craft.
+[1] Signed for Australia 29 November 1979.
+[2] Instrument of ratification deposited for Australia 7 November 1983, with following statement:
+"Australia has a federal constitutional system in which legislative, executive and judicial powers are shared or distributed between the Commonwealth and the constituent States.
+The implementation of the Treaty throughout Australia will be effected by the Commonwealth, State and Territory authorities having regard to their respective constitutional powers and arrengements concerning their exercise."
+[3] The Convention entered into force 28 April 1984.
+[4] It is assumed that the power so appearing on the Certificate of Registry or other official document is the total maximum continuous rated output power of all the ship's main propulsion machinery. [Footnote appeared in original text.]
+[5] Squat: the decrease in clearance beneath a ship which occurs when the ship moves through the water and is caused both by bodily sinkage and by change of trim. The effect is accentuated in shallow water and is reduced with a reduction in ship's speed. [Footnote appeared in original text.]
+[6] Masters and chief mates serving on small ships shall be fully acquainted with the basic stability requirements of such ships. [Footnote appeared in original text.]
+[7] Reference is made to ILO Certification of Able Seamen Convention, 1946 or any successive convention. [Footnote appeared in original text.]
+[8] Reference is made to Resolution 9 - "Recommendation on Minimum Requirements for a Rating nominated as the Assistant to the Engineer Officer in Charge of the Watch" adopted by the International Conference on Training and Certification of Seafarers, 1978. [Footnote appeared in original text.]
+[9] Including any IMCO recommendations concerning the development of the maritime distress system. [Footnote appeared in original text.] 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+

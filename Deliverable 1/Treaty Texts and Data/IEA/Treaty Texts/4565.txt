@@ -1,0 +1,38 @@
+
+ Amendments to the List of Substances Annexed to the Protocol Relating To Intervention On The High Seas In Cases Of Pollution By Substances Other Than Oil   
+     Filename: 2007-Amendment-1969-InterventionHighSeasCasualties.EN.txt 
+ Source: http://www.imo.org/includes/blastData.asp/doc_id=8433/165(56).pdf     
+    ﻿Amendments to the List of Substances Annexed to the Protocol Relating to Intervention on the High Seas in Cases of Pollution by Substances other than Oil, 1973 [RESOLUTION MEPC.165(56)]
+Source: http://www.imo.org/includes/blastData.asp/doc_id=8433/165(56).pdf, downloaded 20091223
+THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
+NOTING resolution 26 of the International Conference on Marine Pollution, 1973 which requested the appropriate body, designated by the Organization, to establish the list of substances to be annexed to the Protocol relating to Intervention on the High Seas in Cases of Pollution by Substances Other Than Oil, 1973 (1973 Intervention Protocol),
+NOTING FURTHER resolution A.296(VIII) by which the Assembly designated the Marine Environment Protection Committee (the Committee) as the appropriate body referred to in Articles I and III of the 1973 Intervention Protocol,
+RECALLING resolution MEPC.100(48) by which the Committee adopted on 11 October 2002 a revised list of substances annexed to the 1973 Intervention Protocol,
+RECOGNIZING the need to keep the list of substances current with the revised MARPOL Annex II adopted by resolution MEPC.118(52),
+HAVING CONSIDERED the proposed amendments to the Annex to the 1973 Intervention Protocol, which were approved by the fifty-fifth session of the Committee and circulated in accordance with paragraph 2 of Article III of the 1973 Intervention Protocol,
+1. ADOPTS, by the required two-thirds majority of the Parties to the 1973 Intervention Protocol present and voting, the amended list of substances annexed to the Protocol, the text of which is set out at Annex to the present resolution;
+2. REQUESTS the Secretary-General, in accordance with paragraph 5 of Article III of the 1973 Intervention Protocol, to communicate the amendments to all Parties to the Protocol, for acceptance, and to inform them that the amendments shall be deemed to have been accepted at the end of the period of six months after they have been communicated, unless within that period an objection to these amendments has been communicated to the Organization by not less than one third of the Parties to the Protocol;
+3. INVITES the Parties to note that, in accordance with paragraph 7 of Article III of the 1973 Intervention Protocol, the amendments shall enter into force three months after they have been deemed to have been accepted in accordance with paragraph 2 above; and
+4. REQUESTS FURTHER the Secretary-General to annex the amended list to the 1973 Intervention Protocol in accordance with paragraph 2(a) of Article I of the Protocol, once the amendments have entered into force, to replace the existing list of substances.
+ANNEX
+AMENDMENTS TO THE LIST OF SUBSTANCES ANNEXED TO THE PROTOCOL RELATING TO INTERVENTION ON THE HIGH SEAS IN CASES OF POLLUTION BY SUBSTANCES OTHER THAN OIL, 1973
+(RESOLUTION MEPC.100(48))
+In the List of Substances referred to in paragraph 2(a) of Article 1 of the Protocol relating to Intervention on the High Seas in Cases of Pollution by Substances other than Oil, 1973, set out in the Annex to resolution MEPC.100(48), paragraph 2 is replaced by the following:
+"2 Noxious Liquid Substances, as defined in Annex II to MARPOL 73/78, as amended, when carried in bulk, and identified:
+.1 as Pollution Category X or Y, in:
+.1 Chapter 17 of the International Bulk Chemical Code (IBC Code); or
+.2 Lists 1 to 4 of MEPC.2/Circulars, issued annually in December; or
+.2 in the composite list of GESAMP Hazard Profiles, issued periodically as BLG circulars, with either:
+.1 a ‘2' in column B1 and ‘2' in column E3; or
+.2 ‘3' in column E3;" 
+  
+ 
+  
+ Citations required for use of IEADB data:
+Data from Ronald B. Mitchell. 2002-2022. International Environmental Agreements Database Project (Version 2020.1).Available at: http://iea.uoregon.edu/ Date accessed: 03 January 2022
+Data described in: Ronald B. Mitchell, Liliana B. Andonova, Mark Axelrod, Jörg Balsiger, Thomas Bernauer, Jessica F. Green, James Hollway, Rakhyun E. Kim and Jean-Frédéric Morin. 2020. What We Know (and Could Know) About International Environmental Agreements. Global Environmental Politics 20:1 (February), 103-121. https://doi.org/10.1162/glep_a_00544  
+Version Release Notes  
+ Developed with support from:  National Science FoundationUniversity of Oregon Envl Studies ProgramUniversity of Oregon Summer Research AwardAm. Phil. Society 
+ Admin Login 
+ Login   
+
